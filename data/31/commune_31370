@@ -1,0 +1,75 @@
+  {
+    "recordid" : "720d94b624dac57d8073af508474d046ecdcc2cf",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 479,
+      "insee_com" : "51522",
+      "z_moyen" : 125,
+      "code_dept" : "51",
+      "nom_comm" : "SAPIGNICOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8335,
+      "y_centroid" : 68401,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.83905659745387,
+              48.64583408947518
+            ],
+            [
+              4.817883587299707,
+              48.63825044207032
+            ],
+            [
+              4.799366694695339,
+              48.64220245278631
+            ],
+            [
+              4.790420805478723,
+              48.64897714493559
+            ],
+            [
+              4.772620918704695,
+              48.65181645748554
+            ],
+            [
+              4.807550320193623,
+              48.65429675283588
+            ],
+            [
+              4.841961389732738,
+              48.64966704551767
+            ],
+            [
+              4.83905659745387,
+              48.64583408947518
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68404,
+      "code_cant" : "28",
+      "x_centroid" : 8334,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 2523,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.64739462563322,
+        4.81229033603147
+      ],
+      "code_comm" : "522",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.81229033603147,
+        48.64739462563322
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f4d174b92a27d81e328548e63b87722ca85c0f21",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 459,
+      "insee_com" : "30271",
+      "z_moyen" : 167,
+      "code_dept" : "30",
+      "nom_comm" : "SAINT-JULIEN-DE-CASSAGNAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7957,
+      "y_centroid" : 63467,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.219045437042809,
+              44.20936714724098
+            ],
+            [
+              4.218919619996419,
+              44.2000064843271
+            ],
+            [
+              4.214917488038373,
+              44.20127512469998
+            ],
+            [
+              4.187558564894381,
+              44.21063950232731
+            ],
+            [
+              4.186534374664806,
+              44.21972456616482
+            ],
+            [
+              4.202654034802491,
+              44.22313198173857
+            ],
+            [
+              4.215906782141453,
+              44.21943020876702
+            ],
+            [
+              4.219045437042809,
+              44.20936714724098
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63465,
+      "code_cant" : "24",
+      "x_centroid" : 7962,
+      "nom_dept" : "GARD",
+      "id_geofla" : 28277,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        44.21292559879895,
+        4.204242572019125
+      ],
+      "code_comm" : "271",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.204242572019125,
+        44.21292559879895
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

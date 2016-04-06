@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9d9b75383383abd04fbe9c4b2ddc6810202ed3fd",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1248,
+      "insee_com" : "30125",
+      "z_moyen" : 79,
+      "code_dept" : "30",
+      "nom_comm" : "GARONS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8150,
+      "y_centroid" : 62980,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.441413294115444,
+              43.7460237501032
+            ],
+            [
+              4.41743068583048,
+              43.77419366717162
+            ],
+            [
+              4.411361185096196,
+              43.78443361799718
+            ],
+            [
+              4.42378541224113,
+              43.79446926554149
+            ],
+            [
+              4.468131076686354,
+              43.7741523386148
+            ],
+            [
+              4.456191080002485,
+              43.7642503626839
+            ],
+            [
+              4.453480546211378,
+              43.75092140064746
+            ],
+            [
+              4.441413294115444,
+              43.7460237501032
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62976,
+      "code_cant" : "45",
+      "x_centroid" : 8158,
+      "nom_dept" : "GARD",
+      "id_geofla" : 26725,
+      "statut" : "Commune simple",
+      "population" : 4.4,
+      "geom_x_y" : [
+        43.77173577313835,
+        4.438485618717672
+      ],
+      "code_comm" : "125",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.438485618717672,
+        43.77173577313835
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

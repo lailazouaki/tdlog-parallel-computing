@@ -1,0 +1,75 @@
+  {
+    "recordid" : "917dc91cb45587790321011b0bfe484e9d6228db",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 112,
+      "insee_com" : "65477",
+      "z_moyen" : 240,
+      "code_dept" : "65",
+      "nom_comm" : "VILLENAVE-PRES-MARSAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4638,
+      "y_centroid" : 62532,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.093898401103196,
+              43.33160053914768
+            ],
+            [
+              0.086092747072368,
+              43.33256971761028
+            ],
+            [
+              0.085821324768691,
+              43.33817967372631
+            ],
+            [
+              0.082366977540828,
+              43.33966188656731
+            ],
+            [
+              0.082145088736963,
+              43.34745172596956
+            ],
+            [
+              0.089692128968424,
+              43.34358613601612
+            ],
+            [
+              0.09347244957171,
+              43.33808853456749
+            ],
+            [
+              0.093898401103196,
+              43.33160053914768
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62526,
+      "code_cant" : "25",
+      "x_centroid" : 4637,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 19986,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.33889294318593,
+        0.08803982230152996
+      ],
+      "code_comm" : "477",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.08803982230152996,
+        43.33889294318593
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

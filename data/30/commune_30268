@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8315c5adee9dbf4aea364f7ac32390a01ee8a63d",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 443,
+      "insee_com" : "66228",
+      "z_moyen" : 76,
+      "code_dept" : "66",
+      "nom_comm" : "VILLENEUVE-LA-RIVIERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6838,
+      "y_centroid" : 61784,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.81208411618907,
+              42.6883386945867
+            ],
+            [
+              2.793086878527882,
+              42.69098296089096
+            ],
+            [
+              2.795171655914263,
+              42.70466232002261
+            ],
+            [
+              2.780710304294456,
+              42.71844407718879
+            ],
+            [
+              2.789081273618052,
+              42.72011527446102
+            ],
+            [
+              2.802752732756675,
+              42.71952093499769
+            ],
+            [
+              2.81208411618907,
+              42.6883386945867
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61771,
+      "code_cant" : "30",
+      "x_centroid" : 6834,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 16946,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        42.70529062716523,
+        2.798736863079926
+      ],
+      "code_comm" : "228",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.798736863079926,
+        42.70529062716523
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

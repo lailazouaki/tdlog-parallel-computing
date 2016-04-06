@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4d960cc5c6c86ec181d851964295a89b6d616aca",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 388,
+      "insee_com" : "17371",
+      "z_moyen" : 45,
+      "code_dept" : "17",
+      "nom_comm" : "SAINT-MAURICE-DE-TAVERNOLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4341,
+      "y_centroid" : 64928,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.403866775682977,
+              45.47023048451726
+            ],
+            [
+              -0.416095499103298,
+              45.48493755741855
+            ],
+            [
+              -0.408808732761659,
+              45.49397397310243
+            ],
+            [
+              -0.400568837833789,
+              45.49314244007738
+            ],
+            [
+              -0.38365163341626,
+              45.48618215885113
+            ],
+            [
+              -0.387171588631409,
+              45.48045186573957
+            ],
+            [
+              -0.403866775682977,
+              45.47023048451726
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64924,
+      "code_cant" : "11",
+      "x_centroid" : 4344,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 21434,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.48342949486042,
+        -0.4009087843672108
+      ],
+      "code_comm" : "371",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4009087843672108,
+        45.48342949486042
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

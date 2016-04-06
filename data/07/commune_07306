@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e969b09a32d999ff3e6159cb64b21f947cc89c70",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 400,
+      "insee_com" : "80603",
+      "z_moyen" : 68,
+      "code_dept" : "80",
+      "nom_comm" : "OCHANCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6008,
+      "y_centroid" : 70011,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.611927249879965,
+              50.08822593609887
+            ],
+            [
+              1.603682683439208,
+              50.09256074433352
+            ],
+            [
+              1.594115944915962,
+              50.10475735969258
+            ],
+            [
+              1.606197083135196,
+              50.11134435976926
+            ],
+            [
+              1.625982314193776,
+              50.11056137370672
+            ],
+            [
+              1.623883114087729,
+              50.09216014265776
+            ],
+            [
+              1.611927249879965,
+              50.08822593609887
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70014,
+      "code_cant" : "46",
+      "x_centroid" : 6005,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 19398,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.10102162482011,
+        1.612015319611406
+      ],
+      "code_comm" : "603",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.612015319611406,
+        50.10102162482011
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

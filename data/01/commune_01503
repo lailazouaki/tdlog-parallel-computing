@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c23c68079c2e8a14704afe6498a1e7754af315bc",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 471,
+      "insee_com" : "68362",
+      "z_moyen" : 373,
+      "code_dept" : "68",
+      "nom_comm" : "WENTZWILLER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10367,
+      "y_centroid" : 67259,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.46589421892101,
+              47.53603149054126
+            ],
+            [
+              7.453256073461519,
+              47.5533928229719
+            ],
+            [
+              7.459669666052209,
+              47.55428350131373
+            ],
+            [
+              7.483023709794372,
+              47.55960823989391
+            ],
+            [
+              7.493679325352971,
+              47.54457391552204
+            ],
+            [
+              7.46589421892101,
+              47.53603149054126
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67262,
+      "code_cant" : "11",
+      "x_centroid" : 10363,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 28412,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        47.54823194674196,
+        7.473701486102559
+      ],
+      "code_comm" : "362",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.473701486102559,
+        47.54823194674196
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

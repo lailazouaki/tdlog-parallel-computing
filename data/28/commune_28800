@@ -1,0 +1,63 @@
+  {
+    "recordid" : "bb7608d6eb7380ed0d2f21c03ffcd185bf9fe644",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 160,
+      "insee_com" : "39003",
+      "z_moyen" : 270,
+      "code_dept" : "39",
+      "nom_comm" : "ABERGEMENT-LE-PETIT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9051,
+      "y_centroid" : 66486,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.707856604114075,
+              46.90735705834319
+            ],
+            [
+              5.694907478591113,
+              46.89889511275602
+            ],
+            [
+              5.685340500101007,
+              46.90554192968896
+            ],
+            [
+              5.698438096044077,
+              46.91434379602648
+            ],
+            [
+              5.707856604114075,
+              46.90735705834319
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66482,
+      "code_cant" : "23",
+      "x_centroid" : 9052,
+      "nom_dept" : "JURA",
+      "id_geofla" : 25235,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.90656183202398,
+        5.696636023235759
+      ],
+      "code_comm" : "003",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.696636023235759,
+        46.90656183202398
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

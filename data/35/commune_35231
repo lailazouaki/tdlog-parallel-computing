@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3bc13e1a47a8d08b86d8d17c2a6c0e1e98c9fbc",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 381,
+      "insee_com" : "95656",
+      "z_moyen" : 107,
+      "code_dept" : "95",
+      "nom_comm" : "VIENNE-EN-ARTHIES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6063,
+      "y_centroid" : 68859,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.724417646973426,
+              49.05487881944983
+            ],
+            [
+              1.721112848714601,
+              49.05239765888426
+            ],
+            [
+              1.712545448018336,
+              49.05580432342038
+            ],
+            [
+              1.71117183805396,
+              49.07199438037409
+            ],
+            [
+              1.706333529493097,
+              49.07775160084771
+            ],
+            [
+              1.741317395201673,
+              49.07286244177403
+            ],
+            [
+              1.724417646973426,
+              49.05487881944983
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68859,
+      "code_cant" : "16",
+      "x_centroid" : 6066,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 35387,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.06644100631092,
+        1.7222901294637
+      ],
+      "code_comm" : "656",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.7222901294637,
+        49.06644100631092
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

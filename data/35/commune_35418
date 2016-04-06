@@ -1,0 +1,67 @@
+  {
+    "recordid" : "00c765cb00e4a10f4e326dad3649049a448e72e1",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 326,
+      "insee_com" : "30094",
+      "z_moyen" : 220,
+      "code_dept" : "30",
+      "nom_comm" : "CORBES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7764,
+      "y_centroid" : 63310,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.954097467629475,
+              44.06306400354277
+            ],
+            [
+              3.940683732374321,
+              44.07470120433525
+            ],
+            [
+              3.94306081323503,
+              44.08102642722869
+            ],
+            [
+              3.956181579757039,
+              44.08384699622345
+            ],
+            [
+              3.970494317337022,
+              44.07593526660606
+            ],
+            [
+              3.954097467629475,
+              44.06306400354277
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63312,
+      "code_cant" : "29",
+      "x_centroid" : 7764,
+      "nom_dept" : "GARD",
+      "id_geofla" : 36301,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.07471587876593,
+        3.954416066870878
+      ],
+      "code_comm" : "094",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.954416066870878,
+        44.07471587876593
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

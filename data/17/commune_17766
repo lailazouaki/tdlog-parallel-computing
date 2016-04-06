@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f6115b1cc0a1ac71cbefc9d37c9ce1292dad85bb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 684,
+      "insee_com" : "54167",
+      "z_moyen" : 234,
+      "code_dept" : "54",
+      "nom_comm" : "DOMMARTIN-LES-TOUL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9140,
+      "y_centroid" : 68452,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.952092646674134,
+              48.66088153775382
+            ],
+            [
+              5.943290202379437,
+              48.66357458994288
+            ],
+            [
+              5.917836552506245,
+              48.66107734100223
+            ],
+            [
+              5.897067712434042,
+              48.66878477279931
+            ],
+            [
+              5.914808079396538,
+              48.68401345900624
+            ],
+            [
+              5.929604300938895,
+              48.68365071711443
+            ],
+            [
+              5.956576125630267,
+              48.66375870546694
+            ],
+            [
+              5.952092646674134,
+              48.66088153775382
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68450,
+      "code_cant" : "27",
+      "x_centroid" : 9153,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 17579,
+      "statut" : "Commune simple",
+      "population" : 2,
+      "geom_x_y" : [
+        48.67134300617104,
+        5.925262021048415
+      ],
+      "code_comm" : "167",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.925262021048415,
+        48.67134300617104
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

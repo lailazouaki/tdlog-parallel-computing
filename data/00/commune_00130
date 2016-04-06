@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ee056b30b9733fcdbfe979eb4f0331d2946059ce",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 613,
+      "insee_com" : "62661",
+      "z_moyen" : 71,
+      "code_dept" : "62",
+      "nom_comm" : "BOUIN-PLUMOISON",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6281,
+      "y_centroid" : 70314,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.981588439864077,
+              50.36129982475954
+            ],
+            [
+              1.972306350590441,
+              50.36290187339952
+            ],
+            [
+              1.958831878291502,
+              50.3690200246529
+            ],
+            [
+              1.975260504043159,
+              50.3867908995696
+            ],
+            [
+              1.990174675914736,
+              50.39096289982472
+            ],
+            [
+              1.99438955440898,
+              50.38876173283062
+            ],
+            [
+              2.00422157166723,
+              50.38084183245866
+            ],
+            [
+              1.981588439864077,
+              50.36129982475954
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70319,
+      "code_cant" : "26",
+      "x_centroid" : 6274,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 13535,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.37609808857448,
+        1.981717823862297
+      ],
+      "code_comm" : "661",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.981717823862297,
+        50.37609808857448
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e93293f906e9b62dfc6afc381261524fadac5a6b",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 196,
+      "insee_com" : "95303",
+      "z_moyen" : 154,
+      "code_dept" : "95",
+      "nom_comm" : "LE HEAULME",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6270,
+      "y_centroid" : 68968,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.995860194305206,
+              49.15889980308915
+            ],
+            [
+              1.990512655439658,
+              49.1631619371027
+            ],
+            [
+              1.991888849136622,
+              49.1685322829243
+            ],
+            [
+              1.998972650046375,
+              49.17519094745452
+            ],
+            [
+              2.007813394413013,
+              49.17185643961846
+            ],
+            [
+              2.012397486532532,
+              49.16589696194823
+            ],
+            [
+              1.995860194305206,
+              49.15889980308915
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68966,
+      "code_cant" : "17",
+      "x_centroid" : 6270,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 34276,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.16699182438256,
+        2.000401471847222
+      ],
+      "code_comm" : "303",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.000401471847222,
+        49.16699182438256
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

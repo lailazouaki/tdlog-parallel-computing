@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f6c3ae77116b3f76d2c465283f6453a25b7adc04",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 50,
+      "insee_com" : "22038",
+      "z_moyen" : 112,
+      "code_dept" : "22",
+      "nom_comm" : "CHATELAUDREN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 2596,
+      "y_centroid" : 68432,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.969865996731097,
+              48.53832315629072
+            ],
+            [
+              -2.972169548461475,
+              48.53577146964561
+            ],
+            [
+              -2.975754948521384,
+              48.53754864181896
+            ],
+            [
+              -2.972883269716236,
+              48.54309703802296
+            ],
+            [
+              -2.968348237795096,
+              48.54347853133644
+            ],
+            [
+              -2.969865996731097,
+              48.53832315629072
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68435,
+      "code_cant" : "07",
+      "x_centroid" : 2595,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 19855,
+      "statut" : "Chef-lieu canton",
+      "population" : 1,
+      "geom_x_y" : [
+        48.53984775773552,
+        -2.971940764524944
+      ],
+      "code_comm" : "038",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.971940764524944,
+        48.53984775773552
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

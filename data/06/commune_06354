@@ -1,0 +1,75 @@
+  {
+    "recordid" : "da197e084a82fa2f463d9ec0579c367dcd373acc",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 382,
+      "insee_com" : "62436",
+      "z_moyen" : 146,
+      "code_dept" : "62",
+      "nom_comm" : "HERLIN-LE-SEC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6522,
+      "y_centroid" : 70286,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.337554871277585,
+              50.34175382997962
+            ],
+            [
+              2.319232890804128,
+              50.34587390904618
+            ],
+            [
+              2.320247970144222,
+              50.35802703167174
+            ],
+            [
+              2.330524404818301,
+              50.36517588769878
+            ],
+            [
+              2.333913255336452,
+              50.36683719896674
+            ],
+            [
+              2.344521755104282,
+              50.3595050448862
+            ],
+            [
+              2.345437936720883,
+              50.34620424287516
+            ],
+            [
+              2.337554871277585,
+              50.34175382997962
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70287,
+      "code_cant" : "43",
+      "x_centroid" : 6524,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 20104,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.35333821814027,
+        2.33277640011258
+      ],
+      "code_comm" : "436",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.33277640011258,
+        50.35333821814027
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

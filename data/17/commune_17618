@@ -1,0 +1,63 @@
+  {
+    "recordid" : "7ad2e871664709d49b0c76234a51bb0d590a9322",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 242,
+      "insee_com" : "62791",
+      "z_moyen" : 123,
+      "code_dept" : "62",
+      "nom_comm" : "SERICOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6511,
+      "y_centroid" : 70221,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.321469340472503,
+              50.28485822780952
+            ],
+            [
+              2.299593829937774,
+              50.29396626079397
+            ],
+            [
+              2.311615322398069,
+              50.30974696034243
+            ],
+            [
+              2.326735780586141,
+              50.28611723908239
+            ],
+            [
+              2.321469340472503,
+              50.28485822780952
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70221,
+      "code_cant" : "43",
+      "x_centroid" : 6509,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 18761,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.29556292385241,
+        2.313062933090171
+      ],
+      "code_comm" : "791",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.313062933090171,
+        50.29556292385241
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

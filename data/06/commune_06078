@@ -1,0 +1,63 @@
+  {
+    "recordid" : "be9bcde1b7541ca1b08a5476e6de67c803b94a51",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 268,
+      "insee_com" : "14415",
+      "z_moyen" : 130,
+      "code_dept" : "14",
+      "nom_comm" : "LE MESNIL-BENOIST",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4077,
+      "y_centroid" : 68704,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.991318293410723,
+              48.85860567904139
+            ],
+            [
+              -0.998619827337581,
+              48.86571856674856
+            ],
+            [
+              -0.987410492112316,
+              48.87564670409247
+            ],
+            [
+              -0.956371310376653,
+              48.87120276165692
+            ],
+            [
+              -0.991318293410723,
+              48.85860567904139
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68703,
+      "code_cant" : "30",
+      "x_centroid" : 4080,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 30061,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.86808668054816,
+        -0.9814355985288828
+      ],
+      "code_comm" : "415",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.9814355985288828,
+        48.86808668054816
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

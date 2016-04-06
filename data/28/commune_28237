@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3179c0015240b49cfff62cc9618661c183f23db1",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 477,
+      "insee_com" : "62883",
+      "z_moyen" : 104,
+      "code_dept" : "62",
+      "nom_comm" : "WAVRANS-SUR-TERNOISE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6501,
+      "y_centroid" : 70348,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.281803560310664,
+              50.39687232729033
+            ],
+            [
+              2.268032132615208,
+              50.40222298530244
+            ],
+            [
+              2.265731521028587,
+              50.41553203229745
+            ],
+            [
+              2.268203342335919,
+              50.41657012593299
+            ],
+            [
+              2.299525593505877,
+              50.41932815307747
+            ],
+            [
+              2.306549971476568,
+              50.41430450310099
+            ],
+            [
+              2.287071725522031,
+              50.39777367959372
+            ],
+            [
+              2.281803560310664,
+              50.39687232729033
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70351,
+      "code_cant" : "43",
+      "x_centroid" : 6490,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21394,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.40938612101165,
+        2.28409990239663
+      ],
+      "code_comm" : "883",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.28409990239663,
+        50.40938612101165
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

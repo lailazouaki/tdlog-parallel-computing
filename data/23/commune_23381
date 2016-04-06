@@ -1,0 +1,75 @@
+  {
+    "recordid" : "55a771380cdcd9571ef09783969b38ee8c6cfaf3",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 534,
+      "insee_com" : "54268",
+      "z_moyen" : 297,
+      "code_dept" : "54",
+      "nom_comm" : "HOUSSEVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9306,
+      "y_centroid" : 68164,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.102551540995863,
+              48.39822272408885
+            ],
+            [
+              6.095304367972221,
+              48.40166249561314
+            ],
+            [
+              6.106996026032183,
+              48.41874236394978
+            ],
+            [
+              6.117377877271451,
+              48.42000944500731
+            ],
+            [
+              6.135975551895524,
+              48.40934492290248
+            ],
+            [
+              6.13395734323524,
+              48.40294267360743
+            ],
+            [
+              6.126345455193999,
+              48.39886695835136
+            ],
+            [
+              6.102551540995863,
+              48.39822272408885
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68163,
+      "code_cant" : "14",
+      "x_centroid" : 9305,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 15160,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.40773575664708,
+        6.115743716405737
+      ],
+      "code_comm" : "268",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.115743716405737,
+        48.40773575664708
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "be63530712067784cf94a05867237a56ef61c497",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 103,
+      "insee_com" : "22253",
+      "z_moyen" : 21,
+      "code_dept" : "22",
+      "nom_comm" : "POULDOURAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 2448,
+      "y_centroid" : 68694,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.1944301529726,
+              48.7669124527388
+            ],
+            [
+              -3.197304306321739,
+              48.76101622765233
+            ],
+            [
+              -3.205658078464285,
+              48.75817274729022
+            ],
+            [
+              -3.20984489107929,
+              48.75964176185767
+            ],
+            [
+              -3.211727011815333,
+              48.76798813563015
+            ],
+            [
+              -3.1944301529726,
+              48.7669124527388
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68694,
+      "code_cant" : "42",
+      "x_centroid" : 2444,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 22623,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.76362433923996,
+        -3.203802428733131
+      ],
+      "code_comm" : "253",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.203802428733131,
+        48.76362433923996
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

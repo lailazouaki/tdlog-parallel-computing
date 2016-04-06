@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8c794c1689fed332c6817b0e95e5775596876f92",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 523,
+      "insee_com" : "64479",
+      "z_moyen" : 124,
+      "code_dept" : "64",
+      "nom_comm" : "SAINT-GIRONS-EN-BEARN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3904,
+      "y_centroid" : 62798,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.818342547844894,
+              43.53969142706465
+            ],
+            [
+              -0.842812505744201,
+              43.54342123691645
+            ],
+            [
+              -0.842314728935313,
+              43.55411332744185
+            ],
+            [
+              -0.820949526213502,
+              43.56118247725244
+            ],
+            [
+              -0.8033509951978069,
+              43.55618892494475
+            ],
+            [
+              -0.802505045624322,
+              43.54828272227945
+            ],
+            [
+              -0.811843052710591,
+              43.54884675975358
+            ],
+            [
+              -0.818342547844894,
+              43.53969142706465
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62802,
+      "code_cant" : "29",
+      "x_centroid" : 3910,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 13051,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.55057905463249,
+        -0.8238060529956718
+      ],
+      "code_comm" : "479",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8238060529956718,
+        43.55057905463249
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

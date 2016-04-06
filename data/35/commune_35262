@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a7ad4e3815f001d4b834d44031a51ba2f4e2d0aa",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 562,
+      "insee_com" : "70211",
+      "z_moyen" : 238,
+      "code_dept" : "70",
+      "nom_comm" : "ECUELLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8918,
+      "y_centroid" : 67199,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.542769153722316,
+              47.53928856527321
+            ],
+            [
+              5.525138099767259,
+              47.55458575595963
+            ],
+            [
+              5.554353894167988,
+              47.56601749976112
+            ],
+            [
+              5.569774359069345,
+              47.55159318720072
+            ],
+            [
+              5.551823140710121,
+              47.54117112839316
+            ],
+            [
+              5.542769153722316,
+              47.53928856527321
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67197,
+      "code_cant" : "02",
+      "x_centroid" : 8916,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 34511,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.55241249069054,
+        5.54810358865103
+      ],
+      "code_comm" : "211",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.54810358865103,
+        47.55241249069054
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

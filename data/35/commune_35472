@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e08c69a97fb3ddd61d77c41bd3d0e453f4c43bd8",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 127,
+      "insee_com" : "56181",
+      "z_moyen" : 8,
+      "code_dept" : "56",
+      "nom_comm" : "PORT-LOUIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 2240,
+      "y_centroid" : 67535,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.340927303109049,
+              47.70870401395882
+            ],
+            [
+              -3.353765957874787,
+              47.7041862987444
+            ],
+            [
+              -3.359487542948512,
+              47.70907595069524
+            ],
+            [
+              -3.347049321999905,
+              47.71381627908417
+            ],
+            [
+              -3.342697877096164,
+              47.71592191665191
+            ],
+            [
+              -3.339720162850772,
+              47.71552380236316
+            ],
+            [
+              -3.340927303109049,
+              47.70870401395882
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67531,
+      "code_cant" : "28",
+      "x_centroid" : 2244,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 34598,
+      "statut" : "Chef-lieu canton",
+      "population" : 2.8,
+      "geom_x_y" : [
+        47.70992052582852,
+        -3.348457507689296
+      ],
+      "code_comm" : "181",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.348457507689296,
+        47.70992052582852
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

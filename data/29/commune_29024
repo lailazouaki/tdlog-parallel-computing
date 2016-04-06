@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d427c7de201992f4dc0914680238a315ab19f8bb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 381,
+      "insee_com" : "57059",
+      "z_moyen" : 249,
+      "code_dept" : "57",
+      "nom_comm" : "BELLANGE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9621,
+      "y_centroid" : 68727,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.585708068745184,
+              48.89115179859744
+            ],
+            [
+              6.575960754577487,
+              48.89155149913699
+            ],
+            [
+              6.556626431970263,
+              48.90029252126134
+            ],
+            [
+              6.561383826628517,
+              48.9079557704269
+            ],
+            [
+              6.571068632183692,
+              48.91177214844401
+            ],
+            [
+              6.591605709477716,
+              48.90183158029119
+            ],
+            [
+              6.585708068745184,
+              48.89115179859744
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68727,
+      "code_cant" : "06",
+      "x_centroid" : 9619,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 19327,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.90099741435481,
+        6.574454265660234
+      ],
+      "code_comm" : "059",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.574454265660234,
+        48.90099741435481
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

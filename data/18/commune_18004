@@ -1,0 +1,67 @@
+  {
+    "recordid" : "47c1c0b3924a9a6a638dec4de96bedce59e5c529",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 286,
+      "insee_com" : "57248",
+      "z_moyen" : 228,
+      "code_dept" : "57",
+      "nom_comm" : "GIVRYCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9869,
+      "y_centroid" : 68770,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.924135087008787,
+              48.91687967596918
+            ],
+            [
+              6.91494460221986,
+              48.91928746818037
+            ],
+            [
+              6.905708963359777,
+              48.93801955803233
+            ],
+            [
+              6.910882855779567,
+              48.9399395439435
+            ],
+            [
+              6.928260769168191,
+              48.93423871627388
+            ],
+            [
+              6.924135087008787,
+              48.91687967596918
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68763,
+      "code_cant" : "01",
+      "x_centroid" : 9869,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 23346,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.92928678743406,
+        6.91784673890306
+      ],
+      "code_comm" : "248",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.91784673890306,
+        48.92928678743406
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

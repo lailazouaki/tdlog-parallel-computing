@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a775e0f0632abbe35ab65ff048c196e1f201cc5c",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 440,
+      "insee_com" : "25450",
+      "z_moyen" : 331,
+      "code_dept" : "25",
+      "nom_comm" : "PESSANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9186,
+      "y_centroid" : 66676,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.878173503590774,
+              47.0634680779723
+            ],
+            [
+              5.872788454920525,
+              47.06385439287356
+            ],
+            [
+              5.867318052996565,
+              47.06982823457842
+            ],
+            [
+              5.865586661544579,
+              47.0794298510398
+            ],
+            [
+              5.9133617550549,
+              47.07930716914332
+            ],
+            [
+              5.916048489273388,
+              47.07606811701509
+            ],
+            [
+              5.878173503590774,
+              47.0634680779723
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66673,
+      "code_cant" : "22",
+      "x_centroid" : 9189,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 17550,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.07337569796811,
+        5.886488522201144
+      ],
+      "code_comm" : "450",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.886488522201144,
+        47.07337569796811
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

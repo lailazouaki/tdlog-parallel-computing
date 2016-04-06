@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5ccba5f2d3dd544e16565a6e35a23fe9eff7236c",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 494,
+      "insee_com" : "78118",
+      "z_moyen" : 59,
+      "code_dept" : "78",
+      "nom_comm" : "BUCHELAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6028,
+      "y_centroid" : 68767,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.663794537455568,
+              48.96964773307784
+            ],
+            [
+              1.654335039261231,
+              48.98203397494992
+            ],
+            [
+              1.664047704508948,
+              48.99487719717149
+            ],
+            [
+              1.702551852028804,
+              48.98923824469279
+            ],
+            [
+              1.686219936897183,
+              48.97849326635936
+            ],
+            [
+              1.665963893296819,
+              48.97028344608833
+            ],
+            [
+              1.663794537455568,
+              48.96964773307784
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68763,
+      "code_cant" : "33",
+      "x_centroid" : 6029,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 16681,
+      "statut" : "Commune simple",
+      "population" : 2.3,
+      "geom_x_y" : [
+        48.98370195523212,
+        1.674369090025873
+      ],
+      "code_comm" : "118",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.674369090025873,
+        48.98370195523212
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "62f30ac2d1ea1df5e1233b1dffcb75068fdb63d4",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1069,
+      "insee_com" : "08225",
+      "z_moyen" : 95,
+      "code_dept" : "08",
+      "nom_comm" : "HERPY-L'ARLESIENNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7875,
+      "y_centroid" : 69369,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.210244707595701,
+              49.50755424091911
+            ],
+            [
+              4.195330520585343,
+              49.50784600313921
+            ],
+            [
+              4.158759562065817,
+              49.52897272182336
+            ],
+            [
+              4.152974781635928,
+              49.54071226420589
+            ],
+            [
+              4.200343275797549,
+              49.53809575658024
+            ],
+            [
+              4.217666576734175,
+              49.52544756540603
+            ],
+            [
+              4.212620748688892,
+              49.51934116962857
+            ],
+            [
+              4.210244707595701,
+              49.50755424091911
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69366,
+      "code_cant" : "06",
+      "x_centroid" : 7860,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 36158,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.52595386373587,
+        4.188233526668465
+      ],
+      "code_comm" : "225",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.188233526668465,
+        49.52595386373587
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

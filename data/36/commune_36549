@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8246d109137b8b3cc6c446e8e2e419d3907c69a3",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 362,
+      "insee_com" : "66162",
+      "z_moyen" : 345,
+      "code_dept" : "66",
+      "nom_comm" : "RIGARDA",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6615,
+      "y_centroid" : 61699,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.534252907660863,
+              42.6176231065844
+            ],
+            [
+              2.522284874164252,
+              42.63127186199981
+            ],
+            [
+              2.546697466657284,
+              42.64059351171304
+            ],
+            [
+              2.545565552576571,
+              42.62801985323237
+            ],
+            [
+              2.552176735882036,
+              42.62006417821254
+            ],
+            [
+              2.534252907660863,
+              42.6176231065844
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61699,
+      "code_cant" : "18",
+      "x_centroid" : 6620,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 4657,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        42.6279224153534,
+        2.537864519696726
+      ],
+      "code_comm" : "162",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.537864519696726,
+        42.6279224153534
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

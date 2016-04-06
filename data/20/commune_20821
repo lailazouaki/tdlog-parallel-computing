@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e3f59d5fdf13b1743ed31bf42acb8306c20ffef1",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 262,
+      "insee_com" : "60099",
+      "z_moyen" : 61,
+      "code_dept" : "60",
+      "nom_comm" : "BRAISNES-SUR-ARONDE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6836,
+      "y_centroid" : 69307,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.773157496597907,
+              49.46767988244529
+            ],
+            [
+              2.766110307649337,
+              49.46771142202008
+            ],
+            [
+              2.762234427340561,
+              49.48278522528607
+            ],
+            [
+              2.763172354900098,
+              49.48580689610534
+            ],
+            [
+              2.767864628505511,
+              49.48541153236598
+            ],
+            [
+              2.783535015444255,
+              49.47914920143032
+            ],
+            [
+              2.792396881287575,
+              49.47417655055138
+            ],
+            [
+              2.773157496597907,
+              49.46767988244529
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69309,
+      "code_cant" : "31",
+      "x_centroid" : 6836,
+      "nom_dept" : "OISE",
+      "id_geofla" : 17936,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.47610424336394,
+        2.774027608252055
+      ],
+      "code_comm" : "099",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.774027608252055,
+        49.47610424336394
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

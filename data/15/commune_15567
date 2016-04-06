@@ -1,0 +1,75 @@
+  {
+    "recordid" : "defbdd81193fda9269c381ae4cc2286d1172cfeb",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 320,
+      "insee_com" : "62857",
+      "z_moyen" : 142,
+      "code_dept" : "62",
+      "nom_comm" : "VILLERS-CHATEL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6705,
+      "y_centroid" : 70309,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.601647712702084,
+              50.36437338052779
+            ],
+            [
+              2.584649183673646,
+              50.36626554814296
+            ],
+            [
+              2.577354712831334,
+              50.37414124112816
+            ],
+            [
+              2.577910550973866,
+              50.38321957589912
+            ],
+            [
+              2.595030810439269,
+              50.38790035924129
+            ],
+            [
+              2.59761851215052,
+              50.37507080316684
+            ],
+            [
+              2.606092406460938,
+              50.36675778942197
+            ],
+            [
+              2.601647712702084,
+              50.36437338052779
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70310,
+      "code_cant" : "05",
+      "x_centroid" : 6707,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21619,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.37510459161301,
+        2.58988048071737
+      ],
+      "code_comm" : "857",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.58988048071737,
+        50.37510459161301
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d3ccef5c9b33b41af92eef4cb14968d3b3692566",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 547,
+      "insee_com" : "11408",
+      "z_moyen" : 194,
+      "code_dept" : "11",
+      "nom_comm" : "VERZEILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6450,
+      "y_centroid" : 62247,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.335238650373147,
+              43.10904485583898
+            ],
+            [
+              2.318157288674082,
+              43.1115465805373
+            ],
+            [
+              2.311760098869501,
+              43.11575139754501
+            ],
+            [
+              2.309193104914393,
+              43.12096988914588
+            ],
+            [
+              2.315697472949454,
+              43.12956537765937
+            ],
+            [
+              2.328455863881383,
+              43.13073397345051
+            ],
+            [
+              2.352251178029657,
+              43.12242453511374
+            ],
+            [
+              2.335238650373147,
+              43.10904485583898
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62254,
+      "code_cant" : "27",
+      "x_centroid" : 6453,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 21988,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.12020070280482,
+        2.328607362724087
+      ],
+      "code_comm" : "408",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.328607362724087,
+        43.12020070280482
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

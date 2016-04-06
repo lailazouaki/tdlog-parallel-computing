@@ -1,0 +1,63 @@
+  {
+    "recordid" : "b89deeb3368ed7a5be62b5285c3e0b5d5e32c000",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 148,
+      "insee_com" : "10294",
+      "z_moyen" : 154,
+      "code_dept" : "10",
+      "nom_comm" : "POLIGNY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7996,
+      "y_centroid" : 67869,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.354566346379711,
+              48.17156413443374
+            ],
+            [
+              4.340744763147341,
+              48.16927410342296
+            ],
+            [
+              4.336029085569273,
+              48.17803896265413
+            ],
+            [
+              4.35395932856438,
+              48.18094845878671
+            ],
+            [
+              4.354566346379711,
+              48.17156413443374
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67868,
+      "code_cant" : "04",
+      "x_centroid" : 8000,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 31325,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.17515019584425,
+        4.346260272007316
+      ],
+      "code_comm" : "294",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.346260272007316,
+        48.17515019584425
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

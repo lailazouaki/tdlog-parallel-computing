@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8685afe13557a67248e336b7c9a8678dce12d230",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 572,
+      "insee_com" : "57118",
+      "z_moyen" : 236,
+      "code_dept" : "57",
+      "nom_comm" : "BUDLING",
+      "code_arr" : "7",
+      "x_chf_lieu" : 9438,
+      "y_centroid" : 69215,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.341236074954812,
+              49.33565186749591
+            ],
+            [
+              6.316094333798814,
+              49.3433264663762
+            ],
+            [
+              6.324804921790536,
+              49.35135511528531
+            ],
+            [
+              6.363276002932023,
+              49.35693889017884
+            ],
+            [
+              6.372387722315664,
+              49.34926232440883
+            ],
+            [
+              6.341236074954812,
+              49.33565186749591
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69215,
+      "code_cant" : "21",
+      "x_centroid" : 9429,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 20322,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.34687286272551,
+        6.344260995424912
+      ],
+      "code_comm" : "118",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.344260995424912,
+        49.34687286272551
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

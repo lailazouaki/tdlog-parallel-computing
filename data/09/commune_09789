@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c963815b8156a53ff5713e608524bbab7a6ce6ae",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 306,
+      "insee_com" : "62509",
+      "z_moyen" : 62,
+      "code_dept" : "62",
+      "nom_comm" : "LIETTRES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6533,
+      "y_centroid" : 70556,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.344053678192565,
+              50.58464652265639
+            ],
+            [
+              2.325103549835894,
+              50.59854608575435
+            ],
+            [
+              2.323299221433608,
+              50.60478287126316
+            ],
+            [
+              2.331623841488295,
+              50.60767305366535
+            ],
+            [
+              2.346436918727227,
+              50.60085021284061
+            ],
+            [
+              2.355920586856514,
+              50.59368387131448
+            ],
+            [
+              2.355421083870148,
+              50.59085411602043
+            ],
+            [
+              2.344053678192565,
+              50.58464652265639
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70555,
+      "code_cant" : "38",
+      "x_centroid" : 6531,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 12242,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.59657571513792,
+        2.339455360261676
+      ],
+      "code_comm" : "509",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.339455360261676,
+        50.59657571513792
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

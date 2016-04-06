@@ -1,0 +1,71 @@
+  {
+    "recordid" : "343eb8d6b37c5603539ca70a1f44711a5d78c8d0",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 472,
+      "insee_com" : "69157",
+      "z_moyen" : 369,
+      "code_dept" : "69",
+      "nom_comm" : "PONTCHARRA-SUR-TURDINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8155,
+      "y_centroid" : 65319,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.498502997165771,
+              45.86362050596724
+            ],
+            [
+              4.470637111197333,
+              45.88171133210356
+            ],
+            [
+              4.507613589866763,
+              45.88706950953043
+            ],
+            [
+              4.504996533412854,
+              45.88474465902097
+            ],
+            [
+              4.518311414088574,
+              45.8774604227741
+            ],
+            [
+              4.506410712894466,
+              45.87183743390551
+            ],
+            [
+              4.498502997165771,
+              45.86362050596724
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65315,
+      "code_cant" : "29",
+      "x_centroid" : 8160,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 16302,
+      "statut" : "Commune simple",
+      "population" : 2.5,
+      "geom_x_y" : [
+        45.87707356178591,
+        4.495715110045746
+      ],
+      "code_comm" : "157",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.495715110045746,
+        45.87707356178591
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

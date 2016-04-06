@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ec089432c833a6e12587b8eba55cc354ce2b58e8",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 108,
+      "insee_com" : "06011",
+      "z_moyen" : 36,
+      "code_dept" : "06",
+      "nom_comm" : "BEAULIEU-SUR-MER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10490,
+      "y_centroid" : 62994,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.326789086178706,
+              43.7015490972655
+            ],
+            [
+              7.32604202029782,
+              43.710563589761
+            ],
+            [
+              7.342718081129185,
+              43.71355776550531
+            ],
+            [
+              7.33510031473998,
+              43.70451637678946
+            ],
+            [
+              7.329611573995147,
+              43.70191436850275
+            ],
+            [
+              7.326789086178706,
+              43.7015490972655
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62993,
+      "code_cant" : "30",
+      "x_centroid" : 10491,
+      "nom_dept" : "ALPES-MARITIMES",
+      "id_geofla" : 14379,
+      "statut" : "Commune simple",
+      "population" : 3.7,
+      "geom_x_y" : [
+        43.70790393966249,
+        7.332569348810407
+      ],
+      "code_comm" : "011",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.332569348810407,
+        43.70790393966249
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "26b6fe83d9ee0ebc65ef81f66f44fdaa64f8ac8e",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 223,
+      "insee_com" : "64041",
+      "z_moyen" : 197,
+      "code_dept" : "64",
+      "nom_comm" : "ARESSY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4300,
+      "y_centroid" : 62477,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.331151215925201,
+              43.26943117502277
+            ],
+            [
+              -0.333242032740906,
+              43.27064515516243
+            ],
+            [
+              -0.338677373735314,
+              43.27641958445565
+            ],
+            [
+              -0.338662939695874,
+              43.28042661400581
+            ],
+            [
+              -0.330405715849459,
+              43.28575052560555
+            ],
+            [
+              -0.315946135290387,
+              43.28226982888489
+            ],
+            [
+              -0.320285055493546,
+              43.27372730695549
+            ],
+            [
+              -0.331151215925201,
+              43.26943117502277
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62475,
+      "code_cant" : "47",
+      "x_centroid" : 4297,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 33569,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        43.27804755194224,
+        -0.3281280243905552
+      ],
+      "code_comm" : "041",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3281280243905552,
+        43.27804755194224
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

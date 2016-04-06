@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ddf542fdaf9a87e62b488ad1a89c89f0e9b4938b",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 543,
+      "insee_com" : "61219",
+      "z_moyen" : 191,
+      "code_dept" : "61",
+      "nom_comm" : "LA LANDE-SAINT-SIMEON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4478,
+      "y_centroid" : 68640,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.441255448772612,
+              48.81301752018161
+            ],
+            [
+              -0.448763862071079,
+              48.82472881425911
+            ],
+            [
+              -0.449894307950566,
+              48.84056670053886
+            ],
+            [
+              -0.444005941807076,
+              48.84143862564862
+            ],
+            [
+              -0.41173875632724,
+              48.83227281616949
+            ],
+            [
+              -0.426264272316513,
+              48.81388043396415
+            ],
+            [
+              -0.441255448772612,
+              48.81301752018161
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68634,
+      "code_cant" : "04",
+      "x_centroid" : 4479,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 35800,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.82734036642245,
+        -0.4338113488469237
+      ],
+      "code_comm" : "219",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4338113488469237,
+        48.82734036642245
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

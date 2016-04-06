@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e3090ac9162eb8fca720ef8bcdcf9fa19ff138a0",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 448,
+      "insee_com" : "14188",
+      "z_moyen" : 164,
+      "code_dept" : "14",
+      "nom_comm" : "COULVAIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4281,
+      "y_centroid" : 68901,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.727098278646814,
+              49.04006029606216
+            ],
+            [
+              -0.740906716141153,
+              49.04869543901477
+            ],
+            [
+              -0.737333194823975,
+              49.05744832851082
+            ],
+            [
+              -0.710934856639166,
+              49.06542329645282
+            ],
+            [
+              -0.698228587767228,
+              49.05802011616216
+            ],
+            [
+              -0.727098278646814,
+              49.04006029606216
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68901,
+      "code_cant" : "01",
+      "x_centroid" : 4280,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 33786,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.05363906377062,
+        -0.7213799402743442
+      ],
+      "code_comm" : "188",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7213799402743442,
+        49.05363906377062
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

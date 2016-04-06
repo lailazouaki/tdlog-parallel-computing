@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f349d8fb7b12788a79daba784c742e5d82c199d6",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 502,
+      "insee_com" : "38009",
+      "z_moyen" : 283,
+      "code_dept" : "38",
+      "nom_comm" : "ANJOU",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8473,
+      "y_centroid" : 64738,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.876205853108613,
+              45.33045110447294
+            ],
+            [
+              4.876409309095199,
+              45.3429313741761
+            ],
+            [
+              4.866438158836186,
+              45.3525733950687
+            ],
+            [
+              4.887167775507574,
+              45.3679252191934
+            ],
+            [
+              4.896283486949037,
+              45.3388225436953
+            ],
+            [
+              4.876205853108613,
+              45.33045110447294
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64737,
+      "code_cant" : "24",
+      "x_centroid" : 8474,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 27936,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        45.34858835208538,
+        4.882751763271937
+      ],
+      "code_comm" : "009",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.882751763271937,
+        45.34858835208538
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

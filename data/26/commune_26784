@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b1ffe0451c1482c89ac218848075bafbc3764a85",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 277,
+      "insee_com" : "60529",
+      "z_moyen" : 116,
+      "code_dept" : "60",
+      "nom_comm" : "REMECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6633,
+      "y_centroid" : 69257,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.506504702388912,
+              49.4282383657231
+            ],
+            [
+              2.494972534569249,
+              49.42100912893806
+            ],
+            [
+              2.479189326959738,
+              49.42305451325325
+            ],
+            [
+              2.482531402568991,
+              49.43464577604883
+            ],
+            [
+              2.492546874230196,
+              49.44065633609735
+            ],
+            [
+              2.500987070267509,
+              49.43733881871056
+            ],
+            [
+              2.506504702388912,
+              49.4282383657231
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69255,
+      "code_cant" : "08",
+      "x_centroid" : 6631,
+      "nom_dept" : "OISE",
+      "id_geofla" : 32153,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.43005561444721,
+        2.49241906873011
+      ],
+      "code_comm" : "529",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.49241906873011,
+        49.43005561444721
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

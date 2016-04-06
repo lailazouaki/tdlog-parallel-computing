@@ -1,0 +1,75 @@
+  {
+    "recordid" : "99b9d3a8e2fc9143e74398ed943a7e4d70de1d6f",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 606,
+      "insee_com" : "59595",
+      "z_moyen" : 49,
+      "code_dept" : "59",
+      "nom_comm" : "THUN-SAINT-MARTIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7211,
+      "y_centroid" : 70134,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.294460038805019,
+              50.20034393310553
+            ],
+            [
+              3.289689302944887,
+              50.20521331226397
+            ],
+            [
+              3.281859658762472,
+              50.20368698344415
+            ],
+            [
+              3.292053809319816,
+              50.22463063858329
+            ],
+            [
+              3.309484950056565,
+              50.23694374671249
+            ],
+            [
+              3.316706573474216,
+              50.23207650811634
+            ],
+            [
+              3.323149347537741,
+              50.21943458295975
+            ],
+            [
+              3.294460038805019,
+              50.20034393310553
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70140,
+      "code_cant" : "13",
+      "x_centroid" : 7216,
+      "nom_dept" : "NORD",
+      "id_geofla" : 34388,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.21848221497282,
+        3.303040209824453
+      ],
+      "code_comm" : "595",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.303040209824453,
+        50.21848221497282
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

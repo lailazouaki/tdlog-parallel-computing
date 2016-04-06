@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4b3cc0bb8e3e032568f67079cddc449729dda8f9",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 476,
+      "insee_com" : "14436",
+      "z_moyen" : 66,
+      "code_dept" : "14",
+      "nom_comm" : "MONCEAUX-EN-BESSIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4312,
+      "y_centroid" : 69119,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.688885967560109,
+              49.23781436113946
+            ],
+            [
+              -0.705610996603105,
+              49.2462199911547
+            ],
+            [
+              -0.698563470290235,
+              49.26586663840349
+            ],
+            [
+              -0.684586095709899,
+              49.26309077652031
+            ],
+            [
+              -0.682524857254001,
+              49.25308329833506
+            ],
+            [
+              -0.6671302862033029,
+              49.24403112767232
+            ],
+            [
+              -0.668665270960011,
+              49.24203150335904
+            ],
+            [
+              -0.688885967560109,
+              49.23781436113946
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69125,
+      "code_cant" : "03",
+      "x_centroid" : 4314,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 22340,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.25033170188347,
+        -0.6893217666591223
+      ],
+      "code_comm" : "436",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6893217666591223,
+        49.25033170188347
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

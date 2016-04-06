@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cdc70ce25d52b5e89e0460eafbbfe79596f6d618",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 199,
+      "insee_com" : "80281",
+      "z_moyen" : 109,
+      "code_dept" : "80",
+      "nom_comm" : "ERGNIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6310,
+      "y_centroid" : 69993,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.027991320122627,
+              50.08111609498089
+            ],
+            [
+              2.021070571926884,
+              50.08895606566312
+            ],
+            [
+              2.029164816056296,
+              50.09640330727835
+            ],
+            [
+              2.032772863512486,
+              50.09829996964698
+            ],
+            [
+              2.043770584838763,
+              50.08447351606926
+            ],
+            [
+              2.040435913447918,
+              50.08217509607968
+            ],
+            [
+              2.027991320122627,
+              50.08111609498089
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69990,
+      "code_cant" : "04",
+      "x_centroid" : 6306,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 13038,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.08835340599402,
+        2.032162184765061
+      ],
+      "code_comm" : "281",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.032162184765061,
+        50.08835340599402
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

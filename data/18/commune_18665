@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6414175497dfc846f8f54e69f0525ecc3d0084fe",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 216,
+      "insee_com" : "39438",
+      "z_moyen" : 653,
+      "code_dept" : "39",
+      "nom_comm" : "PONTHOUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9159,
+      "y_centroid" : 65922,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.809297575465705,
+              46.38377549962452
+            ],
+            [
+              5.806151713289878,
+              46.3914756926721
+            ],
+            [
+              5.810644434264322,
+              46.40488961308471
+            ],
+            [
+              5.825282621944153,
+              46.40359099849605
+            ],
+            [
+              5.817530989973652,
+              46.38942014406565
+            ],
+            [
+              5.809297575465705,
+              46.38377549962452
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65922,
+      "code_cant" : "26",
+      "x_centroid" : 9161,
+      "nom_dept" : "JURA",
+      "id_geofla" : 20854,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.39592884179847,
+        5.814374993797981
+      ],
+      "code_comm" : "438",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.814374993797981,
+        46.39592884179847
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

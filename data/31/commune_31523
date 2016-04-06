@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c1b4f2dac3c544c0b72c7b1060c800b85abab881",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 417,
+      "insee_com" : "68107",
+      "z_moyen" : 300,
+      "code_dept" : "68",
+      "nom_comm" : "GOMMERSDORF",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10099,
+      "y_centroid" : 67348,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.142952659773011,
+              47.62861737610628
+            ],
+            [
+              7.118044484136073,
+              47.63706107582836
+            ],
+            [
+              7.125288169409076,
+              47.65381327646941
+            ],
+            [
+              7.142272582555681,
+              47.6505890756883
+            ],
+            [
+              7.142432518339742,
+              47.64114643122078
+            ],
+            [
+              7.147130692761318,
+              47.63570676804935
+            ],
+            [
+              7.142952659773011,
+              47.62861737610628
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67347,
+      "code_cant" : "05",
+      "x_centroid" : 10101,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 12741,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.6413930167736,
+        7.132993687573335
+      ],
+      "code_comm" : "107",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.132993687573335,
+        47.6413930167736
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

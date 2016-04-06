@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8d1ba79f385d0ecbe894bf7d1664c6b2d70b05ad",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 228,
+      "insee_com" : "25194",
+      "z_moyen" : 540,
+      "code_dept" : "25",
+      "nom_comm" : "DANNEMARIE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9938,
+      "y_centroid" : 67060,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.894945952832749,
+              47.38166134098311
+            ],
+            [
+              6.890001104642151,
+              47.38428758866284
+            ],
+            [
+              6.889329484123829,
+              47.38728436603288
+            ],
+            [
+              6.886930072099056,
+              47.39024882008557
+            ],
+            [
+              6.89049902735316,
+              47.39260793474528
+            ],
+            [
+              6.909527257765323,
+              47.39617832518098
+            ],
+            [
+              6.912148164813296,
+              47.38662635056715
+            ],
+            [
+              6.894945952832749,
+              47.38166134098311
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67061,
+      "code_cant" : "09",
+      "x_centroid" : 9940,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 23244,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.38899724558718,
+        6.900017516304469
+      ],
+      "code_comm" : "194",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.900017516304469,
+        47.38899724558718
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

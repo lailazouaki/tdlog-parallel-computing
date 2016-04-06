@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a6413315a5c2860bab6c0adadd4e483f3d834945",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 227,
+      "insee_com" : "67312",
+      "z_moyen" : 196,
+      "code_dept" : "67",
+      "nom_comm" : "MUTZENHOUSE",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10372,
+      "y_centroid" : 68587,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.579767100819935,
+              48.73422885770584
+            ],
+            [
+              7.577300175403382,
+              48.73871110979539
+            ],
+            [
+              7.580395139615386,
+              48.7451059745421
+            ],
+            [
+              7.593347614671606,
+              48.75064405796077
+            ],
+            [
+              7.600245326972943,
+              48.73972012812145
+            ],
+            [
+              7.597880799183028,
+              48.73483811816154
+            ],
+            [
+              7.579767100819935,
+              48.73422885770584
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68587,
+      "code_cant" : "10",
+      "x_centroid" : 10372,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 30631,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.74099508209184,
+        7.588923645895357
+      ],
+      "code_comm" : "312",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.588923645895357,
+        48.74099508209184
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

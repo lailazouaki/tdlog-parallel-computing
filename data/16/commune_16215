@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0aed6d321ceced34aa9c8ea99f916808ab4ce04d",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 375,
+      "insee_com" : "27036",
+      "z_moyen" : 166,
+      "code_dept" : "27",
+      "nom_comm" : "BALINES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5512,
+      "y_centroid" : 68517,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.983570917530831,
+              48.73961447697845
+            ],
+            [
+              0.969016767189626,
+              48.74239073844267
+            ],
+            [
+              0.953679020482887,
+              48.75539948358566
+            ],
+            [
+              0.995019644171117,
+              48.75355473014101
+            ],
+            [
+              0.992029434496438,
+              48.74073775201435
+            ],
+            [
+              0.983570917530831,
+              48.73961447697845
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68510,
+      "code_cant" : "35",
+      "x_centroid" : 5513,
+      "nom_dept" : "EURE",
+      "id_geofla" : 16594,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.74827525246605,
+        0.9775067779573495
+      ],
+      "code_comm" : "036",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9775067779573495,
+        48.74827525246605
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

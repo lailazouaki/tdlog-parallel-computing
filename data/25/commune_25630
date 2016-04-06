@@ -1,0 +1,63 @@
+  {
+    "recordid" : "2fe7a6b8869dc58aa5cae59011eb1cce6868c7bb",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 22,
+      "insee_com" : "85134",
+      "z_moyen" : 139,
+      "code_dept" : "85",
+      "nom_comm" : "MALLIEVRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4060,
+      "y_centroid" : 66528,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.8651716641512061,
+              46.90810193338983
+            ],
+            [
+              -0.8689349972538321,
+              46.91271713145536
+            ],
+            [
+              -0.862918027709606,
+              46.91374848631047
+            ],
+            [
+              -0.861910195631733,
+              46.91032075875891
+            ],
+            [
+              -0.8651716641512061,
+              46.90810193338983
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66528,
+      "code_cant" : "15",
+      "x_centroid" : 4059,
+      "nom_dept" : "VENDEE",
+      "id_geofla" : 33987,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.91128472866996,
+        -0.8649778360964705
+      ],
+      "code_comm" : "134",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8649778360964705,
+        46.91128472866996
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

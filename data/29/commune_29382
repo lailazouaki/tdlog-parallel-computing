@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a61188f1e56df765f1618781bab20455bc0f6017",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 584,
+      "insee_com" : "76021",
+      "z_moyen" : 130,
+      "code_dept" : "76",
+      "nom_comm" : "ANNOUVILLE-VILMESNIL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5146,
+      "y_centroid" : 69563,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.432317859110835,
+              49.66432966127379
+            ],
+            [
+              0.418637025836343,
+              49.67057612476348
+            ],
+            [
+              0.410437476773392,
+              49.68096559582703
+            ],
+            [
+              0.424808468681318,
+              49.69330864027705
+            ],
+            [
+              0.442145493235487,
+              49.68693168254872
+            ],
+            [
+              0.456383057869616,
+              49.68568386653561
+            ],
+            [
+              0.455593487456251,
+              49.68233199398809
+            ],
+            [
+              0.432317859110835,
+              49.66432966127379
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69562,
+      "code_cant" : "24",
+      "x_centroid" : 5145,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 23700,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.67946383475408,
+        0.4316751750852389
+      ],
+      "code_comm" : "021",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4316751750852389,
+        49.67946383475408
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

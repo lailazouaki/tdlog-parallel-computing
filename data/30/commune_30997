@@ -1,0 +1,67 @@
+  {
+    "recordid" : "31955164e8460753740b829c560700b113c49b6d",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 275,
+      "insee_com" : "80334",
+      "z_moyen" : 74,
+      "code_dept" : "80",
+      "nom_comm" : "FOSSEMANANT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6422,
+      "y_centroid" : 69673,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.19220248853274,
+              49.79248968812767
+            ],
+            [
+              2.173048113258743,
+              49.80201101867853
+            ],
+            [
+              2.185828792657136,
+              49.81099183790852
+            ],
+            [
+              2.200276929484822,
+              49.80688256989225
+            ],
+            [
+              2.206275269803579,
+              49.80145904132088
+            ],
+            [
+              2.19220248853274,
+              49.79248968812767
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69674,
+      "code_cant" : "17",
+      "x_centroid" : 6416,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 32525,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.80211564074821,
+        2.19009418269715
+      ],
+      "code_comm" : "334",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.19009418269715,
+        49.80211564074821
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

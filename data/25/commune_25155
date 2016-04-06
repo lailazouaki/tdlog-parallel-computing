@@ -1,0 +1,75 @@
+  {
+    "recordid" : "def2dcbe7fe3dfaf86304514c30e56dc17ef1552",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 553,
+      "insee_com" : "54247",
+      "z_moyen" : 295,
+      "code_dept" : "54",
+      "nom_comm" : "HAMMEVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9264,
+      "y_centroid" : 68264,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.07083830750847,
+              48.48161648074838
+            ],
+            [
+              6.065449765116243,
+              48.48395243678182
+            ],
+            [
+              6.055099974016773,
+              48.50575366235729
+            ],
+            [
+              6.061160985125464,
+              48.51442916055853
+            ],
+            [
+              6.066362700135898,
+              48.5188052961845
+            ],
+            [
+              6.081395559558229,
+              48.5013562107964
+            ],
+            [
+              6.09551950282918,
+              48.49736075370005
+            ],
+            [
+              6.07083830750847,
+              48.48161648074838
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68265,
+      "code_cant" : "29",
+      "x_centroid" : 9268,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 33562,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.49893118895024,
+        6.071332262053595
+      ],
+      "code_comm" : "247",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.071332262053595,
+        48.49893118895024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

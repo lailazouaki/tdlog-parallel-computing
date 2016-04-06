@@ -1,0 +1,71 @@
+  {
+    "recordid" : "86902e4307cc98105b21e637635d32d80dffcdd1",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 491,
+      "insee_com" : "02007",
+      "z_moyen" : 101,
+      "code_dept" : "02",
+      "nom_comm" : "AIZELLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7588,
+      "y_centroid" : 69320,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.84008347084728,
+              49.47679913758684
+            ],
+            [
+              3.815876242595126,
+              49.4742501260833
+            ],
+            [
+              3.799528365326594,
+              49.48204390867626
+            ],
+            [
+              3.807629315967353,
+              49.49894150674864
+            ],
+            [
+              3.819877334781364,
+              49.49249583679082
+            ],
+            [
+              3.829229579472017,
+              49.49403207812611
+            ],
+            [
+              3.84008347084728,
+              49.47679913758684
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69325,
+      "code_cant" : "12",
+      "x_centroid" : 7593,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 25176,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.48480029184348,
+        3.818702553311283
+      ],
+      "code_comm" : "007",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.818702553311283,
+        49.48480029184348
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

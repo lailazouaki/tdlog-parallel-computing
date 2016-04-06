@@ -1,0 +1,63 @@
+  {
+    "recordid" : "8266616e63532e27ad71cd3aefbefcfcc062519d",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 75,
+      "insee_com" : "10265",
+      "z_moyen" : 108,
+      "code_dept" : "10",
+      "nom_comm" : "LES NOES-PRES-TROYES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7772,
+      "y_centroid" : 68008,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.049882340351617,
+              48.29946710571587
+            ],
+            [
+              4.030254650255306,
+              48.30331080961926
+            ],
+            [
+              4.041167678816385,
+              48.30683251145464
+            ],
+            [
+              4.048762798191284,
+              48.30487586689719
+            ],
+            [
+              4.049882340351617,
+              48.29946710571587
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68007,
+      "code_cant" : "33",
+      "x_centroid" : 7772,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 1081,
+      "statut" : "Commune simple",
+      "population" : 3.2,
+      "geom_x_y" : [
+        48.30333876708769,
+        4.042034828012619
+      ],
+      "code_comm" : "265",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.042034828012619,
+        48.30333876708769
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

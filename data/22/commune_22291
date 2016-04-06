@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8b32a76c223d05000d21c2644a8ad13097a8458",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 343,
+      "insee_com" : "57423",
+      "z_moyen" : 246,
+      "code_dept" : "57",
+      "nom_comm" : "LUBECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9579,
+      "y_centroid" : 68661,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.519992099647132,
+              48.82944888970029
+            ],
+            [
+              6.505119361263023,
+              48.83861816850133
+            ],
+            [
+              6.48937085408456,
+              48.8563718648803
+            ],
+            [
+              6.498667106124614,
+              48.85828774489424
+            ],
+            [
+              6.530394623721063,
+              48.83627196925821
+            ],
+            [
+              6.521402358214627,
+              48.82993848795481
+            ],
+            [
+              6.519992099647132,
+              48.82944888970029
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68660,
+      "code_cant" : "06",
+      "x_centroid" : 9575,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 24345,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.84366292794743,
+        6.510012725813516
+      ],
+      "code_comm" : "423",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.510012725813516,
+        48.84366292794743
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d5af922f08da230d5e6443c0761e104b52b6822f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 335,
+      "insee_com" : "80638",
+      "z_moyen" : 80,
+      "code_dept" : "80",
+      "nom_comm" : "POTTE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6929,
+      "y_centroid" : 69666,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.91350613173498,
+              49.78701200163685
+            ],
+            [
+              2.891936081797204,
+              49.78963621855537
+            ],
+            [
+              2.887853666794795,
+              49.79707159505314
+            ],
+            [
+              2.892460888964833,
+              49.81063299203542
+            ],
+            [
+              2.904262539005941,
+              49.81013072369658
+            ],
+            [
+              2.91350613173498,
+              49.78701200163685
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69665,
+      "code_cant" : "30",
+      "x_centroid" : 6927,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 14873,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.79838657091186,
+        2.899714345804281
+      ],
+      "code_comm" : "638",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.899714345804281,
+        49.79838657091186
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

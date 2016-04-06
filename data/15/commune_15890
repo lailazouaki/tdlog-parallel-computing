@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e76460fd07bfbdf90bd5a0da5a39caae821e6b17",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 208,
+      "insee_com" : "39345",
+      "z_moyen" : 282,
+      "code_dept" : "39",
+      "nom_comm" : "MONNIERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8866,
+      "y_centroid" : 66711,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.454370437949426,
+              47.10486561470058
+            ],
+            [
+              5.45517868391751,
+              47.10783891715231
+            ],
+            [
+              5.443860933758618,
+              47.11689690719943
+            ],
+            [
+              5.462974037472724,
+              47.11761731816294
+            ],
+            [
+              5.469053464248925,
+              47.12300922502648
+            ],
+            [
+              5.473912423888699,
+              47.12220280687393
+            ],
+            [
+              5.467220387601728,
+              47.10949215918932
+            ],
+            [
+              5.454370437949426,
+              47.10486561470058
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66708,
+      "code_cant" : "13",
+      "x_centroid" : 8865,
+      "nom_dept" : "JURA",
+      "id_geofla" : 30761,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.11405948994758,
+        5.460442132377186
+      ],
+      "code_comm" : "345",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.460442132377186,
+        47.11405948994758
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

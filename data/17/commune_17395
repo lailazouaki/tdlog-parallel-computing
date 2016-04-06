@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5c984f1e2b31f6b0d69dae200ddc04533571dbe0",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 619,
+      "insee_com" : "55555",
+      "z_moyen" : 286,
+      "code_dept" : "55",
+      "nom_comm" : "VILLE-DEVANT-BELRAIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8714,
+      "y_centroid" : 68666,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.324331152378715,
+              48.86156478797058
+            ],
+            [
+              5.326411725686892,
+              48.87578461959203
+            ],
+            [
+              5.387231842648402,
+              48.89303089692864
+            ],
+            [
+              5.391687522413801,
+              48.88784962768877
+            ],
+            [
+              5.372319364278735,
+              48.88257590253384
+            ],
+            [
+              5.374559976386278,
+              48.87636846439624
+            ],
+            [
+              5.367845952739278,
+              48.87120219257874
+            ],
+            [
+              5.324331152378715,
+              48.86156478797058
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68658,
+      "code_cant" : "15",
+      "x_centroid" : 8726,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 31790,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.87650375494184,
+        5.353836810897158
+      ],
+      "code_comm" : "555",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.353836810897158,
+        48.87650375494184
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

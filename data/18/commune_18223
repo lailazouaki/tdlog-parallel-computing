@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b7976dedb42114c8c8ccfdb02bb054298423b301",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 593,
+      "insee_com" : "70010",
+      "z_moyen" : 253,
+      "code_dept" : "70",
+      "nom_comm" : "ALAINCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9315,
+      "y_centroid" : 67651,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.099304967715061,
+              47.93086481033664
+            ],
+            [
+              6.081536587520753,
+              47.93527717983321
+            ],
+            [
+              6.085492230474374,
+              47.95512225501363
+            ],
+            [
+              6.121609688023733,
+              47.9587254132414
+            ],
+            [
+              6.125093123474237,
+              47.95685855455995
+            ],
+            [
+              6.099304967715061,
+              47.93086481033664
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67647,
+      "code_cant" : "25",
+      "x_centroid" : 9313,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 17875,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.94627727671952,
+        6.099966095706193
+      ],
+      "code_comm" : "010",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.099966095706193,
+        47.94627727671952
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

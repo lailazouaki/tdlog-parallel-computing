@@ -1,0 +1,71 @@
+  {
+    "recordid" : "df62461e9bf1627f047b0b51232b38d2a316eacc",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 321,
+      "insee_com" : "62142",
+      "z_moyen" : 63,
+      "code_dept" : "62",
+      "nom_comm" : "BLINGEL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6393,
+      "y_centroid" : 70345,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.154995673152237,
+              50.39490283911963
+            ],
+            [
+              2.14421050522728,
+              50.39483756502568
+            ],
+            [
+              2.137738171252469,
+              50.40703828229842
+            ],
+            [
+              2.143992406322826,
+              50.41597863870599
+            ],
+            [
+              2.153396374420499,
+              50.41572920574448
+            ],
+            [
+              2.164273477014851,
+              50.40372828731184
+            ],
+            [
+              2.154995673152237,
+              50.39490283911963
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70348,
+      "code_cant" : "39",
+      "x_centroid" : 6395,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29402,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.40517577934187,
+        2.150168438326485
+      ],
+      "code_comm" : "142",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.150168438326485,
+        50.40517577934187
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

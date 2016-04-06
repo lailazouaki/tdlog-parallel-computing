@@ -1,0 +1,71 @@
+  {
+    "recordid" : "246bee1db47773abca3a29f914ae5748f7a5c25d",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 452,
+      "insee_com" : "49213",
+      "z_moyen" : 83,
+      "code_dept" : "49",
+      "nom_comm" : "MONTPOLLIN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4667,
+      "y_centroid" : 67253,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.10422139383697,
+              47.57175492672358
+            ],
+            [
+              -0.121134811358265,
+              47.57804170869756
+            ],
+            [
+              -0.121462580288708,
+              47.60095890839221
+            ],
+            [
+              -0.112954691677946,
+              47.59712351227036
+            ],
+            [
+              -0.09820862020407201,
+              47.60004727640881
+            ],
+            [
+              -0.096734333559115,
+              47.59850999742834
+            ],
+            [
+              -0.10422139383697,
+              47.57175492672358
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67252,
+      "code_cant" : "04",
+      "x_centroid" : 4662,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 12048,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.58742660283239,
+        -0.1102120205967939
+      ],
+      "code_comm" : "213",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1102120205967939,
+        47.58742660283239
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

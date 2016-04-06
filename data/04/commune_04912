@@ -1,0 +1,75 @@
+  {
+    "recordid" : "655db4d6aa3bba47838bbba553a733f27ae04e72",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 283,
+      "insee_com" : "77315",
+      "z_moyen" : 79,
+      "code_dept" : "77",
+      "nom_comm" : "MONTRY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6873,
+      "y_centroid" : 68651,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.803626486075425,
+              48.87701261332019
+            ],
+            [
+              2.812176309283777,
+              48.88803379357739
+            ],
+            [
+              2.824450943375254,
+              48.89575937098465
+            ],
+            [
+              2.840347290345769,
+              48.88910885978855
+            ],
+            [
+              2.841575580758863,
+              48.88880473040634
+            ],
+            [
+              2.828654135152851,
+              48.87847195476637
+            ],
+            [
+              2.818912662614895,
+              48.88030119058929
+            ],
+            [
+              2.803626486075425,
+              48.87701261332019
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68652,
+      "code_cant" : "08",
+      "x_centroid" : 6870,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 12550,
+      "statut" : "Commune simple",
+      "population" : 3.2,
+      "geom_x_y" : [
+        48.88593155742866,
+        2.82319777839283
+      ],
+      "code_comm" : "315",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.82319777839283,
+        48.88593155742866
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

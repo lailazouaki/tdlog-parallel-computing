@@ -1,0 +1,63 @@
+  {
+    "recordid" : "e2d357ae2a961650c3f732c2157e4a9c5c9cfa8c",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 336,
+      "insee_com" : "50231",
+      "z_moyen" : 18,
+      "code_dept" : "50",
+      "nom_comm" : "HAUTEVILLE-SUR-MER",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3678,
+      "y_centroid" : 68844,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.519423620288183,
+              48.97654813081098
+            ],
+            [
+              -1.52974777524061,
+              48.96879050034293
+            ],
+            [
+              -1.561456446579574,
+              48.96828094457702
+            ],
+            [
+              -1.562012883629507,
+              48.9813112768998
+            ],
+            [
+              -1.519423620288183,
+              48.97654813081098
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68846,
+      "code_cant" : "23",
+      "x_centroid" : 3674,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 5563,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.97411322038126,
+        -1.544366284190233
+      ],
+      "code_comm" : "231",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.544366284190233,
+        48.97411322038126
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

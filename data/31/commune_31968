@@ -1,0 +1,75 @@
+  {
+    "recordid" : "38b9c754c4ba90f7fcc9588bb1e6ac1c1afa7924",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 517,
+      "insee_com" : "51431",
+      "z_moyen" : 114,
+      "code_dept" : "51",
+      "nom_comm" : "PIERRY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7685,
+      "y_centroid" : 68803,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.945831359011579,
+              49.01015094363088
+            ],
+            [
+              3.931638416548149,
+              49.0122492976971
+            ],
+            [
+              3.925031808370854,
+              49.02432333689334
+            ],
+            [
+              3.939221387626228,
+              49.02864644216469
+            ],
+            [
+              3.969813098734317,
+              49.02282792000535
+            ],
+            [
+              3.979988926655995,
+              49.01500270564762
+            ],
+            [
+              3.95028369172248,
+              49.01141970047166
+            ],
+            [
+              3.945831359011579,
+              49.01015094363088
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68803,
+      "code_cant" : "37",
+      "x_centroid" : 7694,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 31788,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        49.01904984665978,
+        3.949305320691437
+      ],
+      "code_comm" : "431",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.949305320691437,
+        49.01904984665978
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

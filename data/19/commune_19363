@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4c0e92b2e05025ecf739b7503348c8459a297867",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 350,
+      "insee_com" : "62851",
+      "z_moyen" : 17,
+      "code_dept" : "62",
+      "nom_comm" : "VIEILLE-CHAPELLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6791,
+      "y_centroid" : 70551,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.717328160109613,
+              50.58248693915254
+            ],
+            [
+              2.702245409661102,
+              50.5895777629949
+            ],
+            [
+              2.698612674660731,
+              50.59821177815228
+            ],
+            [
+              2.708474345706194,
+              50.59973413312935
+            ],
+            [
+              2.718174736483912,
+              50.59743207746087
+            ],
+            [
+              2.738455707022394,
+              50.60199079916337
+            ],
+            [
+              2.729922175638038,
+              50.58923724281359
+            ],
+            [
+              2.717328160109613,
+              50.58248693915254
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70549,
+      "code_cant" : "70",
+      "x_centroid" : 6799,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29245,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        50.59291001162687,
+        2.717440220969146
+      ],
+      "code_comm" : "851",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.717440220969146,
+        50.59291001162687
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

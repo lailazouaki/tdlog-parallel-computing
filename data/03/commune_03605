@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8222310f7c8688935b8e0326e463593d4bca3652",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 481,
+      "insee_com" : "68083",
+      "z_moyen" : 637,
+      "code_dept" : "68",
+      "nom_comm" : "ESCHBACH-AU-VAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10088,
+      "y_centroid" : 67771,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.138266971479985,
+              48.00549528062334
+            ],
+            [
+              7.13341408428157,
+              48.0283025324994
+            ],
+            [
+              7.14459949771216,
+              48.0366408671668
+            ],
+            [
+              7.149341405063356,
+              48.03679809983398
+            ],
+            [
+              7.158246139872595,
+              48.02957189560448
+            ],
+            [
+              7.159862159038768,
+              48.01424028286358
+            ],
+            [
+              7.138266971479985,
+              48.00549528062334
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67781,
+      "code_cant" : "18",
+      "x_centroid" : 10089,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 15753,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.02186942848082,
+        7.146550233800339
+      ],
+      "code_comm" : "083",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.146550233800339,
+        48.02186942848082
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

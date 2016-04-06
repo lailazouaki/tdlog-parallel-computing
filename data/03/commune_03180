@@ -1,0 +1,75 @@
+  {
+    "recordid" : "25d53aa187fb9a811e91372770fde4f90896c26b",
+    "fields" : {
+      "nom_region" : "LIMOUSIN",
+      "superficie" : 673,
+      "insee_com" : "23194",
+      "z_moyen" : 622,
+      "code_dept" : "23",
+      "nom_comm" : "SAINTE-FEYRE-LA-MONTAGNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6404,
+      "y_centroid" : 65330,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.250476944406502,
+              45.88893577642208
+            ],
+            [
+              2.229066796537131,
+              45.88087612021302
+            ],
+            [
+              2.211255211637931,
+              45.8857512390088
+            ],
+            [
+              2.227928518093028,
+              45.90968549062455
+            ],
+            [
+              2.235735997278683,
+              45.9132145768653
+            ],
+            [
+              2.243426038170422,
+              45.90187451592472
+            ],
+            [
+              2.250538914894255,
+              45.89860791243358
+            ],
+            [
+              2.250476944406502,
+              45.88893577642208
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65335,
+      "code_cant" : "16",
+      "x_centroid" : 6404,
+      "nom_dept" : "CREUSE",
+      "id_geofla" : 15664,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.89484183954816,
+        2.232336702081239
+      ],
+      "code_comm" : "194",
+      "code_reg" : "74"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.232336702081239,
+        45.89484183954816
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

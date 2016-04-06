@@ -1,0 +1,75 @@
+  {
+    "recordid" : "76e54906fce732cbcf027e08f0c5f81ab852a278",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 426,
+      "insee_com" : "60679",
+      "z_moyen" : 116,
+      "code_dept" : "60",
+      "nom_comm" : "LA VILLENEUVE-SOUS-THURY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7045,
+      "y_centroid" : 68956,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.089044904461821,
+              49.15606846035615
+            ],
+            [
+              3.058758698052205,
+              49.15078254935639
+            ],
+            [
+              3.048260441482557,
+              49.15156940697666
+            ],
+            [
+              3.046064880577095,
+              49.16413918350607
+            ],
+            [
+              3.038980360637962,
+              49.16870889182557
+            ],
+            [
+              3.047991699405249,
+              49.17217598162328
+            ],
+            [
+              3.084636465714084,
+              49.15938918862181
+            ],
+            [
+              3.089044904461821,
+              49.15606846035615
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68951,
+      "code_cant" : "05",
+      "x_centroid" : 7044,
+      "nom_dept" : "OISE",
+      "id_geofla" : 16961,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.16018447372228,
+        3.061154721096998
+      ],
+      "code_comm" : "679",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.061154721096998,
+        49.16018447372228
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

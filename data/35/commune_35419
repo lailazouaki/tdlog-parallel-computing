@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f012f6741ab7f8a015b5e1ed777b247688408a78",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 221,
+      "insee_com" : "2B231",
+      "z_moyen" : 199,
+      "code_dept" : "2B",
+      "nom_comm" : "PIGNA",
+      "code_arr" : "5",
+      "x_chf_lieu" : 11845,
+      "y_centroid" : 61847,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.894554029005526,
+              42.59458473256139
+            ],
+            [
+              8.881400727505907,
+              42.60739104718146
+            ],
+            [
+              8.90603135922677,
+              42.59995410503269
+            ],
+            [
+              8.918890249408488,
+              42.6023247325414
+            ],
+            [
+              8.916885113921778,
+              42.59832491265865
+            ],
+            [
+              8.908962097544007,
+              42.59456290979253
+            ],
+            [
+              8.894554029005526,
+              42.59458473256139
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61847,
+      "code_cant" : "20",
+      "x_centroid" : 11844,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 36308,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.59934083302667,
+        8.900409242607031
+      ],
+      "code_comm" : "231",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        8.900409242607031,
+        42.59934083302667
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8c188ce2b853d1755b10e99b520593c143f9eb4c",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 94,
+      "insee_com" : "10235",
+      "z_moyen" : 127,
+      "code_dept" : "10",
+      "nom_comm" : "MESNIL-LA-COMTESSE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7883,
+      "y_centroid" : 68226,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.193664695223688,
+              48.49143704702374
+            ],
+            [
+              4.190693621828442,
+              48.49412097786414
+            ],
+            [
+              4.197915465126013,
+              48.50273044102401
+            ],
+            [
+              4.202216752647852,
+              48.50373963748484
+            ],
+            [
+              4.205201316154975,
+              48.50105530150851
+            ],
+            [
+              4.193664695223688,
+              48.49143704702374
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68224,
+      "code_cant" : "18",
+      "x_centroid" : 7884,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 35317,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.4981106187205,
+        4.197745794163844
+      ],
+      "code_comm" : "235",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.197745794163844,
+        48.4981106187205
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

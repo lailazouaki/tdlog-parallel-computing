@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d4d1f7911f760568cfa11c05e6b62b91531c51a2",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 448,
+      "insee_com" : "76264",
+      "z_moyen" : 146,
+      "code_dept" : "76",
+      "nom_comm" : "FLAMANVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5436,
+      "y_centroid" : 69501,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.836857012456381,
+              49.61476459528178
+            ],
+            [
+              0.835962163218511,
+              49.61531500585619
+            ],
+            [
+              0.817550591212033,
+              49.625961999624
+            ],
+            [
+              0.822199421228355,
+              49.64162414814818
+            ],
+            [
+              0.830737800738926,
+              49.64528265635779
+            ],
+            [
+              0.840214277450084,
+              49.64477718202716
+            ],
+            [
+              0.845032008601868,
+              49.62764802886976
+            ],
+            [
+              0.836857012456381,
+              49.61476459528178
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69503,
+      "code_cant" : "54",
+      "x_centroid" : 5433,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 6812,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.63126977168899,
+        0.8320083100794678
+      ],
+      "code_comm" : "264",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8320083100794678,
+        49.63126977168899
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

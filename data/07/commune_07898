@@ -1,0 +1,67 @@
+  {
+    "recordid" : "fcd48a80cc224c49d0c2e5b0ada5f06259191b91",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 68,
+      "insee_com" : "57624",
+      "z_moyen" : 202,
+      "code_dept" : "57",
+      "nom_comm" : "SAINTE-RUFFINE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9259,
+      "y_centroid" : 68940,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.095540531054967,
+              49.10191731246884
+            ],
+            [
+              6.088183847348729,
+              49.10517486898939
+            ],
+            [
+              6.095466574336211,
+              49.11169105204023
+            ],
+            [
+              6.100239843711161,
+              49.10922857482658
+            ],
+            [
+              6.10279738976203,
+              49.10639119689395
+            ],
+            [
+              6.095540531054967,
+              49.10191731246884
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68939,
+      "code_cant" : "13",
+      "x_centroid" : 9259,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 21953,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.10659062872757,
+        6.095685794687958
+      ],
+      "code_comm" : "624",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.095685794687958,
+        49.10659062872757
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

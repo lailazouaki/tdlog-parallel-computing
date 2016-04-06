@@ -1,0 +1,67 @@
+  {
+    "recordid" : "32a9cec91a9f3cc4b57d4ce9ffd80df5e4160e82",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 81,
+      "insee_com" : "09096",
+      "z_moyen" : 593,
+      "code_dept" : "09",
+      "nom_comm" : "CHATEAU-VERDUN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5918,
+      "y_centroid" : 61878,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.680280768116774,
+              42.77363697397716
+            ],
+            [
+              1.670241180545641,
+              42.78135472105416
+            ],
+            [
+              1.674156442015135,
+              42.78687095978102
+            ],
+            [
+              1.678720089276464,
+              42.78752983909965
+            ],
+            [
+              1.682731592424949,
+              42.78400000007119
+            ],
+            [
+              1.680280768116774,
+              42.77363697397716
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61878,
+      "code_cant" : "03",
+      "x_centroid" : 5916,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 17030,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.78155938946267,
+        1.677227862494069
+      ],
+      "code_comm" : "096",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.677227862494069,
+        42.78155938946267
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

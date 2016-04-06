@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a5869a113f42dc3df7f0dc3e4e5bdcba9212bfd0",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 421,
+      "insee_com" : "57581",
+      "z_moyen" : 238,
+      "code_dept" : "57",
+      "nom_comm" : "RICHELING",
+      "code_arr" : "6",
+      "x_chf_lieu" : 9895,
+      "y_centroid" : 68887,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.993653951384334,
+              49.03632911322134
+            ],
+            [
+              6.959369983468446,
+              49.02185387329718
+            ],
+            [
+              6.94934302252428,
+              49.02213037298739
+            ],
+            [
+              6.946279546814487,
+              49.0248690824629
+            ],
+            [
+              6.962848899002338,
+              49.03442438872454
+            ],
+            [
+              6.988671721100514,
+              49.04508383292061
+            ],
+            [
+              7.002308712072361,
+              49.04165878358793
+            ],
+            [
+              6.993653951384334,
+              49.03632911322134
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68883,
+      "code_cant" : "28",
+      "x_centroid" : 9904,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 31026,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.03327784920555,
+        6.973791918471959
+      ],
+      "code_comm" : "581",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.973791918471959,
+        49.03327784920555
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

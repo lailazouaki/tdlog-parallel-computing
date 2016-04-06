@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b9c45f9fb365f764df21710b1ef8889cc1c72855",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 280,
+      "insee_com" : "2B273",
+      "z_moyen" : 361,
+      "code_dept" : "2B",
+      "nom_comm" : "SCATA",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12271,
+      "y_centroid" : 61683,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.414473220387165,
+              42.41685486730029
+            ],
+            [
+              9.406815640644739,
+              42.41472831993411
+            ],
+            [
+              9.390126376206739,
+              42.41613841261031
+            ],
+            [
+              9.396499761063712,
+              42.42676632195515
+            ],
+            [
+              9.404624153365573,
+              42.43069630670288
+            ],
+            [
+              9.417724412094447,
+              42.42794060625787
+            ],
+            [
+              9.414473220387165,
+              42.41685486730029
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61676,
+      "code_cant" : "39",
+      "x_centroid" : 12273,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 28182,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.42215870533391,
+        9.404865487866211
+      ],
+      "code_comm" : "273",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.404865487866211,
+        42.42215870533391
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

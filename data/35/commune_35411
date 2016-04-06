@@ -1,0 +1,71 @@
+  {
+    "recordid" : "115767046c3318fa260a7e689c339658dfc5f448",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 668,
+      "insee_com" : "57181",
+      "z_moyen" : 244,
+      "code_dept" : "57",
+      "nom_comm" : "DOMNOM-LES-DIEUZE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9803,
+      "y_centroid" : 68691,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.817052997018796,
+              48.84513539771234
+            ],
+            [
+              6.798218032542462,
+              48.85660273795983
+            ],
+            [
+              6.822992374628859,
+              48.87549526034427
+            ],
+            [
+              6.846509234106084,
+              48.86974424193248
+            ],
+            [
+              6.844620710671928,
+              48.85563293593384
+            ],
+            [
+              6.830088036058571,
+              48.85450566388261
+            ],
+            [
+              6.817052997018796,
+              48.84513539771234
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68690,
+      "code_cant" : "08",
+      "x_centroid" : 9804,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 36282,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.86111921563786,
+        6.824052408823373
+      ],
+      "code_comm" : "181",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.824052408823373,
+        48.86111921563786
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

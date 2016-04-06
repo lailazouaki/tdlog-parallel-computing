@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e437c1502e8ecc89b156ea90cb96df8c7407d4ea",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 187,
+      "insee_com" : "80828",
+      "z_moyen" : 93,
+      "code_dept" : "80",
+      "nom_comm" : "WOIREL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6155,
+      "y_centroid" : 69851,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.824484787830427,
+              49.94930767668779
+            ],
+            [
+              1.808584199332473,
+              49.95768833296685
+            ],
+            [
+              1.813501614276494,
+              49.9659739927751
+            ],
+            [
+              1.826459396595308,
+              49.96573058634711
+            ],
+            [
+              1.829146280438643,
+              49.95729386256438
+            ],
+            [
+              1.824484787830427,
+              49.94930767668779
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69851,
+      "code_cant" : "32",
+      "x_centroid" : 6152,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 5574,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.95890678759482,
+        1.819885699341099
+      ],
+      "code_comm" : "828",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.819885699341099,
+        49.95890678759482
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

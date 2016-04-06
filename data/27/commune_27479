@@ -1,0 +1,63 @@
+  {
+    "recordid" : "2a9bed9376b499262994369f6ac82fbf842354ad",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 120,
+      "insee_com" : "62291",
+      "z_moyen" : 46,
+      "code_dept" : "62",
+      "nom_comm" : "ELEU-DIT-LEAUWETTE",
+      "code_arr" : "7",
+      "x_chf_lieu" : 6865,
+      "y_centroid" : 70356,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.804491613436379,
+              50.41412949536937
+            ],
+            [
+              2.804037784152676,
+              50.42245950764023
+            ],
+            [
+              2.822650961578781,
+              50.41991120670417
+            ],
+            [
+              2.817594484462686,
+              50.41552303012758
+            ],
+            [
+              2.804491613436379,
+              50.41412949536937
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70359,
+      "code_cant" : "60",
+      "x_centroid" : 6865,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 26934,
+      "statut" : "Commune simple",
+      "population" : 3,
+      "geom_x_y" : [
+        50.41826254145307,
+        2.811509149332855
+      ],
+      "code_comm" : "291",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.811509149332855,
+        50.41826254145307
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cefa6d06ab611d58d63c815fb45640df420ce694",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 296,
+      "insee_com" : "70065",
+      "z_moyen" : 269,
+      "code_dept" : "70",
+      "nom_comm" : "BESNANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9455,
+      "y_centroid" : 67105,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.261907170572098,
+              47.4373839112605
+            ],
+            [
+              6.256552100187062,
+              47.44321896357942
+            ],
+            [
+              6.237336062351408,
+              47.44696266113313
+            ],
+            [
+              6.23710736119172,
+              47.45042862797302
+            ],
+            [
+              6.255028633286472,
+              47.46097418611572
+            ],
+            [
+              6.263406067027621,
+              47.44607210653176
+            ],
+            [
+              6.261907170572098,
+              47.4373839112605
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67106,
+      "code_cant" : "17",
+      "x_centroid" : 9449,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 32036,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.44981178382229,
+        6.251847873916478
+      ],
+      "code_comm" : "065",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.251847873916478,
+        47.44981178382229
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

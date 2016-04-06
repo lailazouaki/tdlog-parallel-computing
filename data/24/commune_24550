@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7815b0abc964ae6a9a05d19fe5e1f6d41c815a4c",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 355,
+      "insee_com" : "62526",
+      "z_moyen" : 107,
+      "code_dept" : "62",
+      "nom_comm" : "LONGUEVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6208,
+      "y_centroid" : 70708,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.869197099256238,
+              50.71886590704983
+            ],
+            [
+              1.863852955331817,
+              50.72264014152144
+            ],
+            [
+              1.867304306968456,
+              50.73131352586554
+            ],
+            [
+              1.878702568141476,
+              50.73818304112967
+            ],
+            [
+              1.894666280665953,
+              50.73698878895377
+            ],
+            [
+              1.899536406537811,
+              50.73093875062968
+            ],
+            [
+              1.879477794523204,
+              50.71932688891219
+            ],
+            [
+              1.869197099256238,
+              50.71886590704983
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70711,
+      "code_cant" : "21",
+      "x_centroid" : 6208,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 10511,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.72885005123801,
+        1.880451635424911
+      ],
+      "code_comm" : "526",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.880451635424911,
+        50.72885005123801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

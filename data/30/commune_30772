@@ -1,0 +1,75 @@
+  {
+    "recordid" : "908c3d19b6dacc9bd9cc5ce5b1eba4d6d81e0166",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 320,
+      "insee_com" : "57152",
+      "z_moyen" : 234,
+      "code_dept" : "57",
+      "nom_comm" : "CONTZ-LES-BAINS",
+      "code_arr" : "7",
+      "x_chf_lieu" : 9426,
+      "y_centroid" : 69337,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.348628598329197,
+              49.44737325325189
+            ],
+            [
+              6.336476245547374,
+              49.45253067097389
+            ],
+            [
+              6.337438277231743,
+              49.45863934021546
+            ],
+            [
+              6.347110209177816,
+              49.46602779908967
+            ],
+            [
+              6.351247790069337,
+              49.46703783163676
+            ],
+            [
+              6.364391072331402,
+              49.4594855977947
+            ],
+            [
+              6.362517879576115,
+              49.4498309452972
+            ],
+            [
+              6.348628598329197,
+              49.44737325325189
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69332,
+      "code_cant" : "31",
+      "x_centroid" : 9429,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 27875,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.45651967877026,
+        6.350722297025776
+      ],
+      "code_comm" : "152",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.350722297025776,
+        49.45651967877026
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

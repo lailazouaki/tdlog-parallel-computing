@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d086ca974e621a8a3f4bd28eaea2de126255d396",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 443,
+      "insee_com" : "81166",
+      "z_moyen" : 292,
+      "code_dept" : "81",
+      "nom_comm" : "MILHAVET",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6220,
+      "y_centroid" : 63264,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.046454149853261,
+              44.02714663832659
+            ],
+            [
+              2.035484869020807,
+              44.02148807351158
+            ],
+            [
+              2.021994479601435,
+              44.0233214855134
+            ],
+            [
+              2.009292876696169,
+              44.03713142024323
+            ],
+            [
+              2.025778506991614,
+              44.04640621578713
+            ],
+            [
+              2.046454149853261,
+              44.02714663832659
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63260,
+      "code_cant" : "37",
+      "x_centroid" : 6220,
+      "nom_dept" : "TARN",
+      "id_geofla" : 14997,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.0326429454656,
+        2.027410086033108
+      ],
+      "code_comm" : "166",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.027410086033108,
+        44.0326429454656
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

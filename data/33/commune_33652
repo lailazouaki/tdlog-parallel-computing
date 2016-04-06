@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5de4faea22c40deba2daba6c27582ba4f5bb180e",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 299,
+      "insee_com" : "25378",
+      "z_moyen" : 492,
+      "code_dept" : "25",
+      "nom_comm" : "MESLIERES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9930,
+      "y_centroid" : 67092,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.874415648006384,
+              47.4122886514021
+            ],
+            [
+              6.874198894763013,
+              47.41846964112884
+            ],
+            [
+              6.880895179469485,
+              47.42273465649491
+            ],
+            [
+              6.898897527776943,
+              47.42466491661619
+            ],
+            [
+              6.911227090803051,
+              47.42200653969955
+            ],
+            [
+              6.913591044923178,
+              47.41637497248651
+            ],
+            [
+              6.897194152114485,
+              47.41239236613342
+            ],
+            [
+              6.874415648006384,
+              47.4122886514021
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67090,
+      "code_cant" : "09",
+      "x_centroid" : 9934,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 28005,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.41806083149013,
+        6.892987272090151
+      ],
+      "code_comm" : "378",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.892987272090151,
+        47.41806083149013
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

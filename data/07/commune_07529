@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e3e7a6de4a8115cb05c1815c4575d0ca696f9b53",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 358,
+      "insee_com" : "59031",
+      "z_moyen" : 149,
+      "code_dept" : "59",
+      "nom_comm" : "AUDIGNIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7579,
+      "y_centroid" : 70203,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.821811923757941,
+              50.26607228161727
+            ],
+            [
+              3.814161937650304,
+              50.27732032660353
+            ],
+            [
+              3.808067251043265,
+              50.28963500995001
+            ],
+            [
+              3.832972710152072,
+              50.28453962835183
+            ],
+            [
+              3.841928293733116,
+              50.27363178496449
+            ],
+            [
+              3.824968918933219,
+              50.26809848682944
+            ],
+            [
+              3.821811923757941,
+              50.26607228161727
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70213,
+      "code_cant" : "08",
+      "x_centroid" : 7588,
+      "nom_dept" : "NORD",
+      "id_geofla" : 31554,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.27834650619663,
+        3.824561251928082
+      ],
+      "code_comm" : "031",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.824561251928082,
+        50.27834650619663
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

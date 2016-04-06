@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ff27b0b2a92efdb6b05c5f1fcaf09cfdb43ea6e4",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 652,
+      "insee_com" : "90043",
+      "z_moyen" : 391,
+      "code_dept" : "90",
+      "nom_comm" : "FAVEROIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10035,
+      "y_centroid" : 67219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.026514037113076,
+              47.51169318425653
+            ],
+            [
+              7.019705859960491,
+              47.52004929745299
+            ],
+            [
+              7.02822130801705,
+              47.5415850261171
+            ],
+            [
+              7.039594618292377,
+              47.54623864756549
+            ],
+            [
+              7.050653943369084,
+              47.53952740179372
+            ],
+            [
+              7.050968168579406,
+              47.52225596486588
+            ],
+            [
+              7.045877435565465,
+              47.51617765781629
+            ],
+            [
+              7.026514037113076,
+              47.51169318425653
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67212,
+      "code_cant" : "02",
+      "x_centroid" : 10035,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 18636,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.52831562427117,
+        7.036497466110933
+      ],
+      "code_comm" : "043",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.036497466110933,
+        47.52831562427117
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

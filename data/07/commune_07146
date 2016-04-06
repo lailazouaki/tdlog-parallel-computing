@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9cc7f8df7fcc3f72f4bb42ed8466903765ee20ae",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 232,
+      "insee_com" : "80550",
+      "z_moyen" : 102,
+      "code_dept" : "80",
+      "nom_comm" : "MIRVAUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6565,
+      "y_centroid" : 69895,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.39899306413873,
+              49.99344157842629
+            ],
+            [
+              2.386666029554098,
+              49.99888667531521
+            ],
+            [
+              2.391684951306807,
+              50.01268152753403
+            ],
+            [
+              2.398047041763154,
+              50.01452734715681
+            ],
+            [
+              2.41050212975655,
+              49.99824918486348
+            ],
+            [
+              2.39899306413873,
+              49.99344157842629
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69895,
+      "code_cant" : "41",
+      "x_centroid" : 6567,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 164,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.00306196438085,
+        2.39762309679667
+      ],
+      "code_comm" : "550",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.39762309679667,
+        50.00306196438085
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

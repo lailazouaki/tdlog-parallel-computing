@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1942303287dc5e1fa3a9cef35c8b552e923b7595",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 133,
+      "insee_com" : "77052",
+      "z_moyen" : 101,
+      "code_dept" : "77",
+      "nom_comm" : "BREAU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6910,
+      "y_centroid" : 68285,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.882379715913973,
+              48.55008185920229
+            ],
+            [
+              2.874161659881193,
+              48.55310495118938
+            ],
+            [
+              2.872539540871782,
+              48.56265645901341
+            ],
+            [
+              2.877456998154217,
+              48.56354318257115
+            ],
+            [
+              2.890599312117109,
+              48.55885135496622
+            ],
+            [
+              2.884197007392746,
+              48.55544498930995
+            ],
+            [
+              2.882379715913973,
+              48.55008185920229
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68290,
+      "code_cant" : "22",
+      "x_centroid" : 6911,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 33471,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.55750236589911,
+        2.879728601821649
+      ],
+      "code_comm" : "052",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.879728601821649,
+        48.55750236589911
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

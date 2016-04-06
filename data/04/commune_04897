@@ -1,0 +1,67 @@
+  {
+    "recordid" : "13fcec3552eb6bdeed6dcbe695cbea64332ad8f4",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 300,
+      "insee_com" : "39080",
+      "z_moyen" : 380,
+      "code_dept" : "39",
+      "nom_comm" : "BROISSIA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8868,
+      "y_centroid" : 65869,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.440705002147189,
+              46.34681647395074
+            ],
+            [
+              5.422630895701745,
+              46.34906689243356
+            ],
+            [
+              5.421572167518062,
+              46.36363880354853
+            ],
+            [
+              5.434242780882042,
+              46.36529692407226
+            ],
+            [
+              5.445732544177829,
+              46.36090691883629
+            ],
+            [
+              5.440705002147189,
+              46.34681647395074
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65872,
+      "code_cant" : "27",
+      "x_centroid" : 8870,
+      "nom_dept" : "JURA",
+      "id_geofla" : 9916,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.35629439010017,
+        5.432856623966749
+      ],
+      "code_comm" : "080",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.432856623966749,
+        46.35629439010017
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

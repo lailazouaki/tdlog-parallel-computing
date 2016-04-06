@@ -1,0 +1,71 @@
+  {
+    "recordid" : "11826c81714667e32dc803da85f460ac019ea63e",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 318,
+      "insee_com" : "76730",
+      "z_moyen" : 121,
+      "code_dept" : "76",
+      "nom_comm" : "VEAUVILLE-LES-QUELLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5345,
+      "y_centroid" : 69622,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.716225503984294,
+              49.72969800802893
+            ],
+            [
+              0.693439118722326,
+              49.73714278548117
+            ],
+            [
+              0.697801435593748,
+              49.74283430217822
+            ],
+            [
+              0.6959199531169959,
+              49.74888407949911
+            ],
+            [
+              0.729894641336049,
+              49.73790859148126
+            ],
+            [
+              0.727817642868764,
+              49.73158675239858
+            ],
+            [
+              0.716225503984294,
+              49.72969800802893
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69624,
+      "code_cant" : "40",
+      "x_centroid" : 5349,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 28967,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.73799261092321,
+        0.7112573822580969
+      ],
+      "code_comm" : "730",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7112573822580969,
+        49.73799261092321
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

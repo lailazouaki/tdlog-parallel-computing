@@ -1,0 +1,67 @@
+  {
+    "recordid" : "90d0b1379eea04448cfee1e4ef472bc4a6798f31",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 195,
+      "insee_com" : "25528",
+      "z_moyen" : 306,
+      "code_dept" : "25",
+      "nom_comm" : "SAMSON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9185,
+      "y_centroid" : 66654,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.890279774533066,
+              47.04630043735612
+            ],
+            [
+              5.869708895208618,
+              47.04909283615616
+            ],
+            [
+              5.868618403403267,
+              47.06056158125897
+            ],
+            [
+              5.878721159112756,
+              47.0598957984619
+            ],
+            [
+              5.890275248246167,
+              47.05531883569019
+            ],
+            [
+              5.890279774533066,
+              47.04630043735612
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66654,
+      "code_cant" : "22",
+      "x_centroid" : 9185,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 27954,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.05339904271801,
+        5.87931888602455
+      ],
+      "code_comm" : "528",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.87931888602455,
+        47.05339904271801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

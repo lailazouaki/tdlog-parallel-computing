@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d01e1296caefbb9a30fb6ac65a3cd0440ea7604a",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 852,
+      "insee_com" : "31051",
+      "z_moyen" : 284,
+      "code_dept" : "31",
+      "nom_comm" : "BEAUFORT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5471,
+      "y_centroid" : 62635,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.107873328131187,
+              43.44183216575635
+            ],
+            [
+              1.084216474831327,
+              43.44756296370361
+            ],
+            [
+              1.082326724674118,
+              43.45756381111399
+            ],
+            [
+              1.096555791135006,
+              43.46622907059716
+            ],
+            [
+              1.127788142443316,
+              43.46328130457571
+            ],
+            [
+              1.134348784020335,
+              43.45489913798268
+            ],
+            [
+              1.107873328131187,
+              43.44183216575635
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62639,
+      "code_cant" : "26",
+      "x_centroid" : 5466,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 35461,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.45486180977991,
+        1.1065096107374
+      ],
+      "code_comm" : "051",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.1065096107374,
+        43.45486180977991
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3b729ac16b282cca881f49b8bca45ae2cf39daf2",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 449,
+      "insee_com" : "02067",
+      "z_moyen" : 166,
+      "code_dept" : "02",
+      "nom_comm" : "BERGUES-SUR-SAMBRE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7506,
+      "y_centroid" : 69925,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.741237170036741,
+              50.02332108002219
+            ],
+            [
+              3.721246822906816,
+              50.02544337492773
+            ],
+            [
+              3.712162503347557,
+              50.02289166904352
+            ],
+            [
+              3.686955299536021,
+              50.02387089043321
+            ],
+            [
+              3.681913630665354,
+              50.02842602843716
+            ],
+            [
+              3.693058651404508,
+              50.03386952295332
+            ],
+            [
+              3.727281000398508,
+              50.03791977186375
+            ],
+            [
+              3.741237170036741,
+              50.02332108002219
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69930,
+      "code_cant" : "23",
+      "x_centroid" : 7510,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 35365,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.02946862381935,
+        3.711371000997401
+      ],
+      "code_comm" : "067",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.711371000997401,
+        50.02946862381935
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

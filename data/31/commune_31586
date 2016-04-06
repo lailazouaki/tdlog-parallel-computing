@@ -1,0 +1,75 @@
+  {
+    "recordid" : "74730f51fa6eb883f42cefdc6eb41da0da414eb0",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1292,
+      "insee_com" : "04009",
+      "z_moyen" : 1111,
+      "code_dept" : "04",
+      "nom_comm" : "ARCHAIL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9667,
+      "y_centroid" : 63402,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.300080924557686,
+              44.09346379993879
+            ],
+            [
+              6.304863220314936,
+              44.10865170083892
+            ],
+            [
+              6.328241315818954,
+              44.13659989428048
+            ],
+            [
+              6.362251861760752,
+              44.11035528910026
+            ],
+            [
+              6.36227604157653,
+              44.10695829767371
+            ],
+            [
+              6.340864317115969,
+              44.09470437878238
+            ],
+            [
+              6.313231573124215,
+              44.0967060342554
+            ],
+            [
+              6.300080924557686,
+              44.09346379993879
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63414,
+      "code_cant" : "11",
+      "x_centroid" : 9665,
+      "nom_dept" : "ALPES-DE-HAUTE-PROVENCE",
+      "id_geofla" : 6595,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        44.11106534241981,
+        6.330714111938603
+      ],
+      "code_comm" : "009",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.330714111938603,
+        44.11106534241981
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

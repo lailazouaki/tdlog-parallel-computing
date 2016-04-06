@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2589a2e702e7aae84af8da25c1966ae3c7789326",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 926,
+      "insee_com" : "76470",
+      "z_moyen" : 124,
+      "code_dept" : "76",
+      "nom_comm" : "NORMANVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5263,
+      "y_centroid" : 69573,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.613610104069819,
+              49.68087750236285
+            ],
+            [
+              0.606318641044049,
+              49.67592475528185
+            ],
+            [
+              0.570278301563063,
+              49.67668454432423
+            ],
+            [
+              0.56449314324217,
+              49.69230100141388
+            ],
+            [
+              0.573252113157076,
+              49.70924159516352
+            ],
+            [
+              0.58931202587424,
+              49.71114284987915
+            ],
+            [
+              0.607951805785356,
+              49.6916797870927
+            ],
+            [
+              0.613610104069819,
+              49.68087750236285
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69577,
+      "code_cant" : "20",
+      "x_centroid" : 5258,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 7994,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.69117888071727,
+        0.5870227572369996
+      ],
+      "code_comm" : "470",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5870227572369996,
+        49.69117888071727
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

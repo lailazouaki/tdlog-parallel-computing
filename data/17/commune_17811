@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0a3b58548652479965fe1c4dca52b3dbb6adc83b",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 1289,
+      "insee_com" : "26272",
+      "z_moyen" : 259,
+      "code_dept" : "26",
+      "nom_comm" : "ROCHEFORT-EN-VALDAINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8478,
+      "y_centroid" : 63810,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.878422992099068,
+              44.49039914409264
+            ],
+            [
+              4.841107437533277,
+              44.49450413542873
+            ],
+            [
+              4.837286933319835,
+              44.51203677853908
+            ],
+            [
+              4.840420382455082,
+              44.53328064438636
+            ],
+            [
+              4.876974358840595,
+              44.52972949408408
+            ],
+            [
+              4.8784858254493,
+              44.51953736060729
+            ],
+            [
+              4.872174136656004,
+              44.49960911505855
+            ],
+            [
+              4.878422992099068,
+              44.49039914409264
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63813,
+      "code_cant" : "33",
+      "x_centroid" : 8476,
+      "nom_dept" : "DROME",
+      "id_geofla" : 31853,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        44.51254803223743,
+        4.857544222482042
+      ],
+      "code_comm" : "272",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.857544222482042,
+        44.51254803223743
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "382ff6e80a2f05beadb8378ee4be04e3717ed293",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 330,
+      "insee_com" : "64357",
+      "z_moyen" : 279,
+      "code_dept" : "64",
+      "nom_comm" : "LUCARRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4501,
+      "y_centroid" : 62609,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.08624793640727201,
+              43.38934055179465
+            ],
+            [
+              -0.091790391688335,
+              43.39783442443225
+            ],
+            [
+              -0.104452302891065,
+              43.40115433116593
+            ],
+            [
+              -0.077093173139516,
+              43.41507129273322
+            ],
+            [
+              -0.069410129957848,
+              43.41158005234086
+            ],
+            [
+              -0.08624793640727201,
+              43.38934055179465
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62610,
+      "code_cant" : "18",
+      "x_centroid" : 4500,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 34856,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.40368270512502,
+        -0.08491447251754998
+      ],
+      "code_comm" : "357",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.08491447251754998,
+        43.40368270512502
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

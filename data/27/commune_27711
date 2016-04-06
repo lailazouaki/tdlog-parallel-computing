@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2069dc366f8163a8e14dde0abbca57a52d2b7eff",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 563,
+      "insee_com" : "73171",
+      "z_moyen" : 501,
+      "code_dept" : "73",
+      "nom_comm" : "MONTMELIAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9383,
+      "y_centroid" : 64945,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.046231497126109,
+              45.49040717215419
+            ],
+            [
+              6.038290190545424,
+              45.51479089812999
+            ],
+            [
+              6.068890702871884,
+              45.52437580957137
+            ],
+            [
+              6.07427965810277,
+              45.51983075984393
+            ],
+            [
+              6.063847281934109,
+              45.50919404576744
+            ],
+            [
+              6.073477858975873,
+              45.50350583614903
+            ],
+            [
+              6.047892323387204,
+              45.49125419830442
+            ],
+            [
+              6.046231497126109,
+              45.49040717215419
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64938,
+      "code_cant" : "18",
+      "x_centroid" : 9385,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 20785,
+      "statut" : "Chef-lieu canton",
+      "population" : 4,
+      "geom_x_y" : [
+        45.50844372182983,
+        6.05560369254443
+      ],
+      "code_comm" : "171",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.05560369254443,
+        45.50844372182983
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

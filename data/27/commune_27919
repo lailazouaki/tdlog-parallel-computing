@@ -1,0 +1,67 @@
+  {
+    "recordid" : "de87ca504eeab8e98022dc531d796091114bfffb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 315,
+      "insee_com" : "57064",
+      "z_moyen" : 279,
+      "code_dept" : "57",
+      "nom_comm" : "BERLING",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10114,
+      "y_centroid" : 68639,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.239181698771555,
+              48.78892854755966
+            ],
+            [
+              7.225004068282451,
+              48.80269781609539
+            ],
+            [
+              7.245235072674443,
+              48.81003226572454
+            ],
+            [
+              7.257743049725956,
+              48.8040659228733
+            ],
+            [
+              7.260850894467938,
+              48.79755126808185
+            ],
+            [
+              7.239181698771555,
+              48.78892854755966
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68640,
+      "code_cant" : "24",
+      "x_centroid" : 10115,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 29637,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.79998228260995,
+        7.243506426838644
+      ],
+      "code_comm" : "064",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.243506426838644,
+        48.79998228260995
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

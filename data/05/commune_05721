@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0e442e9dcb9894c60a08e37ba1a4c85aa4aaee78",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 275,
+      "insee_com" : "02225",
+      "z_moyen" : 156,
+      "code_dept" : "02",
+      "nom_comm" : "COURCHAMPS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7193,
+      "y_centroid" : 68907,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.275204357405592,
+              49.11391622178452
+            ],
+            [
+              3.265609285383573,
+              49.10711353809257
+            ],
+            [
+              3.253867741965061,
+              49.11166142712825
+            ],
+            [
+              3.246897654160519,
+              49.1205321256481
+            ],
+            [
+              3.274040087488777,
+              49.12426756567374
+            ],
+            [
+              3.275204357405592,
+              49.11391622178452
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68904,
+      "code_cant" : "22",
+      "x_centroid" : 7192,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 5609,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.11642308087592,
+        3.263037143627985
+      ],
+      "code_comm" : "225",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.263037143627985,
+        49.11642308087592
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

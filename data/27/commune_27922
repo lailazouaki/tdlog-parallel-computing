@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6c1e096f028fbc0f5537ace330a8f2c41bcf7239",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 705,
+      "insee_com" : "66040",
+      "z_moyen" : 486,
+      "code_dept" : "66",
+      "nom_comm" : "CASEFABRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6683,
+      "y_centroid" : 61688,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.625209817693634,
+              42.63046841022651
+            ],
+            [
+              2.633687464040069,
+              42.61051207274485
+            ],
+            [
+              2.624056868081684,
+              42.60345720403041
+            ],
+            [
+              2.615035838871768,
+              42.60395552145833
+            ],
+            [
+              2.59146706780313,
+              42.62247813396701
+            ],
+            [
+              2.594071701027584,
+              42.62780143250164
+            ],
+            [
+              2.605595592987848,
+              42.63043382762329
+            ],
+            [
+              2.625209817693634,
+              42.63046841022651
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61685,
+      "code_cant" : "18",
+      "x_centroid" : 6683,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 29667,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.61844738744241,
+        2.614342292794878
+      ],
+      "code_comm" : "040",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.614342292794878,
+        42.61844738744241
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

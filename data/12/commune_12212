@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3ff431c2fe5e306f0427c7ad43ae1c1bf0c18f5e",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 316,
+      "insee_com" : "21428",
+      "z_moyen" : 317,
+      "code_dept" : "21",
+      "nom_comm" : "MONTHELIE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8342,
+      "y_centroid" : 66569,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.761652043547833,
+              46.98856259207609
+            ],
+            [
+              4.754232764093038,
+              46.9935296774934
+            ],
+            [
+              4.749840869613764,
+              47.01113026048285
+            ],
+            [
+              4.763345128813214,
+              47.00979003816298
+            ],
+            [
+              4.775361530437642,
+              46.99204478372377
+            ],
+            [
+              4.761652043547833,
+              46.98856259207609
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66561,
+      "code_cant" : "05",
+      "x_centroid" : 8338,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 11862,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.99964110097772,
+        4.761347676836968
+      ],
+      "code_comm" : "428",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.761347676836968,
+        46.99964110097772
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

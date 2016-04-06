@@ -1,0 +1,63 @@
+  {
+    "recordid" : "2666aabee9bc84d93788c52daacffa49728ef7d4",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 210,
+      "insee_com" : "65297",
+      "z_moyen" : 241,
+      "code_dept" : "65",
+      "nom_comm" : "MANSAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4722,
+      "y_centroid" : 62531,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.176596969444906,
+              43.33529491942387
+            ],
+            [
+              0.175427287204943,
+              43.34053935779235
+            ],
+            [
+              0.20777888755588,
+              43.34813072337563
+            ],
+            [
+              0.2078000236938,
+              43.34056992803508
+            ],
+            [
+              0.176596969444906,
+              43.33529491942387
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62530,
+      "code_cant" : "18",
+      "x_centroid" : 4722,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 23089,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.34132746839148,
+        0.1927446473747026
+      ],
+      "code_comm" : "297",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1927446473747026,
+        43.34132746839148
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

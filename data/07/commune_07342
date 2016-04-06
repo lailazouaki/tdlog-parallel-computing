@@ -1,0 +1,71 @@
+  {
+    "recordid" : "41a53cbd4d57e19000e3b9788c029c9953d0cdfe",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 452,
+      "insee_com" : "02268",
+      "z_moyen" : 162,
+      "code_dept" : "02",
+      "nom_comm" : "DOMPTIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7202,
+      "y_centroid" : 68795,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.279968606567025,
+              49.00446889193316
+            ],
+            [
+              3.254958399067551,
+              49.0131749206007
+            ],
+            [
+              3.250238916153366,
+              49.01248347915224
+            ],
+            [
+              3.255170121905915,
+              49.02009825168557
+            ],
+            [
+              3.283800589307565,
+              49.02540214120505
+            ],
+            [
+              3.29142596123227,
+              49.01732713591664
+            ],
+            [
+              3.279968606567025,
+              49.00446889193316
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68796,
+      "code_cant" : "07",
+      "x_centroid" : 7199,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 20601,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.01569956562511,
+        3.272964977791553
+      ],
+      "code_comm" : "268",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.272964977791553,
+        49.01569956562511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

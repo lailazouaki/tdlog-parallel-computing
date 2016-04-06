@@ -1,0 +1,67 @@
+  {
+    "recordid" : "760462d39a6f41b331b2a0d630100cf5e2dfbc1b",
+    "fields" : {
+      "nom_region" : "LIMOUSIN",
+      "superficie" : 154,
+      "insee_com" : "23031",
+      "z_moyen" : 377,
+      "code_dept" : "23",
+      "nom_comm" : "BOUSSAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6396,
+      "y_centroid" : 65833,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.233379260215108,
+              46.34420941957246
+            ],
+            [
+              2.225700439801774,
+              46.34286979493491
+            ],
+            [
+              2.210379807150945,
+              46.34760948914509
+            ],
+            [
+              2.221201763165335,
+              46.3538074107057
+            ],
+            [
+              2.233186996880082,
+              46.34772012587921
+            ],
+            [
+              2.233379260215108,
+              46.34420941957246
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65835,
+      "code_cant" : "08",
+      "x_centroid" : 6402,
+      "nom_dept" : "CREUSE",
+      "id_geofla" : 6837,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.4,
+      "geom_x_y" : [
+        46.34779883827542,
+        2.223083562402718
+      ],
+      "code_comm" : "031",
+      "code_reg" : "74"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.223083562402718,
+        46.34779883827542
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

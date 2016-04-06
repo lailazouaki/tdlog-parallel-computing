@@ -1,0 +1,75 @@
+  {
+    "recordid" : "13652e2a639ae2bbd36fb068b64b2f53f68df40f",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 392,
+      "insee_com" : "30111",
+      "z_moyen" : 138,
+      "code_dept" : "30",
+      "nom_comm" : "FOISSAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8040,
+      "y_centroid" : 63271,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.308195438450803,
+              44.02475975537124
+            ],
+            [
+              4.306147468235724,
+              44.02194882324459
+            ],
+            [
+              4.293239138882718,
+              44.02371336896005
+            ],
+            [
+              4.290554335444011,
+              44.0357077447821
+            ],
+            [
+              4.292224115397273,
+              44.0493610634517
+            ],
+            [
+              4.311002140335894,
+              44.044268041758
+            ],
+            [
+              4.305874376116098,
+              44.03125940164524
+            ],
+            [
+              4.308195438450803,
+              44.02475975537124
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63279,
+      "code_cant" : "26",
+      "x_centroid" : 8041,
+      "nom_dept" : "GARD",
+      "id_geofla" : 24248,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        44.03561539114987,
+        4.299690425596577
+      ],
+      "code_comm" : "111",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.299690425596577,
+        44.03561539114987
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

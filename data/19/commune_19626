@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3770f4253e6bad69cfa4f1e7965e8ecc7a6f2e42",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 370,
+      "insee_com" : "02032",
+      "z_moyen" : 86,
+      "code_dept" : "02",
+      "nom_comm" : "AUBIGNY-AUX-KAISNES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7084,
+      "y_centroid" : 69636,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.116391152327087,
+              49.75948529991059
+            ],
+            [
+              3.115080726342847,
+              49.76266713558365
+            ],
+            [
+              3.101301204732468,
+              49.76641699338681
+            ],
+            [
+              3.110745674252957,
+              49.77839423520426
+            ],
+            [
+              3.122360587216427,
+              49.78503166430747
+            ],
+            [
+              3.131329929128726,
+              49.7816890912447
+            ],
+            [
+              3.131914633190985,
+              49.76630684888683
+            ],
+            [
+              3.116391152327087,
+              49.75948529991059
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69638,
+      "code_cant" : "29",
+      "x_centroid" : 7085,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 19607,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.77215246335955,
+        3.119256598804444
+      ],
+      "code_comm" : "032",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.119256598804444,
+        49.77215246335955
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

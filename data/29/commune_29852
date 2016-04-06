@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6d462cb6c5bd2a2e7aa245c1c1c7bc5e5928dff2",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 156,
+      "insee_com" : "59006",
+      "z_moyen" : 135,
+      "code_dept" : "59",
+      "nom_comm" : "AMFROIPRET",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7526,
+      "y_centroid" : 70202,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.750819946423448,
+              50.26825844515923
+            ],
+            [
+              3.728717684500695,
+              50.27634678073268
+            ],
+            [
+              3.724146949687678,
+              50.28201263926975
+            ],
+            [
+              3.726250235189199,
+              50.28796237613678
+            ],
+            [
+              3.752462098692507,
+              50.26940675716685
+            ],
+            [
+              3.750819946423448,
+              50.26825844515923
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70204,
+      "code_cant" : "08",
+      "x_centroid" : 7525,
+      "nom_dept" : "NORD",
+      "id_geofla" : 25909,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.27763903017124,
+        3.735653945658205
+      ],
+      "code_comm" : "006",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.735653945658205,
+        50.27763903017124
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

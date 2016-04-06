@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0bdb9577b646eaa53726ce90a71b3f9422bd7479",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 469,
+      "insee_com" : "50035",
+      "z_moyen" : 29,
+      "code_dept" : "50",
+      "nom_comm" : "BAUDREVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3632,
+      "y_centroid" : 69219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.632843278315083,
+              49.29162664000741
+            ],
+            [
+              -1.634096517237084,
+              49.31584643367663
+            ],
+            [
+              -1.632298115447392,
+              49.32342537117043
+            ],
+            [
+              -1.619120980887804,
+              49.32426368989961
+            ],
+            [
+              -1.611853072611034,
+              49.32093989653831
+            ],
+            [
+              -1.616193281240227,
+              49.29448935554987
+            ],
+            [
+              -1.632843278315083,
+              49.29162664000741
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69216,
+      "code_cant" : "16",
+      "x_centroid" : 3638,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 18585,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.30888897952438,
+        -1.62386143932642
+      ],
+      "code_comm" : "035",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.62386143932642,
+        49.30888897952438
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

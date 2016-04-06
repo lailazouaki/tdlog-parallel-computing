@@ -1,0 +1,63 @@
+  {
+    "recordid" : "47676fa37fec4ca31c397b493029c9224b214575",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 230,
+      "insee_com" : "70147",
+      "z_moyen" : 403,
+      "code_dept" : "70",
+      "nom_comm" : "CHAVANNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9749,
+      "y_centroid" : 67239,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.659006086730368,
+              47.54660787949157
+            ],
+            [
+              6.648475416484216,
+              47.56020219267226
+            ],
+            [
+              6.653688870288943,
+              47.57122149994898
+            ],
+            [
+              6.67017617984905,
+              47.55789898345777
+            ],
+            [
+              6.659006086730368,
+              47.54660787949157
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67238,
+      "code_cant" : "11",
+      "x_centroid" : 9750,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 19792,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.55885108566894,
+        6.658366337009591
+      ],
+      "code_comm" : "147",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.658366337009591,
+        47.55885108566894
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

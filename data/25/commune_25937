@@ -1,0 +1,71 @@
+  {
+    "recordid" : "601452e97ca4ec670706110a8cac8457c28c0fb5",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 670,
+      "insee_com" : "50081",
+      "z_moyen" : 25,
+      "code_dept" : "50",
+      "nom_comm" : "BREVILLE-SUR-MER",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3659,
+      "y_centroid" : 68729,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.558236016362621,
+              48.85505886319646
+            ],
+            [
+              -1.567288172193084,
+              48.8561636449849
+            ],
+            [
+              -1.577962130718799,
+              48.86204312087677
+            ],
+            [
+              -1.572119284472937,
+              48.88489524829336
+            ],
+            [
+              -1.547743078003768,
+              48.8793299036092
+            ],
+            [
+              -1.532490003755524,
+              48.87057680424144
+            ],
+            [
+              -1.558236016362621,
+              48.85505886319646
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68723,
+      "code_cant" : "06",
+      "x_centroid" : 3657,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 26397,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.8696459715642,
+        -1.558879103916092
+      ],
+      "code_comm" : "081",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.558879103916092,
+        48.8696459715642
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4f7c2932d5b2082ac1283577a66d0308c217c166",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 249,
+      "insee_com" : "59364",
+      "z_moyen" : 29,
+      "code_dept" : "59",
+      "nom_comm" : "LOUVIL",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7137,
+      "y_centroid" : 70510,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.191053223185333,
+              50.54727271461608
+            ],
+            [
+              3.17500243884089,
+              50.55758217911873
+            ],
+            [
+              3.178103543483429,
+              50.5619756405411
+            ],
+            [
+              3.193089580769439,
+              50.56401750557441
+            ],
+            [
+              3.201190693263597,
+              50.56018117154793
+            ],
+            [
+              3.201249161635178,
+              50.55366500472797
+            ],
+            [
+              3.191053223185333,
+              50.54727271461608
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70513,
+      "code_cant" : "20",
+      "x_centroid" : 7134,
+      "nom_dept" : "NORD",
+      "id_geofla" : 16241,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        50.55672554673831,
+        3.18952793320898
+      ],
+      "code_comm" : "364",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.18952793320898,
+        50.55672554673831
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

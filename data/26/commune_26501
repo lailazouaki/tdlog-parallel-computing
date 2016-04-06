@@ -1,0 +1,67 @@
+  {
+    "recordid" : "555f0b11c38371de98708209e150a2632209e3f8",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 513,
+      "insee_com" : "52004",
+      "z_moyen" : 348,
+      "code_dept" : "52",
+      "nom_comm" : "AINGOULAINCOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8690,
+      "y_centroid" : 68197,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.292424256747774,
+              48.44668089905247
+            ],
+            [
+              5.25807013369929,
+              48.45125461350403
+            ],
+            [
+              5.253181374869207,
+              48.46501834673412
+            ],
+            [
+              5.292809999827073,
+              48.4623334977245
+            ],
+            [
+              5.30138080240827,
+              48.45441859750674
+            ],
+            [
+              5.292424256747774,
+              48.44668089905247
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68197,
+      "code_cant" : "22",
+      "x_centroid" : 8683,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 19564,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.45623393147163,
+        5.276980516219043
+      ],
+      "code_comm" : "004",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.276980516219043,
+        48.45623393147163
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

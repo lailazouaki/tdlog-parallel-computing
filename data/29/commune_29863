@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1356905da8d019415db1c486300bbb04cfaff27f",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 332,
+      "insee_com" : "71074",
+      "z_moyen" : 220,
+      "code_dept" : "71",
+      "nom_comm" : "CHAINTRE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8354,
+      "y_centroid" : 65746,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.766520063443225,
+              46.25191063784035
+            ],
+            [
+              4.750260474503218,
+              46.25828662212081
+            ],
+            [
+              4.751738051952334,
+              46.26388426048714
+            ],
+            [
+              4.756830968871369,
+              46.26597646204018
+            ],
+            [
+              4.797106860685846,
+              46.25696212454656
+            ],
+            [
+              4.79780049589302,
+              46.25514974528964
+            ],
+            [
+              4.766520063443225,
+              46.25191063784035
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65749,
+      "code_cant" : "08",
+      "x_centroid" : 8363,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 25958,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        46.25824701434852,
+        4.770304553490679
+      ],
+      "code_comm" : "074",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.770304553490679,
+        46.25824701434852
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

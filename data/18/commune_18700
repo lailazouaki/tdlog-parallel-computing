@@ -1,0 +1,75 @@
+  {
+    "recordid" : "aef6af12238a249c8eaef11cac738b4b4adb27ab",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 363,
+      "insee_com" : "51422",
+      "z_moyen" : 143,
+      "code_dept" : "51",
+      "nom_comm" : "PARGNY-LES-REIMS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7674,
+      "y_centroid" : 69025,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.90333592849533,
+              49.20770128478981
+            ],
+            [
+              3.90103612847245,
+              49.21747344406293
+            ],
+            [
+              3.905496833516377,
+              49.2190493490714
+            ],
+            [
+              3.936874016674422,
+              49.2297242324709
+            ],
+            [
+              3.947180717236968,
+              49.22355702240186
+            ],
+            [
+              3.939815700903439,
+              49.22087250391472
+            ],
+            [
+              3.910681350650422,
+              49.20948911058987
+            ],
+            [
+              3.90333592849533,
+              49.20770128478981
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69025,
+      "code_cant" : "31",
+      "x_centroid" : 7671,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 18328,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.21913705905694,
+        3.921807305091723
+      ],
+      "code_comm" : "422",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.921807305091723,
+        49.21913705905694
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

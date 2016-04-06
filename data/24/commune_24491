@@ -1,0 +1,63 @@
+  {
+    "recordid" : "97c5c2c3b79cdae855a1308134d4f63c93b489c0",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 63,
+      "insee_com" : "57501",
+      "z_moyen" : 227,
+      "code_dept" : "57",
+      "nom_comm" : "NEUFVILLAGE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9768,
+      "y_centroid" : 68771,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.789350699274165,
+              48.94117229108398
+            ],
+            [
+              6.774814018526484,
+              48.92806400327493
+            ],
+            [
+              6.770618351303368,
+              48.92974468733159
+            ],
+            [
+              6.782287330368071,
+              48.93951395029911
+            ],
+            [
+              6.789350699274165,
+              48.94117229108398
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68774,
+      "code_cant" : "01",
+      "x_centroid" : 9767,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 25444,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.93446177127407,
+        6.779219250102002
+      ],
+      "code_comm" : "501",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.779219250102002,
+        48.93446177127407
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

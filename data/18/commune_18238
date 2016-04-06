@@ -1,0 +1,71 @@
+  {
+    "recordid" : "70aca14f9144708519faa07075e85bcf95a19671",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 847,
+      "insee_com" : "59341",
+      "z_moyen" : 99,
+      "code_dept" : "59",
+      "nom_comm" : "LESDAIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7191,
+      "y_centroid" : 69994,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.289065905408159,
+              50.06892606524442
+            ],
+            [
+              3.290745928046397,
+              50.06258124159378
+            ],
+            [
+              3.285800179026168,
+              50.06386822439772
+            ],
+            [
+              3.264709747481372,
+              50.08370129899052
+            ],
+            [
+              3.259408281704509,
+              50.11426591357403
+            ],
+            [
+              3.285320611386712,
+              50.1126547572694
+            ],
+            [
+              3.289065905408159,
+              50.06892606524442
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70002,
+      "code_cant" : "43",
+      "x_centroid" : 7197,
+      "nom_dept" : "NORD",
+      "id_geofla" : 17938,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.09262619244799,
+        3.275957474559277
+      ],
+      "code_comm" : "341",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.275957474559277,
+        50.09262619244799
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

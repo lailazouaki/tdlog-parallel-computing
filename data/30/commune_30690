@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e9b6794a5e8fd906fc375002ecf38c9ca0639fbc",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 705,
+      "insee_com" : "64467",
+      "z_moyen" : 268,
+      "code_dept" : "64",
+      "nom_comm" : "RONTIGNON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4295,
+      "y_centroid" : 62444,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.332996649957481,
+              43.23314480107247
+            ],
+            [
+              -0.339202598114591,
+              43.2293156713244
+            ],
+            [
+              -0.351179155764284,
+              43.22946662961665
+            ],
+            [
+              -0.357739273307321,
+              43.24338898478256
+            ],
+            [
+              -0.333242032740906,
+              43.27064515516243
+            ],
+            [
+              -0.331151215925201,
+              43.26943117502277
+            ],
+            [
+              -0.322130100870318,
+              43.25891400822562
+            ],
+            [
+              -0.332996649957481,
+              43.23314480107247
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62459,
+      "code_cant" : "48",
+      "x_centroid" : 4287,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 22354,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        43.24766465944801,
+        -0.3392944779783829
+      ],
+      "code_comm" : "467",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3392944779783829,
+        43.24766465944801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

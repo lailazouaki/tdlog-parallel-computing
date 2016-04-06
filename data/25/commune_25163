@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c8c580d3811ebd741dbb4af58795de4b2b33800b",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 489,
+      "insee_com" : "80562",
+      "z_moyen" : 73,
+      "code_dept" : "80",
+      "nom_comm" : "MONTIGNY-SUR-L'HALLUE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6600,
+      "y_centroid" : 69875,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.445584515847021,
+              49.97442086907274
+            ],
+            [
+              2.423987125612286,
+              49.97765370496962
+            ],
+            [
+              2.408421781843082,
+              49.98061559735796
+            ],
+            [
+              2.39899306413873,
+              49.99344157842629
+            ],
+            [
+              2.41050212975655,
+              49.99824918486348
+            ],
+            [
+              2.447778136703033,
+              49.98149106172442
+            ],
+            [
+              2.445584515847021,
+              49.97442086907274
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69869,
+      "code_cant" : "41",
+      "x_centroid" : 6585,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 33609,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.98546441666684,
+        2.422357649094109
+      ],
+      "code_comm" : "562",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.422357649094109,
+        49.98546441666684
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

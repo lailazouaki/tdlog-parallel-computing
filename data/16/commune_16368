@@ -1,0 +1,75 @@
+  {
+    "recordid" : "34becae9568cfea02081ba589a2eb5abfc7b8ed3",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 199,
+      "insee_com" : "95074",
+      "z_moyen" : 145,
+      "code_dept" : "95",
+      "nom_comm" : "BOISEMONT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6269,
+      "y_centroid" : 68803,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.007630934179341,
+              49.00823745946418
+            ],
+            [
+              2.004875435032896,
+              49.01007612465225
+            ],
+            [
+              1.991881552000498,
+              49.0210106286694
+            ],
+            [
+              1.991527537225337,
+              49.0237503864144
+            ],
+            [
+              2.009695424134133,
+              49.02686015006586
+            ],
+            [
+              2.011100673925122,
+              49.02056797486583
+            ],
+            [
+              2.013401252019025,
+              49.01390542112844
+            ],
+            [
+              2.007630934179341,
+              49.00823745946418
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68806,
+      "code_cant" : "39",
+      "x_centroid" : 6271,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 32642,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.01868665857393,
+        2.003842006064437
+      ],
+      "code_comm" : "074",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.003842006064437,
+        49.01868665857393
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

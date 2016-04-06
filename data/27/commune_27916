@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ababb75cd75f1b0708d449fdc218cf3b92fb4e2d",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 571,
+      "insee_com" : "51044",
+      "z_moyen" : 96,
+      "code_dept" : "51",
+      "nom_comm" : "BEAUMONT-SUR-VESLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7864,
+      "y_centroid" : 68976,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.184438850370063,
+              49.15841186814636
+            ],
+            [
+              4.159528401831821,
+              49.17066708144212
+            ],
+            [
+              4.175794342623444,
+              49.19129753813409
+            ],
+            [
+              4.180236095256378,
+              49.18514896290269
+            ],
+            [
+              4.200452637145093,
+              49.17145294199754
+            ],
+            [
+              4.184438850370063,
+              49.15841186814636
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68978,
+      "code_cant" : "30",
+      "x_centroid" : 7860,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 29620,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.17313706649533,
+        4.17941674928502
+      ],
+      "code_comm" : "044",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.17941674928502,
+        49.17313706649533
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

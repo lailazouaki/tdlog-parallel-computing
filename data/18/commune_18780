@@ -1,0 +1,67 @@
+  {
+    "recordid" : "aa009b1742d5c9a203ee6a5022fab6a0f527d200",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 977,
+      "insee_com" : "08404",
+      "z_moyen" : 89,
+      "code_dept" : "08",
+      "nom_comm" : "SAULT-SAINT-REMY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7842,
+      "y_centroid" : 69256,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.167347910105994,
+              49.40187963697449
+            ],
+            [
+              4.143169952012355,
+              49.40419601984217
+            ],
+            [
+              4.14177595537438,
+              49.44510053780937
+            ],
+            [
+              4.169412039624283,
+              49.44609525772497
+            ],
+            [
+              4.172466690623026,
+              49.42222677204659
+            ],
+            [
+              4.167347910105994,
+              49.40187963697449
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69258,
+      "code_cant" : "01",
+      "x_centroid" : 7839,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 19372,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.4246765801512,
+        4.156693103987515
+      ],
+      "code_comm" : "404",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.156693103987515,
+        49.4246765801512
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

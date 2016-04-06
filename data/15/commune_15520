@@ -1,0 +1,71 @@
+  {
+    "recordid" : "411e484005de78650dc141bda233f0aca90fcc50",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 210,
+      "insee_com" : "62629",
+      "z_moyen" : 99,
+      "code_dept" : "62",
+      "nom_comm" : "NOYELLETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6711,
+      "y_centroid" : 70222,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.597855545087526,
+              50.28712954395765
+            ],
+            [
+              2.583893233847425,
+              50.29616969095672
+            ],
+            [
+              2.581849095962061,
+              50.30606621036939
+            ],
+            [
+              2.586802414282017,
+              50.30723216667245
+            ],
+            [
+              2.599341186433993,
+              50.30126687457285
+            ],
+            [
+              2.600664364203075,
+              50.28814430176117
+            ],
+            [
+              2.597855545087526,
+              50.28712954395765
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70225,
+      "code_cant" : "08",
+      "x_centroid" : 6708,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24910,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.29785709581012,
+        2.591833416057349
+      ],
+      "code_comm" : "629",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.591833416057349,
+        50.29785709581012
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

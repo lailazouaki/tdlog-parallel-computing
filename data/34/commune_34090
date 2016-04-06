@@ -1,0 +1,75 @@
+  {
+    "recordid" : "47ccba2579d6e62d0e78688f69aaddf668c03887",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 349,
+      "insee_com" : "54124",
+      "z_moyen" : 267,
+      "code_dept" : "54",
+      "nom_comm" : "CHAZELLES-SUR-ALBE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9785,
+      "y_centroid" : 68385,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.769465433117361,
+              48.57495830440379
+            ],
+            [
+              6.758122100418769,
+              48.58557467450498
+            ],
+            [
+              6.756398213845395,
+              48.58897917358185
+            ],
+            [
+              6.758518986096032,
+              48.59696304152348
+            ],
+            [
+              6.782090576522602,
+              48.5977468666345
+            ],
+            [
+              6.783078495060172,
+              48.59450947462287
+            ],
+            [
+              6.782303470606866,
+              48.57890036406655
+            ],
+            [
+              6.769465433117361,
+              48.57495830440379
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68388,
+      "code_cant" : "06",
+      "x_centroid" : 9780,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 34722,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.58778700310796,
+        6.77089895621656
+      ],
+      "code_comm" : "124",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.77089895621656,
+        48.58778700310796
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

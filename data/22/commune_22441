@@ -1,0 +1,75 @@
+  {
+    "recordid" : "456707fc3d4012c9e3b54015ebbaea73c139e012",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 637,
+      "insee_com" : "06115",
+      "z_moyen" : 758,
+      "code_dept" : "06",
+      "nom_comm" : "SAINT-ANTONIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10195,
+      "y_centroid" : 63201,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.993028032172566,
+              43.90138069774193
+            ],
+            [
+              6.994038866992544,
+              43.89801867818867
+            ],
+            [
+              6.985139268463562,
+              43.89584809509387
+            ],
+            [
+              6.976700725752502,
+              43.8990304375064
+            ],
+            [
+              6.953002256385992,
+              43.89817955874668
+            ],
+            [
+              6.972670495470608,
+              43.92257840375346
+            ],
+            [
+              6.990231934184663,
+              43.9180631067877
+            ],
+            [
+              6.993028032172566,
+              43.90138069774193
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63204,
+      "code_cant" : "18",
+      "x_centroid" : 10193,
+      "nom_dept" : "ALPES-MARITIMES",
+      "id_geofla" : 6649,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.90784440062138,
+        6.976612689479731
+      ],
+      "code_comm" : "115",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.976612689479731,
+        43.90784440062138
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

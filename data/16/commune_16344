@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2b69ad3986c582e0ba6161b305ae88bfb53ecc7c",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 519,
+      "insee_com" : "02606",
+      "z_moyen" : 175,
+      "code_dept" : "02",
+      "nom_comm" : "LE PLESSIER-HULEU",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7251,
+      "y_centroid" : 69044,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.353010999476641,
+              49.22396513230763
+            ],
+            [
+              3.33906853358973,
+              49.22650440342834
+            ],
+            [
+              3.3335089997657,
+              49.24135346010037
+            ],
+            [
+              3.336739682595507,
+              49.25040632359427
+            ],
+            [
+              3.354741717323505,
+              49.25416642924328
+            ],
+            [
+              3.364714156270639,
+              49.23105045807436
+            ],
+            [
+              3.356518813734525,
+              49.22907018196409
+            ],
+            [
+              3.353010999476641,
+              49.22396513230763
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69043,
+      "code_cant" : "24",
+      "x_centroid" : 7253,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 32527,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.23887527555937,
+        3.348142661487943
+      ],
+      "code_comm" : "606",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.348142661487943,
+        49.23887527555937
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

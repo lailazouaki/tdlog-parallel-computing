@@ -1,0 +1,71 @@
+  {
+    "recordid" : "868f9b7c46894ad36df8fb9e34715a400430308d",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 453,
+      "insee_com" : "31012",
+      "z_moyen" : 702,
+      "code_dept" : "31",
+      "nom_comm" : "ARBON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5161,
+      "y_centroid" : 62139,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.7504692069344699,
+              42.99209443895528
+            ],
+            [
+              0.7122204936527869,
+              42.99605601918888
+            ],
+            [
+              0.71078216863723,
+              43.00236845776157
+            ],
+            [
+              0.721998823786719,
+              43.01140592421918
+            ],
+            [
+              0.746988680592893,
+              43.00469849278085
+            ],
+            [
+              0.7510892761917231,
+              42.99885520888208
+            ],
+            [
+              0.7504692069344699,
+              42.99209443895528
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62138,
+      "code_cant" : "01",
+      "x_centroid" : 5148,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 26465,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.00090409396148,
+        0.7310750646863703
+      ],
+      "code_comm" : "012",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7310750646863703,
+        43.00090409396148
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

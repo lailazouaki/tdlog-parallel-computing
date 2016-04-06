@@ -1,0 +1,71 @@
+  {
+    "recordid" : "371f5135d105da32c71b68d63e3449df43d19b0d",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 465,
+      "insee_com" : "38041",
+      "z_moyen" : 525,
+      "code_dept" : "38",
+      "nom_comm" : "BESSINS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8777,
+      "y_centroid" : 64586,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.274723077341613,
+              45.21755802852329
+            ],
+            [
+              5.27588867169091,
+              45.19520357718755
+            ],
+            [
+              5.262700885291907,
+              45.19327370155022
+            ],
+            [
+              5.248247845816707,
+              45.20133945313915
+            ],
+            [
+              5.247825477046392,
+              45.20445566517816
+            ],
+            [
+              5.251851574337656,
+              45.21076113005699
+            ],
+            [
+              5.274723077341613,
+              45.21755802852329
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64584,
+      "code_cant" : "30",
+      "x_centroid" : 8777,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 27935,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.20461214073575,
+        5.263840610301424
+      ],
+      "code_comm" : "041",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.263840610301424,
+        45.20461214073575
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

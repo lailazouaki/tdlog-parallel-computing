@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f97a06f2a58505ec9f7965bfb0dd2fdad82f9d22",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 653,
+      "insee_com" : "34104",
+      "z_moyen" : 301,
+      "code_dept" : "34",
+      "nom_comm" : "FOS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7198,
+      "y_centroid" : 62743,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.239123010199305,
+              43.54867768267964
+            ],
+            [
+              3.234997370203657,
+              43.55012626948321
+            ],
+            [
+              3.226029184621891,
+              43.57533815013292
+            ],
+            [
+              3.228701685655113,
+              43.58138790068728
+            ],
+            [
+              3.237043116743179,
+              43.58422224760101
+            ],
+            [
+              3.26428738992677,
+              43.57102295663945
+            ],
+            [
+              3.239123010199305,
+              43.54867768267964
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62741,
+      "code_cant" : "29",
+      "x_centroid" : 7195,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 13237,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.5681193831437,
+        3.242004448429866
+      ],
+      "code_comm" : "104",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.242004448429866,
+        43.5681193831437
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

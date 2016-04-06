@@ -1,0 +1,71 @@
+  {
+    "recordid" : "02fd74ce94344dc8a897e27bcf63e43d150ac1ca",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 435,
+      "insee_com" : "39250",
+      "z_moyen" : 448,
+      "code_dept" : "39",
+      "nom_comm" : "GERUGE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8934,
+      "y_centroid" : 66169,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.536442865643827,
+              46.60618152843485
+            ],
+            [
+              5.518630591061608,
+              46.6187005796678
+            ],
+            [
+              5.523486337555539,
+              46.63797182257844
+            ],
+            [
+              5.531532278057184,
+              46.64138891600129
+            ],
+            [
+              5.539473953489055,
+              46.6372312778249
+            ],
+            [
+              5.540599455662027,
+              46.6235307625003
+            ],
+            [
+              5.536442865643827,
+              46.60618152843485
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66172,
+      "code_cant" : "34",
+      "x_centroid" : 8936,
+      "nom_dept" : "JURA",
+      "id_geofla" : 16794,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.62505770497611,
+        5.530758655365887
+      ],
+      "code_comm" : "250",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.530758655365887,
+        46.62505770497611
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

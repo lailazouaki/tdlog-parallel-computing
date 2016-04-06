@@ -1,0 +1,63 @@
+  {
+    "recordid" : "7b7d2d28e067f5caae752c219e9b9053c192fc8f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 212,
+      "insee_com" : "51568",
+      "z_moyen" : 112,
+      "code_dept" : "51",
+      "nom_comm" : "THIL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7700,
+      "y_centroid" : 69136,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.960893800439958,
+              49.3107443922047
+            ],
+            [
+              3.95039415177987,
+              49.32222658727877
+            ],
+            [
+              3.969226697276238,
+              49.3254211471283
+            ],
+            [
+              3.979938589348374,
+              49.31443903740162
+            ],
+            [
+              3.960893800439958,
+              49.3107443922047
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69132,
+      "code_cant" : "05",
+      "x_centroid" : 7701,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 33279,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.3181688565241,
+        3.965085230394076
+      ],
+      "code_comm" : "568",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.965085230394076,
+        49.3181688565241
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

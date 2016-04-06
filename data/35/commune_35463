@@ -1,0 +1,67 @@
+  {
+    "recordid" : "68802103603b6228a898189ca28148a02b036ad2",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 95,
+      "insee_com" : "62880",
+      "z_moyen" : 53,
+      "code_dept" : "62",
+      "nom_comm" : "LE WAST",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6153,
+      "y_centroid" : 70732,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.803098351474212,
+              50.74484627140457
+            ],
+            [
+              1.801463636498297,
+              50.74518949012563
+            ],
+            [
+              1.788393898894583,
+              50.74932548229792
+            ],
+            [
+              1.795457927668285,
+              50.75379118045688
+            ],
+            [
+              1.805144667841953,
+              50.75392941693149
+            ],
+            [
+              1.803098351474212,
+              50.74484627140457
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70731,
+      "code_cant" : "21",
+      "x_centroid" : 6150,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 34553,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.75000479601524,
+        1.798289098381002
+      ],
+      "code_comm" : "880",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.798289098381002,
+        50.75000479601524
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

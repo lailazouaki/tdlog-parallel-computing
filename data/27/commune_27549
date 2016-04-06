@@ -1,0 +1,67 @@
+  {
+    "recordid" : "06af4647f308ddbaccb61044326768d7bc83f077",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 309,
+      "insee_com" : "69071",
+      "z_moyen" : 270,
+      "code_dept" : "69",
+      "nom_comm" : "CURIS-AU-MONT-D'OR",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8412,
+      "y_centroid" : 65315,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.813096417494802,
+              45.8547052915823
+            ],
+            [
+              4.807318850816293,
+              45.86918248323109
+            ],
+            [
+              4.819850304010626,
+              45.88164566931246
+            ],
+            [
+              4.831489422511368,
+              45.87950309408724
+            ],
+            [
+              4.818729222370753,
+              45.85665041112251
+            ],
+            [
+              4.813096417494802,
+              45.8547052915823
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65316,
+      "code_cant" : "25",
+      "x_centroid" : 8410,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 18804,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        45.86941613451452,
+        4.818442878684013
+      ],
+      "code_comm" : "071",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.818442878684013,
+        45.86941613451452
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

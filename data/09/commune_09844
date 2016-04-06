@@ -1,0 +1,67 @@
+  {
+    "recordid" : "cedbcf7c1f94fcdf0d54febdfa18726e8770a5e5",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 404,
+      "insee_com" : "39457",
+      "z_moyen" : 213,
+      "code_dept" : "39",
+      "nom_comm" : "LES REPOTS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8845,
+      "y_centroid" : 66233,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.422089954439315,
+              46.67303150187169
+            ],
+            [
+              5.395359314315539,
+              46.68505154004582
+            ],
+            [
+              5.408348938465717,
+              46.6984361955176
+            ],
+            [
+              5.415996611415943,
+              46.69110475030091
+            ],
+            [
+              5.432034921689988,
+              46.68703636256545
+            ],
+            [
+              5.422089954439315,
+              46.67303150187169
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66230,
+      "code_cant" : "04",
+      "x_centroid" : 8844,
+      "nom_dept" : "JURA",
+      "id_geofla" : 34245,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.68518130529662,
+        5.413825351995619
+      ],
+      "code_comm" : "457",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.413825351995619,
+        46.68518130529662
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

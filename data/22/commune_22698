@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5f99a8acec67e18475c4ffd83dd86e04c31f7f13",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 341,
+      "insee_com" : "68237",
+      "z_moyen" : 454,
+      "code_dept" : "68",
+      "nom_comm" : "NIEDERMORSCHWIHR",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10180,
+      "y_centroid" : 67863,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.277987983222899,
+              48.09530919315213
+            ],
+            [
+              7.258550335836987,
+              48.0946529736749
+            ],
+            [
+              7.23124622156554,
+              48.09956622693205
+            ],
+            [
+              7.251243825311095,
+              48.10850643135758
+            ],
+            [
+              7.279849984225439,
+              48.10301868622436
+            ],
+            [
+              7.283752232245941,
+              48.10086719034261
+            ],
+            [
+              7.277987983222899,
+              48.09530919315213
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67862,
+      "code_cant" : "12",
+      "x_centroid" : 10168,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 24673,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.10078032473726,
+        7.259094203964438
+      ],
+      "code_comm" : "237",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.259094203964438,
+        48.10078032473726
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

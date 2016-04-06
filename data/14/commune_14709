@@ -1,0 +1,67 @@
+  {
+    "recordid" : "347cbbba309f273119d3d7633bbcf0b3772b1240",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 575,
+      "insee_com" : "56216",
+      "z_moyen" : 79,
+      "code_dept" : "56",
+      "nom_comm" : "SAINT-GORGON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3071,
+      "y_centroid" : 67398,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.231571761917337,
+              47.62970620314706
+            ],
+            [
+              -2.243952273420199,
+              47.62695816772787
+            ],
+            [
+              -2.256412105787247,
+              47.62949149668218
+            ],
+            [
+              -2.244695597224156,
+              47.6582451324085
+            ],
+            [
+              -2.218416291773583,
+              47.65044766120888
+            ],
+            [
+              -2.231571761917337,
+              47.62970620314706
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67406,
+      "code_cant" : "01",
+      "x_centroid" : 3069,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 15951,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.6418423031391,
+        -2.238458777781365
+      ],
+      "code_comm" : "216",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.238458777781365,
+        47.6418423031391
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

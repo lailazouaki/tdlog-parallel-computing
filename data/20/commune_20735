@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a6d1ec273f41cffe832bb50e545fa53ad33a0400",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 486,
+      "insee_com" : "34112",
+      "z_moyen" : 108,
+      "code_dept" : "34",
+      "nom_comm" : "GARRIGUES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7816,
+      "y_centroid" : 63004,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.01233720237084,
+              43.7862426141217
+            ],
+            [
+              3.99878933241526,
+              43.78723155993004
+            ],
+            [
+              3.996040156179657,
+              43.78986656681998
+            ],
+            [
+              4.002383994104582,
+              43.80166978560582
+            ],
+            [
+              3.995606109260761,
+              43.80989450914596
+            ],
+            [
+              4.00134078085612,
+              43.81305485546586
+            ],
+            [
+              4.031510067471371,
+              43.79893219819254
+            ],
+            [
+              4.01233720237084,
+              43.7862426141217
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63000,
+      "code_cant" : "09",
+      "x_centroid" : 7813,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 25494,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.79832395121759,
+        4.010490875178402
+      ],
+      "code_comm" : "112",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.010490875178402,
+        43.79832395121759
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

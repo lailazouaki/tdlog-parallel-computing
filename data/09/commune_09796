@@ -1,0 +1,63 @@
+  {
+    "recordid" : "173f20a82f3b9196af2a9f398f7e587257fe6d44",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 147,
+      "insee_com" : "39236",
+      "z_moyen" : 213,
+      "code_dept" : "39",
+      "nom_comm" : "FRANCHEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8904,
+      "y_centroid" : 66404,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.516797253461417,
+              46.83111092908803
+            ],
+            [
+              5.489261005678529,
+              46.83371903995868
+            ],
+            [
+              5.495917670934666,
+              46.84429468974736
+            ],
+            [
+              5.512721106588707,
+              46.83774915565989
+            ],
+            [
+              5.516797253461417,
+              46.83111092908803
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66405,
+      "code_cant" : "07",
+      "x_centroid" : 8906,
+      "nom_dept" : "JURA",
+      "id_geofla" : 12269,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.83666465007107,
+        5.502345415808903
+      ],
+      "code_comm" : "236",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.502345415808903,
+        46.83666465007107
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

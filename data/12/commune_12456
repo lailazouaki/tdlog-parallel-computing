@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5a98830de1a5b8fdf15b34cae3f0b85e2dfd454f",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 274,
+      "insee_com" : "69147",
+      "z_moyen" : 359,
+      "code_dept" : "69",
+      "nom_comm" : "LES OLMES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8176,
+      "y_centroid" : 65327,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.538336571930611,
+              45.87698251718832
+            ],
+            [
+              4.518311414088574,
+              45.8774604227741
+            ],
+            [
+              4.504996533412854,
+              45.88474465902097
+            ],
+            [
+              4.507613589866763,
+              45.88706950953043
+            ],
+            [
+              4.533936385092858,
+              45.89263278009368
+            ],
+            [
+              4.538336571930611,
+              45.87698251718832
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65326,
+      "code_cant" : "29",
+      "x_centroid" : 8181,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 22177,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        45.88397223317162,
+        4.523969237936353
+      ],
+      "code_comm" : "147",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.523969237936353,
+        45.88397223317162
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

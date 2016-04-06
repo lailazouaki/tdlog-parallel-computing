@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b6148a096d71cfa68bc536a0d2feecd39f799b61",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 423,
+      "insee_com" : "63458",
+      "z_moyen" : 519,
+      "code_dept" : "63",
+      "nom_comm" : "VILLENEUVE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7147,
+      "y_centroid" : 64864,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.189830483124257,
+              45.46634002126964
+            ],
+            [
+              3.176453003977308,
+              45.46891917494342
+            ],
+            [
+              3.170103048830935,
+              45.47233273911604
+            ],
+            [
+              3.176924413183036,
+              45.48433441744011
+            ],
+            [
+              3.185306355702849,
+              45.48732845590921
+            ],
+            [
+              3.208210746291575,
+              45.48441581698696
+            ],
+            [
+              3.189830483124257,
+              45.46634002126964
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64860,
+      "code_cant" : "40",
+      "x_centroid" : 7146,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 15025,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.4775997565117,
+        3.187460369052436
+      ],
+      "code_comm" : "458",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.187460369052436,
+        45.4775997565117
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

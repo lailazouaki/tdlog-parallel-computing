@@ -1,0 +1,63 @@
+  {
+    "recordid" : "95f2273e905fb8ce8bc9fb3302c2f78bd65e86bc",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 273,
+      "insee_com" : "30314",
+      "z_moyen" : 115,
+      "code_dept" : "30",
+      "nom_comm" : "SAVIGNARGUES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7869,
+      "y_centroid" : 63192,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.093194238180304,
+              43.95784019659921
+            ],
+            [
+              4.069078599328741,
+              43.96018484748101
+            ],
+            [
+              4.070035200017578,
+              43.97331630785382
+            ],
+            [
+              4.086010437874699,
+              43.97645302204857
+            ],
+            [
+              4.093194238180304,
+              43.95784019659921
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63187,
+      "code_cant" : "31",
+      "x_centroid" : 7866,
+      "nom_dept" : "GARD",
+      "id_geofla" : 15284,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.9664958936991,
+        4.080262232696467
+      ],
+      "code_comm" : "314",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.080262232696467,
+        43.9664958936991
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

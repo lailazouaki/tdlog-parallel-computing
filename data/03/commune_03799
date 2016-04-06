@@ -1,0 +1,71 @@
+  {
+    "recordid" : "be31f3d49364c84e147783161b56d42e6e221a79",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 206,
+      "insee_com" : "25215",
+      "z_moyen" : 354,
+      "code_dept" : "25",
+      "nom_comm" : "L'ECOUVOTTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9454,
+      "y_centroid" : 66987,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.261125136151312,
+              47.33667689532181
+            ],
+            [
+              6.246043887061357,
+              47.33780232926103
+            ],
+            [
+              6.241077180397395,
+              47.34334699300845
+            ],
+            [
+              6.249442339492052,
+              47.35058234560066
+            ],
+            [
+              6.258170046684614,
+              47.3506531367626
+            ],
+            [
+              6.260795809993011,
+              47.35110200674811
+            ],
+            [
+              6.261125136151312,
+              47.33667689532181
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66984,
+      "code_cant" : "24",
+      "x_centroid" : 9455,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 2954,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.34368198206172,
+        6.252753549580485
+      ],
+      "code_comm" : "215",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.252753549580485,
+        47.34368198206172
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

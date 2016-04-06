@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4a7a5fa85bf54a7f6f9aef62f8044554b160b10d",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 723,
+      "insee_com" : "62819",
+      "z_moyen" : 27,
+      "code_dept" : "62",
+      "nom_comm" : "TILQUES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6437,
+      "y_centroid" : 70754,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.186260717806905,
+              50.75622374769479
+            ],
+            [
+              2.171031931256795,
+              50.76695372738394
+            ],
+            [
+              2.194940339281445,
+              50.78123387203529
+            ],
+            [
+              2.210993777674707,
+              50.78366951214093
+            ],
+            [
+              2.228733972351128,
+              50.79155989172123
+            ],
+            [
+              2.231805272424251,
+              50.78513653603126
+            ],
+            [
+              2.210257778878228,
+              50.76483088582788
+            ],
+            [
+              2.186260717806905,
+              50.75622374769479
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70759,
+      "code_cant" : "41",
+      "x_centroid" : 6435,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 18124,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        50.77281223906864,
+        2.2015246318803
+      ],
+      "code_comm" : "819",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.2015246318803,
+        50.77281223906864
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

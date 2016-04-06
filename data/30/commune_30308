@@ -1,0 +1,67 @@
+  {
+    "recordid" : "498bdca4cc20c0a695fbfe48f375b6889d0a6e9a",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 439,
+      "insee_com" : "89204",
+      "z_moyen" : 248,
+      "code_dept" : "89",
+      "nom_comm" : "L'ISLE-SUR-SEREIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7754,
+      "y_centroid" : 67213,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.020644152028447,
+              47.57670537052544
+            ],
+            [
+              4.004421410541261,
+              47.57851150880033
+            ],
+            [
+              4.000726113840065,
+              47.59430565370042
+            ],
+            [
+              4.004996036410584,
+              47.5927926543951
+            ],
+            [
+              4.042087173436864,
+              47.59842669631789
+            ],
+            [
+              4.020644152028447,
+              47.57670537052544
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67212,
+      "code_cant" : "18",
+      "x_centroid" : 7765,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 25662,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.7,
+      "geom_x_y" : [
+        47.58768218891895,
+        4.018380477279567
+      ],
+      "code_comm" : "204",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.018380477279567,
+        47.58768218891895
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

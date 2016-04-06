@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d22a7d2bc006d1ee475f43e58c1fef058de1e133",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 245,
+      "insee_com" : "68285",
+      "z_moyen" : 235,
+      "code_dept" : "68",
+      "nom_comm" : "RORSCHWIHR",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10238,
+      "y_centroid" : 67999,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.382845578835107,
+              48.21946029002016
+            ],
+            [
+              7.377650089566804,
+              48.2145434806555
+            ],
+            [
+              7.3630740920383,
+              48.2127492055227
+            ],
+            [
+              7.347606917931436,
+              48.21975416398444
+            ],
+            [
+              7.3617605811176,
+              48.22604471758306
+            ],
+            [
+              7.382845578835107,
+              48.21946029002016
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67997,
+      "code_cant" : "20",
+      "x_centroid" : 10240,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 12500,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.21900377704485,
+        7.365499433213129
+      ],
+      "code_comm" : "285",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.365499433213129,
+        48.21900377704485
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

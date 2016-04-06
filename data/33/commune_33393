@@ -1,0 +1,71 @@
+  {
+    "recordid" : "aa8a3b3c515f6a6b263b3ab487edf9855b93b092",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 67,
+      "insee_com" : "50030",
+      "z_moyen" : 4,
+      "code_dept" : "50",
+      "nom_comm" : "BARFLEUR",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3921,
+      "y_centroid" : 69604,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.272684465969699,
+              49.6658875122061
+            ],
+            [
+              -1.26193074579752,
+              49.67327513977784
+            ],
+            [
+              -1.258956344132339,
+              49.67319041770018
+            ],
+            [
+              -1.262742072398903,
+              49.66986315396542
+            ],
+            [
+              -1.256550394675263,
+              49.66993616335442
+            ],
+            [
+              -1.256472763959923,
+              49.66683430906631
+            ],
+            [
+              -1.272684465969699,
+              49.6658875122061
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69606,
+      "code_cant" : "30",
+      "x_centroid" : 3922,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 2337,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.66873217435546,
+        -1.263309670656779
+      ],
+      "code_comm" : "030",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.263309670656779,
+        49.66873217435546
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a96ad98f607f4a89ac16c275b9bbd187afeee88e",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 322,
+      "insee_com" : "26042",
+      "z_moyen" : 142,
+      "code_dept" : "26",
+      "nom_comm" : "BEAUVALLON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8506,
+      "y_centroid" : 64192,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.911384679856297,
+              44.84756298457931
+            ],
+            [
+              4.898105174952041,
+              44.84795301407424
+            ],
+            [
+              4.888168984943656,
+              44.85365214551432
+            ],
+            [
+              4.909733866396304,
+              44.86677417105387
+            ],
+            [
+              4.914509098082011,
+              44.86679999369242
+            ],
+            [
+              4.917081736939009,
+              44.8568399608552
+            ],
+            [
+              4.911384679856297,
+              44.84756298457931
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64193,
+      "code_cant" : "34",
+      "x_centroid" : 8504,
+      "nom_dept" : "DROME",
+      "id_geofla" : 35862,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        44.85605244545553,
+        4.905202285566528
+      ],
+      "code_comm" : "042",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.905202285566528,
+        44.85605244545553
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

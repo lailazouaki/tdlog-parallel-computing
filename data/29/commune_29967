@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c1109c27c120d1ec818fe724cea94a95beca1f32",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 486,
+      "insee_com" : "65133",
+      "z_moyen" : 264,
+      "code_dept" : "65",
+      "nom_comm" : "CASTERA-LOU",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4684,
+      "y_centroid" : 62511,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.13906300235089,
+              43.31259615509416
+            ],
+            [
+              0.133754926900299,
+              43.31646128060004
+            ],
+            [
+              0.137572267108247,
+              43.32796762685753
+            ],
+            [
+              0.157089155934241,
+              43.3272673551821
+            ],
+            [
+              0.173797346029582,
+              43.33429460977814
+            ],
+            [
+              0.174969323093905,
+              43.32422541180236
+            ],
+            [
+              0.174746935470504,
+              43.31895367979334
+            ],
+            [
+              0.13906300235089,
+              43.31259615509416
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62512,
+      "code_cant" : "17",
+      "x_centroid" : 4691,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 27895,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.32226654438799,
+        0.155031547360732
+      ],
+      "code_comm" : "133",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.155031547360732,
+        43.32226654438799
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

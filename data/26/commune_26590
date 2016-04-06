@@ -1,0 +1,75 @@
+  {
+    "recordid" : "14ffc1910f6c4b876cc9c4109bdacb0b95b3f828",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 273,
+      "insee_com" : "39567",
+      "z_moyen" : 308,
+      "code_dept" : "39",
+      "nom_comm" : "VILLENEUVE-SOUS-PYMONT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8948,
+      "y_centroid" : 66248,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.544405230750309,
+              46.68447264189624
+            ],
+            [
+              5.539361454845658,
+              46.69979129343223
+            ],
+            [
+              5.553515675373856,
+              46.70339599222915
+            ],
+            [
+              5.567830989843025,
+              46.69984231747052
+            ],
+            [
+              5.563009888232937,
+              46.68813945577898
+            ],
+            [
+              5.557484585533111,
+              46.69174020914151
+            ],
+            [
+              5.552789956374162,
+              46.68656557996977
+            ],
+            [
+              5.544405230750309,
+              46.68447264189624
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66243,
+      "code_cant" : "15",
+      "x_centroid" : 8950,
+      "nom_dept" : "JURA",
+      "id_geofla" : 20008,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.6949967041209,
+        5.552773196965322
+      ],
+      "code_comm" : "567",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.552773196965322,
+        46.6949967041209
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

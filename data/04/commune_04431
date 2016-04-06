@@ -1,0 +1,71 @@
+  {
+    "recordid" : "59f3c64ebbff20537397ecddeda4dad959eebab2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 220,
+      "insee_com" : "09303",
+      "z_moyen" : 607,
+      "code_dept" : "09",
+      "nom_comm" : "SURBA",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5834,
+      "y_centroid" : 61966,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.599563079625741,
+              42.85548662755703
+            ],
+            [
+              1.590997425550102,
+              42.8538275833509
+            ],
+            [
+              1.564720482248884,
+              42.8575985050765
+            ],
+            [
+              1.567909734172175,
+              42.86261469573435
+            ],
+            [
+              1.577521854025449,
+              42.86650194783733
+            ],
+            [
+              1.590667353590696,
+              42.86289795583004
+            ],
+            [
+              1.599563079625741,
+              42.85548662755703
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61965,
+      "code_cant" : "18",
+      "x_centroid" : 5839,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 12164,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        42.85962891805815,
+        1.58162900809573
+      ],
+      "code_comm" : "303",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.58162900809573,
+        42.85962891805815
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

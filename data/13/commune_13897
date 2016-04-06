@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9941df4e444b128dc93d840a8b21aedc6e028474",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 242,
+      "insee_com" : "73137",
+      "z_moyen" : 408,
+      "code_dept" : "73",
+      "nom_comm" : "JACOB-BELLECOMBETTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9272,
+      "y_centroid" : 64988,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.926862485699917,
+              45.54090022156377
+            ],
+            [
+              5.907380752985968,
+              45.55085856443087
+            ],
+            [
+              5.903438878357789,
+              45.55738522930377
+            ],
+            [
+              5.915721500476483,
+              45.56069852272549
+            ],
+            [
+              5.930008267731857,
+              45.54801792779836
+            ],
+            [
+              5.926862485699917,
+              45.54090022156377
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64993,
+      "code_cant" : "37",
+      "x_centroid" : 9275,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 26583,
+      "statut" : "Commune simple",
+      "population" : 4,
+      "geom_x_y" : [
+        45.55156133325957,
+        5.91732209829774
+      ],
+      "code_comm" : "137",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.91732209829774,
+        45.55156133325957
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

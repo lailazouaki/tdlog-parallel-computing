@@ -1,0 +1,71 @@
+  {
+    "recordid" : "119077428a748d0b84312fa1ace581f9f4e66174",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 261,
+      "insee_com" : "2B134",
+      "z_moyen" : 36,
+      "code_dept" : "2B",
+      "nom_comm" : "L'ILE-ROUSSE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 11871,
+      "y_centroid" : 61885,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.935265811531812,
+              42.62206092180055
+            ],
+            [
+              8.923397732037659,
+              42.62611923937509
+            ],
+            [
+              8.924268745785714,
+              42.63803484920837
+            ],
+            [
+              8.935515778352377,
+              42.64067383194896
+            ],
+            [
+              8.940433360126697,
+              42.63561280436561
+            ],
+            [
+              8.948379084029517,
+              42.63354742196347
+            ],
+            [
+              8.935265811531812,
+              42.62206092180055
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61889,
+      "code_cant" : "20",
+      "x_centroid" : 11868,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 26977,
+      "statut" : "Chef-lieu canton",
+      "population" : 3.1,
+      "geom_x_y" : [
+        42.63154509599418,
+        8.933559706721507
+      ],
+      "code_comm" : "134",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        8.933559706721507,
+        42.63154509599418
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

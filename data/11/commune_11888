@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ce1ae669b711d6d9cd783167e7ced9fe21c71627",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 182,
+      "insee_com" : "74199",
+      "z_moyen" : 396,
+      "code_dept" : "74",
+      "nom_comm" : "NERNIER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9539,
+      "y_centroid" : 65899,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.31821211486867,
+              46.36431582734199
+            ],
+            [
+              6.304139659432241,
+              46.35485581851384
+            ],
+            [
+              6.299080179600465,
+              46.35448866572133
+            ],
+            [
+              6.291411528559597,
+              46.35899132971674
+            ],
+            [
+              6.302637551336342,
+              46.36618308910965
+            ],
+            [
+              6.315959063301583,
+              46.36880658694694
+            ],
+            [
+              6.31821211486867,
+              46.36431582734199
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65903,
+      "code_cant" : "12",
+      "x_centroid" : 9540,
+      "nom_dept" : "HAUTE-SAVOIE",
+      "id_geofla" : 36510,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        46.3615754636992,
+        6.305270664314462
+      ],
+      "code_comm" : "199",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.305270664314462,
+        46.3615754636992
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

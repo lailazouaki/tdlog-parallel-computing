@@ -1,0 +1,63 @@
+  {
+    "recordid" : "43a6ab0c90440bfddf3e7ee0ff264226de8b06bf",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 172,
+      "insee_com" : "73018",
+      "z_moyen" : 306,
+      "code_dept" : "73",
+      "nom_comm" : "ARBIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9394,
+      "y_centroid" : 64948,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.073477858975873,
+              45.50350583614903
+            ],
+            [
+              6.063847281934109,
+              45.50919404576744
+            ],
+            [
+              6.07427965810277,
+              45.51983075984393
+            ],
+            [
+              6.085828710869471,
+              45.50967328216528
+            ],
+            [
+              6.073477858975873,
+              45.50350583614903
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64945,
+      "code_cant" : "18",
+      "x_centroid" : 9400,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 9034,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        45.51093119699109,
+        6.074555217121715
+      ],
+      "code_comm" : "018",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.074555217121715,
+        45.51093119699109
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

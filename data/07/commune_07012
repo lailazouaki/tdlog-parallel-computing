@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4502735cc97ca76de6a1ba8f3d70c77607ca08ed",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 518,
+      "insee_com" : "76461",
+      "z_moyen" : 192,
+      "code_dept" : "76",
+      "nom_comm" : "NEUFBOSC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5817,
+      "y_centroid" : 69509,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.372608294365214,
+              49.63454460655209
+            ],
+            [
+              1.358113547720453,
+              49.63429576229537
+            ],
+            [
+              1.346302864620606,
+              49.64479538397181
+            ],
+            [
+              1.335891338496701,
+              49.65298510201684
+            ],
+            [
+              1.36840531324811,
+              49.65834198774393
+            ],
+            [
+              1.379230723584771,
+              49.64524777125581
+            ],
+            [
+              1.38226556497413,
+              49.64250196076031
+            ],
+            [
+              1.372608294365214,
+              49.63454460655209
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69508,
+      "code_cant" : "49",
+      "x_centroid" : 5815,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 29246,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.64627992459279,
+        1.361327106572146
+      ],
+      "code_comm" : "461",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.361327106572146,
+        49.64627992459279
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "be61d511cf92ab64cbe97eaa5196c8cc9f9b6fd2",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 619,
+      "insee_com" : "89146",
+      "z_moyen" : 256,
+      "code_dept" : "89",
+      "nom_comm" : "DOMECY-SUR-LE-VAULT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7609,
+      "y_centroid" : 67102,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.818246860725462,
+              47.47487658502835
+            ],
+            [
+              3.810254220407459,
+              47.47578767333131
+            ],
+            [
+              3.789736992032415,
+              47.48998991930878
+            ],
+            [
+              3.790920889004393,
+              47.49460895733223
+            ],
+            [
+              3.808349957585219,
+              47.50531882118435
+            ],
+            [
+              3.822259921524886,
+              47.49669652782435
+            ],
+            [
+              3.829672103545783,
+              47.4847161536423
+            ],
+            [
+              3.818246860725462,
+              47.47487658502835
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67104,
+      "code_cant" : "05",
+      "x_centroid" : 7610,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 12866,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.48956962102925,
+        3.810255050674642
+      ],
+      "code_comm" : "146",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.810255050674642,
+        47.48956962102925
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

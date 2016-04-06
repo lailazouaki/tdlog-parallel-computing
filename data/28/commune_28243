@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bd61fe27eb9e023d44dc646625b70879037aeb34",
+    "fields" : {
+      "nom_region" : "LIMOUSIN",
+      "superficie" : 758,
+      "insee_com" : "19221",
+      "z_moyen" : 356,
+      "code_dept" : "19",
+      "nom_comm" : "SAINT-MARTIAL-ENTRAYGUES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6192,
+      "y_centroid" : 64480,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.959615500938132,
+              45.1088477817991
+            ],
+            [
+              1.949382810434043,
+              45.13706302582779
+            ],
+            [
+              1.960540458143933,
+              45.14254344412229
+            ],
+            [
+              1.974961633783631,
+              45.14157828138867
+            ],
+            [
+              1.985331356590807,
+              45.12966966680231
+            ],
+            [
+              1.993941798631973,
+              45.12622679284659
+            ],
+            [
+              1.983321025449507,
+              45.11850343900059
+            ],
+            [
+              1.959615500938132,
+              45.1088477817991
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64473,
+      "code_cant" : "01",
+      "x_centroid" : 6189,
+      "nom_dept" : "CORREZE",
+      "id_geofla" : 21418,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.12730040650908,
+        1.968615829671798
+      ],
+      "code_comm" : "221",
+      "code_reg" : "74"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.968615829671798,
+        45.12730040650908
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

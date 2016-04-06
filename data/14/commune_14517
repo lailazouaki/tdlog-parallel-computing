@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6c4f964cccff64687320ec31440b3ea49c252e95",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 174,
+      "insee_com" : "25210",
+      "z_moyen" : 359,
+      "code_dept" : "25",
+      "nom_comm" : "ECHENANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9779,
+      "y_centroid" : 67206,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.681789756681042,
+              47.52012715715934
+            ],
+            [
+              6.681378248613842,
+              47.52149185839165
+            ],
+            [
+              6.68878750790952,
+              47.53324250206867
+            ],
+            [
+              6.703928642330017,
+              47.53226651163579
+            ],
+            [
+              6.701000411146994,
+              47.5249522213894
+            ],
+            [
+              6.681789756681042,
+              47.52012715715934
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67204,
+      "code_cant" : "30",
+      "x_centroid" : 9777,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 8257,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.52738333103683,
+        6.692661767072423
+      ],
+      "code_comm" : "210",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.692661767072423,
+        47.52738333103683
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

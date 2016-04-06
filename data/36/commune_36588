@@ -1,0 +1,67 @@
+  {
+    "recordid" : "26f4edaddefe06ba188666ef0fd7f93b1ee7eae3",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 109,
+      "insee_com" : "43002",
+      "z_moyen" : 649,
+      "code_dept" : "43",
+      "nom_comm" : "AIGUILHE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7696,
+      "y_centroid" : 64397,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.895251177626527,
+              45.05060563943579
+            ],
+            [
+              3.881580092005416,
+              45.04880573799625
+            ],
+            [
+              3.876672041299832,
+              45.05416609169978
+            ],
+            [
+              3.877914748407197,
+              45.05726283610942
+            ],
+            [
+              3.891193471287576,
+              45.05584274976842
+            ],
+            [
+              3.895251177626527,
+              45.05060563943579
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64394,
+      "code_cant" : "19",
+      "x_centroid" : 7696,
+      "nom_dept" : "HAUTE-LOIRE",
+      "id_geofla" : 4846,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        45.05306931989762,
+        3.885247291374817
+      ],
+      "code_comm" : "002",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.885247291374817,
+        45.05306931989762
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

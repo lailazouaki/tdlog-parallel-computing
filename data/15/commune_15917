@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ae44f462e2c340b3e1102f0a3ddbf4f8abe04b99",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 319,
+      "insee_com" : "51337",
+      "z_moyen" : 124,
+      "code_dept" : "51",
+      "nom_comm" : "MAGNEUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7524,
+      "y_centroid" : 69114,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.709484932049465,
+              49.29077296273393
+            ],
+            [
+              3.717468588067551,
+              49.29857383598888
+            ],
+            [
+              3.720031914790214,
+              49.31087441973537
+            ],
+            [
+              3.742595542829001,
+              49.30902975194925
+            ],
+            [
+              3.737713604939889,
+              49.30414232523479
+            ],
+            [
+              3.73850745649049,
+              49.29524662654855
+            ],
+            [
+              3.732275879617248,
+              49.29198533436396
+            ],
+            [
+              3.709484932049465,
+              49.29077296273393
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69120,
+      "code_cant" : "14",
+      "x_centroid" : 7528,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 22004,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.30053449857388,
+        3.727116551619244
+      ],
+      "code_comm" : "337",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.727116551619244,
+        49.30053449857388
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "601e0e26fca2f27411636de4e55e03b5528a894c",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 596,
+      "insee_com" : "75120",
+      "z_moyen" : 80,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-20E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6559,
+      "y_centroid" : 68627,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.415973775474602,
+              48.84662836539803
+            ],
+            [
+              2.399114284416081,
+              48.84810075930868
+            ],
+            [
+              2.377012647123743,
+              48.87191931652078
+            ],
+            [
+              2.410694436897796,
+              48.87847512664253
+            ],
+            [
+              2.41326361312058,
+              48.87311874519013
+            ],
+            [
+              2.415319163395038,
+              48.85517798814065
+            ],
+            [
+              2.416339717281352,
+              48.8492382734074
+            ],
+            [
+              2.415973775474602,
+              48.84662836539803
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68629,
+      "code_cant" : "34",
+      "x_centroid" : 6560,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 36585,
+      "statut" : "Chef-lieu canton",
+      "population" : 197.1,
+      "geom_x_y" : [
+        48.86318677744552,
+        2.40081982672902
+      ],
+      "code_comm" : "120",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.40081982672902,
+        48.86318677744552
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

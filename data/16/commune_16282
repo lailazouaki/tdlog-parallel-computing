@@ -1,0 +1,79 @@
+  {
+    "recordid" : "382af4fe0bb11de4ecb6dc0e12a2bd5baf3e245f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 260,
+      "insee_com" : "14587",
+      "z_moyen" : 71,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-GERMAIN-LA-BLANCHE-HERBE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4514,
+      "y_centroid" : 69049,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.402112005007082,
+              49.2007368923335
+            ],
+            [
+              -0.410893452389562,
+              49.19375747565819
+            ],
+            [
+              -0.408195556525442,
+              49.18802969480983
+            ],
+            [
+              -0.412775132044469,
+              49.18877284614085
+            ],
+            [
+              -0.443481423469174,
+              49.19383777856148
+            ],
+            [
+              -0.440903593492119,
+              49.19925678055665
+            ],
+            [
+              -0.415983257554392,
+              49.19785158045988
+            ],
+            [
+              -0.41323335443215,
+              49.20424661366641
+            ],
+            [
+              -0.402112005007082,
+              49.2007368923335
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69042,
+      "code_cant" : "09",
+      "x_centroid" : 4506,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 16073,
+      "statut" : "Commune simple",
+      "population" : 2.4,
+      "geom_x_y" : [
+        49.19559835904856,
+        -0.42159582439301
+      ],
+      "code_comm" : "587",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.42159582439301,
+        49.19559835904856
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

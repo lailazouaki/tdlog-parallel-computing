@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fc181c86c192f986b8d8e58661a470318d178549",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 466,
+      "insee_com" : "90007",
+      "z_moyen" : 389,
+      "code_dept" : "90",
+      "nom_comm" : "BANVILLARS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9865,
+      "y_centroid" : 67280,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.82010917272629,
+              47.57549393444955
+            ],
+            [
+              6.8041069708911,
+              47.58304623896036
+            ],
+            [
+              6.802326784978803,
+              47.58965577495771
+            ],
+            [
+              6.791301854651416,
+              47.59628673217695
+            ],
+            [
+              6.793286288514349,
+              47.59927713555868
+            ],
+            [
+              6.800826603749091,
+              47.60020320507677
+            ],
+            [
+              6.834110666811208,
+              47.59855525366321
+            ],
+            [
+              6.82010917272629,
+              47.57549393444955
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67282,
+      "code_cant" : "10",
+      "x_centroid" : 9865,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 28762,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.5908010250176,
+        6.813870821159578
+      ],
+      "code_comm" : "007",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.813870821159578,
+        47.5908010250176
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

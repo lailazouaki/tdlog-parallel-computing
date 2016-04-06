@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b153cb5e90c2dc77343ddde9d3d37f9393796efa",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 294,
+      "insee_com" : "65270",
+      "z_moyen" : 332,
+      "code_dept" : "65",
+      "nom_comm" : "LESPOUEY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4698,
+      "y_centroid" : 62389,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.149224147696494,
+              43.20636192050709
+            ],
+            [
+              0.151770129362801,
+              43.21411590984882
+            ],
+            [
+              0.192776714309614,
+              43.21861971463797
+            ],
+            [
+              0.193415440003672,
+              43.21662015589205
+            ],
+            [
+              0.193485375809242,
+              43.21113152527063
+            ],
+            [
+              0.183709204001339,
+              43.20922968335925
+            ],
+            [
+              0.149224147696494,
+              43.20636192050709
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62387,
+      "code_cant" : "23",
+      "x_centroid" : 4701,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 23745,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.21232923783072,
+        0.1721547450185888
+      ],
+      "code_comm" : "270",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1721547450185888,
+        43.21232923783072
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

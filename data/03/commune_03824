@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f3954f765365c7056cc6c48304aac904bcb5b25c",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 400,
+      "insee_com" : "59472",
+      "z_moyen" : 152,
+      "code_dept" : "59",
+      "nom_comm" : "PREUX-AU-BOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7470,
+      "y_centroid" : 70075,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.665973170556329,
+              50.14955553370467
+            ],
+            [
+              3.649635004932001,
+              50.15721363400592
+            ],
+            [
+              3.634283402317814,
+              50.17036936544704
+            ],
+            [
+              3.645803131748677,
+              50.172446721505
+            ],
+            [
+              3.661348221893655,
+              50.17752778474861
+            ],
+            [
+              3.668723464526173,
+              50.16522964742048
+            ],
+            [
+              3.665973170556329,
+              50.14955553370467
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70074,
+      "code_cant" : "32",
+      "x_centroid" : 7468,
+      "nom_dept" : "NORD",
+      "id_geofla" : 14592,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        50.16471381459866,
+        3.655363826397737
+      ],
+      "code_comm" : "472",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.655363826397737,
+        50.16471381459866
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

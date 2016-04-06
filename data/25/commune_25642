@@ -1,0 +1,71 @@
+  {
+    "recordid" : "089363ed3fea411581e3c19f897f0c6af45059cf",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 830,
+      "insee_com" : "08153",
+      "z_moyen" : 250,
+      "code_dept" : "08",
+      "nom_comm" : "ESCOMBRES-ET-LE-CHESNOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8532,
+      "y_centroid" : 69574,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.109228740635993,
+              49.68007455191503
+            ],
+            [
+              5.106280118152741,
+              49.69292554351969
+            ],
+            [
+              5.12307318550246,
+              49.7173073153963
+            ],
+            [
+              5.143643411618689,
+              49.7093066328348
+            ],
+            [
+              5.146323730519004,
+              49.69587530021194
+            ],
+            [
+              5.13091010913015,
+              49.68211472622379
+            ],
+            [
+              5.109228740635993,
+              49.68007455191503
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69571,
+      "code_cant" : "27",
+      "x_centroid" : 8534,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 31544,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.69728039901342,
+        5.126097219081897
+      ],
+      "code_comm" : "153",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.126097219081897,
+        49.69728039901342
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

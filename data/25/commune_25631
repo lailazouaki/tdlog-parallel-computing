@@ -1,0 +1,67 @@
+  {
+    "recordid" : "911ba8d89ca4764771a6f1ffc94e0cf837839930",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 152,
+      "insee_com" : "77124",
+      "z_moyen" : 93,
+      "code_dept" : "77",
+      "nom_comm" : "CONCHES-SUR-GONDOIRE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6793,
+      "y_centroid" : 68619,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.730758147843237,
+              48.8519687405221
+            ],
+            [
+              2.709853943303526,
+              48.85428511336874
+            ],
+            [
+              2.709454819890855,
+              48.86476127674923
+            ],
+            [
+              2.727542158243183,
+              48.85975862454365
+            ],
+            [
+              2.732076461128301,
+              48.85266418346539
+            ],
+            [
+              2.730758147843237,
+              48.8519687405221
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68617,
+      "code_cant" : "43",
+      "x_centroid" : 6793,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 33988,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        48.85756810359685,
+        2.719232467910426
+      ],
+      "code_comm" : "124",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.719232467910426,
+        48.85756810359685
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

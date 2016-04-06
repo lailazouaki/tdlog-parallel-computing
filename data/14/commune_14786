@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f87ca49c45a8ec277679c393b9723af2a03dfa03",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 459,
+      "insee_com" : "95154",
+      "z_moyen" : 105,
+      "code_dept" : "95",
+      "nom_comm" : "CHENNEVIERES-LES-LOUVRES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6671,
+      "y_centroid" : 68825,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.526070541825506,
+              49.03005351383259
+            ],
+            [
+              2.528282398893841,
+              49.03795710045971
+            ],
+            [
+              2.535957596385262,
+              49.04991012346346
+            ],
+            [
+              2.550033684077604,
+              49.05311976658718
+            ],
+            [
+              2.567262487015896,
+              49.04761718472646
+            ],
+            [
+              2.567710993971505,
+              49.04139649367744
+            ],
+            [
+              2.55475400031717,
+              49.03552245387374
+            ],
+            [
+              2.526070541825506,
+              49.03005351383259
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68828,
+      "code_cant" : "13",
+      "x_centroid" : 6668,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 14889,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.04209243533534,
+        2.546538947767954
+      ],
+      "code_comm" : "154",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.546538947767954,
+        49.04209243533534
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "54dc30e9b87fbabd9d1395804bde5a88ae14c397",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 655,
+      "insee_com" : "39202",
+      "z_moyen" : 625,
+      "code_dept" : "39",
+      "nom_comm" : "DOURNON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9255,
+      "y_centroid" : 66522,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.98387733174398,
+              46.92097986515904
+            ],
+            [
+              5.955192974318963,
+              46.92235900898083
+            ],
+            [
+              5.944493551559443,
+              46.9335619438088
+            ],
+            [
+              5.957433935799756,
+              46.93880764565472
+            ],
+            [
+              5.965484995671433,
+              46.94744846148998
+            ],
+            [
+              5.997221995029737,
+              46.93349982257758
+            ],
+            [
+              5.98387733174398,
+              46.92097986515904
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66522,
+      "code_cant" : "29",
+      "x_centroid" : 9259,
+      "nom_dept" : "JURA",
+      "id_geofla" : 34132,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.93216431233591,
+        5.970635691743681
+      ],
+      "code_comm" : "202",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.970635691743681,
+        46.93216431233591
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "987898c3e841157ac583b85079e96d8892dd026d",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 223,
+      "insee_com" : "62283",
+      "z_moyen" : 140,
+      "code_dept" : "62",
+      "nom_comm" : "ECOIVRES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6492,
+      "y_centroid" : 70254,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.293321642748906,
+              50.31653015048261
+            ],
+            [
+              2.275563533616774,
+              50.3208266580296
+            ],
+            [
+              2.273352426098272,
+              50.33025912763383
+            ],
+            [
+              2.277478365363375,
+              50.3320700884939
+            ],
+            [
+              2.295506489013976,
+              50.32879844505997
+            ],
+            [
+              2.29785242073811,
+              50.32248193339143
+            ],
+            [
+              2.293321642748906,
+              50.31653015048261
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70252,
+      "code_cant" : "43",
+      "x_centroid" : 6490,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 19311,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.32463774326997,
+        2.285579679658892
+      ],
+      "code_comm" : "283",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.285579679658892,
+        50.32463774326997
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

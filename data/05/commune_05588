@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9e0abc29959d02f712ce85575050d0635e5c24aa",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 227,
+      "insee_com" : "67444",
+      "z_moyen" : 205,
+      "code_dept" : "67",
+      "nom_comm" : "SCHERLENHEIM",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10331,
+      "y_centroid" : 68613,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.531091825659091,
+              48.7546287841139
+            ],
+            [
+              7.520851434549851,
+              48.77307977308498
+            ],
+            [
+              7.53580599016059,
+              48.77436808884868
+            ],
+            [
+              7.54388134664697,
+              48.77037628301103
+            ],
+            [
+              7.542544302238197,
+              48.76066160949502
+            ],
+            [
+              7.531091825659091,
+              48.7546287841139
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68611,
+      "code_cant" : "10",
+      "x_centroid" : 10330,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 29638,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.76608803129223,
+        7.533442459422349
+      ],
+      "code_comm" : "444",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.533442459422349,
+        48.76608803129223
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

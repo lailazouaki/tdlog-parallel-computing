@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ac1b226cc23d8329c74f9cc4515083254af064e2",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 359,
+      "insee_com" : "80138",
+      "z_moyen" : 98,
+      "code_dept" : "80",
+      "nom_comm" : "BRESLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6682,
+      "y_centroid" : 69880,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.565504874371459,
+              49.98917821921586
+            ],
+            [
+              2.556042548268632,
+              49.97827557996684
+            ],
+            [
+              2.531561507638271,
+              49.98969982511063
+            ],
+            [
+              2.535487964925702,
+              49.99760124020543
+            ],
+            [
+              2.54441934665498,
+              50.00077856431319
+            ],
+            [
+              2.565721853710459,
+              49.99314018740687
+            ],
+            [
+              2.565504874371459,
+              49.98917821921586
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69873,
+      "code_cant" : "18",
+      "x_centroid" : 6676,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 15279,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.99039030243971,
+        2.549214836808412
+      ],
+      "code_comm" : "138",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.549214836808412,
+        49.99039030243971
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

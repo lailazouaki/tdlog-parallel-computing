@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6833a35eb2493b30e4b51c931b75ce8187970fe8",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 477,
+      "insee_com" : "02311",
+      "z_moyen" : 127,
+      "code_dept" : "02",
+      "nom_comm" : "FILAIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7402,
+      "y_centroid" : 69283,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.543021100566974,
+              49.43599895513642
+            ],
+            [
+              3.541580116609487,
+              49.44706987591577
+            ],
+            [
+              3.551579340559488,
+              49.45909575044612
+            ],
+            [
+              3.551910874201918,
+              49.46943940439407
+            ],
+            [
+              3.574900754737998,
+              49.46198931712004
+            ],
+            [
+              3.568107150998333,
+              49.44616637212309
+            ],
+            [
+              3.543021100566974,
+              49.43599895513642
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69290,
+      "code_cant" : "32",
+      "x_centroid" : 7404,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 28549,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.45288075140195,
+        3.557406354097059
+      ],
+      "code_comm" : "311",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.557406354097059,
+        49.45288075140195
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

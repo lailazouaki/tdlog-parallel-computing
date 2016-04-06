@@ -1,0 +1,67 @@
+  {
+    "recordid" : "17de104f285080cce9311f00ad4627c16c8e942e",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 462,
+      "insee_com" : "64413",
+      "z_moyen" : 273,
+      "code_dept" : "64",
+      "nom_comm" : "NARCASTET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4303,
+      "y_centroid" : 62437,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.325509704179814,
+              43.22394945832277
+            ],
+            [
+              -0.332996649957481,
+              43.23314480107247
+            ],
+            [
+              -0.322130100870318,
+              43.25891400822562
+            ],
+            [
+              -0.311664030026196,
+              43.25341939950386
+            ],
+            [
+              -0.307707527003968,
+              43.241989589192
+            ],
+            [
+              -0.325509704179814,
+              43.22394945832277
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62447,
+      "code_cant" : "48",
+      "x_centroid" : 4302,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 34032,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        43.2417207617861,
+        -0.3205672328798747
+      ],
+      "code_comm" : "413",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3205672328798747,
+        43.2417207617861
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

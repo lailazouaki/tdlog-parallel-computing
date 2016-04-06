@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c3956a3440b8a9b41a18ce852ffd1c6c4985b82f",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 442,
+      "insee_com" : "71583",
+      "z_moyen" : 206,
+      "code_dept" : "71",
+      "nom_comm" : "VINZELLES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8361,
+      "y_centroid" : 65757,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.797106860685846,
+              46.25696212454656
+            ],
+            [
+              4.756830968871369,
+              46.26597646204018
+            ],
+            [
+              4.757869790142474,
+              46.2764896182719
+            ],
+            [
+              4.7872178906919,
+              46.27344768983957
+            ],
+            [
+              4.79677280022892,
+              46.27290098374744
+            ],
+            [
+              4.793803227974378,
+              46.26313907486426
+            ],
+            [
+              4.797106860685846,
+              46.25696212454656
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65762,
+      "code_cant" : "27",
+      "x_centroid" : 8368,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 31230,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        46.26792865580711,
+        4.777514749015852
+      ],
+      "code_comm" : "583",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.777514749015852,
+        46.26792865580711
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

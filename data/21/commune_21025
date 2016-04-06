@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1ad88cdc740b45526d00984f6c1628c0c7097387",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 127,
+      "insee_com" : "77221",
+      "z_moyen" : 109,
+      "code_dept" : "77",
+      "nom_comm" : "GUERMANTES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6784,
+      "y_centroid" : 68613,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.730758147843237,
+              48.8519687405221
+            ],
+            [
+              2.728524967628345,
+              48.84901388838964
+            ],
+            [
+              2.698640523245206,
+              48.84910422868337
+            ],
+            [
+              2.697247749583602,
+              48.85428086186772
+            ],
+            [
+              2.709853943303526,
+              48.85428511336874
+            ],
+            [
+              2.730758147843237,
+              48.8519687405221
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68616,
+      "code_cant" : "43",
+      "x_centroid" : 6789,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 731,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        48.85142076543182,
+        2.712465654757279
+      ],
+      "code_comm" : "221",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.712465654757279,
+        48.85142076543182
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

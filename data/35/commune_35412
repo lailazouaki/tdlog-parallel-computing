@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c2e5a542053f2a0ffbfb9394bc9d2ff8ec02484f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 386,
+      "insee_com" : "50382",
+      "z_moyen" : 119,
+      "code_dept" : "50",
+      "nom_comm" : "NOUAINVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3616,
+      "y_centroid" : 69567,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.67262774325651,
+              49.61240362868907
+            ],
+            [
+              -1.680594072244038,
+              49.60891894948749
+            ],
+            [
+              -1.689079155234285,
+              49.61232732015973
+            ],
+            [
+              -1.697903424812722,
+              49.62304973259176
+            ],
+            [
+              -1.688170902643138,
+              49.62996139665076
+            ],
+            [
+              -1.670306452699914,
+              49.62676103771426
+            ],
+            [
+              -1.663523112861325,
+              49.61892010262412
+            ],
+            [
+              -1.67262774325651,
+              49.61240362868907
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69572,
+      "code_cant" : "50",
+      "x_centroid" : 3617,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 36283,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.6200133968832,
+        -1.680965724334808
+      ],
+      "code_comm" : "382",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.680965724334808,
+        49.6200133968832
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

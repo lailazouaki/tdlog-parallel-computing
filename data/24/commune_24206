@@ -1,0 +1,71 @@
+  {
+    "recordid" : "7eca039c063c82cfcad11d0fcca4d88db7a81c6b",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 223,
+      "insee_com" : "28235",
+      "z_moyen" : 136,
+      "code_dept" : "28",
+      "nom_comm" : "MARCHEZAIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5903,
+      "y_centroid" : 68537,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.506909970592478,
+              48.76626119615102
+            ],
+            [
+              1.500514668244979,
+              48.77809112284783
+            ],
+            [
+              1.512697793616461,
+              48.78185958127317
+            ],
+            [
+              1.520819610176295,
+              48.7820143863281
+            ],
+            [
+              1.525099245701135,
+              48.77700288915754
+            ],
+            [
+              1.526050461235226,
+              48.77223805589581
+            ],
+            [
+              1.506909970592478,
+              48.76626119615102
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68534,
+      "code_cant" : "01",
+      "x_centroid" : 5907,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 30213,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.77497967461615,
+        1.513471421248881
+      ],
+      "code_comm" : "235",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.513471421248881,
+        48.77497967461615
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

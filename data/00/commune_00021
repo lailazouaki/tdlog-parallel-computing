@@ -1,0 +1,71 @@
+  {
+    "recordid" : "334a84fa7aff5d3fa7cfdb907a0c90926b50e3bd",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 458,
+      "insee_com" : "09146",
+      "z_moyen" : 318,
+      "code_dept" : "09",
+      "nom_comm" : "JUSTINIAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5773,
+      "y_centroid" : 62362,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.494067845044454,
+              43.20111430923773
+            ],
+            [
+              1.480567713916539,
+              43.20381300672604
+            ],
+            [
+              1.47549724266493,
+              43.21699364859921
+            ],
+            [
+              1.478649090522427,
+              43.22342581846442
+            ],
+            [
+              1.487020269750345,
+              43.22650339765844
+            ],
+            [
+              1.503994950339953,
+              43.22094603234797
+            ],
+            [
+              1.494067845044454,
+              43.20111430923773
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62359,
+      "code_cant" : "17",
+      "x_centroid" : 5771,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 26146,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.21445593419375,
+        1.488801758937444
+      ],
+      "code_comm" : "146",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.488801758937444,
+        43.21445593419375
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

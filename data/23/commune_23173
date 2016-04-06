@@ -1,0 +1,71 @@
+  {
+    "recordid" : "eec8171166c37a73ddd973a1132d9dc5e2ba921a",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1484,
+      "insee_com" : "11112",
+      "z_moyen" : 588,
+      "code_dept" : "11",
+      "nom_comm" : "CUBIERES-SUR-CINOBLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6559,
+      "y_centroid" : 61961,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.456819550233271,
+              42.8374764052191
+            ],
+            [
+              2.442106032738891,
+              42.88605077608267
+            ],
+            [
+              2.466046106125076,
+              42.89052499550129
+            ],
+            [
+              2.478122737711775,
+              42.86812960157218
+            ],
+            [
+              2.500451595695878,
+              42.85043064723519
+            ],
+            [
+              2.46218585598862,
+              42.83855554622002
+            ],
+            [
+              2.456819550233271,
+              42.8374764052191
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61958,
+      "code_cant" : "13",
+      "x_centroid" : 6563,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 26061,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.86304541113815,
+        2.466224127528752
+      ],
+      "code_comm" : "112",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.466224127528752,
+        42.86304541113815
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

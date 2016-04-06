@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5ecb9b91d3be0f58590415baee3f1b97e196e531",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 525,
+      "insee_com" : "27573",
+      "z_moyen" : 172,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-NICOLAS-D'ATTEZ",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5486,
+      "y_centroid" : 68586,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.907715707545006,
+              48.80254781862917
+            ],
+            [
+              0.905030875102721,
+              48.80598254312131
+            ],
+            [
+              0.916372883534324,
+              48.81664398450352
+            ],
+            [
+              0.9288923823312309,
+              48.82179168493881
+            ],
+            [
+              0.964633128120798,
+              48.80738128814984
+            ],
+            [
+              0.949780240328611,
+              48.80373568864754
+            ],
+            [
+              0.907715707545006,
+              48.80254781862917
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68582,
+      "code_cant" : "08",
+      "x_centroid" : 5481,
+      "nom_dept" : "EURE",
+      "id_geofla" : 22631,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.81015424911801,
+        0.9316374937064444
+      ],
+      "code_comm" : "573",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9316374937064444,
+        48.81015424911801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

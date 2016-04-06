@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b61768ec048513b9666273f0aba37d8eebb4caa3",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 329,
+      "insee_com" : "67164",
+      "z_moyen" : 177,
+      "code_dept" : "67",
+      "nom_comm" : "GOXWILLER",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10315,
+      "y_centroid" : 68239,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.495491563525549,
+              48.42471055922081
+            ],
+            [
+              7.462464586419602,
+              48.42622908210699
+            ],
+            [
+              7.461368898227805,
+              48.43006387836122
+            ],
+            [
+              7.468640341285222,
+              48.43468282350952
+            ],
+            [
+              7.494515258897547,
+              48.43766033906616
+            ],
+            [
+              7.504984130006454,
+              48.43546073789339
+            ],
+            [
+              7.495491563525549,
+              48.42471055922081
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68241,
+      "code_cant" : "16",
+      "x_centroid" : 10314,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 15163,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.43092392561853,
+        7.483449514353196
+      ],
+      "code_comm" : "164",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.483449514353196,
+        48.43092392561853
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

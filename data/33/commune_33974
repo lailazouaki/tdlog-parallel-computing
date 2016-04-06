@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e1306422b7236d5bebaac6d2d59c76018b91641f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 527,
+      "insee_com" : "02729",
+      "z_moyen" : 125,
+      "code_dept" : "02",
+      "nom_comm" : "SOUCY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7091,
+      "y_centroid" : 69134,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.113140275198494,
+              49.30541683865368
+            ],
+            [
+              3.110018821171819,
+              49.33084111112779
+            ],
+            [
+              3.120821232801353,
+              49.33904675451454
+            ],
+            [
+              3.135614441989113,
+              49.33056339873333
+            ],
+            [
+              3.134665677628932,
+              49.31485144896179
+            ],
+            [
+              3.139501279165349,
+              49.30815796367896
+            ],
+            [
+              3.113140275198494,
+              49.30541683865368
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69125,
+      "code_cant" : "36",
+      "x_centroid" : 7089,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 31003,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.32097501746199,
+        3.123249090863458
+      ],
+      "code_comm" : "729",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.123249090863458,
+        49.32097501746199
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

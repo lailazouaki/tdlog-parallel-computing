@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d1684002a72034401fe26de9e36b1af4902203a1",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 333,
+      "insee_com" : "64299",
+      "z_moyen" : 177,
+      "code_dept" : "64",
+      "nom_comm" : "LACOMMANDE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4151,
+      "y_centroid" : 62482,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.498898914719248,
+              43.2656029024683
+            ],
+            [
+              -0.508162438807861,
+              43.26496017407676
+            ],
+            [
+              -0.520036983303931,
+              43.27500081427397
+            ],
+            [
+              -0.5179679513575211,
+              43.28491910880281
+            ],
+            [
+              -0.5045223176331211,
+              43.28798548147463
+            ],
+            [
+              -0.498898914719248,
+              43.2656029024683
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62483,
+      "code_cant" : "17",
+      "x_centroid" : 4150,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 36140,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.27626639675469,
+        -0.5092539032699188
+      ],
+      "code_comm" : "299",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5092539032699188,
+        43.27626639675469
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8989a3df61a82d3715fe026ff53bed3ebdb3c2ca",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 276,
+      "insee_com" : "51177",
+      "z_moyen" : 165,
+      "code_dept" : "51",
+      "nom_comm" : "COULOMMES-LA-MONTAGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7663,
+      "y_centroid" : 69033,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.905496833516377,
+              49.2190493490714
+            ],
+            [
+              3.891470124767883,
+              49.21987315429613
+            ],
+            [
+              3.891127121957686,
+              49.22306736641944
+            ],
+            [
+              3.896477719118576,
+              49.22924919052376
+            ],
+            [
+              3.925412516326674,
+              49.23364274140397
+            ],
+            [
+              3.934457229889548,
+              49.23120845790672
+            ],
+            [
+              3.936874016674422,
+              49.2297242324709
+            ],
+            [
+              3.905496833516377,
+              49.2190493490714
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69032,
+      "code_cant" : "31",
+      "x_centroid" : 7663,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 18681,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.2264862111144,
+        3.91132904873791
+      ],
+      "code_comm" : "177",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.91132904873791,
+        49.2264862111144
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

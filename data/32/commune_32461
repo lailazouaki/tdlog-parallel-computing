@@ -1,0 +1,75 @@
+  {
+    "recordid" : "324c38a1b77f3c55644775cea8e5a6dac4b2c0a3",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 608,
+      "insee_com" : "62102",
+      "z_moyen" : 171,
+      "code_dept" : "62",
+      "nom_comm" : "BECOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6227,
+      "y_centroid" : 70608,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.903729694981135,
+              50.62456459220814
+            ],
+            [
+              1.887613537140409,
+              50.63171807078707
+            ],
+            [
+              1.882744339752816,
+              50.63492335663484
+            ],
+            [
+              1.884633089604119,
+              50.65218137732995
+            ],
+            [
+              1.902351635036265,
+              50.64953009150099
+            ],
+            [
+              1.921141700944756,
+              50.64750486757031
+            ],
+            [
+              1.930040762799752,
+              50.64523042956358
+            ],
+            [
+              1.903729694981135,
+              50.62456459220814
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70605,
+      "code_cant" : "29",
+      "x_centroid" : 6222,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 33837,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.63982259630576,
+        1.902270682362947
+      ],
+      "code_comm" : "102",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.902270682362947,
+        50.63982259630576
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

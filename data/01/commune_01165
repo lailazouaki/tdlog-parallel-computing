@@ -1,0 +1,75 @@
+  {
+    "recordid" : "13e5bd7d3f28866a76b48ff6ee4459daf71304b9",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 502,
+      "insee_com" : "55460",
+      "z_moyen" : 294,
+      "code_dept" : "55",
+      "nom_comm" : "SAINT-JULIEN-SOUS-LES-COTES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8918,
+      "y_centroid" : 68608,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.613071061730452,
+              48.80707827658016
+            ],
+            [
+              5.594927946920948,
+              48.81754285446504
+            ],
+            [
+              5.600898119150798,
+              48.83260229875119
+            ],
+            [
+              5.597105409976701,
+              48.83471834912473
+            ],
+            [
+              5.611825609939938,
+              48.83116731182248
+            ],
+            [
+              5.624021308486788,
+              48.82001217145449
+            ],
+            [
+              5.649449099418631,
+              48.81920830048823
+            ],
+            [
+              5.613071061730452,
+              48.80707827658016
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68607,
+      "code_cant" : "05",
+      "x_centroid" : 8919,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 16662,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.81931575543652,
+        5.614286414753496
+      ],
+      "code_comm" : "460",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.614286414753496,
+        48.81931575543652
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5a4fb96b32b4a6d112ff9fb690cbef6927040fe9",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 593,
+      "insee_com" : "85077",
+      "z_moyen" : 8,
+      "code_dept" : "85",
+      "nom_comm" : "CURZON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3693,
+      "y_centroid" : 66035,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.295941881508296,
+              46.43164656278414
+            ],
+            [
+              -1.314423962225753,
+              46.44715455842513
+            ],
+            [
+              -1.323086577624022,
+              46.44978466503473
+            ],
+            [
+              -1.310966894297869,
+              46.46052362974953
+            ],
+            [
+              -1.288711483344437,
+              46.46741292153096
+            ],
+            [
+              -1.288168911967889,
+              46.45089455986496
+            ],
+            [
+              -1.295941881508296,
+              46.43164656278414
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66031,
+      "code_cant" : "17",
+      "x_centroid" : 3699,
+      "nom_dept" : "VENDEE",
+      "id_geofla" : 24068,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        46.45123769227892,
+        -1.301380592156709
+      ],
+      "code_comm" : "077",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.301380592156709,
+        46.45123769227892
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "296410b76a1b53420afb4b0a033c1300a5723a30",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 421,
+      "insee_com" : "76304",
+      "z_moyen" : 125,
+      "code_dept" : "76",
+      "nom_comm" : "GONFREVILLE-CAILLOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5150,
+      "y_centroid" : 69533,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.431089807549225,
+              49.64047859589832
+            ],
+            [
+              0.42759638602687,
+              49.64360541412191
+            ],
+            [
+              0.4241815448063,
+              49.65287442068873
+            ],
+            [
+              0.436181794165727,
+              49.66295472712972
+            ],
+            [
+              0.44105010020379,
+              49.66365063990108
+            ],
+            [
+              0.460311877778192,
+              49.65367946753794
+            ],
+            [
+              0.449963259612151,
+              49.64541629171908
+            ],
+            [
+              0.431089807549225,
+              49.64047859589832
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69533,
+      "code_cant" : "24",
+      "x_centroid" : 5150,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 23404,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.65203080017635,
+        0.440253516483477
+      ],
+      "code_comm" : "304",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.440253516483477,
+        49.65203080017635
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4f11a1bced2050a8a3d4b0bbb8f5982a0b9bc8a9",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 248,
+      "insee_com" : "62867",
+      "z_moyen" : 65,
+      "code_dept" : "62",
+      "nom_comm" : "WACQUINGHEN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6057,
+      "y_centroid" : 70768,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.656388153185477,
+              50.77428166061596
+            ],
+            [
+              1.655920940446982,
+              50.78114144519442
+            ],
+            [
+              1.667197476831782,
+              50.78874654380236
+            ],
+            [
+              1.680181309844309,
+              50.7854300179456
+            ],
+            [
+              1.68536367003846,
+              50.78106089228209
+            ],
+            [
+              1.682903956066726,
+              50.77879151576798
+            ],
+            [
+              1.670504950686207,
+              50.77454984416926
+            ],
+            [
+              1.656388153185477,
+              50.77428166061596
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70770,
+      "code_cant" : "36",
+      "x_centroid" : 6059,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 25472,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.78079624397908,
+        1.669286954161794
+      ],
+      "code_comm" : "867",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.669286954161794,
+        50.78079624397908
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "46a170df9d885505f015bdaa21eeedcabfaefe2d",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 236,
+      "insee_com" : "72227",
+      "z_moyen" : 128,
+      "code_dept" : "72",
+      "nom_comm" : "PANON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4995,
+      "y_centroid" : 68077,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.316823652587676,
+              48.33945745051578
+            ],
+            [
+              0.300129280315865,
+              48.33192108854425
+            ],
+            [
+              0.290529786688157,
+              48.33376329588841
+            ],
+            [
+              0.286572063035001,
+              48.33982125001543
+            ],
+            [
+              0.287663687022098,
+              48.343006076344
+            ],
+            [
+              0.301752638476159,
+              48.34555154205007
+            ],
+            [
+              0.315164088259421,
+              48.3418144163865
+            ],
+            [
+              0.316823652587676,
+              48.33945745051578
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68077,
+      "code_cant" : "18",
+      "x_centroid" : 4999,
+      "nom_dept" : "SARTHE",
+      "id_geofla" : 30025,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.33911729048069,
+        0.3002725858687165
+      ],
+      "code_comm" : "227",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3002725858687165,
+        48.33911729048069
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

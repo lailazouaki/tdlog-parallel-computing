@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2db6032c2e7da5d54149ce92995f3e4ab573e940",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 230,
+      "insee_com" : "82070",
+      "z_moyen" : 204,
+      "code_dept" : "82",
+      "nom_comm" : "GLATENS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5326,
+      "y_centroid" : 63128,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.932689428025242,
+              43.88420236961817
+            ],
+            [
+              0.918186723492569,
+              43.89279413119426
+            ],
+            [
+              0.900634078580641,
+              43.89685122100263
+            ],
+            [
+              0.9046538480499851,
+              43.89892700973751
+            ],
+            [
+              0.912733659167734,
+              43.90438427320728
+            ],
+            [
+              0.939819290134944,
+              43.88564251925563
+            ],
+            [
+              0.932689428025242,
+              43.88420236961817
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63126,
+      "code_cant" : "02",
+      "x_centroid" : 5328,
+      "nom_dept" : "TARN-ET-GARONNE",
+      "id_geofla" : 30794,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.89447569075415,
+        0.9198968570086717
+      ],
+      "code_comm" : "070",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9198968570086717,
+        43.89447569075415
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

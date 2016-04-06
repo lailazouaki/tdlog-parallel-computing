@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c13b6cd2b52e95cfc96793d06fb9911efa172988",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 385,
+      "insee_com" : "75108",
+      "z_moyen" : 39,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-8E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6499,
+      "y_centroid" : 68638,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.320781393695372,
+              48.86307865626878
+            ],
+            [
+              2.301556199832536,
+              48.86348063063825
+            ],
+            [
+              2.295145331385798,
+              48.87386647602374
+            ],
+            [
+              2.301813412942564,
+              48.87886991106927
+            ],
+            [
+              2.327115254528243,
+              48.88348448668911
+            ],
+            [
+              2.325754809597834,
+              48.8695460950733
+            ],
+            [
+              2.320781393695372,
+              48.86307865626878
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68643,
+      "code_cant" : "22",
+      "x_centroid" : 6495,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 9859,
+      "statut" : "Chef-lieu canton",
+      "population" : 40.3,
+      "geom_x_y" : [
+        48.87252726662346,
+        2.312582560420059
+      ],
+      "code_comm" : "108",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.312582560420059,
+        48.87252726662346
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

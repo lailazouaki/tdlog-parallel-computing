@@ -1,0 +1,63 @@
+  {
+    "recordid" : "009d9f72b0da1c5c6e99f2f1276f8334bfecafd3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 135,
+      "insee_com" : "14021",
+      "z_moyen" : 39,
+      "code_dept" : "14",
+      "nom_comm" : "ARROMANCHES-LES-BAINS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4367,
+      "y_centroid" : 69211,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.614257208306545,
+              49.32997475298136
+            ],
+            [
+              -0.632527997830869,
+              49.33369173094886
+            ],
+            [
+              -0.625153186908714,
+              49.34062623380684
+            ],
+            [
+              -0.6114329703475609,
+              49.34017348562597
+            ],
+            [
+              -0.614257208306545,
+              49.32997475298136
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69215,
+      "code_cant" : "28",
+      "x_centroid" : 4368,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24724,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.33579733040641,
+        -0.6206172441608093
+      ],
+      "code_comm" : "021",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6206172441608093,
+        49.33579733040641
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

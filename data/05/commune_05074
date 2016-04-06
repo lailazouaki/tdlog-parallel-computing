@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0deb4d10a6c433830f3aee0e266b1dbbc798d077",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 458,
+      "insee_com" : "94053",
+      "z_moyen" : 96,
+      "code_dept" : "94",
+      "nom_comm" : "NOISEAU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6667,
+      "y_centroid" : 68527,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.571670046323765,
+              48.76709893245624
+            ],
+            [
+              2.562726320623926,
+              48.76442226949497
+            ],
+            [
+              2.542759058384985,
+              48.76541779778753
+            ],
+            [
+              2.5355537980668,
+              48.77702829353258
+            ],
+            [
+              2.561972312761988,
+              48.78780388073491
+            ],
+            [
+              2.572378892581981,
+              48.77357717304316
+            ],
+            [
+              2.571670046323765,
+              48.76709893245624
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68530,
+      "code_cant" : "44",
+      "x_centroid" : 6673,
+      "nom_dept" : "VAL-DE-MARNE",
+      "id_geofla" : 30614,
+      "statut" : "Commune simple",
+      "population" : 4.7,
+      "geom_x_y" : [
+        48.77431546700883,
+        2.555423753513265
+      ],
+      "code_comm" : "053",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.555423753513265,
+        48.77431546700883
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

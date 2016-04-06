@@ -1,0 +1,75 @@
+  {
+    "recordid" : "cb97d93a71fb74845bf8cbc8a625dd4dcc2a555e",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 886,
+      "insee_com" : "05043",
+      "z_moyen" : 1420,
+      "code_dept" : "05",
+      "nom_comm" : "LES COSTES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9400,
+      "y_centroid" : 64101,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.047777767294542,
+              44.73363206902454
+            ],
+            [
+              6.03111251468565,
+              44.73492743909298
+            ],
+            [
+              6.021544675543685,
+              44.7481177247026
+            ],
+            [
+              6.034744186852365,
+              44.761478600301
+            ],
+            [
+              6.058233514642017,
+              44.75809362431257
+            ],
+            [
+              6.07694069724123,
+              44.76002624655716
+            ],
+            [
+              6.076616942072213,
+              44.75295346313921
+            ],
+            [
+              6.047777767294542,
+              44.73363206902454
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64098,
+      "code_cant" : "18",
+      "x_centroid" : 9411,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 20657,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.74857434078162,
+        6.0472856513685
+      ],
+      "code_comm" : "043",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.0472856513685,
+        44.74857434078162
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

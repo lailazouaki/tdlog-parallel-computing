@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e00dbb655e478db05677181bb43083bde783738f",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 512,
+      "insee_com" : "62051",
+      "z_moyen" : 28,
+      "code_dept" : "62",
+      "nom_comm" : "AUCHY-LES-MINES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6846,
+      "y_centroid" : 70454,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.784657791014538,
+              50.48568559593236
+            ],
+            [
+              2.774384721492002,
+              50.4925430561039
+            ],
+            [
+              2.763051350063012,
+              50.50880442534478
+            ],
+            [
+              2.773686102729407,
+              50.51649870231621
+            ],
+            [
+              2.793713046043181,
+              50.52133573295512
+            ],
+            [
+              2.797566296197105,
+              50.51893658081742
+            ],
+            [
+              2.784657791014538,
+              50.48568559593236
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70461,
+      "code_cant" : "17",
+      "x_centroid" : 6844,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21402,
+      "statut" : "Commune simple",
+      "population" : 4.5,
+      "geom_x_y" : [
+        50.50582703398014,
+        2.781134899483792
+      ],
+      "code_comm" : "051",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.781134899483792,
+        50.50582703398014
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ae2fb9a3d49bb9d1d6efb6c48bdb75f4d848ab44",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 313,
+      "insee_com" : "14706",
+      "z_moyen" : 63,
+      "code_dept" : "14",
+      "nom_comm" : "TOURVILLE-EN-AUGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4965,
+      "y_centroid" : 69169,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.201697497060471,
+              49.31108794186149
+            ],
+            [
+              0.179550318469262,
+              49.31733673177019
+            ],
+            [
+              0.179127204901591,
+              49.3190358788657
+            ],
+            [
+              0.182941857538327,
+              49.32527742027311
+            ],
+            [
+              0.187794061649585,
+              49.32638894089931
+            ],
+            [
+              0.207733676072919,
+              49.32513365398763
+            ],
+            [
+              0.210127212794312,
+              49.31929742096519
+            ],
+            [
+              0.201697497060471,
+              49.31108794186149
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69171,
+      "code_cant" : "27",
+      "x_centroid" : 4960,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 33305,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.31972584979262,
+        0.1951389876069044
+      ],
+      "code_comm" : "706",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1951389876069044,
+        49.31972584979262
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

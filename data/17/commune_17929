@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b65c4e60c6c19197522cfb44d85d4bfeea8ad290",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 359,
+      "insee_com" : "14384",
+      "z_moyen" : 17,
+      "code_dept" : "14",
+      "nom_comm" : "LUC-SUR-MER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4560,
+      "y_centroid" : 69172,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.363565278285531,
+              49.29340117280074
+            ],
+            [
+              -0.372120703701009,
+              49.30096325472098
+            ],
+            [
+              -0.359523128839953,
+              49.32217952458578
+            ],
+            [
+              -0.343328597253628,
+              49.31589917234574
+            ],
+            [
+              -0.339702723966052,
+              49.31346232051008
+            ],
+            [
+              -0.356416436581092,
+              49.29939464146208
+            ],
+            [
+              -0.363565278285531,
+              49.29340117280074
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69179,
+      "code_cant" : "14",
+      "x_centroid" : 4558,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 1453,
+      "statut" : "Commune simple",
+      "population" : 3.1,
+      "geom_x_y" : [
+        49.30853484180837,
+        -0.3574631096175445
+      ],
+      "code_comm" : "384",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3574631096175445,
+        49.30853484180837
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

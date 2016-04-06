@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b08fa1603a04cc33c7679d82f26ef0cd5641fe43",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 599,
+      "insee_com" : "44012",
+      "z_moyen" : 27,
+      "code_dept" : "44",
+      "nom_comm" : "LA BERNERIE-EN-RETZ",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3180,
+      "y_centroid" : 66772,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.020004382879715,
+              47.06867974786267
+            ],
+            [
+              -2.033174457137356,
+              47.0741144646905
+            ],
+            [
+              -2.053682520772917,
+              47.09424773016394
+            ],
+            [
+              -2.043629921838674,
+              47.10186837277287
+            ],
+            [
+              -2.038734669088132,
+              47.1010897040027
+            ],
+            [
+              -2.010523985501192,
+              47.08173960781759
+            ],
+            [
+              -2.020004382879715,
+              47.06867974786267
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66767,
+      "code_cant" : "05",
+      "x_centroid" : 3185,
+      "nom_dept" : "LOIRE-ATLANTIQUE",
+      "id_geofla" : 34694,
+      "statut" : "Commune simple",
+      "population" : 2.5,
+      "geom_x_y" : [
+        47.08567046020342,
+        -2.03170205960728
+      ],
+      "code_comm" : "012",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.03170205960728,
+        47.08567046020342
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

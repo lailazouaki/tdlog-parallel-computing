@@ -1,0 +1,67 @@
+  {
+    "recordid" : "409a62d25ab6335dcc205c107259c093fd2abf60",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 167,
+      "insee_com" : "67383",
+      "z_moyen" : 228,
+      "code_dept" : "67",
+      "nom_comm" : "RANGEN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10295,
+      "y_centroid" : 68506,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.478873780995447,
+              48.66234107866642
+            ],
+            [
+              7.469966031978809,
+              48.67188313029288
+            ],
+            [
+              7.467581099918235,
+              48.67517083533532
+            ],
+            [
+              7.477157257214036,
+              48.68309959904373
+            ],
+            [
+              7.485621598384356,
+              48.66616825776633
+            ],
+            [
+              7.478873780995447,
+              48.66234107866642
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68499,
+      "code_cant" : "13",
+      "x_centroid" : 10294,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 13959,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.67226663707807,
+        7.476906815198015
+      ],
+      "code_comm" : "383",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.476906815198015,
+        48.67226663707807
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

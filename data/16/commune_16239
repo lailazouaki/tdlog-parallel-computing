@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e7986d385bc969ca3b4b295421e6404cfc37582d",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 414,
+      "insee_com" : "76416",
+      "z_moyen" : 208,
+      "code_dept" : "76",
+      "nom_comm" : "MATHONVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5830,
+      "y_centroid" : 69483,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.386404656130878,
+              49.61257302783485
+            ],
+            [
+              1.373302013066807,
+              49.61354880101199
+            ],
+            [
+              1.366533325771009,
+              49.61803296747939
+            ],
+            [
+              1.372879665439793,
+              49.63427860073188
+            ],
+            [
+              1.390574263316378,
+              49.63266265259723
+            ],
+            [
+              1.39222172472478,
+              49.63307992304827
+            ],
+            [
+              1.399861102159285,
+              49.62152334007541
+            ],
+            [
+              1.386404656130878,
+              49.61257302783485
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69481,
+      "code_cant" : "49",
+      "x_centroid" : 5830,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 16733,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.62330034290419,
+        1.38237435878055
+      ],
+      "code_comm" : "416",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.38237435878055,
+        49.62330034290419
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

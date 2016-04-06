@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f295cfb2b2b7edf1d5196cf6b354cd1facdacb30",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 243,
+      "insee_com" : "77075",
+      "z_moyen" : 80,
+      "code_dept" : "77",
+      "nom_comm" : "CHALIFERT",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6833,
+      "y_centroid" : 68661,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.777211708831183,
+              48.88142692751446
+            ],
+            [
+              2.76431728702762,
+              48.88943300049032
+            ],
+            [
+              2.767948283549953,
+              48.90090608207364
+            ],
+            [
+              2.760635086163308,
+              48.90428200356798
+            ],
+            [
+              2.775410231013618,
+              48.91025488021911
+            ],
+            [
+              2.774996909726535,
+              48.90171989748915
+            ],
+            [
+              2.785110066135982,
+              48.89380672543889
+            ],
+            [
+              2.777211708831183,
+              48.88142692751446
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68654,
+      "code_cant" : "43",
+      "x_centroid" : 6833,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 34234,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        48.89526456447211,
+        2.773240249551165
+      ],
+      "code_comm" : "075",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.773240249551165,
+        48.89526456447211
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

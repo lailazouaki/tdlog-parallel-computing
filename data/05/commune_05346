@@ -1,0 +1,75 @@
+  {
+    "recordid" : "156cc23f18bc35fa8eee1fa4da5f74300d2dec9a",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 331,
+      "insee_com" : "61109",
+      "z_moyen" : 180,
+      "code_dept" : "61",
+      "nom_comm" : "CLAIREFOUGERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4285,
+      "y_centroid" : 68633,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.666136356669163,
+              48.81155029049867
+            ],
+            [
+              -0.681245156136505,
+              48.81026638863518
+            ],
+            [
+              -0.693815480080083,
+              48.80433225402674
+            ],
+            [
+              -0.708470234021083,
+              48.80570590301708
+            ],
+            [
+              -0.6821715230909881,
+              48.82183411926953
+            ],
+            [
+              -0.674668590002337,
+              48.82293839626239
+            ],
+            [
+              -0.665902490442006,
+              48.81675234271632
+            ],
+            [
+              -0.666136356669163,
+              48.81155029049867
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68625,
+      "code_cant" : "33",
+      "x_centroid" : 4295,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 22627,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.81331840239561,
+        -0.6843594651923574
+      ],
+      "code_comm" : "109",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6843594651923574,
+        48.81331840239561
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

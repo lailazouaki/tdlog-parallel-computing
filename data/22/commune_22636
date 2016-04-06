@@ -1,0 +1,67 @@
+  {
+    "recordid" : "efe55f7236ab78ebbf96a9bed96a4c33f405d2df",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 502,
+      "insee_com" : "60006",
+      "z_moyen" : 32,
+      "code_dept" : "60",
+      "nom_comm" : "LES AGEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6706,
+      "y_centroid" : 69132,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.577808068096081,
+              49.30670047825947
+            ],
+            [
+              2.569989036158117,
+              49.31288454928131
+            ],
+            [
+              2.579266770508335,
+              49.32676970363532
+            ],
+            [
+              2.603118832514971,
+              49.3316056910081
+            ],
+            [
+              2.603940875644207,
+              49.31051960284289
+            ],
+            [
+              2.577808068096081,
+              49.30670047825947
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69128,
+      "code_cant" : "20",
+      "x_centroid" : 6701,
+      "nom_dept" : "OISE",
+      "id_geofla" : 27840,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        49.31830422369599,
+        2.589018096901424
+      ],
+      "code_comm" : "006",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.589018096901424,
+        49.31830422369599
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9731984a72847c8a23d56e9878916b614957d126",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 532,
+      "insee_com" : "54225",
+      "z_moyen" : 265,
+      "code_dept" : "54",
+      "nom_comm" : "GEZONCOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9197,
+      "y_centroid" : 68644,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.968786687901636,
+              48.83235714512386
+            ],
+            [
+              5.967490193863535,
+              48.83328930948289
+            ],
+            [
+              5.979208137138946,
+              48.85798105150899
+            ],
+            [
+              5.999077304097123,
+              48.84916875965038
+            ],
+            [
+              6.006439748739762,
+              48.83898508072676
+            ],
+            [
+              5.987331698816321,
+              48.83221016896549
+            ],
+            [
+              5.968786687901636,
+              48.83235714512386
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68638,
+      "code_cant" : "12",
+      "x_centroid" : 9190,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 34708,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.84276356023707,
+        5.985789704140729
+      ],
+      "code_comm" : "225",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.985789704140729,
+        48.84276356023707
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

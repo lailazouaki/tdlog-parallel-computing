@@ -1,0 +1,67 @@
+  {
+    "recordid" : "41efd0a306a12b9201bfc38ed585ad57fea13f57",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 305,
+      "insee_com" : "80528",
+      "z_moyen" : 163,
+      "code_dept" : "80",
+      "nom_comm" : "MEREAUCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6231,
+      "y_centroid" : 69595,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.932702899597476,
+              49.72134184114283
+            ],
+            [
+              1.916483874682445,
+              49.72800997013462
+            ],
+            [
+              1.915841538055386,
+              49.73673851504665
+            ],
+            [
+              1.944494287224942,
+              49.7363072143584
+            ],
+            [
+              1.945451841425758,
+              49.72617050361796
+            ],
+            [
+              1.932702899597476,
+              49.72134184114283
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69594,
+      "code_cant" : "35",
+      "x_centroid" : 6228,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 23430,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.73025515355599,
+        1.931068745472245
+      ],
+      "code_comm" : "528",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.931068745472245,
+        49.73025515355599
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

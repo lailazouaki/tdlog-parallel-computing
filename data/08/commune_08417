@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0f1dfc0c00e17a90e660bab6200df8f64331a40e",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 737,
+      "insee_com" : "76362",
+      "z_moyen" : 4,
+      "code_dept" : "76",
+      "nom_comm" : "HEURTEAUVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5413,
+      "y_centroid" : 69304,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.802839511712878,
+              49.42731894362482
+            ],
+            [
+              0.799721871978051,
+              49.42737020435693
+            ],
+            [
+              0.784814444264071,
+              49.45986329891191
+            ],
+            [
+              0.804426781982857,
+              49.47511885990929
+            ],
+            [
+              0.8132431555655441,
+              49.46669178115099
+            ],
+            [
+              0.816693720261355,
+              49.44649669265083
+            ],
+            [
+              0.802816783909831,
+              49.43366658015718
+            ],
+            [
+              0.802839511712878,
+              49.42731894362482
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69294,
+      "code_cant" : "10",
+      "x_centroid" : 5405,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 12383,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.45321602110189,
+        0.8019107264581303
+      ],
+      "code_comm" : "362",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8019107264581303,
+        49.45321602110189
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

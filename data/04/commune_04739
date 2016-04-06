@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9b8cd975cf0af7d7feb4f2bd07cfff1fd0810ea0",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 816,
+      "insee_com" : "57659",
+      "z_moyen" : 299,
+      "code_dept" : "57",
+      "nom_comm" : "SPICHEREN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9891,
+      "y_centroid" : 69067,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.980895878187409,
+              49.18001006459846
+            ],
+            [
+              6.943596953071266,
+              49.1912928470265
+            ],
+            [
+              6.945526714243371,
+              49.20146434820169
+            ],
+            [
+              6.953543483737112,
+              49.20606218603493
+            ],
+            [
+              6.957560875714718,
+              49.20380585561724
+            ],
+            [
+              6.976574946741881,
+              49.20864336894403
+            ],
+            [
+              6.99880710719493,
+              49.19428742046528
+            ],
+            [
+              6.980895878187409,
+              49.18001006459846
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69063,
+      "code_cant" : "51",
+      "x_centroid" : 9893,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 3242,
+      "statut" : "Commune simple",
+      "population" : 3.2,
+      "geom_x_y" : [
+        49.19485839457563,
+        6.970446886859437
+      ],
+      "code_comm" : "659",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.970446886859437,
+        49.19485839457563
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "63e7dab2cb447a00f3d955f0a3a4765bb0221284",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 114,
+      "insee_com" : "60506",
+      "z_moyen" : 39,
+      "code_dept" : "60",
+      "nom_comm" : "PONT-L'EVEQUE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6991,
+      "y_centroid" : 69403,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.977014341387143,
+              49.552838040573
+            ],
+            [
+              2.980339270118432,
+              49.56361382504907
+            ],
+            [
+              2.989954334744083,
+              49.56947435478874
+            ],
+            [
+              3.000041448873571,
+              49.56322898599333
+            ],
+            [
+              2.990149065443815,
+              49.56280620794061
+            ],
+            [
+              2.977014341387143,
+              49.552838040573
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69406,
+      "code_cant" : "29",
+      "x_centroid" : 6990,
+      "nom_dept" : "OISE",
+      "id_geofla" : 9116,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.56275506254104,
+        2.986673270505521
+      ],
+      "code_comm" : "506",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.986673270505521,
+        49.56275506254104
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

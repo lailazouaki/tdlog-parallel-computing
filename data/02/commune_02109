@@ -1,0 +1,67 @@
+  {
+    "recordid" : "340309374fff689b60d2f04296ea33389b32cdff",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 293,
+      "insee_com" : "70544",
+      "z_moyen" : 295,
+      "code_dept" : "70",
+      "nom_comm" : "LA VERGENNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9646,
+      "y_centroid" : 67297,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.535278534906382,
+              47.6105971878231
+            ],
+            [
+              6.523771036347476,
+              47.60562029052598
+            ],
+            [
+              6.502623638346867,
+              47.61286133727213
+            ],
+            [
+              6.516155345226773,
+              47.6222753073298
+            ],
+            [
+              6.524812379485091,
+              47.62642909840569
+            ],
+            [
+              6.535278534906382,
+              47.6105971878231
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67292,
+      "code_cant" : "27",
+      "x_centroid" : 9643,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 14817,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.61491874889657,
+        6.520584327390612
+      ],
+      "code_comm" : "544",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.520584327390612,
+        47.61491874889657
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

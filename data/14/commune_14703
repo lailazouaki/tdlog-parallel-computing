@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b4162044a3aa53a6ab475f29e16c08cd8dc15971",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 557,
+      "insee_com" : "24122",
+      "z_moyen" : 199,
+      "code_dept" : "24",
+      "nom_comm" : "CLADECH",
+      "code_arr" : "4",
+      "x_chf_lieu" : 5475,
+      "y_centroid" : 64140,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.083751182830255,
+              44.79644262230399
+            ],
+            [
+              1.076261787268608,
+              44.79944697040712
+            ],
+            [
+              1.059583649356014,
+              44.79744523891712
+            ],
+            [
+              1.056476921775845,
+              44.81230465049387
+            ],
+            [
+              1.071170939632778,
+              44.82136896986407
+            ],
+            [
+              1.09404053002927,
+              44.81528005406539
+            ],
+            [
+              1.083751182830255,
+              44.79644262230399
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64147,
+      "code_cant" : "02",
+      "x_centroid" : 5477,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 15917,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.80881200903016,
+        1.074124055014372
+      ],
+      "code_comm" : "122",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.074124055014372,
+        44.80881200903016
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

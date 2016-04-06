@@ -1,0 +1,75 @@
+  {
+    "recordid" : "07a2779aacaa59ec7c9fa2aa0bed484bfe246ffe",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 633,
+      "insee_com" : "14553",
+      "z_moyen" : 178,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-AGNAN-LE-MALHERBE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4381,
+      "y_centroid" : 68882,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.611323407261911,
+              49.02240185568854
+            ],
+            [
+              -0.614885744611084,
+              49.02815438259919
+            ],
+            [
+              -0.6094791987031321,
+              49.03721026087325
+            ],
+            [
+              -0.587702452993531,
+              49.04321877780345
+            ],
+            [
+              -0.559458871749682,
+              49.05742570346604
+            ],
+            [
+              -0.5490515589598089,
+              49.05164034539087
+            ],
+            [
+              -0.549579007128937,
+              49.04634134646145
+            ],
+            [
+              -0.611323407261911,
+              49.02240185568854
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68883,
+      "code_cant" : "37",
+      "x_centroid" : 4381,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 15567,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.04023278976467,
+        -0.5819107509419399
+      ],
+      "code_comm" : "553",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5819107509419399,
+        49.04023278976467
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

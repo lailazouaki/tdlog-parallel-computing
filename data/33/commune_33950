@@ -1,0 +1,63 @@
+  {
+    "recordid" : "26ca1f21ae64474db2c3ced3eb00adb59e5a4423",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 107,
+      "insee_com" : "43099",
+      "z_moyen" : 457,
+      "code_dept" : "43",
+      "nom_comm" : "FRUGERES-LES-MINES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7240,
+      "y_centroid" : 64764,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.31597499040635,
+              45.38379829888208
+            ],
+            [
+              3.30765357766088,
+              45.38096700320976
+            ],
+            [
+              3.300363471986315,
+              45.38914493392607
+            ],
+            [
+              3.312367523662272,
+              45.39218268338136
+            ],
+            [
+              3.31597499040635,
+              45.38379829888208
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64763,
+      "code_cant" : "02",
+      "x_centroid" : 7241,
+      "nom_dept" : "HAUTE-LOIRE",
+      "id_geofla" : 33366,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        45.38671985928227,
+        3.308872878662215
+      ],
+      "code_comm" : "099",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.308872878662215,
+        45.38671985928227
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

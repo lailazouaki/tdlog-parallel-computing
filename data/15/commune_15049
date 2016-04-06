@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8720d5a2d09437eb2f97739f7c6c08277c19097",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 545,
+      "insee_com" : "62595",
+      "z_moyen" : 28,
+      "code_dept" : "62",
+      "nom_comm" : "MOULLE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6419,
+      "y_centroid" : 70771,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.155493181362321,
+              50.7738571688781
+            ],
+            [
+              2.140787822766937,
+              50.78142836855881
+            ],
+            [
+              2.203229098528618,
+              50.80910207097805
+            ],
+            [
+              2.196134800875268,
+              50.80379868370268
+            ],
+            [
+              2.192290057820593,
+              50.79374255359206
+            ],
+            [
+              2.178009542876342,
+              50.78319598652122
+            ],
+            [
+              2.155493181362321,
+              50.7738571688781
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70771,
+      "code_cant" : "41",
+      "x_centroid" : 6414,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24595,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        50.78831483214281,
+        2.170654398101155
+      ],
+      "code_comm" : "595",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.170654398101155,
+        50.78831483214281
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

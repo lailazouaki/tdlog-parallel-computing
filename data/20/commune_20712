@@ -1,0 +1,67 @@
+  {
+    "recordid" : "48a946035d4623c44832c1a403603827cca29ba2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 270,
+      "insee_com" : "14473",
+      "z_moyen" : 40,
+      "code_dept" : "14",
+      "nom_comm" : "NOTRE-DAME-DE-LIVAYE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4839,
+      "y_centroid" : 68949,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.064520380366581,
+              49.11850184763346
+            ],
+            [
+              0.046998728758901,
+              49.11159474938646
+            ],
+            [
+              0.026763757324987,
+              49.11288651635464
+            ],
+            [
+              0.024861390841747,
+              49.1137931825604
+            ],
+            [
+              0.030111325048205,
+              49.12597941496712
+            ],
+            [
+              0.064520380366581,
+              49.11850184763346
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68946,
+      "code_cant" : "24",
+      "x_centroid" : 4840,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 25413,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.11788733643736,
+        0.04128326984120791
+      ],
+      "code_comm" : "473",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.04128326984120791,
+        49.11788733643736
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

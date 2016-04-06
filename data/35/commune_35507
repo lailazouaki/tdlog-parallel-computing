@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4f3b7f1b884ba74778c776397fe28af86132a844",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 542,
+      "insee_com" : "27658",
+      "z_moyen" : 137,
+      "code_dept" : "27",
+      "nom_comm" : "LE TREMBLAY-OMONVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5477,
+      "y_centroid" : 68932,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.905393137267769,
+              49.10548660437296
+            ],
+            [
+              0.901008967645566,
+              49.12004374400761
+            ],
+            [
+              0.897851797737494,
+              49.13166296209981
+            ],
+            [
+              0.920130884909612,
+              49.13149257070675
+            ],
+            [
+              0.927023456944868,
+              49.12776210845971
+            ],
+            [
+              0.935803246285869,
+              49.12754433323682
+            ],
+            [
+              0.928145073618992,
+              49.11479400727854
+            ],
+            [
+              0.905393137267769,
+              49.10548660437296
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68931,
+      "code_cant" : "24",
+      "x_centroid" : 5477,
+      "nom_dept" : "EURE",
+      "id_geofla" : 36344,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.1209729922499,
+        0.914720111369793
+      ],
+      "code_comm" : "658",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.914720111369793,
+        49.1209729922499
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

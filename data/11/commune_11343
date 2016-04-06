@@ -1,0 +1,75 @@
+  {
+    "recordid" : "04b7cabbedafe3b2a605a5697b7545b7ee83f389",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 744,
+      "insee_com" : "62307",
+      "z_moyen" : 94,
+      "code_dept" : "62",
+      "nom_comm" : "ESCALLES",
+      "code_arr" : "6",
+      "x_chf_lieu" : 6093,
+      "y_centroid" : 70913,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.735707456782937,
+              50.89096800419893
+            ],
+            [
+              1.725043529418501,
+              50.89750771406668
+            ],
+            [
+              1.715000620310161,
+              50.89855315033675
+            ],
+            [
+              1.692683276939779,
+              50.91537679650539
+            ],
+            [
+              1.70586213441563,
+              50.92380377015203
+            ],
+            [
+              1.735829813560043,
+              50.92647908550331
+            ],
+            [
+              1.739400021874052,
+              50.89416345021936
+            ],
+            [
+              1.735707456782937,
+              50.89096800419893
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70919,
+      "code_cant" : "15",
+      "x_centroid" : 6098,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 36352,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.91125031423383,
+        1.720618824212501
+      ],
+      "code_comm" : "307",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.720618824212501,
+        50.91125031423383
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

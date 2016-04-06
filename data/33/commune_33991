@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e3880f8ec67d752e8a50ed5cc320c817de5e888a",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 420,
+      "insee_com" : "34273",
+      "z_moyen" : 528,
+      "code_dept" : "34",
+      "nom_comm" : "SAINT-MARTIN-DE-L'ARCON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6986,
+      "y_centroid" : 62756,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.998811992106084,
+              43.57270314511351
+            ],
+            [
+              2.983691962532037,
+              43.56453224930158
+            ],
+            [
+              2.979966858401498,
+              43.56663702311214
+            ],
+            [
+              2.974098956343811,
+              43.60012460811343
+            ],
+            [
+              2.977617099788123,
+              43.59514970379314
+            ],
+            [
+              2.98510716293347,
+              43.59434120417748
+            ],
+            [
+              2.998811992106084,
+              43.57270314511351
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62750,
+      "code_cant" : "26",
+      "x_centroid" : 6987,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 31124,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.58000166753596,
+        2.985060783789554
+      ],
+      "code_comm" : "273",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.985060783789554,
+        43.58000166753596
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

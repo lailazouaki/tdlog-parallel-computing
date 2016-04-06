@@ -1,0 +1,71 @@
+  {
+    "recordid" : "505d28ccfb112386488d4088b3e3857271aecc39",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 229,
+      "insee_com" : "71430",
+      "z_moyen" : 255,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-JEAN-DE-VAUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8296,
+      "y_centroid" : 66354,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.69292142915214,
+              46.79769701606038
+            ],
+            [
+              4.68330285888489,
+              46.80257538935218
+            ],
+            [
+              4.690431409518665,
+              46.81036903355671
+            ],
+            [
+              4.690398568254005,
+              46.8164665436231
+            ],
+            [
+              4.699857485347473,
+              46.81396755866192
+            ],
+            [
+              4.709401182658081,
+              46.80586478484072
+            ],
+            [
+              4.69292142915214,
+              46.79769701606038
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66356,
+      "code_cant" : "19",
+      "x_centroid" : 8293,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 17500,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        46.80660736465639,
+        4.695750498614326
+      ],
+      "code_comm" : "430",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.695750498614326,
+        46.80660736465639
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

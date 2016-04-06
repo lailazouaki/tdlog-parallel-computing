@@ -1,0 +1,67 @@
+  {
+    "recordid" : "30c6ef43f395e92f2af502ee2f347545f947072f",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 507,
+      "insee_com" : "65250",
+      "z_moyen" : 308,
+      "code_dept" : "65",
+      "nom_comm" : "LALANNE-TRIE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4839,
+      "y_centroid" : 62494,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.348596586380326,
+              43.30207929129961
+            ],
+            [
+              0.313764485255575,
+              43.30984201034913
+            ],
+            [
+              0.316128296788866,
+              43.32022483809993
+            ],
+            [
+              0.348696352208648,
+              43.31598797258697
+            ],
+            [
+              0.362059088751747,
+              43.31517178145768
+            ],
+            [
+              0.348596586380326,
+              43.30207929129961
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62493,
+      "code_cant" : "24",
+      "x_centroid" : 4838,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 22382,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.31169306614112,
+        0.3362590444135653
+      ],
+      "code_comm" : "250",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3362590444135653,
+        43.31169306614112
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ff4f7d4be4c32e4817ebd606897950c4257bf516",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 450,
+      "insee_com" : "01063",
+      "z_moyen" : 486,
+      "code_dept" : "01",
+      "nom_comm" : "BRION",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8968,
+      "y_centroid" : 65663,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.530493354277687,
+              46.15648961522118
+            ],
+            [
+              5.539797172808535,
+              46.18242757592844
+            ],
+            [
+              5.559787909016659,
+              46.17609577846201
+            ],
+            [
+              5.564030200370616,
+              46.17445948735654
+            ],
+            [
+              5.560562030976862,
+              46.16851028113492
+            ],
+            [
+              5.55581345391326,
+              46.15955356989151
+            ],
+            [
+              5.530493354277687,
+              46.15648961522118
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65668,
+      "code_cant" : "22",
+      "x_centroid" : 8964,
+      "nom_dept" : "AIN",
+      "id_geofla" : 15999,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        46.16863273008502,
+        5.546564221940102
+      ],
+      "code_comm" : "063",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.546564221940102,
+        46.16863273008502
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

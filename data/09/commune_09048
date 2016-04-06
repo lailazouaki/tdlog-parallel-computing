@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6457005254969f134b7f9c9504e03f0fbc1faa44",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 232,
+      "insee_com" : "68366",
+      "z_moyen" : 183,
+      "code_dept" : "68",
+      "nom_comm" : "WICKERSCHWIHR",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10300,
+      "y_centroid" : 67882,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.440192482517439,
+              48.10219244891188
+            ],
+            [
+              7.424455181711601,
+              48.10402850223253
+            ],
+            [
+              7.439443504659576,
+              48.12146279022156
+            ],
+            [
+              7.445524691676576,
+              48.12110729288727
+            ],
+            [
+              7.451881265556608,
+              48.11028627868438
+            ],
+            [
+              7.440192482517439,
+              48.10219244891188
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67878,
+      "code_cant" : "02",
+      "x_centroid" : 10302,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 14299,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.11092997344264,
+        7.439403457896329
+      ],
+      "code_comm" : "366",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.439403457896329,
+        48.11092997344264
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

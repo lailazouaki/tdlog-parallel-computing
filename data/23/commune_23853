@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d2532264d543b4c32b9fa526bf2fa66b421c6cf2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 593,
+      "insee_com" : "61380",
+      "z_moyen" : 130,
+      "code_dept" : "61",
+      "nom_comm" : "SAINT-DENIS-DE-VILLENETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4386,
+      "y_centroid" : 68293,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.567005574176571,
+              48.49738685661558
+            ],
+            [
+              -0.568584353778268,
+              48.4978887270014
+            ],
+            [
+              -0.559923253529134,
+              48.52040008787051
+            ],
+            [
+              -0.545591912275779,
+              48.52295387163023
+            ],
+            [
+              -0.530761975431507,
+              48.52235102983644
+            ],
+            [
+              -0.52350163030284,
+              48.51375996007527
+            ],
+            [
+              -0.528359717490213,
+              48.50780762177019
+            ],
+            [
+              -0.567005574176571,
+              48.49738685661558
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68296,
+      "code_cant" : "17",
+      "x_centroid" : 4381,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 16045,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.51176455367688,
+        -0.5468197740643524
+      ],
+      "code_comm" : "380",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5468197740643524,
+        48.51176455367688
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

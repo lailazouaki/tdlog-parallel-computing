@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3e2abbfbfea144674ae5df7bd6a70553cec55db3",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 319,
+      "insee_com" : "51020",
+      "z_moyen" : 141,
+      "code_dept" : "51",
+      "nom_comm" : "AUBILLY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7625,
+      "y_centroid" : 69017,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.860186156038805,
+              49.2014897175214
+            ],
+            [
+              3.836634613419182,
+              49.21462011700409
+            ],
+            [
+              3.847719890946159,
+              49.22193294320081
+            ],
+            [
+              3.852989726905296,
+              49.22187778793372
+            ],
+            [
+              3.86833974684976,
+              49.21887321479226
+            ],
+            [
+              3.867141606489787,
+              49.20225802558608
+            ],
+            [
+              3.860186156038805,
+              49.2014897175214
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69018,
+      "code_cant" : "31",
+      "x_centroid" : 7623,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 32987,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.2127739521454,
+        3.855556294362441
+      ],
+      "code_comm" : "020",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.855556294362441,
+        49.2127739521454
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

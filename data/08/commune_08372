@@ -1,0 +1,75 @@
+  {
+    "recordid" : "837cfea191ca7793196a437fda7ebe26869ba10d",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 453,
+      "insee_com" : "52484",
+      "z_moyen" : 263,
+      "code_dept" : "52",
+      "nom_comm" : "SUZANNECOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8604,
+      "y_centroid" : 68180,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.181278244726963,
+              48.42712261265704
+            ],
+            [
+              5.178223123024659,
+              48.43334363827351
+            ],
+            [
+              5.160764489104656,
+              48.43928775392216
+            ],
+            [
+              5.160163223037057,
+              48.44867636568131
+            ],
+            [
+              5.21199745675142,
+              48.45046638630501
+            ],
+            [
+              5.18602274824735,
+              48.4342261474491
+            ],
+            [
+              5.185351379377231,
+              48.4275156319748
+            ],
+            [
+              5.181278244726963,
+              48.42712261265704
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68182,
+      "code_cant" : "13",
+      "x_centroid" : 8613,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 19866,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.44233563446953,
+        5.181831078764761
+      ],
+      "code_comm" : "484",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.181831078764761,
+        48.44233563446953
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

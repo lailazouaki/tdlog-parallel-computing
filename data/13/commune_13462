@@ -1,0 +1,71 @@
+  {
+    "recordid" : "208a9ad3b1875026a09fa3636ab8064a3861e814",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 281,
+      "insee_com" : "2B202",
+      "z_moyen" : 835,
+      "code_dept" : "2B",
+      "nom_comm" : "PARATA",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12281,
+      "y_centroid" : 61623,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.429941771045042,
+              42.35496732417968
+            ],
+            [
+              9.402778444031247,
+              42.36992707969605
+            ],
+            [
+              9.401946216596764,
+              42.37309735020828
+            ],
+            [
+              9.409930127676356,
+              42.37570011197047
+            ],
+            [
+              9.426485227934844,
+              42.3727342614976
+            ],
+            [
+              9.432608143280452,
+              42.36405822694499
+            ],
+            [
+              9.429941771045042,
+              42.35496732417968
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61625,
+      "code_cant" : "37",
+      "x_centroid" : 12290,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 23169,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.3671701227244,
+        9.419118035191593
+      ],
+      "code_comm" : "202",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.419118035191593,
+        42.3671701227244
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

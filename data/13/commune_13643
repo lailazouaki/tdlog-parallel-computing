@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1f411de573bf2ca0b3cac59d38bc4cd8a86af27f",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 295,
+      "insee_com" : "38497",
+      "z_moyen" : 803,
+      "code_dept" : "38",
+      "nom_comm" : "SOUSVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9215,
+      "y_centroid" : 64273,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.813877913695493,
+              44.89686707638506
+            ],
+            [
+              5.806723659550766,
+              44.8992914140354
+            ],
+            [
+              5.799233069249984,
+              44.90235439551113
+            ],
+            [
+              5.80106531683165,
+              44.90909209930101
+            ],
+            [
+              5.797077688711624,
+              44.91505755785182
+            ],
+            [
+              5.806200703032559,
+              44.92659351361447
+            ],
+            [
+              5.817334605019693,
+              44.90184260903499
+            ],
+            [
+              5.813877913695493,
+              44.89686707638506
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64277,
+      "code_cant" : "20",
+      "x_centroid" : 9214,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 11870,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.90983234822035,
+        5.806966620884625
+      ],
+      "code_comm" : "497",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.806966620884625,
+        44.90983234822035
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

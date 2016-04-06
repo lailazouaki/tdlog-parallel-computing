@@ -1,0 +1,75 @@
+  {
+    "recordid" : "182cb4a6e03d92253c839abc9460c7f2e7409cbe",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 326,
+      "insee_com" : "76651",
+      "z_moyen" : 73,
+      "code_dept" : "76",
+      "nom_comm" : "SAINT-SYLVAIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5325,
+      "y_centroid" : 69746,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.668474984212262,
+              49.83482040308761
+            ],
+            [
+              0.654223624893935,
+              49.83590448585024
+            ],
+            [
+              0.65469240624328,
+              49.84566527336879
+            ],
+            [
+              0.645528414949199,
+              49.8641473149004
+            ],
+            [
+              0.655782358041569,
+              49.86551296102628
+            ],
+            [
+              0.662226519441816,
+              49.85292804273388
+            ],
+            [
+              0.674867047749151,
+              49.84366946469485
+            ],
+            [
+              0.668474984212262,
+              49.83482040308761
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69743,
+      "code_cant" : "50",
+      "x_centroid" : 5315,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 17392,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.8484962406359,
+        0.6596443508967935
+      ],
+      "code_comm" : "651",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6596443508967935,
+        49.8484962406359
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

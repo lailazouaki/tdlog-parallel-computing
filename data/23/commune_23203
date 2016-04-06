@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9e02884dea33789d0310242f887f11cacd5ec1ed",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 385,
+      "insee_com" : "70187",
+      "z_moyen" : 338,
+      "code_dept" : "70",
+      "nom_comm" : "CREVANS-ET-LA-CHAPELLE-LES-GRANGES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9695,
+      "y_centroid" : 67226,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.606402864019052,
+              47.53684885372314
+            ],
+            [
+              6.594464962219551,
+              47.54235385511077
+            ],
+            [
+              6.580450131023319,
+              47.54410985875028
+            ],
+            [
+              6.578647665046074,
+              47.55574388392446
+            ],
+            [
+              6.59982760068574,
+              47.55933575795996
+            ],
+            [
+              6.607953655304036,
+              47.54345984728545
+            ],
+            [
+              6.606402864019052,
+              47.53684885372314
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67229,
+      "code_cant" : "27",
+      "x_centroid" : 9702,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 25605,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.54910032029879,
+        6.593684558002836
+      ],
+      "code_comm" : "187",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.593684558002836,
+        47.54910032029879
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

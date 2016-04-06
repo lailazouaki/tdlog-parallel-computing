@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c9dd577beafb3ccaac0808177fa8e4f39fbf9ab0",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 286,
+      "insee_com" : "71125",
+      "z_moyen" : 261,
+      "code_dept" : "71",
+      "nom_comm" : "CHERIZET",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8204,
+      "y_centroid" : 66030,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.575711586263824,
+              46.50763136572112
+            ],
+            [
+              4.550549812663913,
+              46.5172607327487
+            ],
+            [
+              4.554819886783276,
+              46.5233449987235
+            ],
+            [
+              4.579128289777745,
+              46.52246260067923
+            ],
+            [
+              4.581946068148611,
+              46.51974880033846
+            ],
+            [
+              4.575711586263824,
+              46.50763136572112
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66031,
+      "code_cant" : "12",
+      "x_centroid" : 8201,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 30890,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.51715931867562,
+        4.567606162226086
+      ],
+      "code_comm" : "125",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.567606162226086,
+        46.51715931867562
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

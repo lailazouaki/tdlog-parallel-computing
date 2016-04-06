@@ -1,0 +1,63 @@
+  {
+    "recordid" : "1b13573d0ff4b2d5583c41771a9ac8d039134840",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 457,
+      "insee_com" : "45086",
+      "z_moyen" : 129,
+      "code_dept" : "45",
+      "nom_comm" : "CHATILLON-LE-ROI",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6335,
+      "y_centroid" : 67852,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.121131907647771,
+              48.15625818738981
+            ],
+            [
+              2.086210308849151,
+              48.15749573595647
+            ],
+            [
+              2.080717487336547,
+              48.17017730676242
+            ],
+            [
+              2.118203378196836,
+              48.17217303489223
+            ],
+            [
+              2.121131907647771,
+              48.15625818738981
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67851,
+      "code_cant" : "26",
+      "x_centroid" : 6332,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 23379,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.16414850478206,
+        2.102206282192711
+      ],
+      "code_comm" : "086",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.102206282192711,
+        48.16414850478206
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

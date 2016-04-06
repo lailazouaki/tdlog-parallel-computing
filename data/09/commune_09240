@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4b82014561c3365b0a9bcbdf2ea03da7a028347a",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 331,
+      "insee_com" : "91577",
+      "z_moyen" : 61,
+      "code_dept" : "91",
+      "nom_comm" : "SAINTRY-SUR-SEINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6628,
+      "y_centroid" : 68326,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.482368683850292,
+              48.58256729233454
+            ],
+            [
+              2.490357142177879,
+              48.60735716018246
+            ],
+            [
+              2.499562378783351,
+              48.60503043392841
+            ],
+            [
+              2.504735654305192,
+              48.5858019006497
+            ],
+            [
+              2.508874108541508,
+              48.58402894984854
+            ],
+            [
+              2.482368683850292,
+              48.58256729233454
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68324,
+      "code_cant" : "32",
+      "x_centroid" : 6626,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 9085,
+      "statut" : "Commune simple",
+      "population" : 5.1,
+      "geom_x_y" : [
+        48.59301073594236,
+        2.494191926603978
+      ],
+      "code_comm" : "577",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.494191926603978,
+        48.59301073594236
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

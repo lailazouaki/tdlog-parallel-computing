@@ -1,0 +1,67 @@
+  {
+    "recordid" : "dd4bc9c38a9dac418475e84dcad0bd17e744fe29",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 296,
+      "insee_com" : "14495",
+      "z_moyen" : 39,
+      "code_dept" : "14",
+      "nom_comm" : "PERIERS-SUR-LE-DAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4566,
+      "y_centroid" : 69115,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.353119875919796,
+              49.24759658292594
+            ],
+            [
+              -0.340929450565935,
+              49.26758622259927
+            ],
+            [
+              -0.333819159953741,
+              49.26564155435672
+            ],
+            [
+              -0.320802080448804,
+              49.26162787787909
+            ],
+            [
+              -0.33245368185723,
+              49.25044612490215
+            ],
+            [
+              -0.353119875919796,
+              49.24759658292594
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69116,
+      "code_cant" : "48",
+      "x_centroid" : 4570,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 33264,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.25729333318215,
+        -0.3374261916688056
+      ],
+      "code_comm" : "495",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3374261916688056,
+        49.25729333318215
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

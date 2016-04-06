@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f7ab29249ecc1cb7d723b471c0162a184a578dd5",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 343,
+      "insee_com" : "22082",
+      "z_moyen" : 82,
+      "code_dept" : "22",
+      "nom_comm" : "LE HINGLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3243,
+      "y_centroid" : 68229,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.087406086458856,
+              48.38729176542503
+            ],
+            [
+              -2.097646208208689,
+              48.39977940826377
+            ],
+            [
+              -2.08026890108459,
+              48.41131742121483
+            ],
+            [
+              -2.077219717296349,
+              48.39869165065041
+            ],
+            [
+              -2.067947987360658,
+              48.39618593760475
+            ],
+            [
+              -2.066318416658725,
+              48.3930462626121
+            ],
+            [
+              -2.087406086458856,
+              48.38729176542503
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68223,
+      "code_cant" : "12",
+      "x_centroid" : 3239,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 30940,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.39759203135488,
+        -2.083273332047929
+      ],
+      "code_comm" : "082",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.083273332047929,
+        48.39759203135488
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

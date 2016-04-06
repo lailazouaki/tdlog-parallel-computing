@@ -1,0 +1,71 @@
+  {
+    "recordid" : "01acae3644ec3d3fcb559909ac420c9d251e57c9",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 278,
+      "insee_com" : "11382",
+      "z_moyen" : 169,
+      "code_dept" : "11",
+      "nom_comm" : "SOUILHANELS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6122,
+      "y_centroid" : 62513,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.916171244423359,
+              43.34773592726822
+            ],
+            [
+              1.90096014986711,
+              43.35476199400325
+            ],
+            [
+              1.903990110277073,
+              43.36075769024934
+            ],
+            [
+              1.90767636791694,
+              43.36404286241639
+            ],
+            [
+              1.934206211387116,
+              43.35777563623799
+            ],
+            [
+              1.93660411436998,
+              43.35478527699923
+            ],
+            [
+              1.916171244423359,
+              43.34773592726822
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62507,
+      "code_cant" : "09",
+      "x_centroid" : 6121,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 25718,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.35592624579958,
+        1.917042104162552
+      ],
+      "code_comm" : "382",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.917042104162552,
+        43.35592624579958
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

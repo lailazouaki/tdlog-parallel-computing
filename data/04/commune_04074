@@ -1,0 +1,79 @@
+  {
+    "recordid" : "6e54e60b6cac9af24c11ab86e855bfdf63ca0f6e",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 813,
+      "insee_com" : "34080",
+      "z_moyen" : 434,
+      "code_dept" : "34",
+      "nom_comm" : "COLOMBIERES-SUR-ORB",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7008,
+      "y_centroid" : 62762,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.031237760781034,
+              43.57831309065102
+            ],
+            [
+              3.023301552444228,
+              43.57091015678735
+            ],
+            [
+              3.007028980592271,
+              43.57216307616568
+            ],
+            [
+              2.998811992106084,
+              43.57270314511351
+            ],
+            [
+              2.98510716293347,
+              43.59434120417748
+            ],
+            [
+              3.00807190466974,
+              43.59653734189628
+            ],
+            [
+              3.025195907672719,
+              43.60144742751262
+            ],
+            [
+              3.02933499372756,
+              43.58453990732291
+            ],
+            [
+              3.031237760781034,
+              43.57831309065102
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62756,
+      "code_cant" : "26",
+      "x_centroid" : 7008,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 32268,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.58531455642866,
+        3.010846542081029
+      ],
+      "code_comm" : "080",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.010846542081029,
+        43.58531455642866
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

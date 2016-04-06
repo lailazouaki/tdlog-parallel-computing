@@ -1,0 +1,75 @@
+  {
+    "recordid" : "25bb1de5b9ba3c00447b9e4c4e3c9dd51771cd0d",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 532,
+      "insee_com" : "38242",
+      "z_moyen" : 864,
+      "code_dept" : "38",
+      "nom_comm" : "MONESTIER-DE-CLERMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9079,
+      "y_centroid" : 64281,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.638299507228416,
+              44.8977628626546
+            ],
+            [
+              5.625778507474305,
+              44.90618525328148
+            ],
+            [
+              5.621704469802459,
+              44.91231716718338
+            ],
+            [
+              5.634246632626642,
+              44.92994746335482
+            ],
+            [
+              5.634418218616925,
+              44.94682551024971
+            ],
+            [
+              5.643351627695993,
+              44.94527112566306
+            ],
+            [
+              5.646924870501241,
+              44.92584453871402
+            ],
+            [
+              5.638299507228416,
+              44.8977628626546
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64276,
+      "code_cant" : "18",
+      "x_centroid" : 9079,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 15648,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.2,
+      "geom_x_y" : [
+        44.92129389677232,
+        5.636373644174476
+      ],
+      "code_comm" : "242",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.636373644174476,
+        44.92129389677232
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

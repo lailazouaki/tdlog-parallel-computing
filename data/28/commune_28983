@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e73b4d4b82b6811214dc84e4a3f3737d0353b307",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 347,
+      "insee_com" : "57105",
+      "z_moyen" : 277,
+      "code_dept" : "57",
+      "nom_comm" : "BOUSTROFF",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9649,
+      "y_centroid" : 68840,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.611095344474039,
+              48.99414445343146
+            ],
+            [
+              6.629765961585465,
+              49.01212383698676
+            ],
+            [
+              6.64710525567246,
+              49.00610696373074
+            ],
+            [
+              6.648826227188616,
+              49.00294907232924
+            ],
+            [
+              6.638069048721444,
+              48.995678535458
+            ],
+            [
+              6.622802776310617,
+              48.99411537376162
+            ],
+            [
+              6.611095344474039,
+              48.99414445343146
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68839,
+      "code_cant" : "14",
+      "x_centroid" : 9655,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 28894,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.00179661766788,
+        6.631110708062431
+      ],
+      "code_comm" : "105",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.631110708062431,
+        49.00179661766788
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

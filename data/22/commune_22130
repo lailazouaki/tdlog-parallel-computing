@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d2396d303787e79980d8e65d2ea20867fb99c317",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 288,
+      "insee_com" : "50302",
+      "z_moyen" : 87,
+      "code_dept" : "50",
+      "nom_comm" : "LE MESNIL-AMEY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 3925,
+      "y_centroid" : 68977,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.213425799929195,
+              49.09637182612177
+            ],
+            [
+              -1.227886772991803,
+              49.10673163460474
+            ],
+            [
+              -1.222456236855073,
+              49.11161364873078
+            ],
+            [
+              -1.20722412723101,
+              49.11269713971798
+            ],
+            [
+              -1.198021988303788,
+              49.11000269192326
+            ],
+            [
+              -1.198069136887175,
+              49.10229377397519
+            ],
+            [
+              -1.213425799929195,
+              49.09637182612177
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68975,
+      "code_cant" : "21",
+      "x_centroid" : 3926,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 24351,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.10564792313195,
+        -1.211603148292127
+      ],
+      "code_comm" : "302",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.211603148292127,
+        49.10564792313195
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

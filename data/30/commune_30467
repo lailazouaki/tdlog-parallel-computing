@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0fe076156cb22c3970ead01e165eaf73ded8f63d",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 479,
+      "insee_com" : "62493",
+      "z_moyen" : 115,
+      "code_dept" : "62",
+      "nom_comm" : "LEBUCQUIERE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6975,
+      "y_centroid" : 70012,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.956874612491163,
+              50.09525940796117
+            ],
+            [
+              2.948616531842224,
+              50.10233320613131
+            ],
+            [
+              2.933968149153828,
+              50.10333206079191
+            ],
+            [
+              2.954350864642021,
+              50.12278469513019
+            ],
+            [
+              2.967846157427863,
+              50.12010374953041
+            ],
+            [
+              2.975881328286224,
+              50.1123282779805
+            ],
+            [
+              2.956874612491163,
+              50.09525940796117
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70015,
+      "code_cant" : "11",
+      "x_centroid" : 6968,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 28479,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.10994988633273,
+        2.956611006374734
+      ],
+      "code_comm" : "493",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.956611006374734,
+        50.10994988633273
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

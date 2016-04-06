@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dac9517d414a72c63ef97082299b6d4b69684ad1",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 354,
+      "insee_com" : "62146",
+      "z_moyen" : 103,
+      "code_dept" : "62",
+      "nom_comm" : "BOIRY-SAINT-MARTIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6828,
+      "y_centroid" : 70105,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.752568643086346,
+              50.18143708719586
+            ],
+            [
+              2.739203507866728,
+              50.18332220768116
+            ],
+            [
+              2.74793267388423,
+              50.19128765199603
+            ],
+            [
+              2.746616187958058,
+              50.19441892108252
+            ],
+            [
+              2.766629916452867,
+              50.20430934316384
+            ],
+            [
+              2.774281924813352,
+              50.20141418458334
+            ],
+            [
+              2.777189473761863,
+              50.19560058073775
+            ],
+            [
+              2.752568643086346,
+              50.18143708719586
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70112,
+      "code_cant" : "10",
+      "x_centroid" : 6827,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 13495,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.19268026336285,
+        2.759136088816507
+      ],
+      "code_comm" : "146",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.759136088816507,
+        50.19268026336285
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

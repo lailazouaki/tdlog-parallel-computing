@@ -1,0 +1,63 @@
+  {
+    "recordid" : "3c463884af74819aa303eee89edb9b536cc0ce72",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 279,
+      "insee_com" : "01042",
+      "z_moyen" : 199,
+      "code_dept" : "01",
+      "nom_comm" : "BEY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8422,
+      "y_centroid" : 65704,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.854666972690771,
+              46.20664270123301
+            ],
+            [
+              4.845960149949332,
+              46.20928840705596
+            ],
+            [
+              4.831321186146429,
+              46.22624254436614
+            ],
+            [
+              4.85488268073499,
+              46.22796848496632
+            ],
+            [
+              4.854666972690771,
+              46.20664270123301
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65705,
+      "code_cant" : "27",
+      "x_centroid" : 8423,
+      "nom_dept" : "AIN",
+      "id_geofla" : 27327,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.21917488436654,
+        4.846426902407558
+      ],
+      "code_comm" : "042",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.846426902407558,
+        46.21917488436654
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b1ca48bc6f7f5fbb81e42fd4048b264f883edd8a",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 364,
+      "insee_com" : "27520",
+      "z_moyen" : 130,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-BENOIT-DES-OMBRES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5268,
+      "y_centroid" : 69055,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.624591006361531,
+              49.21723365791487
+            ],
+            [
+              0.610900052101958,
+              49.21727779653644
+            ],
+            [
+              0.601616903093068,
+              49.22826418914878
+            ],
+            [
+              0.609659023403158,
+              49.23580809282974
+            ],
+            [
+              0.624877798087266,
+              49.23490370398756
+            ],
+            [
+              0.6329017370696181,
+              49.23094227915899
+            ],
+            [
+              0.6327417190407419,
+              49.22154034212213
+            ],
+            [
+              0.624591006361531,
+              49.21723365791487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69061,
+      "code_cant" : "33",
+      "x_centroid" : 5265,
+      "nom_dept" : "EURE",
+      "id_geofla" : 17665,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.22650236077179,
+        0.6183338974310606
+      ],
+      "code_comm" : "520",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6183338974310606,
+        49.22650236077179
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

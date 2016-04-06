@@ -1,0 +1,75 @@
+  {
+    "recordid" : "70aea936d25352bf0cb76ac5a576b6613cfe4003",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 363,
+      "insee_com" : "14427",
+      "z_moyen" : 106,
+      "code_dept" : "14",
+      "nom_comm" : "LE MESNIL-VILLEMENT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4527,
+      "y_centroid" : 68671,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.383774195318271,
+              48.8469841989138
+            ],
+            [
+              -0.401276090642343,
+              48.85893680997461
+            ],
+            [
+              -0.391342328331745,
+              48.85680650766707
+            ],
+            [
+              -0.366458644466635,
+              48.86880623138713
+            ],
+            [
+              -0.361687004210999,
+              48.86316159523214
+            ],
+            [
+              -0.364298088779585,
+              48.85712028513592
+            ],
+            [
+              -0.365814664740932,
+              48.8487152977049
+            ],
+            [
+              -0.383774195318271,
+              48.8469841989138
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68667,
+      "code_cant" : "17",
+      "x_centroid" : 4523,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 16340,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.85638999167413,
+        -0.3765786549793007
+      ],
+      "code_comm" : "427",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3765786549793007,
+        48.85638999167413
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "efc64286ab309372fd65963e58edc0b71f8132d3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 252,
+      "insee_com" : "50451",
+      "z_moyen" : 45,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-BRICE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3831,
+      "y_centroid" : 68529,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.282186892181613,
+              48.6946719076082
+            ],
+            [
+              -1.313236057207709,
+              48.69448886878502
+            ],
+            [
+              -1.310436537401295,
+              48.70524647138683
+            ],
+            [
+              -1.28143695504733,
+              48.70212119384816
+            ],
+            [
+              -1.282186892181613,
+              48.6946719076082
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68528,
+      "code_cant" : "01",
+      "x_centroid" : 3838,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 14862,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.69914242600395,
+        -1.297758972896838
+      ],
+      "code_comm" : "451",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.297758972896838,
+        48.69914242600395
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

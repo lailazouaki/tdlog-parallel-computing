@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3d164bc7191f895543cb01439dcb71509316a98d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 178,
+      "insee_com" : "91685",
+      "z_moyen" : 67,
+      "code_dept" : "91",
+      "nom_comm" : "VILLIERS-SUR-ORGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6486,
+      "y_centroid" : 68400,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.298933684863028,
+              48.65012825587546
+            ],
+            [
+              2.291425498413626,
+              48.65219771466776
+            ],
+            [
+              2.291325367895718,
+              48.65758521237107
+            ],
+            [
+              2.30007159073682,
+              48.66959134757039
+            ],
+            [
+              2.309444824262695,
+              48.6570529200544
+            ],
+            [
+              2.298933684863028,
+              48.65012825587546
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68399,
+      "code_cant" : "14",
+      "x_centroid" : 6484,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 22228,
+      "statut" : "Commune simple",
+      "population" : 3.9,
+      "geom_x_y" : [
+        48.65841998185248,
+        2.299501207919609
+      ],
+      "code_comm" : "685",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.299501207919609,
+        48.65841998185248
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

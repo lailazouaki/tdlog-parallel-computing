@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3a7411349ec5a64f791d143c67cee3eb36ca8be",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 658,
+      "insee_com" : "31403",
+      "z_moyen" : 106,
+      "code_dept" : "31",
+      "nom_comm" : "ONDES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5638,
+      "y_centroid" : 63000,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.327856143381806,
+              43.77528965572029
+            ],
+            [
+              1.305124106273355,
+              43.77236420795898
+            ],
+            [
+              1.282649880124805,
+              43.78947391463921
+            ],
+            [
+              1.281825141954299,
+              43.79624760571107
+            ],
+            [
+              1.299029858126446,
+              43.79978478437923
+            ],
+            [
+              1.315112187866649,
+              43.79340092881115
+            ],
+            [
+              1.327856143381806,
+              43.77528965572029
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62994,
+      "code_cant" : "15",
+      "x_centroid" : 5634,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 18367,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        43.78612775190231,
+        1.304097475567107
+      ],
+      "code_comm" : "403",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.304097475567107,
+        43.78612775190231
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

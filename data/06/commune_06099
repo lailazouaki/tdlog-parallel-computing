@@ -1,0 +1,79 @@
+  {
+    "recordid" : "adcf6fe9d5aed2a03d299def37055c4da158e5bf",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 836,
+      "insee_com" : "17352",
+      "z_moyen" : 16,
+      "code_dept" : "17",
+      "nom_comm" : "SAINT-LAURENT-DE-LA-BARRIERE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4138,
+      "y_centroid" : 65547,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.680111239084624,
+              46.02388297547547
+            ],
+            [
+              -0.692491744036714,
+              46.01997330926902
+            ],
+            [
+              -0.7155417272624019,
+              46.02251894070809
+            ],
+            [
+              -0.7344094071877471,
+              46.03299589074742
+            ],
+            [
+              -0.7263203014726241,
+              46.04483744953984
+            ],
+            [
+              -0.711543845860385,
+              46.04342028125508
+            ],
+            [
+              -0.689213968006271,
+              46.0355314105533
+            ],
+            [
+              -0.681573442229764,
+              46.03991770564091
+            ],
+            [
+              -0.680111239084624,
+              46.02388297547547
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65550,
+      "code_cant" : "38",
+      "x_centroid" : 4134,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 30148,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.0319184838196,
+        -0.7063483566972133
+      ],
+      "code_comm" : "352",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7063483566972133,
+        46.0319184838196
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

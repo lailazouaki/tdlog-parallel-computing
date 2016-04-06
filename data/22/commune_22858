@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9e930a402b3b1cf6c9acf8ec5d0f48000d128c53",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 348,
+      "insee_com" : "92047",
+      "z_moyen" : 152,
+      "code_dept" : "92",
+      "nom_comm" : "MARNES-LA-COQUETTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6395,
+      "y_centroid" : 68592,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.150744478965478,
+              48.81884926644504
+            ],
+            [
+              2.151465535500457,
+              48.82140868785496
+            ],
+            [
+              2.156419228745145,
+              48.83765981208241
+            ],
+            [
+              2.166622818791542,
+              48.83774033147073
+            ],
+            [
+              2.187209859199239,
+              48.83772909785025
+            ],
+            [
+              2.180795305092002,
+              48.83062514740235
+            ],
+            [
+              2.171025535365525,
+              48.82391130606726
+            ],
+            [
+              2.150744478965478,
+              48.81884926644504
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68592,
+      "code_cant" : "11",
+      "x_centroid" : 6388,
+      "nom_dept" : "HAUTS-DE-SEINE",
+      "id_geofla" : 16996,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        48.83027126397439,
+        2.166472617350208
+      ],
+      "code_comm" : "047",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.166472617350208,
+        48.83027126397439
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

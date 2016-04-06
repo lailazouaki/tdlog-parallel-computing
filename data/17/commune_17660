@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bc66bf6c1b2ee5d33ae65734424b35ac5995c357",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 342,
+      "insee_com" : "64174",
+      "z_moyen" : 275,
+      "code_dept" : "64",
+      "nom_comm" : "CASTERA-LOUBIX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4541,
+      "y_centroid" : 62610,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.042942076762957,
+              43.39471727047665
+            ],
+            [
+              -0.046258830944308,
+              43.40046693265758
+            ],
+            [
+              -0.042995769283684,
+              43.41021000632018
+            ],
+            [
+              -0.038142477781011,
+              43.41886325832446
+            ],
+            [
+              -0.026719069413503,
+              43.41466365269633
+            ],
+            [
+              -0.025085845851779,
+              43.40521111359159
+            ],
+            [
+              -0.018121973857731,
+              43.40145320606563
+            ],
+            [
+              -0.042942076762957,
+              43.39471727047665
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62606,
+      "code_cant" : "22",
+      "x_centroid" : 4541,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 18925,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.40593908690312,
+        -0.03460550714202797
+      ],
+      "code_comm" : "174",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.03460550714202797,
+        43.40593908690312
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

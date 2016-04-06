@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dcf6387c9ce23e1fe182ca57352df42a31b3f1d2",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1539,
+      "insee_com" : "66017",
+      "z_moyen" : 1,
+      "code_dept" : "66",
+      "nom_comm" : "LE BARCARES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7029,
+      "y_centroid" : 61903,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.02592276129874,
+              42.7714269728531
+            ],
+            [
+              3.017589350879813,
+              42.77934131530601
+            ],
+            [
+              3.018428145277068,
+              42.80699993991826
+            ],
+            [
+              3.012576122421839,
+              42.85236591365924
+            ],
+            [
+              3.043498586588881,
+              42.83815011921808
+            ],
+            [
+              3.038608844919333,
+              42.77957858079173
+            ],
+            [
+              3.02592276129874,
+              42.7714269728531
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61876,
+      "code_cant" : "14",
+      "x_centroid" : 7023,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 15222,
+      "statut" : "Commune simple",
+      "population" : 4,
+      "geom_x_y" : [
+        42.81277109836192,
+        3.028341251490725
+      ],
+      "code_comm" : "017",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.028341251490725,
+        42.81277109836192
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

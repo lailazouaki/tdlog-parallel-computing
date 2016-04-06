@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f511cf18debe1e59ee02794bdcc21aa1d8131bed",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 341,
+      "insee_com" : "57007",
+      "z_moyen" : 239,
+      "code_dept" : "57",
+      "nom_comm" : "ADAINCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9513,
+      "y_centroid" : 68839,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.43309295352472,
+              48.99574509137509
+            ],
+            [
+              6.431553917185102,
+              49.00764280007134
+            ],
+            [
+              6.435224810060796,
+              49.01391004279038
+            ],
+            [
+              6.450143438953503,
+              49.01602906340173
+            ],
+            [
+              6.456634921651605,
+              49.01097292266632
+            ],
+            [
+              6.45750694667205,
+              49.00126315398114
+            ],
+            [
+              6.451933259231422,
+              48.99849849978841
+            ],
+            [
+              6.43309295352472,
+              48.99574509137509
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68838,
+      "code_cant" : "09",
+      "x_centroid" : 9519,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 24024,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.00591625585856,
+        6.444190249283815
+      ],
+      "code_comm" : "007",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.444190249283815,
+        49.00591625585856
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

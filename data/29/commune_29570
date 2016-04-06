@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c2bab1ed22e95efd2afd079948014b5f654f28e2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 136,
+      "insee_com" : "65217",
+      "z_moyen" : 544,
+      "code_dept" : "65",
+      "nom_comm" : "HAUTAGET",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4926,
+      "y_centroid" : 62210,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.450481763871283,
+              43.05119548984361
+            ],
+            [
+              0.449552051973773,
+              43.05308115567039
+            ],
+            [
+              0.455226133532011,
+              43.06664134449561
+            ],
+            [
+              0.464174841705847,
+              43.06492679331442
+            ],
+            [
+              0.458907797188634,
+              43.05714480909348
+            ],
+            [
+              0.464068998633885,
+              43.05249731017429
+            ],
+            [
+              0.450481763871283,
+              43.05119548984361
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62206,
+      "code_cant" : "19",
+      "x_centroid" : 4926,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 11555,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.05832397710512,
+        0.4566702762187116
+      ],
+      "code_comm" : "217",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4566702762187116,
+        43.05832397710512
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

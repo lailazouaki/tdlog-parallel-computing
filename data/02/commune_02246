@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d8cdebe3e4267c5b8bffa830b7af26d23c131246",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 296,
+      "insee_com" : "62511",
+      "z_moyen" : 141,
+      "code_dept" : "62",
+      "nom_comm" : "LIGNEREUIL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6622,
+      "y_centroid" : 70216,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.456959270074601,
+              50.28433554582972
+            ],
+            [
+              2.457357803398505,
+              50.29682688481778
+            ],
+            [
+              2.474343230879893,
+              50.29981857859771
+            ],
+            [
+              2.488635162184532,
+              50.29072034583286
+            ],
+            [
+              2.487636104386534,
+              50.28834578243135
+            ],
+            [
+              2.478561941646166,
+              50.28492268528629
+            ],
+            [
+              2.456959270074601,
+              50.28433554582972
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70215,
+      "code_cant" : "08",
+      "x_centroid" : 6622,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 4753,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.29131043413933,
+        2.470810837262657
+      ],
+      "code_comm" : "511",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.470810837262657,
+        50.29131043413933
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

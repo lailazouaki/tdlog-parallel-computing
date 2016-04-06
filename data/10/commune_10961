@@ -1,0 +1,71 @@
+  {
+    "recordid" : "143555377f30e76d48bf792408cc19f8e82cda86",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 205,
+      "insee_com" : "76712",
+      "z_moyen" : 120,
+      "code_dept" : "76",
+      "nom_comm" : "LA TRINITE-DU-MONT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5230,
+      "y_centroid" : 69412,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.56082639491685,
+              49.53943364379156
+            ],
+            [
+              0.556774833351476,
+              49.53776063974089
+            ],
+            [
+              0.544884628932632,
+              49.54140481949805
+            ],
+            [
+              0.554760880996663,
+              49.55307713271358
+            ],
+            [
+              0.564646408975485,
+              49.55211609478032
+            ],
+            [
+              0.570978209860401,
+              49.54710007625117
+            ],
+            [
+              0.56082639491685,
+              49.53943364379156
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69410,
+      "code_cant" : "33",
+      "x_centroid" : 5232,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 17667,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.54557890435301,
+        0.5578988768821391
+      ],
+      "code_comm" : "712",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5578988768821391,
+        49.54557890435301
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

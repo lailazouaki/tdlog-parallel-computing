@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c9f93536bfeed8965ad7596977466f2e19af41af",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 573,
+      "insee_com" : "72152",
+      "z_moyen" : 75,
+      "code_dept" : "72",
+      "nom_comm" : "JUILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4864,
+      "y_centroid" : 67977,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.131736703780463,
+              48.23188569412844
+            ],
+            [
+              0.107686508849641,
+              48.23547705510083
+            ],
+            [
+              0.114094558384152,
+              48.25383012740061
+            ],
+            [
+              0.125371657727761,
+              48.25915593196383
+            ],
+            [
+              0.138894029095862,
+              48.25818752661343
+            ],
+            [
+              0.140978175395407,
+              48.23940261789563
+            ],
+            [
+              0.131736703780463,
+              48.23188569412844
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67977,
+      "code_cant" : "02",
+      "x_centroid" : 4866,
+      "nom_dept" : "SARTHE",
+      "id_geofla" : 34257,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.24526324448433,
+        0.125803131359875
+      ],
+      "code_comm" : "152",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.125803131359875,
+        48.24526324448433
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

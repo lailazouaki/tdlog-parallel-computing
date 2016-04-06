@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bae8a17a8f819dfaebe05d882e1c843375964825",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1097,
+      "insee_com" : "34181",
+      "z_moyen" : 176,
+      "code_dept" : "34",
+      "nom_comm" : "NEFFIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7266,
+      "y_centroid" : 62711,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.330488624501606,
+              43.5165875704954
+            ],
+            [
+              3.313257071814196,
+              43.53294167884449
+            ],
+            [
+              3.317068688655329,
+              43.55807825706034
+            ],
+            [
+              3.336039476742013,
+              43.55672556786442
+            ],
+            [
+              3.350869637531475,
+              43.54804112399291
+            ],
+            [
+              3.360463703639656,
+              43.53148155248825
+            ],
+            [
+              3.337995251733719,
+              43.52537272736204
+            ],
+            [
+              3.330488624501606,
+              43.5165875704954
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62705,
+      "code_cant" : "29",
+      "x_centroid" : 7269,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 36337,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        43.53934238727543,
+        3.333544093950309
+      ],
+      "code_comm" : "181",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.333544093950309,
+        43.53934238727543
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

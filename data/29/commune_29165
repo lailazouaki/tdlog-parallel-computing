@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cd88009873201a929f552df0dd6f67ae56c5c935",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 922,
+      "insee_com" : "28247",
+      "z_moyen" : 133,
+      "code_dept" : "28",
+      "nom_comm" : "LE MESNIL-SIMON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5927,
+      "y_centroid" : 68665,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.546231337356341,
+              48.87243789391616
+            ],
+            [
+              1.530043026869955,
+              48.87834751590644
+            ],
+            [
+              1.525862338094085,
+              48.88006803863112
+            ],
+            [
+              1.499477696797194,
+              48.8922426996274
+            ],
+            [
+              1.538520830873111,
+              48.90668492167043
+            ],
+            [
+              1.563741879046104,
+              48.89062929079946
+            ],
+            [
+              1.546231337356341,
+              48.87243789391616
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68672,
+      "code_cant" : "01",
+      "x_centroid" : 5925,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 23565,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.89007340810986,
+        1.535078852529955
+      ],
+      "code_comm" : "247",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.535078852529955,
+        48.89007340810986
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

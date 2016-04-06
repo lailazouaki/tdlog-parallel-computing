@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b1eb09b0efaadfba15dacc8d85296516f83bcf86",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 355,
+      "insee_com" : "59186",
+      "z_moyen" : 206,
+      "code_dept" : "59",
+      "nom_comm" : "ECCLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7787,
+      "y_centroid" : 70117,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.078491043979616,
+              50.18871212217283
+            ],
+            [
+              4.091405003125542,
+              50.20704438911884
+            ],
+            [
+              4.104911907499676,
+              50.20913303338263
+            ],
+            [
+              4.117141839817446,
+              50.20402940366761
+            ],
+            [
+              4.116539416243282,
+              50.20081981597205
+            ],
+            [
+              4.098978837905033,
+              50.18978804906535
+            ],
+            [
+              4.078491043979616,
+              50.18871212217283
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70124,
+      "code_cant" : "59",
+      "x_centroid" : 7784,
+      "nom_dept" : "NORD",
+      "id_geofla" : 981,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.1988413347672,
+        4.098133416050532
+      ],
+      "code_comm" : "186",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.098133416050532,
+        50.1988413347672
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

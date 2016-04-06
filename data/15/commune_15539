@@ -1,0 +1,75 @@
+  {
+    "recordid" : "139a0bbebb1daf22cecef652fcc173c34b33c8bb",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 489,
+      "insee_com" : "21617",
+      "z_moyen" : 323,
+      "code_dept" : "21",
+      "nom_comm" : "TALANT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8514,
+      "y_centroid" : 66950,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.017179347637073,
+              47.33931474240031
+            ],
+            [
+              5.010314023530682,
+              47.3236746862856
+            ],
+            [
+              4.994278957699485,
+              47.3305339989267
+            ],
+            [
+              4.97428515596135,
+              47.34800328747787
+            ],
+            [
+              4.980574853650859,
+              47.35328122736767
+            ],
+            [
+              5.001077172390733,
+              47.34341147607698
+            ],
+            [
+              5.01075695925595,
+              47.3450453320018
+            ],
+            [
+              5.017179347637073,
+              47.33931474240031
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66948,
+      "code_cant" : "43",
+      "x_centroid" : 8508,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 21508,
+      "statut" : "Commune simple",
+      "population" : 11.6,
+      "geom_x_y" : [
+        47.3388300285362,
+        4.997795160009005
+      ],
+      "code_comm" : "617",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.997795160009005,
+        47.3388300285362
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

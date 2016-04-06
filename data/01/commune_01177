@@ -1,0 +1,75 @@
+  {
+    "recordid" : "933ac06d387a8ec4ccacf59a19bd4037f2d9c0de",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 319,
+      "insee_com" : "92078",
+      "z_moyen" : 27,
+      "code_dept" : "92",
+      "nom_comm" : "VILLENEUVE-LA-GARENNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6507,
+      "y_centroid" : 68709,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.328449603145653,
+              48.9227650827378
+            ],
+            [
+              2.320315215971473,
+              48.92701786218657
+            ],
+            [
+              2.320867175567226,
+              48.93387360869514
+            ],
+            [
+              2.310000649145732,
+              48.94118570743488
+            ],
+            [
+              2.311672196871864,
+              48.9479489311775
+            ],
+            [
+              2.334910109308868,
+              48.94154233701017
+            ],
+            [
+              2.335979310392034,
+              48.93157517168615
+            ],
+            [
+              2.328449603145653,
+              48.9227650827378
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68710,
+      "code_cant" : "40",
+      "x_centroid" : 6505,
+      "nom_dept" : "HAUTS-DE-SEINE",
+      "id_geofla" : 16700,
+      "statut" : "Chef-lieu canton",
+      "population" : 24.9,
+      "geom_x_y" : [
+        48.93640619169255,
+        2.324489959425186
+      ],
+      "code_comm" : "078",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.324489959425186,
+        48.93640619169255
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

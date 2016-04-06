@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a6e41a9402f46c94baf705f6bdb120470bff7ae5",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 434,
+      "insee_com" : "64426",
+      "z_moyen" : 200,
+      "code_dept" : "64",
+      "nom_comm" : "ORIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4015,
+      "y_centroid" : 62433,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.694576305402463,
+              43.20777370679692
+            ],
+            [
+              -0.677253022904669,
+              43.24251221452484
+            ],
+            [
+              -0.662734251360102,
+              43.23519862590165
+            ],
+            [
+              -0.657081026166063,
+              43.23169835670669
+            ],
+            [
+              -0.663931595570207,
+              43.22321754527734
+            ],
+            [
+              -0.694576305402463,
+              43.20777370679692
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62439,
+      "code_cant" : "28",
+      "x_centroid" : 4013,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 32968,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.22646806078286,
+        -0.6755571857649754
+      ],
+      "code_comm" : "426",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6755571857649754,
+        43.22646806078286
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9f52cce801db6cc2581f083cc19f1c7dbcb9190b",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 236,
+      "insee_com" : "60657",
+      "z_moyen" : 84,
+      "code_dept" : "60",
+      "nom_comm" : "VAUCHELLES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6974,
+      "y_centroid" : 69429,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.97126761658306,
+              49.57808958267114
+            ],
+            [
+              2.959118374070388,
+              49.57960483815233
+            ],
+            [
+              2.950029247423814,
+              49.58877671664998
+            ],
+            [
+              2.981627656682617,
+              49.59255993353937
+            ],
+            [
+              2.985485168640102,
+              49.59056545631823
+            ],
+            [
+              2.97126761658306,
+              49.57808958267114
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69431,
+      "code_cant" : "29",
+      "x_centroid" : 6976,
+      "nom_dept" : "OISE",
+      "id_geofla" : 34725,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.58584026561456,
+        2.967930559540021
+      ],
+      "code_comm" : "657",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.967930559540021,
+        49.58584026561456
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d96e06f5ded73d1faaf00cbbf41e7f2693bc2b30",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 375,
+      "insee_com" : "60216",
+      "z_moyen" : 123,
+      "code_dept" : "60",
+      "nom_comm" : "ERQUINVILLERS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6621,
+      "y_centroid" : 69290,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.497019705306403,
+              49.45405829037287
+            ],
+            [
+              2.482484580381041,
+              49.45027599748875
+            ],
+            [
+              2.465996060865703,
+              49.46357862013405
+            ],
+            [
+              2.490134426776044,
+              49.46713398218478
+            ],
+            [
+              2.514143125696605,
+              49.46139947399279
+            ],
+            [
+              2.509028767288319,
+              49.4569118262257
+            ],
+            [
+              2.497019705306403,
+              49.45405829037287
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69289,
+      "code_cant" : "33",
+      "x_centroid" : 6629,
+      "nom_dept" : "OISE",
+      "id_geofla" : 15485,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.45961268611346,
+        2.489474522351983
+      ],
+      "code_comm" : "216",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.489474522351983,
+        49.45961268611346
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

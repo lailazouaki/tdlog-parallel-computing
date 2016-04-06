@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f4b997a0cd8164eed4da01edf504aa7ef6bd1202",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 279,
+      "insee_com" : "94052",
+      "z_moyen" : 63,
+      "code_dept" : "94",
+      "nom_comm" : "NOGENT-SUR-MARNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6620,
+      "y_centroid" : 68597,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.465755861466258,
+              48.82628372037433
+            ],
+            [
+              2.467245943197848,
+              48.83908826985382
+            ],
+            [
+              2.491523260867017,
+              48.8476388283287
+            ],
+            [
+              2.497599519350123,
+              48.8308106206705
+            ],
+            [
+              2.475805615804708,
+              48.83061815673501
+            ],
+            [
+              2.465755861466258,
+              48.82628372037433
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68597,
+      "code_cant" : "19",
+      "x_centroid" : 6619,
+      "nom_dept" : "VAL-DE-MARNE",
+      "id_geofla" : 4022,
+      "statut" : "Sous-préfecture",
+      "population" : 31,
+      "geom_x_y" : [
+        48.83666347128477,
+        2.481667415327268
+      ],
+      "code_comm" : "052",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.481667415327268,
+        48.83666347128477
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

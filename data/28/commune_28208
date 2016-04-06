@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f1aeecd1821e2e885fe2b44bca21ce9571f8322f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 518,
+      "insee_com" : "50121",
+      "z_moyen" : 207,
+      "code_dept" : "50",
+      "nom_comm" : "LA CHAPELLE-CECELIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3946,
+      "y_centroid" : 68644,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.150210863798481,
+              48.79485530892157
+            ],
+            [
+              -1.165396995954302,
+              48.7960557091239
+            ],
+            [
+              -1.173418571701081,
+              48.80021570035708
+            ],
+            [
+              -1.188123053613078,
+              48.80862613624216
+            ],
+            [
+              -1.175989022890699,
+              48.82412725160324
+            ],
+            [
+              -1.157376701296228,
+              48.8130865711464
+            ],
+            [
+              -1.147431067429439,
+              48.79709534924716
+            ],
+            [
+              -1.150210863798481,
+              48.79485530892157
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68648,
+      "code_cant" : "39",
+      "x_centroid" : 3940,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 21225,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.80784960435562,
+        -1.167815951112563
+      ],
+      "code_comm" : "121",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.167815951112563,
+        48.80784960435562
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

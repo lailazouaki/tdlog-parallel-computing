@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1b46d1291ac971e5a25d406cb40f7c9d330256f7",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 108,
+      "insee_com" : "2B097",
+      "z_moyen" : 297,
+      "code_dept" : "2B",
+      "nom_comm" : "COSTA",
+      "code_arr" : "5",
+      "x_chf_lieu" : 11929,
+      "y_centroid" : 61827,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.004393337698545,
+              42.56896555352766
+            ],
+            [
+              8.999903306362828,
+              42.56847901042361
+            ],
+            [
+              8.9943572943486,
+              42.57373164779044
+            ],
+            [
+              8.996031849428503,
+              42.5836001134783
+            ],
+            [
+              8.999952558078501,
+              42.58530002124493
+            ],
+            [
+              9.004393337698545,
+              42.56896555352766
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61826,
+      "code_cant" : "05",
+      "x_centroid" : 11927,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 17032,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.57613323678778,
+        8.999078033838718
+      ],
+      "code_comm" : "097",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        8.999078033838718,
+        42.57613323678778
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

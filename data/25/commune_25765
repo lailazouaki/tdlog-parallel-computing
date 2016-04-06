@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0a8260addd547f9eb9cf84bf9a4aedf0daf02acf",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 319,
+      "insee_com" : "57449",
+      "z_moyen" : 253,
+      "code_dept" : "57",
+      "nom_comm" : "MARSILLY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9406,
+      "y_centroid" : 68934,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.321300281588425,
+              49.09041899224385
+            ],
+            [
+              6.308645171489083,
+              49.08535962764198
+            ],
+            [
+              6.296238048045209,
+              49.09083913820389
+            ],
+            [
+              6.292365734695323,
+              49.09610174485037
+            ],
+            [
+              6.28779150569215,
+              49.09657793599099
+            ],
+            [
+              6.297855582622955,
+              49.10333939823941
+            ],
+            [
+              6.32127460660895,
+              49.10199260347796
+            ],
+            [
+              6.321300281588425,
+              49.09041899224385
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68938,
+      "code_cant" : "23",
+      "x_centroid" : 9414,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 32510,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.09543340087501,
+        6.307283645395982
+      ],
+      "code_comm" : "449",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.307283645395982,
+        49.09543340087501
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

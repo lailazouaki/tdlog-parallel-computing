@@ -1,0 +1,71 @@
+  {
+    "recordid" : "99addf1b1e3e091a709d61bd281199b34018d81a",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 390,
+      "insee_com" : "60478",
+      "z_moyen" : 135,
+      "code_dept" : "60",
+      "nom_comm" : "ORMOY-LE-DAVIEN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6969,
+      "y_centroid" : 68995,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.971813659157835,
+              49.1875289307232
+            ],
+            [
+              2.963064102700884,
+              49.18579142220322
+            ],
+            [
+              2.940963965374158,
+              49.18967545032173
+            ],
+            [
+              2.940624258166486,
+              49.19883641349085
+            ],
+            [
+              2.952857497207992,
+              49.20332795598291
+            ],
+            [
+              2.969496165186601,
+              49.20994111330158
+            ],
+            [
+              2.971813659157835,
+              49.1875289307232
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68995,
+      "code_cant" : "05",
+      "x_centroid" : 6969,
+      "nom_dept" : "OISE",
+      "id_geofla" : 30856,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.19608459515639,
+        2.957912888351294
+      ],
+      "code_comm" : "478",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.957912888351294,
+        49.19608459515639
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

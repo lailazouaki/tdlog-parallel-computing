@@ -1,0 +1,67 @@
+  {
+    "recordid" : "74426def6543c50619beba36f09a027e6c00e3fb",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 578,
+      "insee_com" : "70156",
+      "z_moyen" : 219,
+      "code_dept" : "70",
+      "nom_comm" : "CITEY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9102,
+      "y_centroid" : 67080,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.79879328933233,
+              47.42856769050196
+            ],
+            [
+              5.77706475602228,
+              47.43011535285229
+            ],
+            [
+              5.765631617303988,
+              47.43491847933197
+            ],
+            [
+              5.795489169606886,
+              47.45630912913463
+            ],
+            [
+              5.806827610644708,
+              47.44079551260679
+            ],
+            [
+              5.79879328933233,
+              47.42856769050196
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67070,
+      "code_cant" : "10",
+      "x_centroid" : 9101,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 35291,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.43973883190001,
+        5.789106674785243
+      ],
+      "code_comm" : "156",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.789106674785243,
+        47.43973883190001
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "7f3673e77070f6d53ea581d14095c38448431fc0",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 434,
+      "insee_com" : "05094",
+      "z_moyen" : 810,
+      "code_dept" : "05",
+      "nom_comm" : "NOSSAGE-ET-BENEVENT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9191,
+      "y_centroid" : 63605,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.753572120266434,
+              44.29501713905712
+            ],
+            [
+              5.748122817666371,
+              44.29979203300789
+            ],
+            [
+              5.742239344263136,
+              44.32257311675399
+            ],
+            [
+              5.750057331179943,
+              44.32544920319783
+            ],
+            [
+              5.760108235051977,
+              44.31876640953824
+            ],
+            [
+              5.768764030694438,
+              44.2997513348121
+            ],
+            [
+              5.753572120266434,
+              44.29501713905712
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63611,
+      "code_cant" : "15",
+      "x_centroid" : 9196,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 15195,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        44.3097205576622,
+        5.754522217081662
+      ],
+      "code_comm" : "094",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.754522217081662,
+        44.3097205576622
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

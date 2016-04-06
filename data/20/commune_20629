@@ -1,0 +1,75 @@
+  {
+    "recordid" : "01f68ebf05fe025e7bae5ec29ab88f2b5c3c5cac",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 318,
+      "insee_com" : "76216",
+      "z_moyen" : 42,
+      "code_dept" : "76",
+      "nom_comm" : "DEVILLE-LES-ROUEN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5585,
+      "y_centroid" : 69313,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.051597500880066,
+              49.45387596228828
+            ],
+            [
+              1.037507320618635,
+              49.46569582091223
+            ],
+            [
+              1.038269782235236,
+              49.4721093993391
+            ],
+            [
+              1.048076941657621,
+              49.47397599133304
+            ],
+            [
+              1.047947724390468,
+              49.48065376025121
+            ],
+            [
+              1.061832910435963,
+              49.47248866892382
+            ],
+            [
+              1.062062928836348,
+              49.45576108684642
+            ],
+            [
+              1.051597500880066,
+              49.45387596228828
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69317,
+      "code_cant" : "65",
+      "x_centroid" : 5587,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 27038,
+      "statut" : "Commune simple",
+      "population" : 10,
+      "geom_x_y" : [
+        49.46611479865978,
+        1.051430573397331
+      ],
+      "code_comm" : "216",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.051430573397331,
+        49.46611479865978
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

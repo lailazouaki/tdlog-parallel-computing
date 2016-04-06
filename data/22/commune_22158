@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ae8f442525086b9b4b0c921283719e7aed2f676c",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 272,
+      "insee_com" : "65336",
+      "z_moyen" : 376,
+      "code_dept" : "65",
+      "nom_comm" : "ORGAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4956,
+      "y_centroid" : 62451,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.493415910322694,
+              43.27731048750759
+            ],
+            [
+              0.478002939461836,
+              43.26611572020304
+            ],
+            [
+              0.469810066705167,
+              43.26786812873746
+            ],
+            [
+              0.472542151981324,
+              43.27016410338516
+            ],
+            [
+              0.469154588439006,
+              43.27887789325762
+            ],
+            [
+              0.484321555339529,
+              43.28643220823802
+            ],
+            [
+              0.493415910322694,
+              43.27731048750759
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62450,
+      "code_cant" : "08",
+      "x_centroid" : 4953,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 27501,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.27620510885615,
+        0.4802650142485196
+      ],
+      "code_comm" : "336",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4802650142485196,
+        43.27620510885615
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

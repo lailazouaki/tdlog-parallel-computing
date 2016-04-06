@@ -1,0 +1,71 @@
+  {
+    "recordid" : "174a121784a3ff4527dc63758cfa52471da891dc",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 608,
+      "insee_com" : "52115",
+      "z_moyen" : 373,
+      "code_dept" : "52",
+      "nom_comm" : "CHATENAY-MACHERON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8796,
+      "y_centroid" : 67533,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.403769138562226,
+              47.84223534617096
+            ],
+            [
+              5.378325931321293,
+              47.84722017493343
+            ],
+            [
+              5.369783124859451,
+              47.85901723999068
+            ],
+            [
+              5.370483696743843,
+              47.86542287878299
+            ],
+            [
+              5.399422828463818,
+              47.86979572880794
+            ],
+            [
+              5.40559397025872,
+              47.85270572936977
+            ],
+            [
+              5.403769138562226,
+              47.84223534617096
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67522,
+      "code_cant" : "16",
+      "x_centroid" : 8786,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 27052,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.85649394992054,
+        5.389069096993699
+      ],
+      "code_comm" : "115",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.389069096993699,
+        47.85649394992054
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

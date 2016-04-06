@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8bea70e8d915ec1ca3184099ff50cc175348ff93",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 454,
+      "insee_com" : "44049",
+      "z_moyen" : 7,
+      "code_dept" : "44",
+      "nom_comm" : "LE CROISIC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 2838,
+      "y_centroid" : 67025,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.503819426379314,
+              47.28095168514517
+            ],
+            [
+              -2.546529983742646,
+              47.29193723933273
+            ],
+            [
+              -2.542924345386325,
+              47.29812019425819
+            ],
+            [
+              -2.53312915768128,
+              47.30025784730515
+            ],
+            [
+              -2.523015593613262,
+              47.3013719952059
+            ],
+            [
+              -2.513806298391909,
+              47.29838124797347
+            ],
+            [
+              -2.503533723441304,
+              47.29096424993602
+            ],
+            [
+              -2.503819426379314,
+              47.28095168514517
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67025,
+      "code_cant" : "10",
+      "x_centroid" : 2829,
+      "nom_dept" : "LOIRE-ATLANTIQUE",
+      "id_geofla" : 30120,
+      "statut" : "Chef-lieu canton",
+      "population" : 4.1,
+      "geom_x_y" : [
+        47.29227434485004,
+        -2.522778444218678
+      ],
+      "code_comm" : "049",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.522778444218678,
+        47.29227434485004
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

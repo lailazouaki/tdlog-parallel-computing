@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1e8dcda66201f5e55d91a9cfa096149fd4b81073",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 515,
+      "insee_com" : "51597",
+      "z_moyen" : 175,
+      "code_dept" : "51",
+      "nom_comm" : "VAUCIENNES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7646,
+      "y_centroid" : 68838,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.863949643651421,
+              49.04066775479485
+            ],
+            [
+              3.857694439100951,
+              49.04537053672081
+            ],
+            [
+              3.869794224556577,
+              49.06213472854912
+            ],
+            [
+              3.87408421133637,
+              49.06336248162063
+            ],
+            [
+              3.895534299905257,
+              49.05823191361851
+            ],
+            [
+              3.905581324906667,
+              49.04042401396243
+            ],
+            [
+              3.878699571715603,
+              49.04662149182392
+            ],
+            [
+              3.863949643651421,
+              49.04066775479485
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68836,
+      "code_cant" : "37",
+      "x_centroid" : 7643,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 18623,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.05141383311255,
+        3.880628099417839
+      ],
+      "code_comm" : "597",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.880628099417839,
+        49.05141383311255
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

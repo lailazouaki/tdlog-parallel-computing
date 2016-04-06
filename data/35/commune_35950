@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3084f1c203cae32aba3ae20cdf8d43d2d84df1e5",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 216,
+      "insee_com" : "51584",
+      "z_moyen" : 118,
+      "code_dept" : "51",
+      "nom_comm" : "TROIS-PUITS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7757,
+      "y_centroid" : 69011,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.058025299947955,
+              49.19681303546412
+            ],
+            [
+              4.046088971004722,
+              49.20223097518592
+            ],
+            [
+              4.032454610788285,
+              49.19763727142359
+            ],
+            [
+              4.027053858691865,
+              49.20410301258583
+            ],
+            [
+              4.030610073324545,
+              49.21386378759104
+            ],
+            [
+              4.049830423556299,
+              49.2101284960308
+            ],
+            [
+              4.051192089559114,
+              49.20352622792295
+            ],
+            [
+              4.058025299947955,
+              49.19681303546412
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69012,
+      "code_cant" : "40",
+      "x_centroid" : 7757,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 35009,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.20567333155969,
+        4.039279577091643
+      ],
+      "code_comm" : "584",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.039279577091643,
+        49.20567333155969
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

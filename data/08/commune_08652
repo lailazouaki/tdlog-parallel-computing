@@ -1,0 +1,67 @@
+  {
+    "recordid" : "52a0577f013057fb3db4f060f9b873cb656e0a50",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 143,
+      "insee_com" : "68244",
+      "z_moyen" : 285,
+      "code_dept" : "68",
+      "nom_comm" : "OBERMORSCHWIHR",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10202,
+      "y_centroid" : 67778,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.302814378695507,
+              48.01492632518065
+            ],
+            [
+              7.293379005254247,
+              48.01816421668629
+            ],
+            [
+              7.281156117554148,
+              48.02598189605906
+            ],
+            [
+              7.294756205000829,
+              48.0285141155033
+            ],
+            [
+              7.304141762185015,
+              48.02744999707089
+            ],
+            [
+              7.302814378695507,
+              48.01492632518065
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67773,
+      "code_cant" : "26",
+      "x_centroid" : 10200,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 7082,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.02297409537094,
+        7.295408529205431
+      ],
+      "code_comm" : "244",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.295408529205431,
+        48.02297409537094
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

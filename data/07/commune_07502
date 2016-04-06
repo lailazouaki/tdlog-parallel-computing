@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d5660a33caa72c40c7965cfc3e8dd1f3f9146d1f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 514,
+      "insee_com" : "14274",
+      "z_moyen" : 72,
+      "code_dept" : "14",
+      "nom_comm" : "FONTAINE-ETOUPEFOUR",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4480,
+      "y_centroid" : 68986,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.46062317825132,
+              49.12333195412193
+            ],
+            [
+              -0.47126210163452,
+              49.14642407285091
+            ],
+            [
+              -0.445669597388902,
+              49.15248745201254
+            ],
+            [
+              -0.438579787913376,
+              49.13209088279017
+            ],
+            [
+              -0.452415231954226,
+              49.1236219156184
+            ],
+            [
+              -0.46062317825132,
+              49.12333195412193
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68995,
+      "code_cant" : "16",
+      "x_centroid" : 4480,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 31922,
+      "statut" : "Commune simple",
+      "population" : 1.9,
+      "geom_x_y" : [
+        49.13799939916803,
+        -0.4542033027952466
+      ],
+      "code_comm" : "274",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4542033027952466,
+        49.13799939916803
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

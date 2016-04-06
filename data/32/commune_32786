@@ -1,0 +1,71 @@
+  {
+    "recordid" : "557e685052d526262717e39d53eb3dbef7123874",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 361,
+      "insee_com" : "02744",
+      "z_moyen" : 121,
+      "code_dept" : "02",
+      "nom_comm" : "TORCY-EN-VALOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7203,
+      "y_centroid" : 68870,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.280935999477837,
+              49.06962090683861
+            ],
+            [
+              3.264856946291843,
+              49.0697563244234
+            ],
+            [
+              3.263578772485653,
+              49.09292089549182
+            ],
+            [
+              3.276444296846007,
+              49.0972977168206
+            ],
+            [
+              3.280116231517709,
+              49.09521224198574
+            ],
+            [
+              3.284451554591048,
+              49.08932176740238
+            ],
+            [
+              3.280935999477837,
+              49.06962090683861
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68875,
+      "code_cant" : "22",
+      "x_centroid" : 7199,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 29578,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.08286380753178,
+        3.273588396469082
+      ],
+      "code_comm" : "744",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.273588396469082,
+        49.08286380753178
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c00268b38a9dd29bbbd3ee6c916594574efdf140",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 439,
+      "insee_com" : "70301",
+      "z_moyen" : 241,
+      "code_dept" : "70",
+      "nom_comm" : "LIEFFRANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9235,
+      "y_centroid" : 67177,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.950769960804707,
+              47.51433286574902
+            ],
+            [
+              5.949469897002826,
+              47.52667943886432
+            ],
+            [
+              5.953000393020993,
+              47.52895906748665
+            ],
+            [
+              5.98122298667421,
+              47.53111397310953
+            ],
+            [
+              5.987432414794299,
+              47.51918158543787
+            ],
+            [
+              5.981969583297423,
+              47.51397981875974
+            ],
+            [
+              5.963814192751993,
+              47.51650592839011
+            ],
+            [
+              5.950769960804707,
+              47.51433286574902
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67174,
+      "code_cant" : "24",
+      "x_centroid" : 9233,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 9930,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.52248247784185,
+        5.968095361821191
+      ],
+      "code_comm" : "301",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.968095361821191,
+        47.52248247784185
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

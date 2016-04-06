@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3aae0de5c0c82451bddea01d31b1d5efd1ca1a74",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 672,
+      "insee_com" : "31035",
+      "z_moyen" : 186,
+      "code_dept" : "31",
+      "nom_comm" : "AUZEVILLE-TOLOSANE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5772,
+      "y_centroid" : 62711,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.468619338979594,
+              43.5144084635664
+            ],
+            [
+              1.464154773258544,
+              43.53201910419351
+            ],
+            [
+              1.468786685139751,
+              43.53132865312845
+            ],
+            [
+              1.501994818103826,
+              43.54322970937977
+            ],
+            [
+              1.514942913501726,
+              43.52712877076635
+            ],
+            [
+              1.492084225587128,
+              43.52443783152332
+            ],
+            [
+              1.479741887146584,
+              43.51462789044793
+            ],
+            [
+              1.468619338979594,
+              43.5144084635664
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62709,
+      "code_cant" : "10",
+      "x_centroid" : 5776,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 17778,
+      "statut" : "Commune simple",
+      "population" : 3.3,
+      "geom_x_y" : [
+        43.52861225517925,
+        1.487219789728786
+      ],
+      "code_comm" : "035",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.487219789728786,
+        43.52861225517925
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

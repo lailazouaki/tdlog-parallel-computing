@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3b0165d5c31a20e62256d59dc8a7665a26439deb",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 332,
+      "insee_com" : "2B221",
+      "z_moyen" : 1099,
+      "code_dept" : "2B",
+      "nom_comm" : "PIEDIPARTINO",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12240,
+      "y_centroid" : 61607,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.33930893572167,
+              42.34210097738609
+            ],
+            [
+              9.333917162693663,
+              42.34719255281134
+            ],
+            [
+              9.331337076380773,
+              42.35984376736953
+            ],
+            [
+              9.360589006888929,
+              42.36989101037687
+            ],
+            [
+              9.364845958588472,
+              42.37134939421426
+            ],
+            [
+              9.33930893572167,
+              42.34210097738609
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61620,
+      "code_cant" : "37",
+      "x_centroid" : 12229,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 15775,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.35716795405337,
+        9.344399232457151
+      ],
+      "code_comm" : "221",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.344399232457151,
+        42.35716795405337
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

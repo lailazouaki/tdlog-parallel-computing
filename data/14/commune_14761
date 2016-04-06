@@ -1,0 +1,63 @@
+  {
+    "recordid" : "be7bdd31657afffa42769f7031767e99334dea8a",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 220,
+      "insee_com" : "90079",
+      "z_moyen" : 519,
+      "code_dept" : "90",
+      "nom_comm" : "PETITMAGNY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9921,
+      "y_centroid" : 67431,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.895573305898783,
+              47.71318639180762
+            ],
+            [
+              6.891943078502594,
+              47.72252611101158
+            ],
+            [
+              6.897527700712053,
+              47.7382454089252
+            ],
+            [
+              6.907897685582252,
+              47.71846140509845
+            ],
+            [
+              6.895573305898783,
+              47.71318639180762
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67428,
+      "code_cant" : "04",
+      "x_centroid" : 9921,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 14730,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.7236606702736,
+        6.898908320715315
+      ],
+      "code_comm" : "079",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.898908320715315,
+        47.7236606702736
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

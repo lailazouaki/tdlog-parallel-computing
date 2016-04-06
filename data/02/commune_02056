@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1780c18f4d1dfc5a1232f7727b753ba1ac373477",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 171,
+      "insee_com" : "95594",
+      "z_moyen" : 73,
+      "code_dept" : "95",
+      "nom_comm" : "SEUGY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6557,
+      "y_centroid" : 68916,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.396040220197113,
+              49.11566392436897
+            ],
+            [
+              2.386400017284632,
+              49.11774606848419
+            ],
+            [
+              2.384502376407843,
+              49.12759075803985
+            ],
+            [
+              2.403905992847641,
+              49.12846169368214
+            ],
+            [
+              2.40783524250132,
+              49.12631422529639
+            ],
+            [
+              2.396040220197113,
+              49.11566392436897
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68914,
+      "code_cant" : "26",
+      "x_centroid" : 6558,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 25102,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        49.12302093211138,
+        2.3947955115439
+      ],
+      "code_comm" : "594",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.3947955115439,
+        49.12302093211138
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

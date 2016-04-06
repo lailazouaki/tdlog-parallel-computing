@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5367371c01cbf1151aa8b76f90539d4afd431973",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 273,
+      "insee_com" : "60459",
+      "z_moyen" : 85,
+      "code_dept" : "60",
+      "nom_comm" : "LA NEUVILLE-SUR-RESSONS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6820,
+      "y_centroid" : 69391,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.761321130467822,
+              49.54286365804037
+            ],
+            [
+              2.728800858975874,
+              49.54988607451862
+            ],
+            [
+              2.724128076702355,
+              49.55835919400913
+            ],
+            [
+              2.729275161203607,
+              49.55948515436278
+            ],
+            [
+              2.749723233793083,
+              49.55637464503817
+            ],
+            [
+              2.767301499422419,
+              49.54890554116933
+            ],
+            [
+              2.761321130467822,
+              49.54286365804037
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69391,
+      "code_cant" : "31",
+      "x_centroid" : 6815,
+      "nom_dept" : "OISE",
+      "id_geofla" : 2393,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.55149447137335,
+        2.745138798913233
+      ],
+      "code_comm" : "459",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.745138798913233,
+        49.55149447137335
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

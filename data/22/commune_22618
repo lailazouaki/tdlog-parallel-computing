@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9a7b72d4a5a1c88eafa465ad3d38fa155aef1e8b",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 197,
+      "insee_com" : "77281",
+      "z_moyen" : 114,
+      "code_dept" : "77",
+      "nom_comm" : "MAUPERTHUIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7027,
+      "y_centroid" : 68522,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.038501278131033,
+              48.7825026944917
+            ],
+            [
+              3.046309195107412,
+              48.77806597005332
+            ],
+            [
+              3.044678283564542,
+              48.7646117306788
+            ],
+            [
+              3.037627614643545,
+              48.75994629399305
+            ],
+            [
+              3.028337314192575,
+              48.76173866004318
+            ],
+            [
+              3.038501278131033,
+              48.7825026944917
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68519,
+      "code_cant" : "07",
+      "x_centroid" : 7028,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 27768,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.77001529424462,
+        3.038544366523294
+      ],
+      "code_comm" : "281",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.038544366523294,
+        48.77001529424462
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

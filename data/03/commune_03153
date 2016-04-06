@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e8aaa5c3d27872fb7d2d4f64756e27ce30b39e51",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 449,
+      "insee_com" : "65454",
+      "z_moyen" : 269,
+      "code_dept" : "65",
+      "nom_comm" : "TROULEY-LABARTHE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4761,
+      "y_centroid" : 62506,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.245283552583335,
+              43.30773132741043
+            ],
+            [
+              0.234088664386043,
+              43.31164900544538
+            ],
+            [
+              0.231283919405956,
+              43.32025445703444
+            ],
+            [
+              0.250429018890397,
+              43.33164366640176
+            ],
+            [
+              0.264226716904602,
+              43.32490065666179
+            ],
+            [
+              0.267934765233913,
+              43.32678566780989
+            ],
+            [
+              0.268096780611545,
+              43.32310826181027
+            ],
+            [
+              0.245283552583335,
+              43.30773132741043
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62502,
+      "code_cant" : "18",
+      "x_centroid" : 4766,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 15537,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.31981025864209,
+        0.248116496444906
+      ],
+      "code_comm" : "454",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.248116496444906,
+        43.31981025864209
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

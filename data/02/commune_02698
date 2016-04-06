@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4fac1ceabcaa78d2a8051b99f28c3d04f3f84a8c",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 345,
+      "insee_com" : "76515",
+      "z_moyen" : 31,
+      "code_dept" : "76",
+      "nom_comm" : "QUIBERVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5504,
+      "y_centroid" : 69796,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.9155505816625,
+              49.88642546565767
+            ],
+            [
+              0.912217914104911,
+              49.89105051294544
+            ],
+            [
+              0.898440216665697,
+              49.90033096483555
+            ],
+            [
+              0.923859374371013,
+              49.90508779756748
+            ],
+            [
+              0.92978896593459,
+              49.90674298521443
+            ],
+            [
+              0.937592671868038,
+              49.89922761954679
+            ],
+            [
+              0.928508307471319,
+              49.89134572862853
+            ],
+            [
+              0.9155505816625,
+              49.88642546565767
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69797,
+      "code_cant" : "39",
+      "x_centroid" : 5504,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 15289,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.89743373766073,
+        0.9198787292707475
+      ],
+      "code_comm" : "515",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9198787292707475,
+        49.89743373766073
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

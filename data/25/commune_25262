@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2b5d17fcbd51c33e75d36a1dcdd4578dc7181c4f",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 669,
+      "insee_com" : "76134",
+      "z_moyen" : 96,
+      "code_dept" : "76",
+      "nom_comm" : "BOURVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5429,
+      "y_centroid" : 69684,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.817778330165164,
+              49.78352071284959
+            ],
+            [
+              0.79793192939684,
+              49.79890165611095
+            ],
+            [
+              0.815471815503496,
+              49.80858226422837
+            ],
+            [
+              0.834013151706989,
+              49.80593800451125
+            ],
+            [
+              0.841458709146012,
+              49.80194467762883
+            ],
+            [
+              0.845289819811517,
+              49.78946561020602
+            ],
+            [
+              0.838749962619124,
+              49.78456836015633
+            ],
+            [
+              0.817778330165164,
+              49.78352071284959
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69683,
+      "code_cant" : "22",
+      "x_centroid" : 5432,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 33010,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.79580968402635,
+        0.8237241838698537
+      ],
+      "code_comm" : "134",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8237241838698537,
+        49.79580968402635
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

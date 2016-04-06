@@ -1,0 +1,75 @@
+  {
+    "recordid" : "edab9d62894d544c11b20341132576374857fe9a",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 918,
+      "insee_com" : "66216",
+      "z_moyen" : 434,
+      "code_dept" : "66",
+      "nom_comm" : "TRILLA",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6605,
+      "y_centroid" : 61822,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.522189659534181,
+              42.72163973649288
+            ],
+            [
+              2.506218835050107,
+              42.72548753380477
+            ],
+            [
+              2.499494630889716,
+              42.73737000547933
+            ],
+            [
+              2.503894102059019,
+              42.74641798340825
+            ],
+            [
+              2.505742980671305,
+              42.75137191083569
+            ],
+            [
+              2.543805388744357,
+              42.75185544032416
+            ],
+            [
+              2.541652667446963,
+              42.73549964292128
+            ],
+            [
+              2.522189659534181,
+              42.72163973649288
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61823,
+      "code_cant" : "16",
+      "x_centroid" : 6607,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 6529,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.73874759585434,
+        2.521425842836543
+      ],
+      "code_comm" : "216",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.521425842836543,
+        42.73874759585434
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

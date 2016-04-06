@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0031d399a5dc55c87321039dc1bced02f48c472a",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 371,
+      "insee_com" : "13119",
+      "z_moyen" : 275,
+      "code_dept" : "13",
+      "nom_comm" : "CARNOUX-EN-PROVENCE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9083,
+      "y_centroid" : 62433,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.547209048749204,
+              43.24663303611436
+            ],
+            [
+              5.545090740817066,
+              43.25331597437557
+            ],
+            [
+              5.570903431979027,
+              43.26750979603469
+            ],
+            [
+              5.57955811886626,
+              43.27018353689736
+            ],
+            [
+              5.586624498015836,
+              43.26681046338862
+            ],
+            [
+              5.575956386196941,
+              43.25572517753405
+            ],
+            [
+              5.554783015815174,
+              43.24863210362428
+            ],
+            [
+              5.547209048749204,
+              43.24663303611436
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62430,
+      "code_cant" : "54",
+      "x_centroid" : 9084,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 26833,
+      "statut" : "Commune simple",
+      "population" : 6.9,
+      "geom_x_y" : [
+        43.25848516464955,
+        5.565814312214928
+      ],
+      "code_comm" : "119",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.565814312214928,
+        43.25848516464955
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

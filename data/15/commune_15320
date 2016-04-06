@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0c284d779c5b4eb275ce7dd626145b96148f98f7",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 190,
+      "insee_com" : "95660",
+      "z_moyen" : 120,
+      "code_dept" : "95",
+      "nom_comm" : "VILLAINES-SOUS-BOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6530,
+      "y_centroid" : 68863,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.367251314555345,
+              49.06829250836893
+            ],
+            [
+              2.338639623265995,
+              49.07660864477007
+            ],
+            [
+              2.338772473625187,
+              49.07692408421886
+            ],
+            [
+              2.349388066962709,
+              49.08065060577514
+            ],
+            [
+              2.362689565269869,
+              49.07981371153155
+            ],
+            [
+              2.370400129694798,
+              49.07269699471451
+            ],
+            [
+              2.367251314555345,
+              49.06829250836893
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68865,
+      "code_cant" : "26",
+      "x_centroid" : 6529,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 33007,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.07537399153654,
+        2.356636702144513
+      ],
+      "code_comm" : "660",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.356636702144513,
+        49.07537399153654
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

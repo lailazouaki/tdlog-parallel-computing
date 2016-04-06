@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0ac77dbba56990e6857dfe9f9dca7599fe617cbf",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 475,
+      "insee_com" : "50321",
+      "z_moyen" : 109,
+      "code_dept" : "50",
+      "nom_comm" : "LE MESNIL-ROUXELIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4019,
+      "y_centroid" : 69013,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.084171289472308,
+              49.12537778206693
+            ],
+            [
+              -1.078243357832188,
+              49.1344108795577
+            ],
+            [
+              -1.091512271399713,
+              49.13685900135692
+            ],
+            [
+              -1.095279089523344,
+              49.153079956038
+            ],
+            [
+              -1.085512676991074,
+              49.15454643938934
+            ],
+            [
+              -1.059661370742359,
+              49.14397041892143
+            ],
+            [
+              -1.058575417806437,
+              49.13904660068904
+            ],
+            [
+              -1.084171289472308,
+              49.12537778206693
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69019,
+      "code_cant" : "52",
+      "x_centroid" : 4025,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 33594,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.14233221655911,
+        -1.078334363408666
+      ],
+      "code_comm" : "321",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.078334363408666,
+        49.14233221655911
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

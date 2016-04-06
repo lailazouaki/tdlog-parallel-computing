@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3aa595aa43d79d10a84d45f7c96de140650f7a55",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 306,
+      "insee_com" : "62175",
+      "z_moyen" : 114,
+      "code_dept" : "62",
+      "nom_comm" : "BREVILLERS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6298,
+      "y_centroid" : 70281,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.022017823941347,
+              50.33629812183243
+            ],
+            [
+              2.011515258026819,
+              50.33963532383434
+            ],
+            [
+              2.007434701749474,
+              50.34595948709413
+            ],
+            [
+              2.010099858538354,
+              50.35244550562441
+            ],
+            [
+              2.029036506858332,
+              50.35797408381163
+            ],
+            [
+              2.036841888944648,
+              50.34608479126684
+            ],
+            [
+              2.028625817475862,
+              50.34356921370603
+            ],
+            [
+              2.022017823941347,
+              50.33629812183243
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70280,
+      "code_cant" : "26",
+      "x_centroid" : 6302,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 33070,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.34737332278008,
+        2.02124878449029
+      ],
+      "code_comm" : "175",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.02124878449029,
+        50.34737332278008
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

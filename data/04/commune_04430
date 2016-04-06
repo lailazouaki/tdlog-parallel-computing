@@ -1,0 +1,75 @@
+  {
+    "recordid" : "be944a3f275d702387af567cebebbdc937dc2dc5",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 879,
+      "insee_com" : "86102",
+      "z_moyen" : 140,
+      "code_dept" : "86",
+      "nom_comm" : "FROZES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4808,
+      "y_centroid" : 66222,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.155786731151609,
+              46.65598541208153
+            ],
+            [
+              0.1517416102482,
+              46.64977612762961
+            ],
+            [
+              0.136909209238891,
+              46.65067700439162
+            ],
+            [
+              0.122593489304636,
+              46.65021038330562
+            ],
+            [
+              0.108501567530301,
+              46.65882095741755
+            ],
+            [
+              0.125705724932865,
+              46.68191418943032
+            ],
+            [
+              0.148735976460924,
+              46.67988517367073
+            ],
+            [
+              0.155786731151609,
+              46.65598541208153
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66216,
+      "code_cant" : "30",
+      "x_centroid" : 4809,
+      "nom_dept" : "VIENNE",
+      "id_geofla" : 12161,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        46.66453400617684,
+        0.1341272298556301
+      ],
+      "code_comm" : "102",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1341272298556301,
+        46.66453400617684
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

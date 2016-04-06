@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ac46f733b9768e40207a88fb99f9b672f65f06ee",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 587,
+      "insee_com" : "08135",
+      "z_moyen" : 194,
+      "code_dept" : "08",
+      "nom_comm" : "LA CROIX-AUX-BOIS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8302,
+      "y_centroid" : 69243,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.775968649993509,
+              49.39290220289595
+            ],
+            [
+              4.763187849022656,
+              49.40059638867077
+            ],
+            [
+              4.768473428499335,
+              49.40849389475696
+            ],
+            [
+              4.80649894181674,
+              49.41902652537296
+            ],
+            [
+              4.807941011521208,
+              49.41260369026571
+            ],
+            [
+              4.816965641901266,
+              49.40476349630894
+            ],
+            [
+              4.775968649993509,
+              49.39290220289595
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69240,
+      "code_cant" : "31",
+      "x_centroid" : 8298,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 7733,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.40545235210479,
+        4.789178598139931
+      ],
+      "code_comm" : "135",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.789178598139931,
+        49.40545235210479
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

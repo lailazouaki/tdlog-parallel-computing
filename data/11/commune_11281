@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1cde500bb53ef8e65b0090dd9d698f51db0272b9",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 466,
+      "insee_com" : "31441",
+      "z_moyen" : 239,
+      "code_dept" : "31",
+      "nom_comm" : "PRUNET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5974,
+      "y_centroid" : 62756,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.735942619354099,
+              43.56034295954682
+            ],
+            [
+              1.719516199723473,
+              43.56671944521733
+            ],
+            [
+              1.709508556726893,
+              43.57865018657361
+            ],
+            [
+              1.709528047491537,
+              43.57888438456892
+            ],
+            [
+              1.720943038928444,
+              43.58266389200961
+            ],
+            [
+              1.732508777399171,
+              43.58192660427584
+            ],
+            [
+              1.750758273004724,
+              43.5698279351273
+            ],
+            [
+              1.735942619354099,
+              43.56034295954682
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62751,
+      "code_cant" : "08",
+      "x_centroid" : 5973,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 12620,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.57241922101913,
+        1.729764284371122
+      ],
+      "code_comm" : "441",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.729764284371122,
+        43.57241922101913
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "95e22118cceb02d413bca5661a3654c90d488316",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 151,
+      "insee_com" : "33148",
+      "z_moyen" : 60,
+      "code_dept" : "33",
+      "nom_comm" : "DARDENAC",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4435,
+      "y_centroid" : 64146,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.241882475372895,
+              44.77856906378116
+            ],
+            [
+              -0.252245077706959,
+              44.78340152568769
+            ],
+            [
+              -0.247453227593312,
+              44.78718240903562
+            ],
+            [
+              -0.222654155440376,
+              44.78521216071015
+            ],
+            [
+              -0.241882475372895,
+              44.77856906378116
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64147,
+      "code_cant" : "16",
+      "x_centroid" : 4438,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 15909,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.78351255239794,
+        -0.2396505074518692
+      ],
+      "code_comm" : "148",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2396505074518692,
+        44.78351255239794
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

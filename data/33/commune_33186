@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4235d64033501d64b3745deeb1795db0912bec0c",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 432,
+      "insee_com" : "01307",
+      "z_moyen" : 636,
+      "code_dept" : "01",
+      "nom_comm" : "PORT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8982,
+      "y_centroid" : 65650,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.606391023099137,
+              46.13851973385269
+            ],
+            [
+              5.562556161968027,
+              46.15457251116158
+            ],
+            [
+              5.55581345391326,
+              46.15955356989151
+            ],
+            [
+              5.560562030976862,
+              46.16851028113492
+            ],
+            [
+              5.572265167017425,
+              46.16809274960498
+            ],
+            [
+              5.606391023099137,
+              46.13851973385269
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65659,
+      "code_cant" : "22",
+      "x_centroid" : 8987,
+      "nom_dept" : "AIN",
+      "id_geofla" : 29815,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        46.15596313895377,
+        5.576158328833043
+      ],
+      "code_comm" : "307",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.576158328833043,
+        46.15596313895377
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

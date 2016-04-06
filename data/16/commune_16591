@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ccdaf7c0d208b3610c68a43f9f9671be81a28665",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 453,
+      "insee_com" : "73219",
+      "z_moyen" : 406,
+      "code_dept" : "73",
+      "nom_comm" : "SAINT-ALBAN-DE-MONTBEL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9171,
+      "y_centroid" : 64984,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.753620033869482,
+              45.54171283727583
+            ],
+            [
+              5.77005361070458,
+              45.55831113983121
+            ],
+            [
+              5.792938280091476,
+              45.56218671567779
+            ],
+            [
+              5.800888834073096,
+              45.55934876438074
+            ],
+            [
+              5.791041593899704,
+              45.54438432757853
+            ],
+            [
+              5.760608201632768,
+              45.5424873776108
+            ],
+            [
+              5.753620033869482,
+              45.54171283727583
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64985,
+      "code_cant" : "21",
+      "x_centroid" : 9168,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 24228,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        45.55158178629569,
+        5.779392332115296
+      ],
+      "code_comm" : "219",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.779392332115296,
+        45.55158178629569
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

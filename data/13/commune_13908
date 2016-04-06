@@ -1,0 +1,67 @@
+  {
+    "recordid" : "36de7f0a3a248d874ddcfeaa4a5457be72e9513e",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 170,
+      "insee_com" : "67260",
+      "z_moyen" : 200,
+      "code_dept" : "67",
+      "nom_comm" : "LAUBACH",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10459,
+      "y_centroid" : 68747,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.719671359743382,
+              48.87117183345661
+            ],
+            [
+              7.711011168950209,
+              48.87236024716331
+            ],
+            [
+              7.707142200743424,
+              48.8804676235273
+            ],
+            [
+              7.726297346020057,
+              48.88938784741817
+            ],
+            [
+              7.72846326438908,
+              48.88405893290572
+            ],
+            [
+              7.719671359743382,
+              48.87117183345661
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68749,
+      "code_cant" : "35",
+      "x_centroid" : 10458,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 23398,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.87968480571151,
+        7.71816160797036
+      ],
+      "code_comm" : "260",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.71816160797036,
+        48.87968480571151
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

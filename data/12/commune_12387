@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2a158eca6b9aef3991ba4f61cc847566202ad0e1",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 754,
+      "insee_com" : "76650",
+      "z_moyen" : 123,
+      "code_dept" : "76",
+      "nom_comm" : "SAINT-SAUVEUR-D'EMALLEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5047,
+      "y_centroid" : 69491,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.325451522219311,
+              49.60338546730383
+            ],
+            [
+              0.31246168571752,
+              49.597550896153
+            ],
+            [
+              0.285922960817297,
+              49.59792276978183
+            ],
+            [
+              0.295128457276299,
+              49.62614582470221
+            ],
+            [
+              0.31913214389731,
+              49.62688459504106
+            ],
+            [
+              0.325451522219311,
+              49.60338546730383
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69492,
+      "code_cant" : "24",
+      "x_centroid" : 5052,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 28884,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        49.61136382159327,
+        0.3061918050809146
+      ],
+      "code_comm" : "650",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3061918050809146,
+        49.61136382159327
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

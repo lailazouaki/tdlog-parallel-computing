@@ -1,0 +1,75 @@
+  {
+    "recordid" : "49bcbcd8b7a36c87fa5269ca228acb7daa682324",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 497,
+      "insee_com" : "11284",
+      "z_moyen" : 179,
+      "code_dept" : "11",
+      "nom_comm" : "PEYRENS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6156,
+      "y_centroid" : 62519,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.985894634342407,
+              43.35210958548052
+            ],
+            [
+              1.977107059781411,
+              43.34986764258466
+            ],
+            [
+              1.939460144307387,
+              43.36038237067422
+            ],
+            [
+              1.935507950886124,
+              43.36139620293223
+            ],
+            [
+              1.947647102211324,
+              43.37256315262468
+            ],
+            [
+              1.966410026797933,
+              43.37233009334469
+            ],
+            [
+              1.968014086910472,
+              43.36609254861201
+            ],
+            [
+              1.985894634342407,
+              43.35210958548052
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62519,
+      "code_cant" : "09",
+      "x_centroid" : 6156,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 17389,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.36183030562739,
+        1.96005404073947
+      ],
+      "code_comm" : "284",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.96005404073947,
+        43.36183030562739
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0a169c3f146df014cb737a83faa6b3677f9aa011",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 374,
+      "insee_com" : "62875",
+      "z_moyen" : 35,
+      "code_dept" : "62",
+      "nom_comm" : "WARDRECQUES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6535,
+      "y_centroid" : 70678,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.334036912054752,
+              50.68950553146948
+            ],
+            [
+              2.329859776177905,
+              50.69446354860541
+            ],
+            [
+              2.334228598816868,
+              50.70060711032572
+            ],
+            [
+              2.332570113080235,
+              50.7105589464697
+            ],
+            [
+              2.350740117748302,
+              50.71746602254093
+            ],
+            [
+              2.35564790492075,
+              50.71612757977245
+            ],
+            [
+              2.366012934462337,
+              50.70905588606296
+            ],
+            [
+              2.334036912054752,
+              50.68950553146948
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70683,
+      "code_cant" : "01",
+      "x_centroid" : 6536,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 32598,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        50.70533205879087,
+        2.345581194317483
+      ],
+      "code_comm" : "875",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.345581194317483,
+        50.70533205879087
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

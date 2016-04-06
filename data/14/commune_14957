@@ -1,0 +1,67 @@
+  {
+    "recordid" : "98df14ee8fd2bb42cbdf50d6e1bceb8ef758b5c1",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 341,
+      "insee_com" : "77528",
+      "z_moyen" : 80,
+      "code_dept" : "77",
+      "nom_comm" : "VOISENON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6752,
+      "y_centroid" : 68300,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.667000891271272,
+              48.55868743899809
+            ],
+            [
+              2.653261333791765,
+              48.56048328035304
+            ],
+            [
+              2.655556566386536,
+              48.58035200338401
+            ],
+            [
+              2.67468871835467,
+              48.57985712060681
+            ],
+            [
+              2.673709944155894,
+              48.56722480891097
+            ],
+            [
+              2.667000891271272,
+              48.55868743899809
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68302,
+      "code_cant" : "18",
+      "x_centroid" : 6751,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 19647,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        48.5701795365455,
+        2.663758814731305
+      ],
+      "code_comm" : "528",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.663758814731305,
+        48.5701795365455
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

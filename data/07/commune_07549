@@ -1,0 +1,67 @@
+  {
+    "recordid" : "88639b396a5ba7647dfef1ca9e1be335be28c5c9",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 203,
+      "insee_com" : "56055",
+      "z_moyen" : 7,
+      "code_dept" : "56",
+      "nom_comm" : "ETEL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 2350,
+      "y_centroid" : 67467,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.204460807204625,
+              47.64870043776676
+            ],
+            [
+              -3.208134757561472,
+              47.66221963549142
+            ],
+            [
+              -3.205877958466372,
+              47.66544560954344
+            ],
+            [
+              -3.184605392778403,
+              47.65789892582133
+            ],
+            [
+              -3.194635459397409,
+              47.65015273546022
+            ],
+            [
+              -3.204460807204625,
+              47.64870043776676
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67468,
+      "code_cant" : "04",
+      "x_centroid" : 2351,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 31667,
+      "statut" : "Commune simple",
+      "population" : 2.1,
+      "geom_x_y" : [
+        47.65678602868388,
+        -3.198540835702108
+      ],
+      "code_comm" : "055",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.198540835702108,
+        47.65678602868388
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

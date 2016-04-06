@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8405bc78e8a71665a7d0b455c6a050fb4ca423e9",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 274,
+      "insee_com" : "27042",
+      "z_moyen" : 170,
+      "code_dept" : "27",
+      "nom_comm" : "BARVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5160,
+      "y_centroid" : 68982,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.498292950034626,
+              49.14781832996148
+            ],
+            [
+              0.479728758783334,
+              49.15340381003568
+            ],
+            [
+              0.466913664386046,
+              49.16025900826287
+            ],
+            [
+              0.474226133219334,
+              49.16415468778003
+            ],
+            [
+              0.502120699904496,
+              49.16312665677097
+            ],
+            [
+              0.493837159236157,
+              49.15998607512861
+            ],
+            [
+              0.498292950034626,
+              49.14781832996148
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68982,
+      "code_cant" : "34",
+      "x_centroid" : 5165,
+      "nom_dept" : "EURE",
+      "id_geofla" : 20492,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.15785878298385,
+        0.4850448967676317
+      ],
+      "code_comm" : "042",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4850448967676317,
+        49.15785878298385
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "49d739e8c70fa84529beeaaaf4dcb535a65c0139",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 186,
+      "insee_com" : "25555",
+      "z_moyen" : 347,
+      "code_dept" : "25",
+      "nom_comm" : "TAILLECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9896,
+      "y_centroid" : 67175,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.864367965324637,
+              47.48777918445789
+            ],
+            [
+              6.860093955277744,
+              47.4864069117827
+            ],
+            [
+              6.8543262147288,
+              47.49123941883354
+            ],
+            [
+              6.840258410471606,
+              47.49235323912989
+            ],
+            [
+              6.842434555329755,
+              47.49821151471735
+            ],
+            [
+              6.854692951105493,
+              47.50149234099852
+            ],
+            [
+              6.86328884597129,
+              47.49787285678486
+            ],
+            [
+              6.864367965324637,
+              47.48777918445789
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67177,
+      "code_cant" : "03",
+      "x_centroid" : 9900,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 7686,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        47.49470137516058,
+        6.85393764134075
+      ],
+      "code_comm" : "555",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.85393764134075,
+        47.49470137516058
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

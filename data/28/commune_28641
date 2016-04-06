@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4ab12b7380d37c7b9bb61cb9e719effea0c1d855",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 487,
+      "insee_com" : "52002",
+      "z_moyen" : 402,
+      "code_dept" : "52",
+      "nom_comm" : "AIGREMONT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9025,
+      "y_centroid" : 67715,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.711934253955782,
+              47.99795121439033
+            ],
+            [
+              5.711434365935363,
+              48.00469803792754
+            ],
+            [
+              5.703388149911787,
+              48.00898923316333
+            ],
+            [
+              5.706268781860569,
+              48.01546913788864
+            ],
+            [
+              5.735774811665086,
+              48.01926185889925
+            ],
+            [
+              5.756585903262872,
+              48.02895111896049
+            ],
+            [
+              5.743926403607935,
+              48.01417360228308
+            ],
+            [
+              5.711934253955782,
+              47.99795121439033
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67720,
+      "code_cant" : "04",
+      "x_centroid" : 9032,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 22838,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.01257485405615,
+        5.725879818054223
+      ],
+      "code_comm" : "002",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.725879818054223,
+        48.01257485405615
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

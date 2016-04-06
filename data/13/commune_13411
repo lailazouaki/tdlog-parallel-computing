@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a5eef6974a4453e6ecb8c9fee06fac0115a1ee5c",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 306,
+      "insee_com" : "57737",
+      "z_moyen" : 246,
+      "code_dept" : "57",
+      "nom_comm" : "VULMONT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9419,
+      "y_centroid" : 68745,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.288400145056841,
+              48.91632303695959
+            ],
+            [
+              6.28779397064739,
+              48.92768928045821
+            ],
+            [
+              6.31886769077716,
+              48.93408665587113
+            ],
+            [
+              6.323250058580685,
+              48.93275907576296
+            ],
+            [
+              6.325606940326852,
+              48.92795935223181
+            ],
+            [
+              6.311180719676433,
+              48.92106860682862
+            ],
+            [
+              6.288400145056841,
+              48.91632303695959
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68744,
+      "code_cant" : "33",
+      "x_centroid" : 9421,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 21917,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.92570978099386,
+        6.305088013176197
+      ],
+      "code_comm" : "737",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.305088013176197,
+        48.92570978099386
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

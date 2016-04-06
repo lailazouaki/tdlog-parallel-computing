@@ -1,0 +1,67 @@
+  {
+    "recordid" : "32f27b0b0eb006e0df7f0603c756303231219486",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 203,
+      "insee_com" : "14665",
+      "z_moyen" : 10,
+      "code_dept" : "14",
+      "nom_comm" : "SALLENELLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4649,
+      "y_centroid" : 69119,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.224527377087598,
+              49.25544152460449
+            ],
+            [
+              -0.247394992796743,
+              49.2630153303091
+            ],
+            [
+              -0.243003715203379,
+              49.26905369300482
+            ],
+            [
+              -0.228874911523975,
+              49.27045846931279
+            ],
+            [
+              -0.221915418832885,
+              49.26182739399281
+            ],
+            [
+              -0.224527377087598,
+              49.25544152460449
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69119,
+      "code_cant" : "47",
+      "x_centroid" : 4646,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 17618,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.26370017246752,
+        -0.2334206355810604
+      ],
+      "code_comm" : "665",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2334206355810604,
+        49.26370017246752
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

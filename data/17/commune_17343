@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bfb2e3a742b2aca56d367318fedb9be3736186eb",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 938,
+      "insee_com" : "27385",
+      "z_moyen" : 86,
+      "code_dept" : "27",
+      "nom_comm" : "MANNEVILLE-SUR-RISLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5212,
+      "y_centroid" : 69207,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.561649825426809,
+              49.33897614362015
+            ],
+            [
+              0.539357570760153,
+              49.35361482435319
+            ],
+            [
+              0.5289250044348091,
+              49.35556929889094
+            ],
+            [
+              0.512538442922389,
+              49.36419935358938
+            ],
+            [
+              0.541693106775308,
+              49.37999404803143
+            ],
+            [
+              0.543120028091352,
+              49.38068852987062
+            ],
+            [
+              0.572666873534337,
+              49.35784077130934
+            ],
+            [
+              0.561649825426809,
+              49.33897614362015
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69203,
+      "code_cant" : "27",
+      "x_centroid" : 5217,
+      "nom_dept" : "EURE",
+      "id_geofla" : 29996,
+      "statut" : "Commune simple",
+      "population" : 1.4,
+      "geom_x_y" : [
+        49.36108198265991,
+        0.5459436264973269
+      ],
+      "code_comm" : "385",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5459436264973269,
+        49.36108198265991
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

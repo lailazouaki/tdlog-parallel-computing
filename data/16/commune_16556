@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3694dbb43d3d51466f21118c88a7c82b919e54db",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 181,
+      "insee_com" : "62208",
+      "z_moyen" : 143,
+      "code_dept" : "62",
+      "nom_comm" : "CANETTEMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6547,
+      "y_centroid" : 70203,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.359304519598961,
+              50.27284021347349
+            ],
+            [
+              2.352243402430368,
+              50.28377574257525
+            ],
+            [
+              2.360345505911739,
+              50.28691581833911
+            ],
+            [
+              2.375977789575653,
+              50.28071963958237
+            ],
+            [
+              2.368273618003107,
+              50.27376648420098
+            ],
+            [
+              2.359304519598961,
+              50.27284021347349
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70201,
+      "code_cant" : "08",
+      "x_centroid" : 6545,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24060,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.27982931368395,
+        2.363348234062649
+      ],
+      "code_comm" : "208",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.363348234062649,
+        50.27982931368395
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

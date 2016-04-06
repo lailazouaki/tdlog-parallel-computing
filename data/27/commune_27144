@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ef1b6664fc57e0b51b6f5244c603cf39c81db178",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 215,
+      "insee_com" : "62253",
+      "z_moyen" : 157,
+      "code_dept" : "62",
+      "nom_comm" : "COUTURELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6642,
+      "y_centroid" : 70121,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.497009010990563,
+              50.21532885935553
+            ],
+            [
+              2.511654354041012,
+              50.2058603026739
+            ],
+            [
+              2.500251839645828,
+              50.19869346204489
+            ],
+            [
+              2.495053095959132,
+              50.19955226520092
+            ],
+            [
+              2.488913927784262,
+              50.20486097205801
+            ],
+            [
+              2.485204325476593,
+              50.20779987700574
+            ],
+            [
+              2.497009010990563,
+              50.21532885935553
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70123,
+      "code_cant" : "08",
+      "x_centroid" : 6641,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 31169,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.20660227687641,
+        2.498146987039713
+      ],
+      "code_comm" : "253",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.498146987039713,
+        50.20660227687641
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

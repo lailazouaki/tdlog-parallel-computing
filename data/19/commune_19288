@@ -1,0 +1,75 @@
+  {
+    "recordid" : "13bffa933e07c0d38174e965a460638d74ffc71d",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 460,
+      "insee_com" : "76685",
+      "z_moyen" : 115,
+      "code_dept" : "76",
+      "nom_comm" : "THEROULDEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5214,
+      "y_centroid" : 69647,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5266642569793309,
+              49.74359663654679
+            ],
+            [
+              0.513836335570079,
+              49.74580756135657
+            ],
+            [
+              0.50789612113269,
+              49.75013589909262
+            ],
+            [
+              0.515295250290621,
+              49.76603609830132
+            ],
+            [
+              0.5334107131243651,
+              49.77140199142424
+            ],
+            [
+              0.53238172724391,
+              49.76454051307599
+            ],
+            [
+              0.5381118368268361,
+              49.75534370775147
+            ],
+            [
+              0.5266642569793309,
+              49.74359663654679
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69649,
+      "code_cant" : "53",
+      "x_centroid" : 5214,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 17396,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.75646380488408,
+        0.5232355941620265
+      ],
+      "code_comm" : "685",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5232355941620265,
+        49.75646380488408
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

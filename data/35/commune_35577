@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9f08af9a826fbadba45c946b910d7089a70c89f7",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 100,
+      "insee_com" : "51663",
+      "z_moyen" : 69,
+      "code_dept" : "51",
+      "nom_comm" : "MAGENTA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7705,
+      "y_centroid" : 68844,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.973840275150612,
+              49.05893558444202
+            ],
+            [
+              3.969044009366441,
+              49.04975732978231
+            ],
+            [
+              3.964170770892912,
+              49.04959871325038
+            ],
+            [
+              3.959538830434197,
+              49.05878987836723
+            ],
+            [
+              3.960903841855648,
+              49.06082918396373
+            ],
+            [
+              3.973840275150612,
+              49.05893558444202
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68840,
+      "code_cant" : "03",
+      "x_centroid" : 7706,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 35683,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        49.05565795775463,
+        3.966375483563813
+      ],
+      "code_comm" : "663",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.966375483563813,
+        49.05565795775463
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

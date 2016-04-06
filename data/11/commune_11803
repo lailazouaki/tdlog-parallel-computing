@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fea68b5c0fc61abb1ee624eeddeb82816cf8daaf",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 404,
+      "insee_com" : "90044",
+      "z_moyen" : 391,
+      "code_dept" : "90",
+      "nom_comm" : "FELON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9979,
+      "y_centroid" : 67415,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.978297327148284,
+              47.69427775313315
+            ],
+            [
+              6.957103595016115,
+              47.71319252509778
+            ],
+            [
+              6.966325919373049,
+              47.71097845482673
+            ],
+            [
+              6.984209389940932,
+              47.71621012322929
+            ],
+            [
+              6.991980118950561,
+              47.71423273252637
+            ],
+            [
+              6.993838544226355,
+              47.70803197790701
+            ],
+            [
+              7.00060470651132,
+              47.70461026928875
+            ],
+            [
+              6.978297327148284,
+              47.69427775313315
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67415,
+      "code_cant" : "05",
+      "x_centroid" : 9983,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 33887,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.70626106340379,
+        6.980515281308679
+      ],
+      "code_comm" : "044",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.980515281308679,
+        47.70626106340379
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "aa89e54ac4e1fcb03995af55e3565d82652c253e",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 463,
+      "insee_com" : "88511",
+      "z_moyen" : 359,
+      "code_dept" : "88",
+      "nom_comm" : "VILLOUXEL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8909,
+      "y_centroid" : 68083,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.602821335364756,
+              48.34597722633358
+            ],
+            [
+              5.592892910411338,
+              48.3385164694594
+            ],
+            [
+              5.582370964009443,
+              48.33816131827492
+            ],
+            [
+              5.556446024261374,
+              48.34924693720838
+            ],
+            [
+              5.567545782461985,
+              48.35614513433256
+            ],
+            [
+              5.577754356242679,
+              48.35720162547474
+            ],
+            [
+              5.602821335364756,
+              48.34597722633358
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68078,
+      "code_cant" : "18",
+      "x_centroid" : 8911,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 22711,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.34754377118052,
+        5.580002456489463
+      ],
+      "code_comm" : "511",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.580002456489463,
+        48.34754377118052
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

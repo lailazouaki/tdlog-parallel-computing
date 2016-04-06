@@ -1,0 +1,75 @@
+  {
+    "recordid" : "35e18e41029181b342a87b64cbbdd1d8da5a017b",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 313,
+      "insee_com" : "54494",
+      "z_moyen" : 363,
+      "code_dept" : "54",
+      "nom_comm" : "SAULXEROTTE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9175,
+      "y_centroid" : 68231,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.925859483873113,
+              48.48053386587873
+            ],
+            [
+              5.949819242040274,
+              48.47438647407022
+            ],
+            [
+              5.947341523038069,
+              48.46787627737994
+            ],
+            [
+              5.942780095963212,
+              48.46619798777172
+            ],
+            [
+              5.927125495637944,
+              48.46657611800656
+            ],
+            [
+              5.922269383962191,
+              48.4678570854173
+            ],
+            [
+              5.919409973752184,
+              48.48118776629745
+            ],
+            [
+              5.925859483873113,
+              48.48053386587873
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68228,
+      "code_cant" : "10",
+      "x_centroid" : 9167,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 34310,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.47280001325016,
+        5.933412078499523
+      ],
+      "code_comm" : "494",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.933412078499523,
+        48.47280001325016
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

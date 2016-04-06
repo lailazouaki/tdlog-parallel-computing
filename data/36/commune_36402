@@ -1,0 +1,75 @@
+  {
+    "recordid" : "802f5cf601390ba4b8e5028fcf08aa4503965c71",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 175,
+      "insee_com" : "65362",
+      "z_moyen" : 509,
+      "code_dept" : "65",
+      "nom_comm" : "PIERREFITTE-NESTALAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4490,
+      "y_centroid" : 62118,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.084828109818574,
+              42.95154394311225
+            ],
+            [
+              -0.08369076748988601,
+              42.96333057163609
+            ],
+            [
+              -0.080534916159211,
+              42.96528409061825
+            ],
+            [
+              -0.077609196315336,
+              42.96880593100911
+            ],
+            [
+              -0.06853110022373,
+              42.970487516624
+            ],
+            [
+              -0.063161327583021,
+              42.96488971390704
+            ],
+            [
+              -0.063921561116353,
+              42.96234805698705
+            ],
+            [
+              -0.084828109818574,
+              42.95154394311225
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62117,
+      "code_cant" : "01",
+      "x_centroid" : 4489,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 36514,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        42.96225560480551,
+        -0.07494782448015402
+      ],
+      "code_comm" : "362",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.07494782448015402,
+        42.96225560480551
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

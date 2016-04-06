@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b78cf35817e748b50aa04ebba5182da558fb47d4",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 392,
+      "insee_com" : "48055",
+      "z_moyen" : 777,
+      "code_dept" : "48",
+      "nom_comm" : "CULTURES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7300,
+      "y_centroid" : 63769,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.396438514953107,
+              44.47992409917885
+            ],
+            [
+              3.387737212705482,
+              44.47806457398325
+            ],
+            [
+              3.369561863078297,
+              44.48857851968925
+            ],
+            [
+              3.368102190867713,
+              44.50196072402254
+            ],
+            [
+              3.382654330058231,
+              44.50174017094486
+            ],
+            [
+              3.390412448786858,
+              44.49767097404786
+            ],
+            [
+              3.389378050115464,
+              44.48810524953166
+            ],
+            [
+              3.396438514953107,
+              44.47992409917885
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63771,
+      "code_cant" : "05",
+      "x_centroid" : 7302,
+      "nom_dept" : "LOZERE",
+      "id_geofla" : 6815,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.49117017488669,
+        3.381020421966517
+      ],
+      "code_comm" : "055",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.381020421966517,
+        44.49117017488669
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

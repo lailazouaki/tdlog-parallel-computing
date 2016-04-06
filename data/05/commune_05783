@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d9d5807d7e555bfb0532c83b1cc78fd9b2a5e1dc",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 450,
+      "insee_com" : "80090",
+      "z_moyen" : 79,
+      "code_dept" : "80",
+      "nom_comm" : "BERNY-EN-SANTERRE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6891,
+      "y_centroid" : 69742,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.866465280156556,
+              49.86084538121497
+            ],
+            [
+              2.857123137836282,
+              49.85711557334893
+            ],
+            [
+              2.840766422000922,
+              49.85753554469598
+            ],
+            [
+              2.833051700396934,
+              49.8582888563261
+            ],
+            [
+              2.836582800443999,
+              49.87519175451698
+            ],
+            [
+              2.841864708620264,
+              49.87531549010914
+            ],
+            [
+              2.867135201382007,
+              49.87575882298056
+            ],
+            [
+              2.866465280156556,
+              49.86084538121497
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69740,
+      "code_cant" : "15",
+      "x_centroid" : 6892,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 5852,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.86654751782332,
+        2.850581263969322
+      ],
+      "code_comm" : "090",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.850581263969322,
+        49.86654751782332
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

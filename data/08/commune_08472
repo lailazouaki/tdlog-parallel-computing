@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e6565d048ab3e5afaa57ee8dcd99c5778e258ae8",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 653,
+      "insee_com" : "54562",
+      "z_moyen" : 285,
+      "code_dept" : "54",
+      "nom_comm" : "VERDENAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9809,
+      "y_centroid" : 68386,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.819550282302507,
+              48.57505302417733
+            ],
+            [
+              6.806037517987801,
+              48.57828714913361
+            ],
+            [
+              6.782303470606866,
+              48.57890036406655
+            ],
+            [
+              6.783078495060172,
+              48.59450947462287
+            ],
+            [
+              6.821590472962033,
+              48.59984356179125
+            ],
+            [
+              6.823735230558916,
+              48.59872096771537
+            ],
+            [
+              6.823819763662695,
+              48.5814811034049
+            ],
+            [
+              6.819550282302507,
+              48.57505302417733
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68382,
+      "code_cant" : "06",
+      "x_centroid" : 9804,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 16640,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.58759788223519,
+        6.804632402533126
+      ],
+      "code_comm" : "562",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.804632402533126,
+        48.58759788223519
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

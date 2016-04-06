@@ -1,0 +1,71 @@
+  {
+    "recordid" : "10942e28d25510bdddee55aae8e5895b21795134",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 489,
+      "insee_com" : "67374",
+      "z_moyen" : 172,
+      "code_dept" : "67",
+      "nom_comm" : "PFETTISHEIM",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10419,
+      "y_centroid" : 68501,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.648678881424046,
+              48.64855170539115
+            ],
+            [
+              7.633416275512381,
+              48.66168011148508
+            ],
+            [
+              7.631543130684222,
+              48.66832143043361
+            ],
+            [
+              7.640333276573785,
+              48.67125893213228
+            ],
+            [
+              7.672994445286766,
+              48.66453939968159
+            ],
+            [
+              7.668980742678294,
+              48.65372206985107
+            ],
+            [
+              7.648678881424046,
+              48.64855170539115
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68500,
+      "code_cant" : "31",
+      "x_centroid" : 10424,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 15554,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.66058250677109,
+        7.651947499931933
+      ],
+      "code_comm" : "374",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.651947499931933,
+        48.66058250677109
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

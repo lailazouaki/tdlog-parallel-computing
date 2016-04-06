@@ -1,0 +1,67 @@
+  {
+    "recordid" : "75eccb6a31a9bd2de54029c6a3a63fe2c9fbb88e",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 230,
+      "insee_com" : "67555",
+      "z_moyen" : 250,
+      "code_dept" : "67",
+      "nom_comm" : "ZEHNACKER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10275,
+      "y_centroid" : 68503,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.443479812985343,
+              48.66209956377411
+            ],
+            [
+              7.440890590739309,
+              48.66363759270301
+            ],
+            [
+              7.434068691178384,
+              48.67491867680435
+            ],
+            [
+              7.467581099918235,
+              48.67517083533532
+            ],
+            [
+              7.469966031978809,
+              48.67188313029288
+            ],
+            [
+              7.443479812985343,
+              48.66209956377411
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68503,
+      "code_cant" : "13",
+      "x_centroid" : 10275,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 32131,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.67040234295413,
+        7.450434352057586
+      ],
+      "code_comm" : "555",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.450434352057586,
+        48.67040234295413
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

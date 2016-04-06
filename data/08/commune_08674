@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a5fdac912c80f14b0e77a60be87a482e097eaadf",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 170,
+      "insee_com" : "27482",
+      "z_moyen" : 149,
+      "code_dept" : "27",
+      "nom_comm" : "LA PYLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5465,
+      "y_centroid" : 69020,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.89333371903331,
+              49.19254391962551
+            ],
+            [
+              0.882343128553771,
+              49.2045913580026
+            ],
+            [
+              0.886648615615384,
+              49.20536844546246
+            ],
+            [
+              0.890003894198771,
+              49.20319688188835
+            ],
+            [
+              0.9036047148041449,
+              49.20558373303768
+            ],
+            [
+              0.911827435150255,
+              49.19875665397935
+            ],
+            [
+              0.89333371903331,
+              49.19254391962551
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69020,
+      "code_cant" : "01",
+      "x_centroid" : 5467,
+      "nom_dept" : "EURE",
+      "id_geofla" : 7211,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.19986699296164,
+        0.8971583475084772
+      ],
+      "code_comm" : "482",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8971583475084772,
+        49.19986699296164
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

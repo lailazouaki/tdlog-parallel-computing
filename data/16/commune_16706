@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ab052c6b012a3f04e2e7fea0a50dba24f0bc39ce",
+    "fields" : {
+      "nom_region" : "LIMOUSIN",
+      "superficie" : 452,
+      "insee_com" : "19184",
+      "z_moyen" : 221,
+      "code_dept" : "19",
+      "nom_comm" : "SAINT-BAZILE-DE-MEYSSAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5997,
+      "y_centroid" : 64402,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.725270386253629,
+              45.04436068682271
+            ],
+            [
+              1.706069614091872,
+              45.04854274327083
+            ],
+            [
+              1.705168447855537,
+              45.06113939726323
+            ],
+            [
+              1.729634967091094,
+              45.06025042098011
+            ],
+            [
+              1.735265483697019,
+              45.06578955817853
+            ],
+            [
+              1.745054829224563,
+              45.0531041082742
+            ],
+            [
+              1.744673015627848,
+              45.0525685102265
+            ],
+            [
+              1.725270386253629,
+              45.04436068682271
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64398,
+      "code_cant" : "18",
+      "x_centroid" : 5995,
+      "nom_dept" : "CORREZE",
+      "id_geofla" : 16246,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.05414805031162,
+        1.72389447366039
+      ],
+      "code_comm" : "184",
+      "code_reg" : "74"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.72389447366039,
+        45.05414805031162
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

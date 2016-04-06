@@ -1,0 +1,63 @@
+  {
+    "recordid" : "801142211d9d053720a9ee0bc8f61349cb54e3d0",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 329,
+      "insee_com" : "60669",
+      "z_moyen" : 89,
+      "code_dept" : "60",
+      "nom_comm" : "VERDERONNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6635,
+      "y_centroid" : 69144,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.483021889042238,
+              49.3185125445101
+            ],
+            [
+              2.476499922316418,
+              49.32297013464902
+            ],
+            [
+              2.48494064142061,
+              49.33982527319208
+            ],
+            [
+              2.513873490320377,
+              49.32934688550711
+            ],
+            [
+              2.483021889042238,
+              49.3185125445101
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69145,
+      "code_cant" : "20",
+      "x_centroid" : 6630,
+      "nom_dept" : "OISE",
+      "id_geofla" : 31394,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.3288283373365,
+        2.491601579222618
+      ],
+      "code_comm" : "669",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.491601579222618,
+        49.3288283373365
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

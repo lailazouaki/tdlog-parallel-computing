@@ -1,0 +1,59 @@
+  {
+    "recordid" : "e1942482028c6b9ec24289c220ee9503c605c2dd",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 20,
+      "insee_com" : "33371",
+      "z_moyen" : 42,
+      "code_dept" : "33",
+      "nom_comm" : "SAINT-ANTOINE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4304,
+      "y_centroid" : 64411,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.422036721588389,
+              45.01349900478154
+            ],
+            [
+              -0.426870447345572,
+              45.01545908720509
+            ],
+            [
+              -0.423035248099323,
+              45.02130894888585
+            ],
+            [
+              -0.422036721588389,
+              45.01349900478154
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64410,
+      "code_cant" : "39",
+      "x_centroid" : 4303,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 30071,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        45.01675568029083,
+        -0.4239808056777614
+      ],
+      "code_comm" : "371",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4239808056777614,
+        45.01675568029083
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

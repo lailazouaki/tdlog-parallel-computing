@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0a46c6192a32c2e573e4fab0f779bb0da2415436",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 423,
+      "insee_com" : "76409",
+      "z_moyen" : 93,
+      "code_dept" : "76",
+      "nom_comm" : "MANNEVILLETTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4956,
+      "y_centroid" : 69477,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.171887824727378,
+              49.58387328678233
+            ],
+            [
+              0.159725367261721,
+              49.59471284043981
+            ],
+            [
+              0.161698957698793,
+              49.60154811933285
+            ],
+            [
+              0.173080787942889,
+              49.60841380641503
+            ],
+            [
+              0.187153676960118,
+              49.60462218159775
+            ],
+            [
+              0.187650411900739,
+              49.58723389093864
+            ],
+            [
+              0.18763326069811,
+              49.58426605249264
+            ],
+            [
+              0.171887824727378,
+              49.58387328678233
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69478,
+      "code_cant" : "37",
+      "x_centroid" : 4957,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 36123,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        49.59567206471018,
+        0.1753902251823802
+      ],
+      "code_comm" : "409",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1753902251823802,
+        49.59567206471018
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

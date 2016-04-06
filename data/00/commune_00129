@@ -1,0 +1,79 @@
+  {
+    "recordid" : "152c0b9b24febc90bb7d7afa156880eefd44d78d",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 261,
+      "insee_com" : "76662",
+      "z_moyen" : 117,
+      "code_dept" : "76",
+      "nom_comm" : "SASSETOT-LE-MALGARDE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5478,
+      "y_centroid" : 69656,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.911459101428579,
+              49.76520874164625
+            ],
+            [
+              0.8988407322248561,
+              49.7697284372606
+            ],
+            [
+              0.886533079570421,
+              49.76466220171663
+            ],
+            [
+              0.881771017279095,
+              49.76539742730768
+            ],
+            [
+              0.88278610983496,
+              49.7790855441215
+            ],
+            [
+              0.904416856977199,
+              49.77791339933854
+            ],
+            [
+              0.903690644679057,
+              49.77463837274198
+            ],
+            [
+              0.91708055042541,
+              49.76993364481562
+            ],
+            [
+              0.911459101428579,
+              49.76520874164625
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69656,
+      "code_cant" : "03",
+      "x_centroid" : 5483,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 13526,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.77200108110499,
+        0.8958365967530463
+      ],
+      "code_comm" : "662",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8958365967530463,
+        49.77200108110499
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

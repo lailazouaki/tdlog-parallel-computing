@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ff19484ba6285b399f8fed6f4806c919dc36baf3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 237,
+      "insee_com" : "50036",
+      "z_moyen" : 14,
+      "code_dept" : "50",
+      "nom_comm" : "BAUPTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3829,
+      "y_centroid" : 69210,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.35766538982943,
+              49.30470114453571
+            ],
+            [
+              -1.376616471069188,
+              49.30347488285728
+            ],
+            [
+              -1.38316066882563,
+              49.3113040794679
+            ],
+            [
+              -1.36813017820056,
+              49.3175570839318
+            ],
+            [
+              -1.359370413648738,
+              49.31510098215549
+            ],
+            [
+              -1.352002698408284,
+              49.30726433965938
+            ],
+            [
+              -1.35766538982943,
+              49.30470114453571
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69208,
+      "code_cant" : "27",
+      "x_centroid" : 3824,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 31387,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.30984089562905,
+        -1.367726227912305
+      ],
+      "code_comm" : "036",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.367726227912305,
+        49.30984089562905
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1833df8b40404768ca78e4d4ee411ba0224ae9b1",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 60,
+      "insee_com" : "21554",
+      "z_moyen" : 181,
+      "code_dept" : "21",
+      "nom_comm" : "SAINT-JEAN-DE-LOSNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8716,
+      "y_centroid" : 66692,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.275911632388884,
+              47.10140991003239
+            ],
+            [
+              5.268432769884002,
+              47.0982784227656
+            ],
+            [
+              5.260114861918768,
+              47.10059396434032
+            ],
+            [
+              5.259591323347995,
+              47.10383762830497
+            ],
+            [
+              5.263960958903625,
+              47.10517521485771
+            ],
+            [
+              5.275911632388884,
+              47.10140991003239
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66694,
+      "code_cant" : "29",
+      "x_centroid" : 8718,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 16782,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.2,
+      "geom_x_y" : [
+        47.1017053630563,
+        5.266534803068788
+      ],
+      "code_comm" : "554",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.266534803068788,
+        47.1017053630563
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

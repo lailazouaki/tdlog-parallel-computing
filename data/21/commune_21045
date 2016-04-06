@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7fb93f6adc571c581d3d3c914f44434ab052ff46",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 339,
+      "insee_com" : "34140",
+      "z_moyen" : 25,
+      "code_dept" : "34",
+      "nom_comm" : "LIGNAN-SUR-ORB",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7138,
+      "y_centroid" : 62537,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.176893497431261,
+              43.36915865903993
+            ],
+            [
+              3.166575007188034,
+              43.37441980181765
+            ],
+            [
+              3.162190818553078,
+              43.38975606147977
+            ],
+            [
+              3.166216995211037,
+              43.39566053633366
+            ],
+            [
+              3.174590984604869,
+              43.3947117394364
+            ],
+            [
+              3.18312715522335,
+              43.37890016798806
+            ],
+            [
+              3.183157350111722,
+              43.3728816534375
+            ],
+            [
+              3.176893497431261,
+              43.36915865903993
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62538,
+      "code_cant" : "38",
+      "x_centroid" : 7140,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 852,
+      "statut" : "Commune simple",
+      "population" : 2.9,
+      "geom_x_y" : [
+        43.38248663396367,
+        3.172704577836496
+      ],
+      "code_comm" : "140",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.172704577836496,
+        43.38248663396367
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

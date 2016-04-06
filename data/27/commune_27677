@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7fa996fae36fcf49b6afc28f7d22c8c9914b92a4",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 258,
+      "insee_com" : "31298",
+      "z_moyen" : 721,
+      "code_dept" : "31",
+      "nom_comm" : "LEZ",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5120,
+      "y_centroid" : 62037,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.71672773798301,
+              42.90127141775532
+            ],
+            [
+              0.699819839228749,
+              42.90179220747599
+            ],
+            [
+              0.693078228280777,
+              42.91038323271515
+            ],
+            [
+              0.703456893312657,
+              42.9215185536514
+            ],
+            [
+              0.7091602196210131,
+              42.91224790678701
+            ],
+            [
+              0.72047308053875,
+              42.906236063832
+            ],
+            [
+              0.720963252147823,
+              42.90279183141377
+            ],
+            [
+              0.71672773798301,
+              42.90127141775532
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62038,
+      "code_cant" : "28",
+      "x_centroid" : 5125,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 32973,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.90865966970712,
+        0.7059312650466859
+      ],
+      "code_comm" : "298",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7059312650466859,
+        42.90865966970712
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

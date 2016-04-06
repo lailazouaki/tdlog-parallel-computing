@@ -1,0 +1,71 @@
+  {
+    "recordid" : "85d9dce171c77e026f779b4cee99dbe1e70b7001",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 956,
+      "insee_com" : "10030",
+      "z_moyen" : 116,
+      "code_dept" : "10",
+      "nom_comm" : "BARBEREY-SAINT-SULPICE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7764,
+      "y_centroid" : 68034,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.985725977486979,
+              48.30572360351104
+            ],
+            [
+              3.972956493215487,
+              48.31318954770779
+            ],
+            [
+              3.983003767506121,
+              48.31523903527207
+            ],
+            [
+              3.996458359827205,
+              48.32621190379506
+            ],
+            [
+              4.036858857115732,
+              48.34899836254159
+            ],
+            [
+              4.054157515775859,
+              48.33384633518337
+            ],
+            [
+              3.985725977486979,
+              48.30572360351104
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68046,
+      "code_cant" : "29",
+      "x_centroid" : 7753,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 35534,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        48.32719861585134,
+        4.016431872020833
+      ],
+      "code_comm" : "030",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.016431872020833,
+        48.32719861585134
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

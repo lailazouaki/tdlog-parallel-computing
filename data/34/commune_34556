@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1a1aa5da2c459435fcaa241df6294df4eb896299",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 320,
+      "insee_com" : "01238",
+      "z_moyen" : 207,
+      "code_dept" : "01",
+      "nom_comm" : "MASSIEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8418,
+      "y_centroid" : 65360,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.805177333218321,
+              45.89632861459743
+            ],
+            [
+              4.804098988117897,
+              45.89806621521056
+            ],
+            [
+              4.810675102833305,
+              45.90975164913803
+            ],
+            [
+              4.825802232002497,
+              45.91183234476213
+            ],
+            [
+              4.851347707693961,
+              45.92361309715402
+            ],
+            [
+              4.849115607429312,
+              45.91286775063065
+            ],
+            [
+              4.805177333218321,
+              45.89632861459743
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65359,
+      "code_cant" : "42",
+      "x_centroid" : 8416,
+      "nom_dept" : "AIN",
+      "id_geofla" : 32578,
+      "statut" : "Commune simple",
+      "population" : 2.4,
+      "geom_x_y" : [
+        45.90940168166324,
+        4.827796600513717
+      ],
+      "code_comm" : "238",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.827796600513717,
+        45.90940168166324
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

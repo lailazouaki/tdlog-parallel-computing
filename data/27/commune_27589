@@ -1,0 +1,67 @@
+  {
+    "recordid" : "12845cba147e920a66cc901ccdd62f38c825bc96",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 348,
+      "insee_com" : "65157",
+      "z_moyen" : 1548,
+      "code_dept" : "65",
+      "nom_comm" : "ENS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4822,
+      "y_centroid" : 61922,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.327537144450478,
+              42.77975990219675
+            ],
+            [
+              0.322846088429689,
+              42.79039409532273
+            ],
+            [
+              0.332429656832673,
+              42.80888794647028
+            ],
+            [
+              0.33629916164619,
+              42.81057664047734
+            ],
+            [
+              0.350349077490344,
+              42.80340333582384
+            ],
+            [
+              0.327537144450478,
+              42.77975990219675
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61933,
+      "code_cant" : "26",
+      "x_centroid" : 4817,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 20548,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.79698370172405,
+        0.3347701809956143
+      ],
+      "code_comm" : "157",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3347701809956143,
+        42.79698370172405
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "18aae64e0e6a637fd570a3fc39b86f8f89feffac",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 378,
+      "insee_com" : "59111",
+      "z_moyen" : 26,
+      "code_dept" : "59",
+      "nom_comm" : "BROXEELE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6520,
+      "y_centroid" : 70814,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.328346382210126,
+              50.81695413284392
+            ],
+            [
+              2.316068580439713,
+              50.81789224467676
+            ],
+            [
+              2.310883756051605,
+              50.81900314562094
+            ],
+            [
+              2.3044254660153,
+              50.83222791888071
+            ],
+            [
+              2.33174140921987,
+              50.83951890797334
+            ],
+            [
+              2.33661452247464,
+              50.83319286452272
+            ],
+            [
+              2.328346382210126,
+              50.81695413284392
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70817,
+      "code_cant" : "68",
+      "x_centroid" : 6520,
+      "nom_dept" : "NORD",
+      "id_geofla" : 7193,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.82793623425862,
+        2.321367215511826
+      ],
+      "code_comm" : "111",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.321367215511826,
+        50.82793623425862
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

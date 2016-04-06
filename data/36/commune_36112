@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d4525fed7e3ed2a9c7cd5c764b72f15141732b25",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 801,
+      "insee_com" : "08313",
+      "z_moyen" : 105,
+      "code_dept" : "08",
+      "nom_comm" : "NANTEUIL-SUR-AISNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7941,
+      "y_centroid" : 69345,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.299693397530818,
+              49.48371627503518
+            ],
+            [
+              4.274831610242227,
+              49.49707685145817
+            ],
+            [
+              4.277226436719336,
+              49.50904237043368
+            ],
+            [
+              4.289028828524469,
+              49.51896657650983
+            ],
+            [
+              4.312079686355777,
+              49.51550150498218
+            ],
+            [
+              4.320279927268856,
+              49.50796998659564
+            ],
+            [
+              4.299693397530818,
+              49.48371627503518
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69355,
+      "code_cant" : "23",
+      "x_centroid" : 7939,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 34327,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.50326752970981,
+        4.296348285249064
+      ],
+      "code_comm" : "313",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.296348285249064,
+        49.50326752970981
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5bbb7d9bab60756981d3dbeb3a098016aa48ef64",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 428,
+      "insee_com" : "74059",
+      "z_moyen" : 912,
+      "code_dept" : "74",
+      "nom_comm" : "LA CHAPELLE-RAMBAUD",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9503,
+      "y_centroid" : 65577,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.246843379308419,
+              46.06308454893863
+            ],
+            [
+              6.218146796904362,
+              46.07026551383004
+            ],
+            [
+              6.229925266363675,
+              46.08362049400975
+            ],
+            [
+              6.23587627334753,
+              46.07889054720312
+            ],
+            [
+              6.239484126589871,
+              46.08099559952856
+            ],
+            [
+              6.25330325993706,
+              46.07968973945865
+            ],
+            [
+              6.258330462114726,
+              46.07448935358472
+            ],
+            [
+              6.246843379308419,
+              46.06308454893863
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65576,
+      "code_cant" : "17",
+      "x_centroid" : 9502,
+      "nom_dept" : "HAUTE-SAVOIE",
+      "id_geofla" : 26967,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.07320401233557,
+        6.239049818246876
+      ],
+      "code_comm" : "059",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.239049818246876,
+        46.07320401233557
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

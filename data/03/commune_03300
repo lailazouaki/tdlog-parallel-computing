@@ -1,0 +1,75 @@
+  {
+    "recordid" : "44c64870f70f9007f0981b55565cc8a0dafe36a6",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 284,
+      "insee_com" : "54577",
+      "z_moyen" : 285,
+      "code_dept" : "54",
+      "nom_comm" : "VILLERS-LES-MOIVRONS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9386,
+      "y_centroid" : 68620,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.241741269770782,
+              48.80617504537009
+            ],
+            [
+              6.231420005543555,
+              48.81180131355688
+            ],
+            [
+              6.231837076756695,
+              48.81457137250208
+            ],
+            [
+              6.254991996518629,
+              48.82044173547205
+            ],
+            [
+              6.270307230117548,
+              48.82077972541534
+            ],
+            [
+              6.272735393487848,
+              48.8177698503218
+            ],
+            [
+              6.26926428651255,
+              48.81523649692838
+            ],
+            [
+              6.241741269770782,
+              48.80617504537009
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68620,
+      "code_cant" : "23",
+      "x_centroid" : 9386,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 11888,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.81444657345165,
+        6.251196001361213
+      ],
+      "code_comm" : "577",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.251196001361213,
+        48.81444657345165
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

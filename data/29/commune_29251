@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bc1168b7b9879897aa7b71d80ef748f21c570f3d",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 516,
+      "insee_com" : "27640",
+      "z_moyen" : 156,
+      "code_dept" : "27",
+      "nom_comm" : "TILLEUL-DAME-AGNES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5455,
+      "y_centroid" : 68805,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.8899539753511,
+              48.99174709985037
+            ],
+            [
+              0.881739499797945,
+              49.00279245822931
+            ],
+            [
+              0.868258516045092,
+              49.01112617048613
+            ],
+            [
+              0.889482028887414,
+              49.0188412932195
+            ],
+            [
+              0.901324063204641,
+              49.01482125991138
+            ],
+            [
+              0.908021457283376,
+              48.99623731573462
+            ],
+            [
+              0.8899539753511,
+              48.99174709985037
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68802,
+      "code_cant" : "04",
+      "x_centroid" : 5457,
+      "nom_dept" : "EURE",
+      "id_geofla" : 20484,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.00598490643682,
+        0.8910313749794229
+      ],
+      "code_comm" : "640",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8910313749794229,
+        49.00598490643682
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

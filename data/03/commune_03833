@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bb0a0e9adedbb4dfb6700b9e322a185e2fb09edf",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 548,
+      "insee_com" : "09227",
+      "z_moyen" : 675,
+      "code_dept" : "09",
+      "nom_comm" : "PEREILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6041,
+      "y_centroid" : 62040,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.82956290948927,
+              42.92011724939309
+            ],
+            [
+              1.796508462627595,
+              42.9201837482636
+            ],
+            [
+              1.793532621622624,
+              42.92264167686272
+            ],
+            [
+              1.793575403229716,
+              42.93883128644675
+            ],
+            [
+              1.795986687519119,
+              42.94356221189114
+            ],
+            [
+              1.825248828683423,
+              42.93132148861038
+            ],
+            [
+              1.82956290948927,
+              42.92011724939309
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62031,
+      "code_cant" : "07",
+      "x_centroid" : 6026,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 14640,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        42.92912566212024,
+        1.808487417936513
+      ],
+      "code_comm" : "227",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.808487417936513,
+        42.92912566212024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

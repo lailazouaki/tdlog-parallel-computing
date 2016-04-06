@@ -1,0 +1,67 @@
+  {
+    "recordid" : "524e9f8204d3279a4471a73729dc3405744d50ff",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 485,
+      "insee_com" : "54237",
+      "z_moyen" : 386,
+      "code_dept" : "54",
+      "nom_comm" : "GRIMONVILLER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9225,
+      "y_centroid" : 68131,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.993560305453211,
+              48.36916345219483
+            ],
+            [
+              5.994464558758862,
+              48.38812840553049
+            ],
+            [
+              6.020553327193678,
+              48.39448878760795
+            ],
+            [
+              6.022595845583831,
+              48.37546673981777
+            ],
+            [
+              6.010613155243633,
+              48.36964059313067
+            ],
+            [
+              5.993560305453211,
+              48.36916345219483
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68136,
+      "code_cant" : "10",
+      "x_centroid" : 9226,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 24688,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.38082876496202,
+        6.007971246917719
+      ],
+      "code_comm" : "237",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.007971246917719,
+        48.38082876496202
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

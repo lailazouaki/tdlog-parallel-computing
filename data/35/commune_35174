@@ -1,0 +1,75 @@
+  {
+    "recordid" : "774c444ab2e711f73b09e6f88d5ab79f132ef534",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 211,
+      "insee_com" : "64264",
+      "z_moyen" : 192,
+      "code_dept" : "64",
+      "nom_comm" : "L'HOPITAL-SAINT-BLAISE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3938,
+      "y_centroid" : 62469,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.770227088932554,
+              43.24624764801271
+            ],
+            [
+              -0.775283002472729,
+              43.24858348033472
+            ],
+            [
+              -0.775558981569891,
+              43.25505787070652
+            ],
+            [
+              -0.781950347983446,
+              43.25951710079647
+            ],
+            [
+              -0.776674993430172,
+              43.26457385736438
+            ],
+            [
+              -0.763730164156403,
+              43.26052307237593
+            ],
+            [
+              -0.759680863022599,
+              43.25076705617495
+            ],
+            [
+              -0.770227088932554,
+              43.24624764801271
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62464,
+      "code_cant" : "20",
+      "x_centroid" : 3937,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 35774,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.25556111439946,
+        -0.7702646011255403
+      ],
+      "code_comm" : "264",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7702646011255403,
+        43.25556111439946
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

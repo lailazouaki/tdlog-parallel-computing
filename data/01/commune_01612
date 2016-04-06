@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fa03146fe3c670b62919668c66e053742743f9ba",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 183,
+      "insee_com" : "94018",
+      "z_moyen" : 43,
+      "code_dept" : "94",
+      "nom_comm" : "CHARENTON-LE-PONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6568,
+      "y_centroid" : 68582,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.415904474059502,
+              48.81633738861281
+            ],
+            [
+              2.409363681821797,
+              48.8166740020765
+            ],
+            [
+              2.390069237832736,
+              48.82569680951253
+            ],
+            [
+              2.40329566085689,
+              48.82924409837715
+            ],
+            [
+              2.419985643502435,
+              48.82408288251116
+            ],
+            [
+              2.419588735738723,
+              48.81691294395155
+            ],
+            [
+              2.415904474059502,
+              48.81633738861281
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68581,
+      "code_cant" : "07",
+      "x_centroid" : 6565,
+      "nom_dept" : "VAL-DE-MARNE",
+      "id_geofla" : 16854,
+      "statut" : "Chef-lieu canton",
+      "population" : 28.8,
+      "geom_x_y" : [
+        48.82280849782192,
+        2.407609154768575
+      ],
+      "code_comm" : "018",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.407609154768575,
+        48.82280849782192
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

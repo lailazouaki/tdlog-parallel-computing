@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e071d340d78fa9c6eaaea24ce0ab181433899111",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 109,
+      "insee_com" : "65321",
+      "z_moyen" : 433,
+      "code_dept" : "65",
+      "nom_comm" : "MONTIGNAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4681,
+      "y_centroid" : 62356,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.147668838332963,
+              43.17283803391898
+            ],
+            [
+              0.142992454888485,
+              43.17638651083409
+            ],
+            [
+              0.148518505596252,
+              43.1867665448729
+            ],
+            [
+              0.156052013332801,
+              43.19289690868594
+            ],
+            [
+              0.153730880311089,
+              43.18358295751368
+            ],
+            [
+              0.147668838332963,
+              43.17283803391898
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62358,
+      "code_cant" : "22",
+      "x_centroid" : 4681,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 27413,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.18211838576302,
+        0.1495332540789925
+      ],
+      "code_comm" : "321",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1495332540789925,
+        43.18211838576302
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "bba9cb1752536b8838529aa8f4fc9b940f9bef6f",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 99,
+      "insee_com" : "75102",
+      "z_moyen" : 36,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-2E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6516,
+      "y_centroid" : 68632,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.350834505477619,
+              48.86334437459833
+            ],
+            [
+              2.327877416924118,
+              48.86986380974643
+            ],
+            [
+              2.347826239446091,
+              48.87063068556795
+            ],
+            [
+              2.354114163249875,
+              48.86927979700135
+            ],
+            [
+              2.350834505477619,
+              48.86334437459833
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68631,
+      "code_cant" : "16",
+      "x_centroid" : 6518,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 14312,
+      "statut" : "Chef-lieu canton",
+      "population" : 22.4,
+      "geom_x_y" : [
+        48.86790337886784,
+        2.344107166658533
+      ],
+      "code_comm" : "102",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.344107166658533,
+        48.86790337886784
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

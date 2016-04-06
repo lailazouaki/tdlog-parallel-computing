@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6b4bc2477851b9697fece66e57f7f3080bc16c19",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 171,
+      "insee_com" : "33132",
+      "z_moyen" : 62,
+      "code_dept" : "33",
+      "nom_comm" : "COMPS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4171,
+      "y_centroid" : 64473,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5849907589508599,
+              45.065068455102
+            ],
+            [
+              -0.597507807672206,
+              45.06075298729062
+            ],
+            [
+              -0.6049628999789169,
+              45.0631617546848
+            ],
+            [
+              -0.596855195080356,
+              45.0725543994911
+            ],
+            [
+              -0.584223119268454,
+              45.07273635888128
+            ],
+            [
+              -0.5849907589508599,
+              45.065068455102
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64474,
+      "code_cant" : "15",
+      "x_centroid" : 4172,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 21766,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        45.06712001963353,
+        -0.5936248373550523
+      ],
+      "code_comm" : "132",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5936248373550523,
+        45.06712001963353
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

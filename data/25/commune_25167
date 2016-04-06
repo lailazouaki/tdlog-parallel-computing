@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c49f830da9d14e7e74b04bf0dc613a0dc57db090",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 218,
+      "insee_com" : "50520",
+      "z_moyen" : 95,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-MARTIN-LE-HEBERT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3663,
+      "y_centroid" : 69439,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.598717652640786,
+              49.51665430356056
+            ],
+            [
+              -1.609252989123469,
+              49.50123748817307
+            ],
+            [
+              -1.629156411522928,
+              49.50228789182395
+            ],
+            [
+              -1.63141222959912,
+              49.50369611883108
+            ],
+            [
+              -1.620850620589926,
+              49.51014939306691
+            ],
+            [
+              -1.598717652640786,
+              49.51665430356056
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69443,
+      "code_cant" : "07",
+      "x_centroid" : 3658,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 33638,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.5074042467557,
+        -1.614297953685368
+      ],
+      "code_comm" : "520",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.614297953685368,
+        49.5074042467557
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

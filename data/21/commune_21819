@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f422fee63e35354e107f816e0c80e57b61601639",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 772,
+      "insee_com" : "51256",
+      "z_moyen" : 163,
+      "code_dept" : "51",
+      "nom_comm" : "FONTAINE-SUR-AY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7783,
+      "y_centroid" : 68885,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.075543083328377,
+              49.06666484329298
+            ],
+            [
+              4.047476264594809,
+              49.09792652532407
+            ],
+            [
+              4.05939126863873,
+              49.11610267305907
+            ],
+            [
+              4.073245841089468,
+              49.10644845561528
+            ],
+            [
+              4.083786963384609,
+              49.06954024089507
+            ],
+            [
+              4.075543083328377,
+              49.06666484329298
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68874,
+      "code_cant" : "03",
+      "x_centroid" : 7779,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 15823,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.09199570272968,
+        4.066609705808443
+      ],
+      "code_comm" : "256",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.066609705808443,
+        49.09199570272968
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

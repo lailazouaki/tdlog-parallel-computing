@@ -1,0 +1,75 @@
+  {
+    "recordid" : "62be9afcd46673feb8df408e383aea16bc1ce2a5",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 393,
+      "insee_com" : "21185",
+      "z_moyen" : 197,
+      "code_dept" : "21",
+      "nom_comm" : "COMBERTAULT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8442,
+      "y_centroid" : 66564,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.910167481245249,
+              46.98167820230699
+            ],
+            [
+              4.886171337453925,
+              46.98753068954856
+            ],
+            [
+              4.889661048286547,
+              46.99586717110078
+            ],
+            [
+              4.897084432215718,
+              47.00147317553469
+            ],
+            [
+              4.894435166266813,
+              47.00363310128844
+            ],
+            [
+              4.91767570048139,
+              46.9985661094012
+            ],
+            [
+              4.916984629848662,
+              46.98577096252733
+            ],
+            [
+              4.910167481245249,
+              46.98167820230699
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66564,
+      "code_cant" : "06",
+      "x_centroid" : 8446,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 21035,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        46.99219485977095,
+        4.903423668067406
+      ],
+      "code_comm" : "185",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.903423668067406,
+        46.99219485977095
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e3b305cfdcef755061e487cceb980321bb8c85aa",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 201,
+      "insee_com" : "27683",
+      "z_moyen" : 64,
+      "code_dept" : "27",
+      "nom_comm" : "VEZILLON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5834,
+      "y_centroid" : 69036,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.404067357427165,
+              49.21590396031043
+            ],
+            [
+              1.396509523058786,
+              49.21218886400225
+            ],
+            [
+              1.387446806311719,
+              49.219360442068
+            ],
+            [
+              1.394762324897946,
+              49.22868378159719
+            ],
+            [
+              1.403813653092708,
+              49.23124075075288
+            ],
+            [
+              1.406101884997097,
+              49.22827674916286
+            ],
+            [
+              1.408346795677643,
+              49.22180529678693
+            ],
+            [
+              1.404067357427165,
+              49.21590396031043
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69041,
+      "code_cant" : "02",
+      "x_centroid" : 5833,
+      "nom_dept" : "EURE",
+      "id_geofla" : 29654,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.22178889373684,
+        1.398675265404352
+      ],
+      "code_comm" : "683",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.398675265404352,
+        49.22178889373684
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fb548da510adfb8f8bde0af4d15fc947027b436d",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 335,
+      "insee_com" : "66094",
+      "z_moyen" : 9,
+      "code_dept" : "66",
+      "nom_comm" : "LATOUR-BAS-ELNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7002,
+      "y_centroid" : 61671,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.022768062699262,
+              42.60047489043009
+            ],
+            [
+              3.011693153491497,
+              42.59456117214659
+            ],
+            [
+              3.002518711027762,
+              42.59452582175194
+            ],
+            [
+              2.990129010101544,
+              42.61223604731401
+            ],
+            [
+              3.008045608941979,
+              42.61460064034753
+            ],
+            [
+              3.014177385919365,
+              42.60288573906228
+            ],
+            [
+              3.022768062699262,
+              42.60047489043009
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61673,
+      "code_cant" : "27",
+      "x_centroid" : 7004,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 31053,
+      "statut" : "Commune simple",
+      "population" : 2.2,
+      "geom_x_y" : [
+        42.6043043944575,
+        3.005241992496905
+      ],
+      "code_comm" : "094",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.005241992496905,
+        42.6043043944575
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

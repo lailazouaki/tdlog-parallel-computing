@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dbf41b358dc3e78d1dfccbe2a6b3bc5af7c8667f",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 409,
+      "insee_com" : "62682",
+      "z_moyen" : 142,
+      "code_dept" : "62",
+      "nom_comm" : "QUILEN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6238,
+      "y_centroid" : 70485,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.951820310999044,
+              50.52893890378595
+            ],
+            [
+              1.930690815708872,
+              50.51860584993339
+            ],
+            [
+              1.913594468919017,
+              50.52595249474987
+            ],
+            [
+              1.919710974392276,
+              50.53424638620876
+            ],
+            [
+              1.933101067610814,
+              50.53708226610777
+            ],
+            [
+              1.942796626113601,
+              50.53884395308449
+            ],
+            [
+              1.951655928469392,
+              50.53615452554138
+            ],
+            [
+              1.951820310999044,
+              50.52893890378595
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70485,
+      "code_cant" : "29",
+      "x_centroid" : 6242,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21943,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.52947622254293,
+        1.933696394598579
+      ],
+      "code_comm" : "682",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.933696394598579,
+        50.52947622254293
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5f0c9cb7de9c5467f41b5d73301546e45d1fdd2e",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 195,
+      "insee_com" : "65332",
+      "z_moyen" : 343,
+      "code_dept" : "65",
+      "nom_comm" : "OLEAC-DEBAT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4675,
+      "y_centroid" : 62456,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.139738267388094,
+              43.26371796374092
+            ],
+            [
+              0.131503093179978,
+              43.26485875475177
+            ],
+            [
+              0.133584388171338,
+              43.27849711679097
+            ],
+            [
+              0.149831121031959,
+              43.27931404703637
+            ],
+            [
+              0.151127509546418,
+              43.27077896145452
+            ],
+            [
+              0.139738267388094,
+              43.26371796374092
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62453,
+      "code_cant" : "17",
+      "x_centroid" : 4678,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 14540,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.27207068134281,
+        0.1408824471627535
+      ],
+      "code_comm" : "332",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1408824471627535,
+        43.27207068134281
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

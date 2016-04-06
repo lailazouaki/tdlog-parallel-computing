@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b6c7ae2e00b218baa102beedd1c046d2871be73b",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 397,
+      "insee_com" : "31400",
+      "z_moyen" : 219,
+      "code_dept" : "31",
+      "nom_comm" : "NOGARET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6133,
+      "y_centroid" : 62665,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.95173228648888,
+              43.48625712881759
+            ],
+            [
+              1.945390335186187,
+              43.48167879048312
+            ],
+            [
+              1.920857687186398,
+              43.48983231610732
+            ],
+            [
+              1.917079167893353,
+              43.50147382582055
+            ],
+            [
+              1.9205701848603,
+              43.50514376149394
+            ],
+            [
+              1.952508589072004,
+              43.49044857095861
+            ],
+            [
+              1.95173228648888,
+              43.48625712881759
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62665,
+      "code_cant" : "25",
+      "x_centroid" : 6137,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 12890,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.49257548323803,
+        1.933758474676344
+      ],
+      "code_comm" : "400",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.933758474676344,
+        43.49257548323803
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

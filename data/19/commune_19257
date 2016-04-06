@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c8fa2e489fb31371d73208036e5c9bb0e45d2fa4",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 441,
+      "insee_com" : "66083",
+      "z_moyen" : 539,
+      "code_dept" : "66",
+      "nom_comm" : "FOSSE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6534,
+      "y_centroid" : 61875,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.428955127914314,
+              42.7733706883644
+            ],
+            [
+              2.420730769260021,
+              42.78296588560091
+            ],
+            [
+              2.418232000291534,
+              42.79479482376605
+            ],
+            [
+              2.436074732611329,
+              42.7943776081902
+            ],
+            [
+              2.448111561275463,
+              42.79459310646811
+            ],
+            [
+              2.444300914404519,
+              42.78321654891542
+            ],
+            [
+              2.437681153306636,
+              42.7747206448347
+            ],
+            [
+              2.428955127914314,
+              42.7733706883644
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61878,
+      "code_cant" : "15",
+      "x_centroid" : 6535,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 17245,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.78586326217344,
+        2.432695580072555
+      ],
+      "code_comm" : "083",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.432695580072555,
+        42.78586326217344
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "653a99efb0cef286adc56d4c86ff8f3923724a47",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 222,
+      "insee_com" : "71043",
+      "z_moyen" : 176,
+      "code_dept" : "71",
+      "nom_comm" : "LES BORDES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8544,
+      "y_centroid" : 66463,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.039691517821061,
+              46.89360097940108
+            ],
+            [
+              5.026767482423823,
+              46.89301855679562
+            ],
+            [
+              5.029556936809634,
+              46.89838242994479
+            ],
+            [
+              5.038428075852239,
+              46.89773039603874
+            ],
+            [
+              5.054652787697172,
+              46.90872749717241
+            ],
+            [
+              5.059331536121431,
+              46.90838275614382
+            ],
+            [
+              5.060324623179377,
+              46.8927022904405
+            ],
+            [
+              5.039691517821061,
+              46.89360097940108
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66460,
+      "code_cant" : "51",
+      "x_centroid" : 8559,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 33746,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.89869627128208,
+        5.048131031414353
+      ],
+      "code_comm" : "043",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.048131031414353,
+        46.89869627128208
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "185936cadec9b732d8bc8a75f5dd99e186e3bb6d",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 676,
+      "insee_com" : "61180",
+      "z_moyen" : 188,
+      "code_dept" : "61",
+      "nom_comm" : "FRESNAY-LE-SAMSON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4953,
+      "y_centroid" : 68671,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.226389094907473,
+              48.86309583283018
+            ],
+            [
+              0.218300392130037,
+              48.86004642098647
+            ],
+            [
+              0.187407200378893,
+              48.86312156537799
+            ],
+            [
+              0.183649588756936,
+              48.86476094523369
+            ],
+            [
+              0.190971403421716,
+              48.87669450201027
+            ],
+            [
+              0.19129463474431,
+              48.87727800837544
+            ],
+            [
+              0.216867508062947,
+              48.89017655899656
+            ],
+            [
+              0.226389094907473,
+              48.86309583283018
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68684,
+      "code_cant" : "36",
+      "x_centroid" : 4951,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 20218,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.87216692803932,
+        0.2070256086964337
+      ],
+      "code_comm" : "180",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2070256086964337,
+        48.87216692803932
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b394383600a5c628d0306fa0c55de10854e4d6af",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 500,
+      "insee_com" : "80251",
+      "z_moyen" : 105,
+      "code_dept" : "80",
+      "nom_comm" : "DOUDELAINVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6117,
+      "y_centroid" : 69898,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.767855705036642,
+              49.98927519981339
+            ],
+            [
+              1.759330959207399,
+              49.98859623567112
+            ],
+            [
+              1.74828532600574,
+              49.99355041827071
+            ],
+            [
+              1.744749703042936,
+              50.0092168538466
+            ],
+            [
+              1.781219563996805,
+              50.01015999324191
+            ],
+            [
+              1.786734595208387,
+              50.00393557678871
+            ],
+            [
+              1.767855705036642,
+              49.98927519981339
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69899,
+      "code_cant" : "23",
+      "x_centroid" : 6113,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 31884,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.00088175698345,
+        1.764043317172842
+      ],
+      "code_comm" : "251",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.764043317172842,
+        50.00088175698345
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

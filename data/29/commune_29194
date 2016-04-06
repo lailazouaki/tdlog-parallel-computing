@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bccf5f017dc26ae2a581c9187ba5248c831b2492",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 248,
+      "insee_com" : "11421",
+      "z_moyen" : 28,
+      "code_dept" : "11",
+      "nom_comm" : "VILLEDAIGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6886,
+      "y_centroid" : 62346,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.848534438189652,
+              43.20009853290623
+            ],
+            [
+              2.842309500318584,
+              43.20589138744024
+            ],
+            [
+              2.8555501593336,
+              43.2217232452943
+            ],
+            [
+              2.871924356439513,
+              43.2148086909474
+            ],
+            [
+              2.867519759216065,
+              43.21557695222763
+            ],
+            [
+              2.861846316874912,
+              43.20688062603058
+            ],
+            [
+              2.857381172336092,
+              43.20745949523022
+            ],
+            [
+              2.848534438189652,
+              43.20009853290623
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62351,
+      "code_cant" : "33",
+      "x_centroid" : 6882,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 23752,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.21139998991521,
+        2.855100924009427
+      ],
+      "code_comm" : "421",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.855100924009427,
+        43.21139998991521
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5e7452407eadb8bb478b203e79f57d035b000dba",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 469,
+      "insee_com" : "70443",
+      "z_moyen" : 204,
+      "code_dept" : "70",
+      "nom_comm" : "LA GRANDE-RESIE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8941,
+      "y_centroid" : 66960,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.562731716555332,
+              47.3248360894593
+            ],
+            [
+              5.553477024019952,
+              47.32688645646134
+            ],
+            [
+              5.55116930401543,
+              47.33658366515961
+            ],
+            [
+              5.543145162387567,
+              47.34032642474512
+            ],
+            [
+              5.563576895625154,
+              47.34863195160843
+            ],
+            [
+              5.579180732174145,
+              47.34157624661825
+            ],
+            [
+              5.575412314632974,
+              47.32877078552413
+            ],
+            [
+              5.562731716555332,
+              47.3248360894593
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66959,
+      "code_cant" : "19",
+      "x_centroid" : 8935,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 19069,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.3367024964686,
+        5.563265090231975
+      ],
+      "code_comm" : "443",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.563265090231975,
+        47.3367024964686
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

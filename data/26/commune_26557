@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d34c5f3ca2df8958d47699b948fcae67047d9d8e",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 350,
+      "insee_com" : "56226",
+      "z_moyen" : 96,
+      "code_dept" : "56",
+      "nom_comm" : "SAINT-MALO-DE-BEIGNON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3159,
+      "y_centroid" : 67742,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.156809236762049,
+              47.94475686237963
+            ],
+            [
+              -2.156915192494112,
+              47.96142759181943
+            ],
+            [
+              -2.152799580243833,
+              47.96356532367725
+            ],
+            [
+              -2.12249524629906,
+              47.963863363489
+            ],
+            [
+              -2.119769979248575,
+              47.96095209992676
+            ],
+            [
+              -2.138137409997506,
+              47.95444097584024
+            ],
+            [
+              -2.146508685408144,
+              47.94594854064423
+            ],
+            [
+              -2.156809236762049,
+              47.94475686237963
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67745,
+      "code_cant" : "13",
+      "x_centroid" : 3163,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 19840,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.95658002032835,
+        -2.143645577655486
+      ],
+      "code_comm" : "226",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.143645577655486,
+        47.95658002032835
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

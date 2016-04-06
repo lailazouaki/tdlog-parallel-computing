@@ -1,0 +1,71 @@
+  {
+    "recordid" : "73b5f0431f3cd4a127eae0a9cb9a26322cc018af",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 325,
+      "insee_com" : "25419",
+      "z_moyen" : 346,
+      "code_dept" : "25",
+      "nom_comm" : "NANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9568,
+      "y_centroid" : 67139,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.413990475591167,
+              47.46455501644864
+            ],
+            [
+              6.401544242782177,
+              47.46607278420552
+            ],
+            [
+              6.400425600652867,
+              47.47920611273393
+            ],
+            [
+              6.404740298173134,
+              47.48518880086393
+            ],
+            [
+              6.410294503731454,
+              47.48828786737709
+            ],
+            [
+              6.423075075068725,
+              47.48256978511611
+            ],
+            [
+              6.413990475591167,
+              47.46455501644864
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67140,
+      "code_cant" : "23",
+      "x_centroid" : 9567,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 18447,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.47633149146884,
+        6.410420328232544
+      ],
+      "code_comm" : "419",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.410420328232544,
+        47.47633149146884
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

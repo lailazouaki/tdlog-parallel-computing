@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dac5ba6da9c677f1fdf912977b577313d8f6590a",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 8,
+      "insee_com" : "22192",
+      "z_moyen" : 48,
+      "code_dept" : "22",
+      "nom_comm" : "PLESSIX-BALISSON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3206,
+      "y_centroid" : 68388,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.142268412161403,
+              48.53647758303466
+            ],
+            [
+              -2.143631585029933,
+              48.53736508809249
+            ],
+            [
+              -2.144206980055922,
+              48.53838587378045
+            ],
+            [
+              -2.14379001580036,
+              48.53911610368169
+            ],
+            [
+              -2.141759417238607,
+              48.54055626212934
+            ],
+            [
+              -2.139800333487573,
+              48.53774734980556
+            ],
+            [
+              -2.142268412161403,
+              48.53647758303466
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68386,
+      "code_cant" : "37",
+      "x_centroid" : 3206,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 13783,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.53836527226082,
+        -2.142104905303311
+      ],
+      "code_comm" : "192",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.142104905303311,
+        48.53836527226082
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

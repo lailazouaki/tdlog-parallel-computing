@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b3eb242cdddc9dabd8912f3a4b8492b9f34048be",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 281,
+      "insee_com" : "56065",
+      "z_moyen" : 83,
+      "code_dept" : "56",
+      "nom_comm" : "GOURHEL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3000,
+      "y_centroid" : 67734,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.339982828425696,
+              47.93743904319253
+            ],
+            [
+              -2.353667804901204,
+              47.93325242469192
+            ],
+            [
+              -2.37404755886341,
+              47.93448553416828
+            ],
+            [
+              -2.371651882175058,
+              47.94461681009771
+            ],
+            [
+              -2.346643416364397,
+              47.94451416120391
+            ],
+            [
+              -2.339982828425696,
+              47.93743904319253
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67732,
+      "code_cant" : "23",
+      "x_centroid" : 3002,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 34140,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        47.93917488376672,
+        -2.358288751948881
+      ],
+      "code_comm" : "065",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.358288751948881,
+        47.93917488376672
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

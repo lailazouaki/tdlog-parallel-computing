@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b21e822e9cd8fda2e326a195a15e03bd4ac916a4",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 462,
+      "insee_com" : "50124",
+      "z_moyen" : 197,
+      "code_dept" : "50",
+      "nom_comm" : "LA CHAPELLE-UREE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3951,
+      "y_centroid" : 68484,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.134693385809007,
+              48.65439542050064
+            ],
+            [
+              -1.168334871505975,
+              48.66079762175035
+            ],
+            [
+              -1.170756915746932,
+              48.67070187537362
+            ],
+            [
+              -1.149805539207907,
+              48.67247848680307
+            ],
+            [
+              -1.127548021721073,
+              48.6663434744879
+            ],
+            [
+              -1.134693385809007,
+              48.65439542050064
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68491,
+      "code_cant" : "05",
+      "x_centroid" : 3945,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 15117,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.66422576830812,
+        -1.149332754871725
+      ],
+      "code_comm" : "124",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.149332754871725,
+        48.66422576830812
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

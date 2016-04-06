@@ -1,0 +1,63 @@
+  {
+    "recordid" : "f94f404b96eecb6e98d7bb7feb442361418ef105",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 308,
+      "insee_com" : "92024",
+      "z_moyen" : 30,
+      "code_dept" : "92",
+      "nom_comm" : "CLICHY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6490,
+      "y_centroid" : 68672,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.303777114032848,
+              48.89415199628832
+            ],
+            [
+              2.287389258968528,
+              48.90364238146715
+            ],
+            [
+              2.313758259741169,
+              48.91402154218429
+            ],
+            [
+              2.319884458526643,
+              48.90045886733915
+            ],
+            [
+              2.303777114032848,
+              48.89415199628832
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68672,
+      "code_cant" : "91",
+      "x_centroid" : 6491,
+      "nom_dept" : "HAUTS-DE-SEINE",
+      "id_geofla" : 8273,
+      "statut" : "Chef-lieu canton",
+      "population" : 58.2,
+      "geom_x_y" : [
+        48.90353591392883,
+        2.305752304517755
+      ],
+      "code_comm" : "024",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.305752304517755,
+        48.90353591392883
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

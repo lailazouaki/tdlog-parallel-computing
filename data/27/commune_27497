@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e9b43b3d5e528bd1494622d11d46cbe25dbf8911",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 271,
+      "insee_com" : "21612",
+      "z_moyen" : 350,
+      "code_dept" : "21",
+      "nom_comm" : "SOUHEY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8068,
+      "y_centroid" : 67106,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.413739364191855,
+              47.4743735408544
+            ],
+            [
+              4.405609196007575,
+              47.47879345756824
+            ],
+            [
+              4.414278001048938,
+              47.48671928633767
+            ],
+            [
+              4.416526940449954,
+              47.49641528634207
+            ],
+            [
+              4.430879688794021,
+              47.49811252884399
+            ],
+            [
+              4.437625997970784,
+              47.49307776696249
+            ],
+            [
+              4.413739364191855,
+              47.4743735408544
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67103,
+      "code_cant" : "33",
+      "x_centroid" : 8070,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 29524,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.48765303981003,
+        4.421356507001035
+      ],
+      "code_comm" : "612",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.421356507001035,
+        47.48765303981003
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

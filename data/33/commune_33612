@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b375b4d3cbf10fccf7c83f36c0d009323b9dd1ae",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 521,
+      "insee_com" : "62317",
+      "z_moyen" : 50,
+      "code_dept" : "62",
+      "nom_comm" : "ETAING",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6999,
+      "y_centroid" : 70193,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.994467961658901,
+              50.25557830379142
+            ],
+            [
+              2.978761630436318,
+              50.27118205086035
+            ],
+            [
+              2.990835784684517,
+              50.28231726415406
+            ],
+            [
+              3.00018216954141,
+              50.28405049979862
+            ],
+            [
+              3.015274133886125,
+              50.28378019172263
+            ],
+            [
+              3.012243509008491,
+              50.26797780695298
+            ],
+            [
+              2.994467961658901,
+              50.25557830379142
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70195,
+      "code_cant" : "46",
+      "x_centroid" : 6998,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29950,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.27202463257671,
+        2.998159750356314
+      ],
+      "code_comm" : "317",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.998159750356314,
+        50.27202463257671
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

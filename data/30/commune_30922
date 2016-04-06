@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1cbdbd0dc315c61c441ccb2f60c720609ffee47c",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 859,
+      "insee_com" : "14204",
+      "z_moyen" : 18,
+      "code_dept" : "14",
+      "nom_comm" : "CRICQUEVILLE-EN-BESSIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4096,
+      "y_centroid" : 69273,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.018012214530024,
+              49.36010712851732
+            ],
+            [
+              -1.014474854239375,
+              49.37678533187361
+            ],
+            [
+              -1.019455982599667,
+              49.39327908348213
+            ],
+            [
+              -0.989934970715605,
+              49.39755113553036
+            ],
+            [
+              -0.985018406230496,
+              49.39585034142817
+            ],
+            [
+              -0.981795236000835,
+              49.37877565685786
+            ],
+            [
+              -0.99118672811129,
+              49.36246352835263
+            ],
+            [
+              -1.018012214530024,
+              49.36010712851732
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69271,
+      "code_cant" : "20",
+      "x_centroid" : 4095,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 32185,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.37933442857027,
+        -1.00061282058029
+      ],
+      "code_comm" : "204",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.00061282058029,
+        49.37933442857027
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

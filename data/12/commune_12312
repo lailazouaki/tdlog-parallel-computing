@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2612539bbaf75ededdd59f57df34be328ee6b162",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 377,
+      "insee_com" : "54514",
+      "z_moyen" : 384,
+      "code_dept" : "54",
+      "nom_comm" : "TELLANCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8907,
+      "y_centroid" : 69375,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.621365932271053,
+              49.49830632665017
+            ],
+            [
+              5.61098415884342,
+              49.50593110256813
+            ],
+            [
+              5.617419679521586,
+              49.51435292159597
+            ],
+            [
+              5.622299224011732,
+              49.51389677511967
+            ],
+            [
+              5.629050967293878,
+              49.51818371031052
+            ],
+            [
+              5.647743324775145,
+              49.51506125436201
+            ],
+            [
+              5.649553682544481,
+              49.50838534651401
+            ],
+            [
+              5.621365932271053,
+              49.49830632665017
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69374,
+      "code_cant" : "15",
+      "x_centroid" : 8905,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 28563,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.50895568472428,
+        5.629887512401335
+      ],
+      "code_comm" : "514",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.629887512401335,
+        49.50895568472428
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

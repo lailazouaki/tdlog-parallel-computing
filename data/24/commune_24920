@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4e25f485468ff6ce54f89ab40403ac1cb6b89d41",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 447,
+      "insee_com" : "11246",
+      "z_moyen" : 289,
+      "code_dept" : "11",
+      "nom_comm" : "MONTGRADAIL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6206,
+      "y_centroid" : 62253,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.033677769029525,
+              43.11412062665867
+            ],
+            [
+              2.009242955695643,
+              43.12067204823537
+            ],
+            [
+              2.02483162239273,
+              43.13050192324088
+            ],
+            [
+              2.033092705648721,
+              43.13149383593549
+            ],
+            [
+              2.044336087398045,
+              43.13189092860345
+            ],
+            [
+              2.050848420502561,
+              43.12796363612559
+            ],
+            [
+              2.049001039286196,
+              43.11857452123218
+            ],
+            [
+              2.033677769029525,
+              43.11412062665867
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62251,
+      "code_cant" : "01",
+      "x_centroid" : 6212,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 24116,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.1233667557084,
+        2.032998000627525
+      ],
+      "code_comm" : "246",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.032998000627525,
+        43.1233667557084
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

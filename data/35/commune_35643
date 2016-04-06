@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b64b30abb0b17d481760f1d56d18c0238426678a",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 741,
+      "insee_com" : "05130",
+      "z_moyen" : 1346,
+      "code_dept" : "05",
+      "nom_comm" : "SAINT-APOLLINAIRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9669,
+      "y_centroid" : 63899,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.358265272157302,
+              44.54122537768991
+            ],
+            [
+              6.346130422499503,
+              44.5467119489048
+            ],
+            [
+              6.34104932228552,
+              44.55261454256349
+            ],
+            [
+              6.335584267897524,
+              44.57634214420125
+            ],
+            [
+              6.361036428195082,
+              44.56977645741794
+            ],
+            [
+              6.372685782984828,
+              44.55104855700417
+            ],
+            [
+              6.371164095633243,
+              44.54413890785143
+            ],
+            [
+              6.358265272157302,
+              44.54122537768991
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63898,
+      "code_cant" : "21",
+      "x_centroid" : 9662,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 35107,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.55787041358949,
+        6.35390035260339
+      ],
+      "code_comm" : "130",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.35390035260339,
+        44.55787041358949
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

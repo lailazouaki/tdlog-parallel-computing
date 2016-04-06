@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2c6dea599db84233dcc27ea8cbbd2a53bbb10d7b",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 632,
+      "insee_com" : "21169",
+      "z_moyen" : 497,
+      "code_dept" : "21",
+      "nom_comm" : "CHEVANNES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8400,
+      "y_centroid" : 66747,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.853610296199449,
+              47.14629704290323
+            ],
+            [
+              4.810731575504009,
+              47.15748511111344
+            ],
+            [
+              4.804059480513263,
+              47.16206490600728
+            ],
+            [
+              4.807992505004528,
+              47.17106280402601
+            ],
+            [
+              4.851078513938844,
+              47.16250223784011
+            ],
+            [
+              4.864626023528284,
+              47.15451312936594
+            ],
+            [
+              4.853610296199449,
+              47.14629704290323
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66747,
+      "code_cant" : "15",
+      "x_centroid" : 8389,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 25648,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.15879674738632,
+        4.833578962632541
+      ],
+      "code_comm" : "169",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.833578962632541,
+        47.15879674738632
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

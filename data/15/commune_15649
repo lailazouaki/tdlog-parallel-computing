@@ -1,0 +1,75 @@
+  {
+    "recordid" : "308280b2d4e01f32ed229d5b94da4f4d96cb7b6d",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 228,
+      "insee_com" : "70090",
+      "z_moyen" : 234,
+      "code_dept" : "70",
+      "nom_comm" : "BOURSIERES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9285,
+      "y_centroid" : 67281,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.045101364931385,
+              47.60738142097937
+            ],
+            [
+              6.021287785396292,
+              47.6085948536113
+            ],
+            [
+              6.023528992572765,
+              47.61500434329104
+            ],
+            [
+              6.040628082140255,
+              47.61957747492146
+            ],
+            [
+              6.042950809315968,
+              47.62549808779219
+            ],
+            [
+              6.050792962913774,
+              47.62236589258251
+            ],
+            [
+              6.048424222400148,
+              47.61961734870687
+            ],
+            [
+              6.045101364931385,
+              47.60738142097937
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67275,
+      "code_cant" : "24",
+      "x_centroid" : 9281,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 12102,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.61430005553333,
+        6.037241755928119
+      ],
+      "code_comm" : "090",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.037241755928119,
+        47.61430005553333
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

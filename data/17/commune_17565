@@ -1,0 +1,79 @@
+  {
+    "recordid" : "9f102368a8c9fa5abc54a20e3bccf0a4ec8bc321",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1229,
+      "insee_com" : "13104",
+      "z_moyen" : 70,
+      "code_dept" : "13",
+      "nom_comm" : "SAUSSET-LES-PINS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8715,
+      "y_centroid" : 62519,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.135188054712175,
+              43.32922125060016
+            ],
+            [
+              5.096865059049284,
+              43.3292872075494
+            ],
+            [
+              5.088464740673092,
+              43.33253643103284
+            ],
+            [
+              5.102090321229063,
+              43.34580711932087
+            ],
+            [
+              5.10298936588767,
+              43.36233022350762
+            ],
+            [
+              5.131490870959751,
+              43.36624519447422
+            ],
+            [
+              5.14080819304472,
+              43.34777455055718
+            ],
+            [
+              5.135715885544985,
+              43.34213368006594
+            ],
+            [
+              5.135188054712175,
+              43.32922125060016
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62504,
+      "code_cant" : "48",
+      "x_centroid" : 8717,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 23227,
+      "statut" : "Commune simple",
+      "population" : 7.5,
+      "geom_x_y" : [
+        43.3456690304501,
+        5.117655069987523
+      ],
+      "code_comm" : "104",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.117655069987523,
+        43.3456690304501
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

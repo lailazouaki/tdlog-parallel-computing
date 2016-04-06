@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5dc3fee4d217512ca16e32a0ecf0d6e7b28db0cb",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 127,
+      "insee_com" : "59424",
+      "z_moyen" : 156,
+      "code_dept" : "59",
+      "nom_comm" : "NEUF-MESNIL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7648,
+      "y_centroid" : 70189,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.925135193110008,
+              50.26188249337743
+            ],
+            [
+              3.916556295532164,
+              50.26464050287217
+            ],
+            [
+              3.902667259800488,
+              50.26113328001313
+            ],
+            [
+              3.894137850125574,
+              50.26437425531038
+            ],
+            [
+              3.902065600968493,
+              50.26903070111761
+            ],
+            [
+              3.912740952061735,
+              50.26902390483131
+            ],
+            [
+              3.927909968662137,
+              50.26424121412691
+            ],
+            [
+              3.925135193110008,
+              50.26188249337743
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70190,
+      "code_cant" : "69",
+      "x_centroid" : 7649,
+      "nom_dept" : "NORD",
+      "id_geofla" : 30117,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        50.26536639741389,
+        3.909412111975073
+      ],
+      "code_comm" : "424",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.909412111975073,
+        50.26536639741389
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

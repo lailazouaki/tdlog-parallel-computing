@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cd612e7f1b1c6126a8ee3f2bbecbd679c86920d6",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 430,
+      "insee_com" : "50096",
+      "z_moyen" : 100,
+      "code_dept" : "50",
+      "nom_comm" : "CANTELOUP",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3856,
+      "y_centroid" : 69577,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.346580015308036,
+              49.63776247136505
+            ],
+            [
+              -1.356982489697348,
+              49.63054095677484
+            ],
+            [
+              -1.382891313134236,
+              49.63133663813282
+            ],
+            [
+              -1.366931846175026,
+              49.64567219312892
+            ],
+            [
+              -1.349677306794139,
+              49.65400382269161
+            ],
+            [
+              -1.343573378682235,
+              49.64937146755741
+            ],
+            [
+              -1.346580015308036,
+              49.63776247136505
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69582,
+      "code_cant" : "38",
+      "x_centroid" : 3850,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 14094,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.64032056349953,
+        -1.359856129809079
+      ],
+      "code_comm" : "096",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.359856129809079,
+        49.64032056349953
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

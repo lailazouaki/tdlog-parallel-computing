@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ace900e7dd3cdb2a3cd9498abc87366d3bebd9fc",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 618,
+      "insee_com" : "51485",
+      "z_moyen" : 124,
+      "code_dept" : "51",
+      "nom_comm" : "SAINT-HILAIRE-AU-TEMPLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8012,
+      "y_centroid" : 68850,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.366374514836204,
+              49.04473463713283
+            ],
+            [
+              4.347702121187724,
+              49.05689715983951
+            ],
+            [
+              4.370156475744067,
+              49.06828888801594
+            ],
+            [
+              4.374257465470696,
+              49.0665514106269
+            ],
+            [
+              4.388135131129313,
+              49.06910772465699
+            ],
+            [
+              4.402213723002671,
+              49.05727149049043
+            ],
+            [
+              4.366374514836204,
+              49.04473463713283
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68849,
+      "code_cant" : "27",
+      "x_centroid" : 8004,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 18982,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.05769811866157,
+        4.374739573950264
+      ],
+      "code_comm" : "485",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.374739573950264,
+        49.05769811866157
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

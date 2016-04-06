@@ -1,0 +1,67 @@
+  {
+    "recordid" : "849199ab8a721c692e71078e0e841050c1d4b3ee",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 1011,
+      "insee_com" : "25609",
+      "z_moyen" : 1074,
+      "code_dept" : "25",
+      "nom_comm" : "VERRIERES-DE-JOUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9625,
+      "y_centroid" : 66486,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.461318255795387,
+              46.8621800271824
+            ],
+            [
+              6.441511513408779,
+              46.86766791258515
+            ],
+            [
+              6.424379698383422,
+              46.89471995581263
+            ],
+            [
+              6.447445016276617,
+              46.91110072586632
+            ],
+            [
+              6.464538758665186,
+              46.88991339234582
+            ],
+            [
+              6.461318255795387,
+              46.8621800271824
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66497,
+      "code_cant" : "20",
+      "x_centroid" : 9624,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 19103,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        46.8862284969714,
+        6.447110217259613
+      ],
+      "code_comm" : "609",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.447110217259613,
+        46.8862284969714
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5e9f87bb77558bff64cca48b045bb418e242bef9",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 395,
+      "insee_com" : "24382",
+      "z_moyen" : 77,
+      "code_dept" : "24",
+      "nom_comm" : "SAINT-CAPRAISE-DE-LALINDE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5146,
+      "y_centroid" : 64191,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.673644630568033,
+              44.83826091641565
+            ],
+            [
+              0.643374805666679,
+              44.84160331766314
+            ],
+            [
+              0.631809963158836,
+              44.84534734423735
+            ],
+            [
+              0.638067562201737,
+              44.85430794199517
+            ],
+            [
+              0.646525125569838,
+              44.85162328416663
+            ],
+            [
+              0.674063216726806,
+              44.85230296074171
+            ],
+            [
+              0.673644630568033,
+              44.83826091641565
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64186,
+      "code_cant" : "17",
+      "x_centroid" : 5147,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 23798,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        44.8463175042712,
+        0.6552942852487911
+      ],
+      "code_comm" : "382",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6552942852487911,
+        44.8463175042712
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

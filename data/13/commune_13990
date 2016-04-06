@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1903cc8396d44c45e729805d29b19648f545e94b",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 172,
+      "insee_com" : "65040",
+      "z_moyen" : 436,
+      "code_dept" : "65",
+      "nom_comm" : "ASPIN-EN-LAVEDAN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4517,
+      "y_centroid" : 62243,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.043585859622032,
+              43.06561877666363
+            ],
+            [
+              -0.055406430870904,
+              43.0723404626357
+            ],
+            [
+              -0.058352544765148,
+              43.08231969555433
+            ],
+            [
+              -0.044915969379229,
+              43.08109837731364
+            ],
+            [
+              -0.040991287976811,
+              43.06857231228957
+            ],
+            [
+              -0.043585859622032,
+              43.06561877666363
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62243,
+      "code_cant" : "27",
+      "x_centroid" : 4515,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 20295,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.07494408280387,
+        -0.04920410667041301
+      ],
+      "code_comm" : "040",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.04920410667041301,
+        43.07494408280387
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

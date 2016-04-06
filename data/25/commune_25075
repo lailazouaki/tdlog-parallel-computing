@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9c88c6e4a2051ed67a20c98b3c665483cabdc34e",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 326,
+      "insee_com" : "80429",
+      "z_moyen" : 109,
+      "code_dept" : "80",
+      "nom_comm" : "HENENCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6687,
+      "y_centroid" : 69895,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.565721853710459,
+              49.99314018740687
+            ],
+            [
+              2.54441934665498,
+              50.00077856431319
+            ],
+            [
+              2.546231516183608,
+              50.00696502834855
+            ],
+            [
+              2.563092479297636,
+              50.01215509517902
+            ],
+            [
+              2.577233099353865,
+              50.01129751074597
+            ],
+            [
+              2.577071780699034,
+              50.00219806116303
+            ],
+            [
+              2.565721853710459,
+              49.99314018740687
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69894,
+      "code_cant" : "18",
+      "x_centroid" : 6685,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 21047,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.00366465866526,
+        2.562327547082512
+      ],
+      "code_comm" : "429",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.562327547082512,
+        50.00366465866526
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

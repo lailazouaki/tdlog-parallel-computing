@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c0cafeed9c9ada44e38f189fe6fe23cd0675b246",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 791,
+      "insee_com" : "14239",
+      "z_moyen" : 23,
+      "code_dept" : "14",
+      "nom_comm" : "ENGLESQUEVILLE-LA-PERCEE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4130,
+      "y_centroid" : 69271,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.954380613094357,
+              49.35743697406558
+            ],
+            [
+              -0.974141577556226,
+              49.36443852983293
+            ],
+            [
+              -0.964171953277885,
+              49.37976008716829
+            ],
+            [
+              -0.961539428262671,
+              49.39643309551904
+            ],
+            [
+              -0.9253482982089269,
+              49.39251097761987
+            ],
+            [
+              -0.932739547876381,
+              49.37699823882923
+            ],
+            [
+              -0.941792586196522,
+              49.37912420096738
+            ],
+            [
+              -0.954380613094357,
+              49.35743697406558
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69267,
+      "code_cant" : "20",
+      "x_centroid" : 4131,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 12696,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.37940431219965,
+        -0.951377407958912
+      ],
+      "code_comm" : "239",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.951377407958912,
+        49.37940431219965
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

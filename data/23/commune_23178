@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ef6cd25a845a85cee0c572c1b5d4d07c5c01cd75",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 415,
+      "insee_com" : "77392",
+      "z_moyen" : 105,
+      "code_dept" : "77",
+      "nom_comm" : "ROUVRES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6792,
+      "y_centroid" : 68849,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.704830359900261,
+              49.05061458949118
+            ],
+            [
+              2.703080625224359,
+              49.06473605986103
+            ],
+            [
+              2.724357211332085,
+              49.08045884144916
+            ],
+            [
+              2.735012637577536,
+              49.06045881669922
+            ],
+            [
+              2.724538514325248,
+              49.05405123841177
+            ],
+            [
+              2.714731937043238,
+              49.05358776440101
+            ],
+            [
+              2.704830359900261,
+              49.05061458949118
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68846,
+      "code_cant" : "09",
+      "x_centroid" : 6794,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 26106,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.06379452928673,
+        2.71838722881825
+      ],
+      "code_comm" : "392",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.71838722881825,
+        49.06379452928673
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

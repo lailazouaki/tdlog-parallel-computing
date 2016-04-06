@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b94d840f20a80959d1dbcad7eb2edf913bc9fc68",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 499,
+      "insee_com" : "70359",
+      "z_moyen" : 262,
+      "code_dept" : "70",
+      "nom_comm" : "MONTCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9208,
+      "y_centroid" : 67630,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.96127371780103,
+              47.91042574812799
+            ],
+            [
+              5.9589519326876,
+              47.91971534224156
+            ],
+            [
+              5.947900531814712,
+              47.92649552282188
+            ],
+            [
+              5.947634899409176,
+              47.93618338766575
+            ],
+            [
+              5.968902035913475,
+              47.94740929979327
+            ],
+            [
+              5.976164422228573,
+              47.93422111207939
+            ],
+            [
+              5.975905654812722,
+              47.92769840063282
+            ],
+            [
+              5.96127371780103,
+              47.91042574812799
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67629,
+      "code_cant" : "12",
+      "x_centroid" : 9211,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 19849,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.93076501792469,
+        5.962598429333849
+      ],
+      "code_comm" : "359",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.962598429333849,
+        47.93076501792469
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

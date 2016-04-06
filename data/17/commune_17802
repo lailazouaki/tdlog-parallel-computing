@@ -1,0 +1,63 @@
+  {
+    "recordid" : "18f9b8c893fd37d2470eefe99a893a3f16f8afe6",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 198,
+      "insee_com" : "11167",
+      "z_moyen" : 226,
+      "code_dept" : "11",
+      "nom_comm" : "GRAMAZIE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6264,
+      "y_centroid" : 62268,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.08606600324004,
+              43.13130828493764
+            ],
+            [
+              2.086559874743575,
+              43.13969588702699
+            ],
+            [
+              2.102051710055563,
+              43.14426960088919
+            ],
+            [
+              2.112281845245085,
+              43.13483751260792
+            ],
+            [
+              2.08606600324004,
+              43.13130828493764
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62270,
+      "code_cant" : "01",
+      "x_centroid" : 6265,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 31828,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.13730816329289,
+        2.097469963034896
+      ],
+      "code_comm" : "167",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.097469963034896,
+        43.13730816329289
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

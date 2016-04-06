@@ -1,0 +1,63 @@
+  {
+    "recordid" : "224aaea20c3781c185f84e0ed621a6805fa3bdba",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 146,
+      "insee_com" : "80651",
+      "z_moyen" : 128,
+      "code_dept" : "80",
+      "nom_comm" : "LE QUESNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6135,
+      "y_centroid" : 69741,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.791166718123709,
+              49.85136921204109
+            ],
+            [
+              1.780532599534212,
+              49.85676216261496
+            ],
+            [
+              1.79596791376835,
+              49.86933209749077
+            ],
+            [
+              1.802355005598267,
+              49.86490258582712
+            ],
+            [
+              1.791166718123709,
+              49.85136921204109
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69744,
+      "code_cant" : "25",
+      "x_centroid" : 6130,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 28476,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.86020015752957,
+        1.792025577488628
+      ],
+      "code_comm" : "651",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.792025577488628,
+        49.86020015752957
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

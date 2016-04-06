@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a453f447871471a2f6311e1e1cb19936123ec111",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 1239,
+      "insee_com" : "73192",
+      "z_moyen" : 1092,
+      "code_dept" : "73",
+      "nom_comm" : "LE NOYER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9381,
+      "y_centroid" : 65121,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.036516822547072,
+              45.63767344038295
+            ],
+            [
+              6.019649414190222,
+              45.6525006004546
+            ],
+            [
+              6.078191953225457,
+              45.69847815658332
+            ],
+            [
+              6.088497229838374,
+              45.6863455997078
+            ],
+            [
+              6.087353865072444,
+              45.68290743848041
+            ],
+            [
+              6.071728681552679,
+              45.66569898326352
+            ],
+            [
+              6.036516822547072,
+              45.63767344038295
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65133,
+      "code_cant" : "13",
+      "x_centroid" : 9378,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 33120,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.66725015365033,
+        6.055420444409162
+      ],
+      "code_comm" : "192",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.055420444409162,
+        45.66725015365033
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

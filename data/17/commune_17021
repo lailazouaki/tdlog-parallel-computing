@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a6c3277b4be3d6de125241c140bc28c02cc59ac6",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 353,
+      "insee_com" : "14604",
+      "z_moyen" : 123,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-LAURENT-DU-MONT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4838,
+      "y_centroid" : 68974,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.028896206532504,
+              49.12732598564649
+            ],
+            [
+              0.025569849081539,
+              49.13248917155416
+            ],
+            [
+              0.017511999272604,
+              49.13146187948864
+            ],
+            [
+              0.015031857660222,
+              49.14499518650074
+            ],
+            [
+              0.022396712526299,
+              49.14952330681207
+            ],
+            [
+              0.037695338169229,
+              49.1487043333
+            ],
+            [
+              0.040604516350896,
+              49.14219906806329
+            ],
+            [
+              0.028896206532504,
+              49.12732598564649
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68974,
+      "code_cant" : "24",
+      "x_centroid" : 4831,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24360,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.14043008232279,
+        0.02725096001564607
+      ],
+      "code_comm" : "604",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.02725096001564607,
+        49.14043008232279
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

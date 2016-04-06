@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5da0b55531898eca8d36d9fcbbb5718b3fadee01",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 556,
+      "insee_com" : "59412",
+      "z_moyen" : 113,
+      "code_dept" : "59",
+      "nom_comm" : "MONTAY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7386,
+      "y_centroid" : 70027,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.55441091661294,
+              50.12111074388011
+            ],
+            [
+              3.548868880126386,
+              50.11625899894475
+            ],
+            [
+              3.519217084291799,
+              50.11081975947691
+            ],
+            [
+              3.505246689602744,
+              50.12015533280638
+            ],
+            [
+              3.527548346414082,
+              50.1263571320677
+            ],
+            [
+              3.54788823759657,
+              50.1366947560938
+            ],
+            [
+              3.55492569776438,
+              50.13242426184984
+            ],
+            [
+              3.55441091661294,
+              50.12111074388011
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70024,
+      "code_cant" : "17",
+      "x_centroid" : 7382,
+      "nom_dept" : "NORD",
+      "id_geofla" : 16994,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.12220640743133,
+        3.534607778516186
+      ],
+      "code_comm" : "412",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.534607778516186,
+        50.12220640743133
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

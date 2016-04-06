@@ -1,0 +1,75 @@
+  {
+    "recordid" : "49a9068eb5df645de4c5cfeffbad61656696965d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 225,
+      "insee_com" : "77280",
+      "z_moyen" : 79,
+      "code_dept" : "77",
+      "nom_comm" : "MARY-SUR-MARNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7021,
+      "y_centroid" : 68795,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.035182013333689,
+              49.00667858381639
+            ],
+            [
+              3.023758432990596,
+              49.01336239509164
+            ],
+            [
+              3.01368377553562,
+              49.01382255329599
+            ],
+            [
+              3.013697659063182,
+              49.01463182245224
+            ],
+            [
+              3.015380064085121,
+              49.01785970357211
+            ],
+            [
+              3.034303791970236,
+              49.02214489951226
+            ],
+            [
+              3.052414670578373,
+              49.01727376710113
+            ],
+            [
+              3.035182013333689,
+              49.00667858381639
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68794,
+      "code_cant" : "15",
+      "x_centroid" : 7024,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 25728,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        49.01545762689379,
+        3.033137895203817
+      ],
+      "code_comm" : "280",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.033137895203817,
+        49.01545762689379
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

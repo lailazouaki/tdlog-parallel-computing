@@ -1,0 +1,67 @@
+  {
+    "recordid" : "dea1a35bc3021388b165e74faf34a92f402cbc54",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 326,
+      "insee_com" : "10424",
+      "z_moyen" : 118,
+      "code_dept" : "10",
+      "nom_comm" : "VILLERET",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8174,
+      "y_centroid" : 68213,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.600292689658692,
+              48.47063826054116
+            ],
+            [
+              4.579909142970287,
+              48.47451041147087
+            ],
+            [
+              4.5725514495226,
+              48.48638625285488
+            ],
+            [
+              4.584415679558946,
+              48.49200516133221
+            ],
+            [
+              4.591477501799634,
+              48.49096598411977
+            ],
+            [
+              4.600292689658692,
+              48.47063826054116
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68208,
+      "code_cant" : "08",
+      "x_centroid" : 8172,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 30952,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.48150361598455,
+        4.586516265425906
+      ],
+      "code_comm" : "424",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.586516265425906,
+        48.48150361598455
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

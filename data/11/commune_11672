@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d5539dae215a90ba5a420ef0eb3f1610a7157763",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 426,
+      "insee_com" : "93070",
+      "z_moyen" : 35,
+      "code_dept" : "93",
+      "nom_comm" : "SAINT-OUEN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6511,
+      "y_centroid" : 68679,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.319884458526643,
+              48.90045886733915
+            ],
+            [
+              2.313758259741169,
+              48.91402154218429
+            ],
+            [
+              2.319818645919999,
+              48.91593565477114
+            ],
+            [
+              2.332841787729642,
+              48.92292451353294
+            ],
+            [
+              2.348967911161696,
+              48.91126833451997
+            ],
+            [
+              2.351872524767704,
+              48.90152656580722
+            ],
+            [
+              2.329983250052526,
+              48.90116329738005
+            ],
+            [
+              2.319884458526643,
+              48.90045886733915
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68676,
+      "code_cant" : "99",
+      "x_centroid" : 6510,
+      "nom_dept" : "SEINE-SAINT-DENIS",
+      "id_geofla" : 4287,
+      "statut" : "Chef-lieu canton",
+      "population" : 46.5,
+      "geom_x_y" : [
+        48.90980657500511,
+        2.332570422050525
+      ],
+      "code_comm" : "070",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.332570422050525,
+        48.90980657500511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

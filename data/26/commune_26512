@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ac9150b82d5f8c3be637246de008d55f2a6752b0",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 524,
+      "insee_com" : "14568",
+      "z_moyen" : 63,
+      "code_dept" : "14",
+      "nom_comm" : "SAINTE-CROIX-GRAND-TONNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4405,
+      "y_centroid" : 69096,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.544875609882033,
+              49.22153770631936
+            ],
+            [
+              -0.557304130559643,
+              49.22545495715617
+            ],
+            [
+              -0.583278182386147,
+              49.23464740147429
+            ],
+            [
+              -0.576822028375375,
+              49.240247700259
+            ],
+            [
+              -0.551309870726298,
+              49.24499772329163
+            ],
+            [
+              -0.541888665936746,
+              49.23789582463034
+            ],
+            [
+              -0.532320064752307,
+              49.22819682654611
+            ],
+            [
+              -0.544875609882033,
+              49.22153770631936
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69094,
+      "code_cant" : "32",
+      "x_centroid" : 4410,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 19638,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.23370475821552,
+        -0.5560332267409257
+      ],
+      "code_comm" : "568",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5560332267409257,
+        49.23370475821552
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

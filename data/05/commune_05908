@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e239ad768167416086c3c1c873e13e169dac508c",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 564,
+      "insee_com" : "62342",
+      "z_moyen" : 156,
+      "code_dept" : "62",
+      "nom_comm" : "FONTAINE-LES-BOULANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6484,
+      "y_centroid" : 70448,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.303174644824312,
+              50.4908411002232
+            ],
+            [
+              2.297522132201876,
+              50.48550402525676
+            ],
+            [
+              2.282560689807698,
+              50.48687240096696
+            ],
+            [
+              2.270624526982322,
+              50.49303234190646
+            ],
+            [
+              2.263413520003987,
+              50.50115820226266
+            ],
+            [
+              2.278698581337169,
+              50.51388681709366
+            ],
+            [
+              2.293148875633084,
+              50.5083959043822
+            ],
+            [
+              2.303174644824312,
+              50.4908411002232
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70447,
+      "code_cant" : "27",
+      "x_centroid" : 6491,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 13466,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.49865730152334,
+        2.283984632586254
+      ],
+      "code_comm" : "342",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.283984632586254,
+        50.49865730152334
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

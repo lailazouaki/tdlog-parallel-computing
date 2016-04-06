@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7f735668fcf74bb3f0f19cea4c6652e804e42266",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 293,
+      "insee_com" : "02482",
+      "z_moyen" : 142,
+      "code_dept" : "02",
+      "nom_comm" : "MEURIVAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7553,
+      "y_centroid" : 69177,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.757818127122498,
+              49.34760794961205
+            ],
+            [
+              3.746474734186408,
+              49.34815497635592
+            ],
+            [
+              3.749864079806548,
+              49.36361342232539
+            ],
+            [
+              3.755455526886442,
+              49.3685495973301
+            ],
+            [
+              3.777534921928808,
+              49.35581577743614
+            ],
+            [
+              3.757818127122498,
+              49.34760794961205
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69178,
+      "code_cant" : "21",
+      "x_centroid" : 7551,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 17307,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.35676986627389,
+        3.759061676496855
+      ],
+      "code_comm" : "482",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.759061676496855,
+        49.35676986627389
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

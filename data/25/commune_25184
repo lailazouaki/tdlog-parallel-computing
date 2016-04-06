@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2351ed844ab6031e3b71ae2e0890397c38aac52a",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 302,
+      "insee_com" : "39454",
+      "z_moyen" : 218,
+      "code_dept" : "39",
+      "nom_comm" : "RECANOZ",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8910,
+      "y_centroid" : 66371,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.517852676832542,
+              46.79790065577274
+            ],
+            [
+              5.495508858412412,
+              46.80379297319657
+            ],
+            [
+              5.490422631974138,
+              46.81273148341743
+            ],
+            [
+              5.495581587018568,
+              46.8173400138161
+            ],
+            [
+              5.502393778268148,
+              46.81822792983614
+            ],
+            [
+              5.527530264171782,
+              46.8009223218988
+            ],
+            [
+              5.517852676832542,
+              46.79790065577274
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66371,
+      "code_cant" : "07",
+      "x_centroid" : 8911,
+      "nom_dept" : "JURA",
+      "id_geofla" : 33749,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.80753585846131,
+        5.506709298920896
+      ],
+      "code_comm" : "454",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.506709298920896,
+        46.80753585846131
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

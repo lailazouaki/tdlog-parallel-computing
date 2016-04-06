@@ -1,0 +1,75 @@
+  {
+    "recordid" : "573eed95df3332bc0fa1058d4c32d92dcf62748a",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 199,
+      "insee_com" : "27545",
+      "z_moyen" : 103,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-GERMAIN-DE-PASQUIER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5543,
+      "y_centroid" : 69065,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.020505221671918,
+              49.23566378453553
+            ],
+            [
+              1.001728608302519,
+              49.24108243219673
+            ],
+            [
+              0.987227785604113,
+              49.23712719886024
+            ],
+            [
+              0.981061888496766,
+              49.24379570339391
+            ],
+            [
+              0.9997441024306331,
+              49.24658006399726
+            ],
+            [
+              1.008517566369037,
+              49.24668031280143
+            ],
+            [
+              1.023207300786728,
+              49.2400606019664
+            ],
+            [
+              1.020505221671918,
+              49.23566378453553
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69067,
+      "code_cant" : "01",
+      "x_centroid" : 5545,
+      "nom_dept" : "EURE",
+      "id_geofla" : 33938,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.24190004646483,
+        1.002412633459296
+      ],
+      "code_comm" : "545",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.002412633459296,
+        49.24190004646483
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

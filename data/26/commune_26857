@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2d8bbea1beeda2a6f1351b389a0056fd89c724e4",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 671,
+      "insee_com" : "08275",
+      "z_moyen" : 239,
+      "code_dept" : "08",
+      "nom_comm" : "MARGNY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8700,
+      "y_centroid" : 69489,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.382216974051704,
+              49.60604528426293
+            ],
+            [
+              5.343133304243436,
+              49.61295482852669
+            ],
+            [
+              5.328156332803974,
+              49.6112829098088
+            ],
+            [
+              5.321965153677674,
+              49.61418835059265
+            ],
+            [
+              5.340104104104181,
+              49.61812863123413
+            ],
+            [
+              5.346857380408667,
+              49.63084525076514
+            ],
+            [
+              5.393536658328507,
+              49.61708773850275
+            ],
+            [
+              5.382216974051704,
+              49.60604528426293
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69487,
+      "code_cant" : "04",
+      "x_centroid" : 8707,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 8580,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.6171394297826,
+        5.361370718938205
+      ],
+      "code_comm" : "275",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.361370718938205,
+        49.6171394297826
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

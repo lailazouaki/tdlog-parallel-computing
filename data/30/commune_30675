@@ -1,0 +1,67 @@
+  {
+    "recordid" : "12fe9a3c7a4ded809c927a3cb4063899fd883db5",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 327,
+      "insee_com" : "81176",
+      "z_moyen" : 248,
+      "code_dept" : "81",
+      "nom_comm" : "MONTELS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6112,
+      "y_centroid" : 63190,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.903599715556922,
+              43.96193034434034
+            ],
+            [
+              1.891065040163332,
+              43.95804165661523
+            ],
+            [
+              1.872351509392003,
+              43.95986633507886
+            ],
+            [
+              1.870229380439245,
+              43.96635188299167
+            ],
+            [
+              1.894702101375306,
+              43.97289350074396
+            ],
+            [
+              1.903599715556922,
+              43.96193034434034
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63187,
+      "code_cant" : "07",
+      "x_centroid" : 6106,
+      "nom_dept" : "TARN",
+      "id_geofla" : 22257,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.96454849482659,
+        1.886982059928286
+      ],
+      "code_comm" : "176",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.886982059928286,
+        43.96454849482659
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

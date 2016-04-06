@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b31e9699d64bfa3007fdd61009924f860f004bc3",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 147,
+      "insee_com" : "67249",
+      "z_moyen" : 146,
+      "code_dept" : "67",
+      "nom_comm" : "KRAUTWILLER",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10443,
+      "y_centroid" : 68589,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.671809601164596,
+              48.73434295252417
+            ],
+            [
+              7.663304304304883,
+              48.73366679832749
+            ],
+            [
+              7.662490330361326,
+              48.73644664292607
+            ],
+            [
+              7.669811546620727,
+              48.7447375469274
+            ],
+            [
+              7.687132363178529,
+              48.74297684461889
+            ],
+            [
+              7.686034294774309,
+              48.73666795101739
+            ],
+            [
+              7.671809601164596,
+              48.73434295252417
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68588,
+      "code_cant" : "05",
+      "x_centroid" : 10435,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 30377,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.73916654603188,
+        7.674829924770711
+      ],
+      "code_comm" : "249",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.674829924770711,
+        48.73916654603188
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

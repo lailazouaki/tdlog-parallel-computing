@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9e9226cbbf0d33882f9fecd8a9dbf4494076288a",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 500,
+      "insee_com" : "71080",
+      "z_moyen" : 225,
+      "code_dept" : "71",
+      "nom_comm" : "CHAMPAGNY-SOUS-UXELLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8334,
+      "y_centroid" : 66102,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.746934660764519,
+              46.56637080106773
+            ],
+            [
+              4.727825424841661,
+              46.57569439372585
+            ],
+            [
+              4.730065511257195,
+              46.58165891525288
+            ],
+            [
+              4.752610049201969,
+              46.59258328041124
+            ],
+            [
+              4.767418170001623,
+              46.57947625111994
+            ],
+            [
+              4.766033323280196,
+              46.57624622871994
+            ],
+            [
+              4.753492881078821,
+              46.57132323337579
+            ],
+            [
+              4.746934660764519,
+              46.56637080106773
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66104,
+      "code_cant" : "47",
+      "x_centroid" : 8338,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 26445,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.57921964014677,
+        4.747651675842539
+      ],
+      "code_comm" : "080",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.747651675842539,
+        46.57921964014677
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

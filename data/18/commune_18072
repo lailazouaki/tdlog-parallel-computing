@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b74c256b6113382776b06817e18d9524d715209e",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 711,
+      "insee_com" : "70181",
+      "z_moyen" : 304,
+      "code_dept" : "70",
+      "nom_comm" : "COURCUIRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9131,
+      "y_centroid" : 66979,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.835829050518994,
+              47.3368350451717
+            ],
+            [
+              5.822267999905126,
+              47.32817545522223
+            ],
+            [
+              5.808643429672953,
+              47.33112720614834
+            ],
+            [
+              5.813325243398682,
+              47.35219155503678
+            ],
+            [
+              5.840444917444433,
+              47.3672053818509
+            ],
+            [
+              5.850279438702283,
+              47.36813555494563
+            ],
+            [
+              5.835829050518994,
+              47.3368350451717
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66973,
+      "code_cant" : "15",
+      "x_centroid" : 9134,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 22193,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.34741811993839,
+        5.82794656469065
+      ],
+      "code_comm" : "181",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.82794656469065,
+        47.34741811993839
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

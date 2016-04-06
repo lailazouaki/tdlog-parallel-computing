@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bf7dcf29cf85e1ed7da2ec6774d2dc7b33ee9f29",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 403,
+      "insee_com" : "45013",
+      "z_moyen" : 102,
+      "code_dept" : "45",
+      "nom_comm" : "AUGERVILLE-LA-RIVIERE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6581,
+      "y_centroid" : 67949,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.433932172339448,
+              48.24444730030326
+            ],
+            [
+              2.41216295973976,
+              48.24566374331555
+            ],
+            [
+              2.397432676711484,
+              48.25209503872598
+            ],
+            [
+              2.400507975924925,
+              48.25771631856893
+            ],
+            [
+              2.421716479895421,
+              48.26387744146174
+            ],
+            [
+              2.430698263427844,
+              48.25576004249874
+            ],
+            [
+              2.440143627688969,
+              48.25320477879588
+            ],
+            [
+              2.433932172339448,
+              48.24444730030326
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67947,
+      "code_cant" : "30",
+      "x_centroid" : 6568,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 22218,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.25304251992523,
+        2.418709951959335
+      ],
+      "code_comm" : "013",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.418709951959335,
+        48.25304251992523
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

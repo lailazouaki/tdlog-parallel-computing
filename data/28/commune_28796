@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fe4d7e52fbfd2b05f53c78cf740e33cc40d24e4f",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 730,
+      "insee_com" : "88305",
+      "z_moyen" : 317,
+      "code_dept" : "88",
+      "nom_comm" : "MONCEL-SUR-VAIR",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8998,
+      "y_centroid" : 68172,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.709988198788207,
+              48.40255469414335
+            ],
+            [
+              5.689196986379892,
+              48.41631478903052
+            ],
+            [
+              5.687444459321616,
+              48.43545601728564
+            ],
+            [
+              5.698248944734695,
+              48.44090874998733
+            ],
+            [
+              5.723649307265371,
+              48.43268583654785
+            ],
+            [
+              5.723123053370094,
+              48.4225349164821
+            ],
+            [
+              5.709752146325835,
+              48.41266017636573
+            ],
+            [
+              5.709988198788207,
+              48.40255469414335
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68168,
+      "code_cant" : "09",
+      "x_centroid" : 9000,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 20181,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.42464226810073,
+        5.704275431158719
+      ],
+      "code_comm" : "305",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.704275431158719,
+        48.42464226810073
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

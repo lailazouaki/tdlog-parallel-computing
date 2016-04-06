@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e5c32c324fcdda285c820f4684ff360ce6ddd4eb",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 674,
+      "insee_com" : "30288",
+      "z_moyen" : 121,
+      "code_dept" : "30",
+      "nom_comm" : "SAINT-NAZAIRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8298,
+      "y_centroid" : 63458,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.635165612614842,
+              44.18605031074487
+            ],
+            [
+              4.626058009300215,
+              44.18563649646013
+            ],
+            [
+              4.599628636283791,
+              44.19743141129817
+            ],
+            [
+              4.603148460506018,
+              44.20775122173315
+            ],
+            [
+              4.639498150861797,
+              44.21392142912026
+            ],
+            [
+              4.635165612614842,
+              44.18605031074487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63456,
+      "code_cant" : "07",
+      "x_centroid" : 8296,
+      "nom_dept" : "GARD",
+      "id_geofla" : 33004,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        44.20008736478404,
+        4.621918059576942
+      ],
+      "code_comm" : "288",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.621918059576942,
+        44.20008736478404
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

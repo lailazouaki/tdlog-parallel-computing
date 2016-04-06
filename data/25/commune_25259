@@ -1,0 +1,75 @@
+  {
+    "recordid" : "edbc3a601926f836f11991cec6a9e7de39c01b86",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 216,
+      "insee_com" : "59418",
+      "z_moyen" : 16,
+      "code_dept" : "59",
+      "nom_comm" : "MORTAGNE-DU-NORD",
+      "code_arr" : "6",
+      "x_chf_lieu" : 7322,
+      "y_centroid" : 70448,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.452556889839888,
+              50.49117633948659
+            ],
+            [
+              3.443185310834485,
+              50.49593174980828
+            ],
+            [
+              3.44482877021454,
+              50.50196681674598
+            ],
+            [
+              3.439442158863195,
+              50.50722809152675
+            ],
+            [
+              3.450083111445226,
+              50.50722577328425
+            ],
+            [
+              3.460123403180668,
+              50.50618354896031
+            ],
+            [
+              3.467355145883971,
+              50.49829336345834
+            ],
+            [
+              3.452556889839888,
+              50.49117633948659
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70453,
+      "code_cant" : "55",
+      "x_centroid" : 7322,
+      "nom_dept" : "NORD",
+      "id_geofla" : 33991,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        50.50015158025263,
+        3.453273808008045
+      ],
+      "code_comm" : "418",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.453273808008045,
+        50.50015158025263
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

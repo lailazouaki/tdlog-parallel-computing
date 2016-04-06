@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1f1d59c662991ee935a49fa8866bfaa37485dc28",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 281,
+      "insee_com" : "80420",
+      "z_moyen" : 110,
+      "code_dept" : "80",
+      "nom_comm" : "HARPONVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6643,
+      "y_centroid" : 69932,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.501081412377021,
+              50.02486141708474
+            ],
+            [
+              2.496746844341439,
+              50.03317892145127
+            ],
+            [
+              2.489572196917829,
+              50.03668811079498
+            ],
+            [
+              2.487164746766979,
+              50.04586643500652
+            ],
+            [
+              2.50144615104152,
+              50.04597024187836
+            ],
+            [
+              2.515586254591844,
+              50.02870099793414
+            ],
+            [
+              2.501081412377021,
+              50.02486141708474
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69930,
+      "code_cant" : "03",
+      "x_centroid" : 6641,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 17732,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.03630583609191,
+        2.50065859952963
+      ],
+      "code_comm" : "420",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.50065859952963,
+        50.03630583609191
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

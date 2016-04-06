@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1aa4385eba907702ebdf75ed0c2eaa438ebcd0fc",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 424,
+      "insee_com" : "31422",
+      "z_moyen" : 366,
+      "code_dept" : "31",
+      "nom_comm" : "PLAGNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5421,
+      "y_centroid" : 62310,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.05364898730014,
+              43.14671579487412
+            ],
+            [
+              1.051227149032379,
+              43.15622722071777
+            ],
+            [
+              1.044540729313261,
+              43.16097377507366
+            ],
+            [
+              1.044574830807558,
+              43.16686772193054
+            ],
+            [
+              1.059823899912999,
+              43.17141690114796
+            ],
+            [
+              1.070685330454955,
+              43.1693713668734
+            ],
+            [
+              1.072117224201157,
+              43.15629680976868
+            ],
+            [
+              1.05364898730014,
+              43.14671579487412
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62305,
+      "code_cant" : "11",
+      "x_centroid" : 5420,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 32211,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.16092124346881,
+        1.058981524402758
+      ],
+      "code_comm" : "422",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.058981524402758,
+        43.16092124346881
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

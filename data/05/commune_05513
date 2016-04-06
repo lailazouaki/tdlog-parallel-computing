@@ -1,0 +1,67 @@
+  {
+    "recordid" : "07f6069838aabb93418ced1a63bac11627e57c35",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 482,
+      "insee_com" : "38293",
+      "z_moyen" : 513,
+      "code_dept" : "38",
+      "nom_comm" : "PANISSAGE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8923,
+      "y_centroid" : 64913,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.465290967808857,
+              45.48195053989748
+            ],
+            [
+              5.43836308622459,
+              45.49255685603925
+            ],
+            [
+              5.448436679120453,
+              45.50546366031721
+            ],
+            [
+              5.46338037167245,
+              45.50556917203645
+            ],
+            [
+              5.480103786856426,
+              45.49274135254448
+            ],
+            [
+              5.465290967808857,
+              45.48195053989748
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64912,
+      "code_cant" : "43",
+      "x_centroid" : 8920,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 30812,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        45.49465437668758,
+        5.45913903615828
+      ],
+      "code_comm" : "293",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.45913903615828,
+        45.49465437668758
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

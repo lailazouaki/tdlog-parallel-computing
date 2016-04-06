@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e59f48746e61401f20093772296959c7abaffec9",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 251,
+      "insee_com" : "50022",
+      "z_moyen" : 16,
+      "code_dept" : "50",
+      "nom_comm" : "AUMEVILLE-LESTRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3872,
+      "y_centroid" : 69463,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.302621863061508,
+              49.53509089309744
+            ],
+            [
+              -1.343820591998872,
+              49.5347734611776
+            ],
+            [
+              -1.34393549663783,
+              49.53989071251664
+            ],
+            [
+              -1.30777292479393,
+              49.54571740190782
+            ],
+            [
+              -1.305094844416864,
+              49.53786521351164
+            ],
+            [
+              -1.302621863061508,
+              49.53509089309744
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69463,
+      "code_cant" : "30",
+      "x_centroid" : 3871,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 15833,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.53899170841363,
+        -1.322495342017793
+      ],
+      "code_comm" : "022",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.322495342017793,
+        49.53899170841363
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

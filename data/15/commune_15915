@@ -1,0 +1,71 @@
+  {
+    "recordid" : "97ccf995ae868df6b0c17974898242c1b19f47f2",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 380,
+      "insee_com" : "57689",
+      "z_moyen" : 196,
+      "code_dept" : "57",
+      "nom_comm" : "VALMESTROFF",
+      "code_arr" : "7",
+      "x_chf_lieu" : 9370,
+      "y_centroid" : 69225,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.277919285312926,
+              49.34842602897179
+            ],
+            [
+              6.257283358601835,
+              49.35070258287151
+            ],
+            [
+              6.241957649206614,
+              49.3572953846291
+            ],
+            [
+              6.248154956549225,
+              49.36559451101737
+            ],
+            [
+              6.272723706755224,
+              49.36701876303908
+            ],
+            [
+              6.276089122075819,
+              49.36600093572103
+            ],
+            [
+              6.277919285312926,
+              49.34842602897179
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69228,
+      "code_cant" : "21",
+      "x_centroid" : 9369,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 22990,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.35833044566228,
+        6.262351643125327
+      ],
+      "code_comm" : "689",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.262351643125327,
+        49.35833044566228
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

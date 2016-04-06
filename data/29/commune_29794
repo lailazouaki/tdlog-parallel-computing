@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4aae4637a195c0d3d869fa84031b7701c190c6c7",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 231,
+      "insee_com" : "90015",
+      "z_moyen" : 360,
+      "code_dept" : "90",
+      "nom_comm" : "BOTANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9892,
+      "y_centroid" : 67287,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.859315675815519,
+              47.58874816717447
+            ],
+            [
+              6.850065547467977,
+              47.58793641933622
+            ],
+            [
+              6.835965337501314,
+              47.5959980101122
+            ],
+            [
+              6.835899738968013,
+              47.59916330819308
+            ],
+            [
+              6.840007336842227,
+              47.60292126269357
+            ],
+            [
+              6.848863057120512,
+              47.60340444497125
+            ],
+            [
+              6.863165097473826,
+              47.59242377729563
+            ],
+            [
+              6.859315675815519,
+              47.58874816717447
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67288,
+      "code_cant" : "10",
+      "x_centroid" : 9891,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 23246,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.5956035781295,
+        6.848759280183391
+      ],
+      "code_comm" : "015",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.848759280183391,
+        47.5956035781295
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

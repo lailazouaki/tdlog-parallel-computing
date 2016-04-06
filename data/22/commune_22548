@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a6b8d1b9b652b17b44aaebf16fb6dafa393f4717",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 440,
+      "insee_com" : "32238",
+      "z_moyen" : 221,
+      "code_dept" : "32",
+      "nom_comm" : "MARSEILLAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4828,
+      "y_centroid" : 62692,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.327568012550551,
+              43.4794927097066
+            ],
+            [
+              0.314732608225787,
+              43.47850934178869
+            ],
+            [
+              0.298748527229525,
+              43.48429665503125
+            ],
+            [
+              0.295239356406219,
+              43.49003357908434
+            ],
+            [
+              0.296990710705206,
+              43.49722503638955
+            ],
+            [
+              0.325781579896272,
+              43.49769589476786
+            ],
+            [
+              0.327568012550551,
+              43.4794927097066
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62691,
+      "code_cant" : "19",
+      "x_centroid" : 4825,
+      "nom_dept" : "GERS",
+      "id_geofla" : 3292,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.48888484771537,
+        0.3125821512943381
+      ],
+      "code_comm" : "238",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3125821512943381,
+        43.48888484771537
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c1ef3e479f966311187c83c916a844e666fc7c23",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 559,
+      "insee_com" : "14037",
+      "z_moyen" : 144,
+      "code_dept" : "14",
+      "nom_comm" : "BANNEVILLE-SUR-AJON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4392,
+      "y_centroid" : 68905,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.587702452993531,
+              49.04321877780345
+            ],
+            [
+              -0.58820101932383,
+              49.05953145148543
+            ],
+            [
+              -0.567755686836908,
+              49.07092345270612
+            ],
+            [
+              -0.5484599369084781,
+              49.0764183579827
+            ],
+            [
+              -0.5401024422695549,
+              49.07420785171337
+            ],
+            [
+              -0.559458871749682,
+              49.05742570346604
+            ],
+            [
+              -0.587702452993531,
+              49.04321877780345
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68906,
+      "code_cant" : "37",
+      "x_centroid" : 4393,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24834,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.06159720461592,
+        -0.5679963929992206
+      ],
+      "code_comm" : "037",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5679963929992206,
+        49.06159720461592
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

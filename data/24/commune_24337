@@ -1,0 +1,67 @@
+  {
+    "recordid" : "87076871b5a0d6dabb0f56bf876b1cd942504274",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 247,
+      "insee_com" : "2B125",
+      "z_moyen" : 716,
+      "code_dept" : "2B",
+      "nom_comm" : "GIOCATOJO",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12226,
+      "y_centroid" : 61703,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.360112768267891,
+              42.44326899504649
+            ],
+            [
+              9.3576984842549,
+              42.44055461940766
+            ],
+            [
+              9.336735733219019,
+              42.43698992347669
+            ],
+            [
+              9.327546350273023,
+              42.44385832386146
+            ],
+            [
+              9.357678654299674,
+              42.45154872498664
+            ],
+            [
+              9.360112768267891,
+              42.44326899504649
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61703,
+      "code_cant" : "39",
+      "x_centroid" : 12223,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 16434,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.44370690824368,
+        9.345873876273879
+      ],
+      "code_comm" : "125",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.345873876273879,
+        42.44370690824368
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

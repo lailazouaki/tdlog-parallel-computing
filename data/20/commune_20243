@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e5fd732a99bb319471495f4bf93f381a505335e0",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 277,
+      "insee_com" : "08503",
+      "z_moyen" : 220,
+      "code_dept" : "08",
+      "nom_comm" : "YVERNAUMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8197,
+      "y_centroid" : 69541,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.655989198245514,
+              49.66604730377866
+            ],
+            [
+              4.643885233805528,
+              49.66642719043209
+            ],
+            [
+              4.646772175115295,
+              49.67180768625371
+            ],
+            [
+              4.670752403611228,
+              49.68607655929616
+            ],
+            [
+              4.678207831038287,
+              49.67855023087017
+            ],
+            [
+              4.680095640377526,
+              49.67572003517555
+            ],
+            [
+              4.655989198245514,
+              49.66604730377866
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69545,
+      "code_cant" : "09",
+      "x_centroid" : 8200,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 25095,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.67471329109802,
+        4.662687908233506
+      ],
+      "code_comm" : "503",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.662687908233506,
+        49.67471329109802
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

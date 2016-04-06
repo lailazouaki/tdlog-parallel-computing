@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f9b71e6c0ebeb66b0440065187df8864549e4a18",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 336,
+      "insee_com" : "65050",
+      "z_moyen" : 1163,
+      "code_dept" : "65",
+      "nom_comm" : "AVAJAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4878,
+      "y_centroid" : 61977,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.408882691113075,
+              42.83746581726097
+            ],
+            [
+              0.389495961039705,
+              42.84285282173446
+            ],
+            [
+              0.390167789856055,
+              42.85429556934015
+            ],
+            [
+              0.412513825298457,
+              42.85612342362455
+            ],
+            [
+              0.413972656562862,
+              42.84231208892041
+            ],
+            [
+              0.408882691113075,
+              42.83746581726097
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61971,
+      "code_cant" : "06",
+      "x_centroid" : 4874,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 17354,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.84746301520266,
+        0.4022899056923028
+      ],
+      "code_comm" : "050",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4022899056923028,
+        42.84746301520266
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

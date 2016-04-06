@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2ade0564f099b853f5ed98762fab6812659c19b2",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 219,
+      "insee_com" : "35361",
+      "z_moyen" : 6,
+      "code_dept" : "35",
+      "nom_comm" : "LE VIVIER-SUR-MER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 3481,
+      "y_centroid" : 68437,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.78315039139545,
+              48.58531487072204
+            ],
+            [
+              -1.790832739457231,
+              48.60602103560058
+            ],
+            [
+              -1.773279802261562,
+              48.60352774910991
+            ],
+            [
+              -1.768553375616544,
+              48.60340196851256
+            ],
+            [
+              -1.767621188437676,
+              48.60033034368769
+            ],
+            [
+              -1.78315039139545,
+              48.58531487072204
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68441,
+      "code_cant" : "11",
+      "x_centroid" : 3477,
+      "nom_dept" : "ILLE-ET-VILAINE",
+      "id_geofla" : 31335,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        48.5978908709722,
+        -1.779941721393368
+      ],
+      "code_comm" : "361",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.779941721393368,
+        48.5978908709722
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

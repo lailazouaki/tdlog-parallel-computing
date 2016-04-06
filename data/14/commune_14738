@@ -1,0 +1,67 @@
+  {
+    "recordid" : "46ac5412effc9dd8466a30a4de91b595f7abc558",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 342,
+      "insee_com" : "14755",
+      "z_moyen" : 92,
+      "code_dept" : "14",
+      "nom_comm" : "VILLERVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4915,
+      "y_centroid" : 69250,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.127262288895329,
+              49.3769360719411
+            ],
+            [
+              0.105389827740495,
+              49.38987918974484
+            ],
+            [
+              0.132337228551469,
+              49.40357209268226
+            ],
+            [
+              0.136183129094324,
+              49.3943900845311
+            ],
+            [
+              0.125824787970363,
+              49.37998703207742
+            ],
+            [
+              0.127262288895329,
+              49.3769360719411
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69261,
+      "code_cant" : "35",
+      "x_centroid" : 4911,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 14618,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        49.39087631534191,
+        0.123148235678737
+      ],
+      "code_comm" : "755",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.123148235678737,
+        49.39087631534191
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

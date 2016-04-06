@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8256e22dbe3d3f89fef201402b58fb3fbafa3ad",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 290,
+      "insee_com" : "54442",
+      "z_moyen" : 304,
+      "code_dept" : "54",
+      "nom_comm" : "QUEVILLONCOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9290,
+      "y_centroid" : 68235,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.120978290255393,
+              48.46512955301997
+            ],
+            [
+              6.116561482388654,
+              48.46324692372843
+            ],
+            [
+              6.086984765205163,
+              48.47018707609118
+            ],
+            [
+              6.094989367199984,
+              48.47896361129209
+            ],
+            [
+              6.110442608408849,
+              48.47786645622226
+            ],
+            [
+              6.118284125176574,
+              48.47333022357137
+            ],
+            [
+              6.120978290255393,
+              48.46512955301997
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68236,
+      "code_cant" : "29",
+      "x_centroid" : 9294,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 32853,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.47151348485835,
+        6.105332959752888
+      ],
+      "code_comm" : "442",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.105332959752888,
+        48.47151348485835
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "020f728d29cc3f35a07b21a17c8d122f5653dd15",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 389,
+      "insee_com" : "54306",
+      "z_moyen" : 271,
+      "code_dept" : "54",
+      "nom_comm" : "LAY-SAINT-REMY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9033,
+      "y_centroid" : 68459,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.748918215833567,
+              48.66684921931814
+            ],
+            [
+              5.746157685761215,
+              48.67301494585926
+            ],
+            [
+              5.755881255685915,
+              48.69196961469074
+            ],
+            [
+              5.771392801889011,
+              48.69197904773284
+            ],
+            [
+              5.780756752861585,
+              48.68401190795765
+            ],
+            [
+              5.748918215833567,
+              48.66684921931814
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68457,
+      "code_cant" : "27",
+      "x_centroid" : 9032,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 32889,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.68162503019263,
+        5.761449977827872
+      ],
+      "code_comm" : "306",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.761449977827872,
+        48.68162503019263
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dac4b008c8ffeb07b17b4aa93b39f05a57ff94ba",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 439,
+      "insee_com" : "08020",
+      "z_moyen" : 179,
+      "code_dept" : "08",
+      "nom_comm" : "LES PETITES-ARMOISES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8322,
+      "y_centroid" : 69350,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.822561345879966,
+              49.48971877328012
+            ],
+            [
+              4.805057965572526,
+              49.49980659216124
+            ],
+            [
+              4.8139981821943,
+              49.50712563120072
+            ],
+            [
+              4.824058039234667,
+              49.50623753356398
+            ],
+            [
+              4.847947557813766,
+              49.51066729520047
+            ],
+            [
+              4.846398608244631,
+              49.50751750383453
+            ],
+            [
+              4.853347754746867,
+              49.50268281874274
+            ],
+            [
+              4.822561345879966,
+              49.48971877328012
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69354,
+      "code_cant" : "08",
+      "x_centroid" : 8324,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 22381,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.50085241297106,
+        4.828518057872023
+      ],
+      "code_comm" : "020",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.828518057872023,
+        49.50085241297106
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

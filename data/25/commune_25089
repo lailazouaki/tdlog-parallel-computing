@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b2a4ff72d5eafc8c37c7449c1c49464113e5c420",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 304,
+      "insee_com" : "24546",
+      "z_moyen" : 227,
+      "code_dept" : "24",
+      "nom_comm" : "TEMPLE-LAGUYON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5509,
+      "y_centroid" : 64609,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.09337669095967,
+              45.22194359856304
+            ],
+            [
+              1.084958707714627,
+              45.23364367679888
+            ],
+            [
+              1.092617405142714,
+              45.24191691461778
+            ],
+            [
+              1.1085687207252,
+              45.2347123506239
+            ],
+            [
+              1.106467358501368,
+              45.22301290007425
+            ],
+            [
+              1.09337669095967,
+              45.22194359856304
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64610,
+      "code_cant" : "13",
+      "x_centroid" : 5507,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 21096,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        45.23124096501713,
+        1.09729455908685
+      ],
+      "code_comm" : "546",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.09729455908685,
+        45.23124096501713
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

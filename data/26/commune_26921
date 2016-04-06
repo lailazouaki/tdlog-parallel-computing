@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cb103a30a605fbcb938363e17ddc3241e81b5e67",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 217,
+      "insee_com" : "11432",
+      "z_moyen" : 202,
+      "code_dept" : "11",
+      "nom_comm" : "VILLENEUVE-LES-MONTREAL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6277,
+      "y_centroid" : 62314,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.10502533757837,
+              43.17199061937257
+            ],
+            [
+              2.103123785927532,
+              43.18602561050739
+            ],
+            [
+              2.10429078008148,
+              43.18608028109795
+            ],
+            [
+              2.122223055601995,
+              43.18306126554747
+            ],
+            [
+              2.124053230419808,
+              43.17990976805574
+            ],
+            [
+              2.121932152584669,
+              43.17389263503321
+            ],
+            [
+              2.10502533757837,
+              43.17199061937257
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62316,
+      "code_cant" : "22",
+      "x_centroid" : 6278,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 27158,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.17892801897387,
+        2.112835331115292
+      ],
+      "code_comm" : "432",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.112835331115292,
+        43.17892801897387
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

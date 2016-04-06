@@ -1,0 +1,75 @@
+  {
+    "recordid" : "55c05bcc9d27d3c0d0a1fd36ac72cfe7b18fcd79",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 903,
+      "insee_com" : "2B077",
+      "z_moyen" : 52,
+      "code_dept" : "2B",
+      "nom_comm" : "CASTELLARE-DI-CASINCA",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12325,
+      "y_centroid" : 61743,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.536057443704999,
+              42.47046758690006
+            ],
+            [
+              9.506214322189164,
+              42.46211325424385
+            ],
+            [
+              9.478601057780882,
+              42.4601543250249
+            ],
+            [
+              9.467032902671582,
+              42.46534959445846
+            ],
+            [
+              9.464565417983291,
+              42.47551083640282
+            ],
+            [
+              9.482748992390354,
+              42.47347578252616
+            ],
+            [
+              9.53141070785165,
+              42.48337171500793
+            ],
+            [
+              9.536057443704999,
+              42.47046758690006
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61738,
+      "code_cant" : "59",
+      "x_centroid" : 12348,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 24109,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        42.4705671664565,
+        9.501314554750481
+      ],
+      "code_comm" : "077",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.501314554750481,
+        42.4705671664565
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f229e8d86e1c3d813ce84a1c779671513b4bc4a4",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 618,
+      "insee_com" : "14586",
+      "z_moyen" : 14,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-GERMAIN-DU-PERT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4063,
+      "y_centroid" : 69220,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.025340753287825,
+              49.32303250651221
+            ],
+            [
+              -1.037724736559912,
+              49.31729030738718
+            ],
+            [
+              -1.0614436978048,
+              49.32283112513693
+            ],
+            [
+              -1.058217795402984,
+              49.33958235151434
+            ],
+            [
+              -1.027945408909999,
+              49.34298124551466
+            ],
+            [
+              -1.025340753287825,
+              49.32303250651221
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69227,
+      "code_cant" : "20",
+      "x_centroid" : 4062,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 19000,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.33030640038184,
+        -1.042537353441849
+      ],
+      "code_comm" : "586",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.042537353441849,
+        49.33030640038184
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

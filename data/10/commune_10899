@@ -1,0 +1,71 @@
+  {
+    "recordid" : "32f7717e6d10d73101861e5ab59618706709af4c",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 305,
+      "insee_com" : "54422",
+      "z_moyen" : 275,
+      "code_dept" : "54",
+      "nom_comm" : "PETTONVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9761,
+      "y_centroid" : 68320,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.747662692737282,
+              48.51720934329209
+            ],
+            [
+              6.724132929025934,
+              48.52870236359591
+            ],
+            [
+              6.7482486337614,
+              48.54057005218726
+            ],
+            [
+              6.761478088895303,
+              48.53612636878126
+            ],
+            [
+              6.761836788704007,
+              48.53413371754363
+            ],
+            [
+              6.750212296167772,
+              48.52859338554529
+            ],
+            [
+              6.747662692737282,
+              48.51720934329209
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68319,
+      "code_cant" : "03",
+      "x_centroid" : 9763,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 36138,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.53015406175474,
+        6.743711878168226
+      ],
+      "code_comm" : "422",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.743711878168226,
+        48.53015406175474
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

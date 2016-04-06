@@ -1,0 +1,71 @@
+  {
+    "recordid" : "05ed99a61e5f2f045b8871cc0faeefccb2c0c18a",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 337,
+      "insee_com" : "62697",
+      "z_moyen" : 57,
+      "code_dept" : "62",
+      "nom_comm" : "RECOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7025,
+      "y_centroid" : 70177,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.018484086992125,
+              50.24811539860452
+            ],
+            [
+              3.012128640889302,
+              50.2562961558457
+            ],
+            [
+              3.018644115406333,
+              50.26439440821748
+            ],
+            [
+              3.03434825411476,
+              50.26677943004538
+            ],
+            [
+              3.036381342650081,
+              50.26940966869967
+            ],
+            [
+              3.042291679755445,
+              50.25090203671914
+            ],
+            [
+              3.018484086992125,
+              50.24811539860452
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70172,
+      "code_cant" : "46",
+      "x_centroid" : 7019,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 17316,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.25727038059425,
+        3.027654693477625
+      ],
+      "code_comm" : "697",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.027654693477625,
+        50.25727038059425
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

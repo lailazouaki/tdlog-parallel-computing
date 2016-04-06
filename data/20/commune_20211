@@ -1,0 +1,75 @@
+  {
+    "recordid" : "528e2305bb3114da9dea67e2eeddfa62844fc7c2",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 749,
+      "insee_com" : "08397",
+      "z_moyen" : 98,
+      "code_dept" : "08",
+      "nom_comm" : "SAINT-REMY-LE-PETIT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7900,
+      "y_centroid" : 69229,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.240808913374214,
+              49.38246819621305
+            ],
+            [
+              4.221861975082822,
+              49.38420732043013
+            ],
+            [
+              4.213672423094518,
+              49.38786763464391
+            ],
+            [
+              4.214888459407113,
+              49.39797762396949
+            ],
+            [
+              4.227310863694381,
+              49.41642434182283
+            ],
+            [
+              4.248577097369528,
+              49.41666526355888
+            ],
+            [
+              4.242323983347704,
+              49.38591365784599
+            ],
+            [
+              4.240808913374214,
+              49.38246819621305
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69245,
+      "code_cant" : "01",
+      "x_centroid" : 7894,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 21935,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.39950771903132,
+        4.231739780082888
+      ],
+      "code_comm" : "397",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.231739780082888,
+        49.39950771903132
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

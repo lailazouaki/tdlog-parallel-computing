@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fdfda095affa9ac59f13eb951ef6d6eb004b68e4",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 542,
+      "insee_com" : "61271",
+      "z_moyen" : 233,
+      "code_dept" : "61",
+      "nom_comm" : "LE MENIL-SCELLEUR",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4700,
+      "y_centroid" : 68393,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.105002553366372,
+              48.61018444378915
+            ],
+            [
+              -0.110306697578735,
+              48.60075573928489
+            ],
+            [
+              -0.13410788695728,
+              48.60451532255242
+            ],
+            [
+              -0.141680317873374,
+              48.61239967179124
+            ],
+            [
+              -0.140152187952885,
+              48.6217752647068
+            ],
+            [
+              -0.13034218475179,
+              48.62870417583633
+            ],
+            [
+              -0.105002553366372,
+              48.61018444378915
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68390,
+      "code_cant" : "08",
+      "x_centroid" : 4697,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 23630,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.61316529549003,
+        -0.1248945089692997
+      ],
+      "code_comm" : "271",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1248945089692997,
+        48.61316529549003
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

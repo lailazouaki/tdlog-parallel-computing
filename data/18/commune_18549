@@ -1,0 +1,75 @@
+  {
+    "recordid" : "87f37e4bd493f5e72134e030dbea0322e790b4c4",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 611,
+      "insee_com" : "66114",
+      "z_moyen" : 21,
+      "code_dept" : "66",
+      "nom_comm" : "MONTESCOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6945,
+      "y_centroid" : 61684,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.948089283772568,
+              42.61198116247591
+            ],
+            [
+              2.935989433172939,
+              42.60230113146703
+            ],
+            [
+              2.913920945461114,
+              42.60604353679122
+            ],
+            [
+              2.909058331248689,
+              42.61817636254001
+            ],
+            [
+              2.890333072033219,
+              42.62664568840442
+            ],
+            [
+              2.892689540645552,
+              42.62956096977541
+            ],
+            [
+              2.929429992247552,
+              42.62257004119699
+            ],
+            [
+              2.948089283772568,
+              42.61198116247591
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61675,
+      "code_cant" : "28",
+      "x_centroid" : 6936,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 23031,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        42.61545712285864,
+        2.922137219520902
+      ],
+      "code_comm" : "114",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.922137219520902,
+        42.61545712285864
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

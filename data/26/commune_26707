@@ -1,0 +1,71 @@
+  {
+    "recordid" : "78abee236d304a36c9ae7c7a629d42fefaac92e9",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 999,
+      "insee_com" : "51182",
+      "z_moyen" : 88,
+      "code_dept" : "51",
+      "nom_comm" : "COURCEMAIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7677,
+      "y_centroid" : 68357,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.911396485267137,
+              48.60184712203454
+            ],
+            [
+              3.907641346979693,
+              48.63091382208812
+            ],
+            [
+              3.966616278117342,
+              48.62991911388183
+            ],
+            [
+              3.958057571074884,
+              48.62200910573664
+            ],
+            [
+              3.94922665728942,
+              48.60343162808371
+            ],
+            [
+              3.919010150459436,
+              48.60597162702793
+            ],
+            [
+              3.911396485267137,
+              48.60184712203454
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68356,
+      "code_cant" : "13",
+      "x_centroid" : 7687,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 31739,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.61834778568272,
+        3.933109007921673
+      ],
+      "code_comm" : "182",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.933109007921673,
+        48.61834778568272
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

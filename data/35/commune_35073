@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dc6af7710e2a6bd9c42dd7b45f47ef2533fac8f2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 315,
+      "insee_com" : "65153",
+      "z_moyen" : 281,
+      "code_dept" : "65",
+      "nom_comm" : "COUSSAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4730,
+      "y_centroid" : 62423,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.200112294335256,
+              43.23408463293872
+            ],
+            [
+              0.192825240760438,
+              43.23710870188472
+            ],
+            [
+              0.195706295983796,
+              43.24926283873859
+            ],
+            [
+              0.195924260997345,
+              43.25313892669956
+            ],
+            [
+              0.217950862904339,
+              43.25040531920334
+            ],
+            [
+              0.217836602093398,
+              43.24409276025879
+            ],
+            [
+              0.207734332438871,
+              43.23836843713301
+            ],
+            [
+              0.200112294335256,
+              43.23408463293872
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62422,
+      "code_cant" : "17",
+      "x_centroid" : 4728,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 36144,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.24446181826932,
+        0.2044070385531854
+      ],
+      "code_comm" : "153",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2044070385531854,
+        43.24446181826932
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "87e3d9ef3194fa07d02756d1ed183600b8ffbeab",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 293,
+      "insee_com" : "62124",
+      "z_moyen" : 37,
+      "code_dept" : "62",
+      "nom_comm" : "BEUTIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6094,
+      "y_centroid" : 70451,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.733559147318438,
+              50.48948325324431
+            ],
+            [
+              1.713816668089243,
+              50.49056341695464
+            ],
+            [
+              1.709641069525287,
+              50.49645394560972
+            ],
+            [
+              1.72009215315158,
+              50.50333125474722
+            ],
+            [
+              1.745783005388909,
+              50.50266955144517
+            ],
+            [
+              1.733559147318438,
+              50.48948325324431
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70444,
+      "code_cant" : "22",
+      "x_centroid" : 6095,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 26096,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.49677181509568,
+        1.726765485757507
+      ],
+      "code_comm" : "124",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.726765485757507,
+        50.49677181509568
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

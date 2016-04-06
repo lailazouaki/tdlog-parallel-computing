@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bb864ba2684831e9f17d967926f7902c40042a81",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 340,
+      "insee_com" : "51622",
+      "z_moyen" : 156,
+      "code_dept" : "51",
+      "nom_comm" : "VILLE-DOMMANGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7680,
+      "y_centroid" : 69009,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.927292731218485,
+              49.19073334001131
+            ],
+            [
+              3.922986258486964,
+              49.19924484788962
+            ],
+            [
+              3.92295025875902,
+              49.20491835299882
+            ],
+            [
+              3.941552250525092,
+              49.21523075272588
+            ],
+            [
+              3.946321067012005,
+              49.21633523210848
+            ],
+            [
+              3.957216718177909,
+              49.20956902942701
+            ],
+            [
+              3.927292731218485,
+              49.19073334001131
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69005,
+      "code_cant" : "31",
+      "x_centroid" : 7683,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 1398,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.20486117384249,
+        3.937660338128095
+      ],
+      "code_comm" : "622",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.937660338128095,
+        49.20486117384249
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

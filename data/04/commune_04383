@@ -1,0 +1,67 @@
+  {
+    "recordid" : "028e253b085b461f21c840da7c5889ae3ff989e3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 154,
+      "insee_com" : "14350",
+      "z_moyen" : 109,
+      "code_dept" : "14",
+      "nom_comm" : "LA LANDE-SUR-DROME",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4173,
+      "y_centroid" : 68928,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.870788730582021,
+              49.06461649694237
+            ],
+            [
+              -0.869698753144901,
+              49.06891869737949
+            ],
+            [
+              -0.870348775311658,
+              49.07358790312639
+            ],
+            [
+              -0.85771792763235,
+              49.07859437599491
+            ],
+            [
+              -0.843065476804203,
+              49.07762378470019
+            ],
+            [
+              -0.870788730582021,
+              49.06461649694237
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68924,
+      "code_cant" : "11",
+      "x_centroid" : 4180,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 12151,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.07325785869622,
+        -0.8600196403882775
+      ],
+      "code_comm" : "350",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8600196403882775,
+        49.07325785869622
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "db11e587025e9e99307c533ded035975b9a1926b",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1536,
+      "insee_com" : "51377",
+      "z_moyen" : 177,
+      "code_dept" : "51",
+      "nom_comm" : "MONTEPREUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7837,
+      "y_centroid" : 68459,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.131090952946841,
+              48.68615119823392
+            ],
+            [
+              4.088125887288546,
+              48.69887461869515
+            ],
+            [
+              4.10994470851127,
+              48.73510414550039
+            ],
+            [
+              4.124249009811926,
+              48.72682969637494
+            ],
+            [
+              4.161604890405032,
+              48.71244833106552
+            ],
+            [
+              4.157768895173489,
+              48.70434482942292
+            ],
+            [
+              4.131090952946841,
+              48.68615119823392
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68464,
+      "code_cant" : "13",
+      "x_centroid" : 7826,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 16051,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.70838207614683,
+        4.123427857943109
+      ],
+      "code_comm" : "377",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.123427857943109,
+        48.70838207614683
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7152644215d46b4350dfc4dbea61eedc5b768cdd",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 696,
+      "insee_com" : "65198",
+      "z_moyen" : 709,
+      "code_dept" : "65",
+      "nom_comm" : "GERDE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4690,
+      "y_centroid" : 62218,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.202951589345499,
+              43.04750388491776
+            ],
+            [
+              0.158692241190773,
+              43.0502322966756
+            ],
+            [
+              0.158941917192317,
+              43.06689738435401
+            ],
+            [
+              0.168299512296218,
+              43.06731493095226
+            ],
+            [
+              0.174523580401789,
+              43.07232933443527
+            ],
+            [
+              0.19188164305531,
+              43.06803164544981
+            ],
+            [
+              0.193475509573118,
+              43.05845261216911
+            ],
+            [
+              0.202951589345499,
+              43.04750388491776
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62214,
+      "code_cant" : "07",
+      "x_centroid" : 4699,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 26462,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        43.05863797290425,
+        0.1779474257192036
+      ],
+      "code_comm" : "198",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1779474257192036,
+        43.05863797290425
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

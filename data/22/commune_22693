@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d0ff91ddf17364acb1af550feabdd8a7e901cb25",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 799,
+      "insee_com" : "90093",
+      "z_moyen" : 398,
+      "code_dept" : "90",
+      "nom_comm" : "SERMAMAGNY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9876,
+      "y_centroid" : 67389,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.829613108484238,
+              47.67364332471792
+            ],
+            [
+              6.811420020602061,
+              47.68024884822169
+            ],
+            [
+              6.797362964793593,
+              47.69064589681525
+            ],
+            [
+              6.829093386269384,
+              47.69816221055373
+            ],
+            [
+              6.852642824397792,
+              47.69728015104539
+            ],
+            [
+              6.861438132321165,
+              47.69965727571543
+            ],
+            [
+              6.853628983781725,
+              47.68397375826211
+            ],
+            [
+              6.829613108484238,
+              47.67364332471792
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67394,
+      "code_cant" : "04",
+      "x_centroid" : 9872,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 24659,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        47.6878015569847,
+        6.83091463450268
+      ],
+      "code_comm" : "093",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.83091463450268,
+        47.6878015569847
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

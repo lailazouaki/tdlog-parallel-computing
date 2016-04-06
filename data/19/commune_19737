@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8035b06e31ad50896d47d6e9eb5420b658d0324",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 254,
+      "insee_com" : "02735",
+      "z_moyen" : 119,
+      "code_dept" : "02",
+      "nom_comm" : "TANNIERES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7401,
+      "y_centroid" : 69098,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.561353362618091,
+              49.28694097088997
+            ],
+            [
+              3.540215651359219,
+              49.27760721122406
+            ],
+            [
+              3.530986808629752,
+              49.27805270692253
+            ],
+            [
+              3.550628204602373,
+              49.29412814848644
+            ],
+            [
+              3.561584197682108,
+              49.29806007523779
+            ],
+            [
+              3.565508324486499,
+              49.29238729291891
+            ],
+            [
+              3.561353362618091,
+              49.28694097088997
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69102,
+      "code_cant" : "04",
+      "x_centroid" : 7400,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 21615,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.28733709490062,
+        3.550408928725756
+      ],
+      "code_comm" : "735",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.550408928725756,
+        49.28733709490062
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "db9f07feeb405a359e735a6de344fe42be9a8ae8",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 259,
+      "insee_com" : "55439",
+      "z_moyen" : 254,
+      "code_dept" : "55",
+      "nom_comm" : "RONVAUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8864,
+      "y_centroid" : 68953,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.578914166128068,
+              49.13195730565974
+            ],
+            [
+              5.560989975265652,
+              49.12460400679298
+            ],
+            [
+              5.539626662260773,
+              49.1241484493993
+            ],
+            [
+              5.536715001898935,
+              49.12710646924562
+            ],
+            [
+              5.572813013794216,
+              49.14021998500463
+            ],
+            [
+              5.58141155956025,
+              49.13420662809776
+            ],
+            [
+              5.578914166128068,
+              49.13195730565974
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68952,
+      "code_cant" : "09",
+      "x_centroid" : 8868,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 19287,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.13083178694021,
+        5.560719075534448
+      ],
+      "code_comm" : "439",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.560719075534448,
+        49.13083178694021
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

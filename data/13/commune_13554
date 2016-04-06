@@ -1,0 +1,75 @@
+  {
+    "recordid" : "407450602211209cc5afdf41b458f3149e994c82",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 527,
+      "insee_com" : "27544",
+      "z_moyen" : 142,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-GERMAIN-DE-FRESNEY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5749,
+      "y_centroid" : 68745,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.2834036166446,
+              48.94189668714608
+            ],
+            [
+              1.279222771978224,
+              48.94321291271324
+            ],
+            [
+              1.268841708977371,
+              48.9589028983567
+            ],
+            [
+              1.285299221026073,
+              48.97137183173366
+            ],
+            [
+              1.294412120625578,
+              48.97178061023519
+            ],
+            [
+              1.305482579752878,
+              48.96620814440154
+            ],
+            [
+              1.305212491500298,
+              48.95982729585509
+            ],
+            [
+              1.2834036166446,
+              48.94189668714608
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68746,
+      "code_cant" : "32",
+      "x_centroid" : 5745,
+      "nom_dept" : "EURE",
+      "id_geofla" : 7076,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.95852285484276,
+        1.287356781979148
+      ],
+      "code_comm" : "544",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.287356781979148,
+        48.95852285484276
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

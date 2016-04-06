@@ -1,0 +1,71 @@
+  {
+    "recordid" : "af28aa2bdd4ea17d7a7a4e654e0d52ecaa199022",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 252,
+      "insee_com" : "77412",
+      "z_moyen" : 62,
+      "code_dept" : "77",
+      "nom_comm" : "SAINT-GERMAIN-SUR-ECOLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6637,
+      "y_centroid" : 68194,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.505938219893277,
+              48.46115938257385
+            ],
+            [
+              2.502474753605942,
+              48.48407645704056
+            ],
+            [
+              2.51013450608694,
+              48.48838148360523
+            ],
+            [
+              2.511139672566797,
+              48.48653241200231
+            ],
+            [
+              2.521897559200711,
+              48.47176840816769
+            ],
+            [
+              2.514476449366342,
+              48.46375856713729
+            ],
+            [
+              2.505938219893277,
+              48.46115938257385
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68195,
+      "code_cant" : "32",
+      "x_centroid" : 6638,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 18225,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.47430724856197,
+        2.510781898359127
+      ],
+      "code_comm" : "412",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.510781898359127,
+        48.47430724856197
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

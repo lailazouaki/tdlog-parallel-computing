@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3be9397fc439b2dfb0a1f241a563ea570ae7ba01",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 529,
+      "insee_com" : "64308",
+      "z_moyen" : 196,
+      "code_dept" : "64",
+      "nom_comm" : "LALONQUETTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4312,
+      "y_centroid" : 62712,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.326333957334064,
+              43.47493715001816
+            ],
+            [
+              -0.337328755979601,
+              43.49115917088469
+            ],
+            [
+              -0.324179262540174,
+              43.49177034874367
+            ],
+            [
+              -0.314341022246463,
+              43.50583114900122
+            ],
+            [
+              -0.300901116938978,
+              43.4962817673429
+            ],
+            [
+              -0.299346612688386,
+              43.48989064459494
+            ],
+            [
+              -0.310731528224155,
+              43.48034056963114
+            ],
+            [
+              -0.326333957334064,
+              43.47493715001816
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62711,
+      "code_cant" : "40",
+      "x_centroid" : 4316,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 25521,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.48928555673171,
+        -0.3166956580712093
+      ],
+      "code_comm" : "308",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3166956580712093,
+        43.48928555673171
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

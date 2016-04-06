@@ -1,0 +1,63 @@
+  {
+    "recordid" : "d70f3746b0a58e852c2d8014950012e76678a966",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 108,
+      "insee_com" : "45100",
+      "z_moyen" : 100,
+      "code_dept" : "45",
+      "nom_comm" : "COMBLEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6245,
+      "y_centroid" : 67560,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.991870099529061,
+              47.89346860403732
+            ],
+            [
+              1.972888527761054,
+              47.90133246492097
+            ],
+            [
+              1.990583269739969,
+              47.90484305432871
+            ],
+            [
+              1.995307061224935,
+              47.90349750858631
+            ],
+            [
+              1.991870099529061,
+              47.89346860403732
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67559,
+      "code_cant" : "38",
+      "x_centroid" : 6242,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 9107,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.90002694845511,
+        1.986621351522194
+      ],
+      "code_comm" : "100",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.986621351522194,
+        47.90002694845511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

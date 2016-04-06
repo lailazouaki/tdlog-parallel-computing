@@ -1,0 +1,67 @@
+  {
+    "recordid" : "22ee621827090b6ad75807fcbfc107e54613932f",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 313,
+      "insee_com" : "39226",
+      "z_moyen" : 449,
+      "code_dept" : "39",
+      "nom_comm" : "FLORENTIA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8863,
+      "y_centroid" : 65912,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.429481144582692,
+              46.38493884915543
+            ],
+            [
+              5.40911977475502,
+              46.38846073080688
+            ],
+            [
+              5.40769618696225,
+              46.39426544994551
+            ],
+            [
+              5.421291800325331,
+              46.4081216475435
+            ],
+            [
+              5.432422280235333,
+              46.40011926386829
+            ],
+            [
+              5.429481144582692,
+              46.38493884915543
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65912,
+      "code_cant" : "27",
+      "x_centroid" : 8859,
+      "nom_dept" : "JURA",
+      "id_geofla" : 16565,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.39527676066639,
+        5.421024971607539
+      ],
+      "code_comm" : "226",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.421024971607539,
+        46.39527676066639
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

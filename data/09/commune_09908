@@ -1,0 +1,71 @@
+  {
+    "recordid" : "448b1ebbb07628a7edb73b27e84f76fe7ff0e72c",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 450,
+      "insee_com" : "06124",
+      "z_moyen" : 1040,
+      "code_dept" : "06",
+      "nom_comm" : "SAINT-LEGER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10069,
+      "y_centroid" : 63300,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.838726887709296,
+              43.98970431437944
+            ],
+            [
+              6.795561572155563,
+              44.00811533774034
+            ],
+            [
+              6.802927871266498,
+              44.01223839102524
+            ],
+            [
+              6.829037195336593,
+              44.00615500168762
+            ],
+            [
+              6.835727796583638,
+              44.01077714338589
+            ],
+            [
+              6.841288903995403,
+              44.00215697175808
+            ],
+            [
+              6.838726887709296,
+              43.98970431437944
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63297,
+      "code_cant" : "18",
+      "x_centroid" : 10065,
+      "nom_dept" : "ALPES-MARITIMES",
+      "id_geofla" : 19332,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.00265976891587,
+        6.823096849940847
+      ],
+      "code_comm" : "124",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.823096849940847,
+        44.00265976891587
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

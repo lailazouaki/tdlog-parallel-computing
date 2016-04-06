@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bfdd583c95495baf19a35cd9e6488ce1bee3b41a",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 378,
+      "insee_com" : "14406",
+      "z_moyen" : 64,
+      "code_dept" : "14",
+      "nom_comm" : "MARTRAGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4381,
+      "y_centroid" : 69114,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.591278880981627,
+              49.23764894574168
+            ],
+            [
+              -0.621371632482934,
+              49.24776355720371
+            ],
+            [
+              -0.611122719815567,
+              49.25866308539844
+            ],
+            [
+              -0.60148370541704,
+              49.25786253116276
+            ],
+            [
+              -0.5821299936794611,
+              49.24782028504929
+            ],
+            [
+              -0.591278880981627,
+              49.23764894574168
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69116,
+      "code_cant" : "13",
+      "x_centroid" : 4378,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 23195,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.24863905086777,
+        -0.6013736732896474
+      ],
+      "code_comm" : "406",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6013736732896474,
+        49.24863905086777
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

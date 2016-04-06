@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1bd900cda993f835a709e87d6ca73759dc1ce603",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 164,
+      "insee_com" : "57320",
+      "z_moyen" : 283,
+      "code_dept" : "57",
+      "nom_comm" : "HERTZING",
+      "code_arr" : "5",
+      "x_chf_lieu" : 9907,
+      "y_centroid" : 68507,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.956909253575885,
+              48.68077101234869
+            ],
+            [
+              6.948331230843492,
+              48.68801708454775
+            ],
+            [
+              6.948813411248153,
+              48.70375213339952
+            ],
+            [
+              6.956760815222844,
+              48.69910279287906
+            ],
+            [
+              6.962421757224082,
+              48.68459543843985
+            ],
+            [
+              6.956909253575885,
+              48.68077101234869
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68503,
+      "code_cant" : "25",
+      "x_centroid" : 9909,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 35694,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.69152817475714,
+        6.95434783679467
+      ],
+      "code_comm" : "320",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.95434783679467,
+        48.69152817475714
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

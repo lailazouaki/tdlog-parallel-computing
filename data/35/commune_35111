@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6a87bf4b0e2829cc25e8d3e4039b1849ea44b8b4",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 441,
+      "insee_com" : "21533",
+      "z_moyen" : 392,
+      "code_dept" : "21",
+      "nom_comm" : "ROUVRES-SOUS-MEILLY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8189,
+      "y_centroid" : 66796,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.578310414192298,
+              47.19517730538475
+            ],
+            [
+              4.572209138492191,
+              47.21514226946414
+            ],
+            [
+              4.59926672954161,
+              47.21488003916193
+            ],
+            [
+              4.609060975988858,
+              47.20962984216182
+            ],
+            [
+              4.60898196576517,
+              47.20389500736823
+            ],
+            [
+              4.597894576614268,
+              47.19938408507014
+            ],
+            [
+              4.58712152612081,
+              47.19516496440053
+            ],
+            [
+              4.578310414192298,
+              47.19517730538475
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66801,
+      "code_cant" : "26",
+      "x_centroid" : 8203,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 36477,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.20627075359701,
+        4.589743195404513
+      ],
+      "code_comm" : "533",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.589743195404513,
+        47.20627075359701
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

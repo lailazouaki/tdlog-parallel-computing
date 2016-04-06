@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2b4b3a8fb4fcfe041ff710be4e53692f4089ba78",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 406,
+      "insee_com" : "67086",
+      "z_moyen" : 155,
+      "code_dept" : "67",
+      "nom_comm" : "DAUBENSAND",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10496,
+      "y_centroid" : 68162,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.743502896203359,
+              48.34033269647144
+            ],
+            [
+              7.728543099589261,
+              48.34100370604031
+            ],
+            [
+              7.711653562544562,
+              48.35348461309818
+            ],
+            [
+              7.7162066625412,
+              48.35841359083183
+            ],
+            [
+              7.714205476911381,
+              48.36098089729755
+            ],
+            [
+              7.736098542648452,
+              48.36259439497698
+            ],
+            [
+              7.743502896203359,
+              48.34033269647144
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68156,
+      "code_cant" : "07",
+      "x_centroid" : 10501,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 19597,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.35183548469684,
+        7.728634561740019
+      ],
+      "code_comm" : "086",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.728634561740019,
+        48.35183548469684
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "22834e9b6523e9c77cf79667f05d11e1630e8c3e",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 261,
+      "insee_com" : "69233",
+      "z_moyen" : 297,
+      "code_dept" : "69",
+      "nom_comm" : "SAINT-ROMAIN-AU-MONT-D'OR",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8414,
+      "y_centroid" : 65278,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.827760403403508,
+              45.83003213950052
+            ],
+            [
+              4.814394361441873,
+              45.82793279563284
+            ],
+            [
+              4.810691866993223,
+              45.83014496129554
+            ],
+            [
+              4.806859870268128,
+              45.84336595974163
+            ],
+            [
+              4.831996802370292,
+              45.83965539170739
+            ],
+            [
+              4.838784311141987,
+              45.83412267194886
+            ],
+            [
+              4.827760403403508,
+              45.83003213950052
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65280,
+      "code_cant" : "25",
+      "x_centroid" : 8413,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 32736,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        45.83555302579954,
+        4.820848585557096
+      ],
+      "code_comm" : "233",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.820848585557096,
+        45.83555302579954
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

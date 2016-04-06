@@ -1,0 +1,75 @@
+  {
+    "recordid" : "172e54afcca4d9fb98f21ab9823c814a920e6c07",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 335,
+      "insee_com" : "62375",
+      "z_moyen" : 141,
+      "code_dept" : "62",
+      "nom_comm" : "GOMMECOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6746,
+      "y_centroid" : 70044,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.666320176828522,
+              50.13109606462605
+            ],
+            [
+              2.652088858259673,
+              50.13239469688187
+            ],
+            [
+              2.643694818067607,
+              50.13001770762126
+            ],
+            [
+              2.632988744220713,
+              50.13644325730079
+            ],
+            [
+              2.646818246242997,
+              50.1449344734182
+            ],
+            [
+              2.661186425389633,
+              50.14670816163824
+            ],
+            [
+              2.670172399142955,
+              50.13597395606904
+            ],
+            [
+              2.666320176828522,
+              50.13109606462605
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70047,
+      "code_cant" : "40",
+      "x_centroid" : 6751,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 15632,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.13792059533232,
+        2.652842452933446
+      ],
+      "code_comm" : "375",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.652842452933446,
+        50.13792059533232
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

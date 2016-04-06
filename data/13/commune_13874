@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2fd2a15a34d63288e14a725dbd568bd17ad7ed43",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 415,
+      "insee_com" : "88049",
+      "z_moyen" : 306,
+      "code_dept" : "88",
+      "nom_comm" : "BELMONT-LES-DARNEY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9241,
+      "y_centroid" : 67804,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.002540529584515,
+              48.07297439553812
+            ],
+            [
+              6.0002674715058,
+              48.09141179940583
+            ],
+            [
+              6.025581733499575,
+              48.09782442550728
+            ],
+            [
+              6.030143534763027,
+              48.08336188952927
+            ],
+            [
+              6.019749974216639,
+              48.07645164524325
+            ],
+            [
+              6.015272502220445,
+              48.07781809262575
+            ],
+            [
+              6.002540529584515,
+              48.07297439553812
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67804,
+      "code_cant" : "10",
+      "x_centroid" : 9244,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 27395,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.08580342173263,
+        6.014600621651716
+      ],
+      "code_comm" : "049",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.014600621651716,
+        48.08580342173263
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

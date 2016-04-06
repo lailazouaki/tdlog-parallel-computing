@@ -1,0 +1,79 @@
+  {
+    "recordid" : "54befe963fd40ce03fbcb88a5e0f6f4cd73e1e10",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 650,
+      "insee_com" : "52511",
+      "z_moyen" : 288,
+      "code_dept" : "52",
+      "nom_comm" : "VAUX-SUR-SAINT-URBAIN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8635,
+      "y_centroid" : 68101,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.212566304250844,
+              48.35735857796495
+            ],
+            [
+              5.195204067196598,
+              48.35941869135299
+            ],
+            [
+              5.191192447285147,
+              48.36816027524792
+            ],
+            [
+              5.181786119119232,
+              48.36803686210072
+            ],
+            [
+              5.185985489773207,
+              48.37450263873192
+            ],
+            [
+              5.209473637301078,
+              48.38276125397844
+            ],
+            [
+              5.219990058689336,
+              48.38350974896488
+            ],
+            [
+              5.231894284477216,
+              48.37651789767772
+            ],
+            [
+              5.212566304250844,
+              48.35735857796495
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68106,
+      "code_cant" : "10",
+      "x_centroid" : 8634,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 28089,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.37105885579647,
+        5.207865493298886
+      ],
+      "code_comm" : "511",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.207865493298886,
+        48.37105885579647
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

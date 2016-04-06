@@ -1,0 +1,71 @@
+  {
+    "recordid" : "55c2f7b0d72a01c1e4711ef9626329dae9200abc",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 480,
+      "insee_com" : "64001",
+      "z_moyen" : 382,
+      "code_dept" : "64",
+      "nom_comm" : "AAST",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4491,
+      "y_centroid" : 62484,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.084744013912741,
+              43.27720903236778
+            ],
+            [
+              -0.09480771628448,
+              43.28427615757281
+            ],
+            [
+              -0.089286979502051,
+              43.30106179208226
+            ],
+            [
+              -0.075832141512398,
+              43.3069371467252
+            ],
+            [
+              -0.07504166669941099,
+              43.30713969252608
+            ],
+            [
+              -0.06992151172779699,
+              43.28160133692528
+            ],
+            [
+              -0.084744013912741,
+              43.27720903236778
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62482,
+      "code_cant" : "22",
+      "x_centroid" : 4498,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 25807,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.29087721837912,
+        -0.08177269139020514
+      ],
+      "code_comm" : "001",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.08177269139020514,
+        43.29087721837912
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

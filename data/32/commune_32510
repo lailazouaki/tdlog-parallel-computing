@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3fe8f2ec9c24217980ed9a5857a3001f1aec839b",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 691,
+      "insee_com" : "28346",
+      "z_moyen" : 170,
+      "code_dept" : "28",
+      "nom_comm" : "SAINT-LUBIN-DE-CRAVANT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5593,
+      "y_centroid" : 68469,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.100185710460157,
+              48.69324110240737
+            ],
+            [
+              1.089480460706009,
+              48.70428943907508
+            ],
+            [
+              1.071340685124398,
+              48.71035843254629
+            ],
+            [
+              1.067034946178449,
+              48.71099051108052
+            ],
+            [
+              1.106389441548683,
+              48.72194114429512
+            ],
+            [
+              1.111415321389126,
+              48.71305990634954
+            ],
+            [
+              1.130453020930687,
+              48.69926160135301
+            ],
+            [
+              1.100185710460157,
+              48.69324110240737
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68473,
+      "code_cant" : "05",
+      "x_centroid" : 5603,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 12394,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.70717673521862,
+        1.10138248238596
+      ],
+      "code_comm" : "346",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.10138248238596,
+        48.70717673521862
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

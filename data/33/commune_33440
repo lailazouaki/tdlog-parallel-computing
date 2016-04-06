@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ee9db84f8831d5b533f262c2ddd13796cd0b4a4f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 316,
+      "insee_com" : "80594",
+      "z_moyen" : 88,
+      "code_dept" : "80",
+      "nom_comm" : "NEUVILLE-LES-LOEUILLY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6411,
+      "y_centroid" : 69663,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.195470292234105,
+              49.7894474504889
+            ],
+            [
+              2.182370933822774,
+              49.78414009889709
+            ],
+            [
+              2.164008706533601,
+              49.78943352184316
+            ],
+            [
+              2.157041456841905,
+              49.79450695417204
+            ],
+            [
+              2.169781090609474,
+              49.80487293462878
+            ],
+            [
+              2.173048113258743,
+              49.80201101867853
+            ],
+            [
+              2.19220248853274,
+              49.79248968812767
+            ],
+            [
+              2.195470292234105,
+              49.7894474504889
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69660,
+      "code_cant" : "17",
+      "x_centroid" : 6405,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 30753,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.7933026110903,
+        2.175363792768055
+      ],
+      "code_comm" : "594",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.175363792768055,
+        49.7933026110903
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

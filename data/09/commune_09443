@@ -1,0 +1,71 @@
+  {
+    "recordid" : "80f25b084ff5f2e873fe1e835bdf1666c3095aa8",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 413,
+      "insee_com" : "67109",
+      "z_moyen" : 236,
+      "code_dept" : "67",
+      "nom_comm" : "DURNINGEN",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10360,
+      "y_centroid" : 68524,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.582178370606997,
+              48.67313235552304
+            ],
+            [
+              7.549356008034258,
+              48.67879636075069
+            ],
+            [
+              7.544827914697153,
+              48.68945626408101
+            ],
+            [
+              7.547535699905091,
+              48.69523609621371
+            ],
+            [
+              7.569108023461411,
+              48.69447383423128
+            ],
+            [
+              7.57854560387257,
+              48.67871397360368
+            ],
+            [
+              7.582178370606997,
+              48.67313235552304
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68522,
+      "code_cant" : "31",
+      "x_centroid" : 10356,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 18992,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.68496512668275,
+        7.561828481795537
+      ],
+      "code_comm" : "109",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.561828481795537,
+        48.68496512668275
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

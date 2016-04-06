@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f28fa7e07ce5b7220c5ec42863a79ef471781571",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 529,
+      "insee_com" : "71454",
+      "z_moyen" : 191,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-MARTIN-DU-MONT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8755,
+      "y_centroid" : 66158,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.292205701629691,
+              46.60237551927668
+            ],
+            [
+              5.291950274779867,
+              46.60872234495709
+            ],
+            [
+              5.273672550160693,
+              46.62081507221359
+            ],
+            [
+              5.273634504500519,
+              46.62647286542931
+            ],
+            [
+              5.280303469919653,
+              46.6299165320132
+            ],
+            [
+              5.298108942728015,
+              46.62610171741616
+            ],
+            [
+              5.321197062996706,
+              46.62970801699263
+            ],
+            [
+              5.292205701629691,
+              46.60237551927668
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66151,
+      "code_cant" : "02",
+      "x_centroid" : 8755,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 2607,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.6200413285696,
+        5.294202712754786
+      ],
+      "code_comm" : "454",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.294202712754786,
+        46.6200413285696
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

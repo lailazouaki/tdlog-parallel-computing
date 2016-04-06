@@ -1,0 +1,75 @@
+  {
+    "recordid" : "292218cec58077bd3f7a5af1bd28d4b717eabc6a",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 487,
+      "insee_com" : "27027",
+      "z_moyen" : 146,
+      "code_dept" : "27",
+      "nom_comm" : "LES AUTHIEUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5709,
+      "y_centroid" : 68679,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.233685854539868,
+              48.88445180723646
+            ],
+            [
+              1.219677699879581,
+              48.89363532214049
+            ],
+            [
+              1.214918893677218,
+              48.90311733578802
+            ],
+            [
+              1.233942233241988,
+              48.90986682583861
+            ],
+            [
+              1.243479193969262,
+              48.91072666853224
+            ],
+            [
+              1.25075347373643,
+              48.90258470481983
+            ],
+            [
+              1.245560305951227,
+              48.88745091191424
+            ],
+            [
+              1.233685854539868,
+              48.88445180723646
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68680,
+      "code_cant" : "32",
+      "x_centroid" : 5705,
+      "nom_dept" : "EURE",
+      "id_geofla" : 29804,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.89826878502551,
+        1.234385957267885
+      ],
+      "code_comm" : "027",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.234385957267885,
+        48.89826878502551
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

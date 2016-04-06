@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a8070a6f58b4f13cd9cd39e094ce62d8abdf93c6",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 158,
+      "insee_com" : "65299",
+      "z_moyen" : 246,
+      "code_dept" : "65",
+      "nom_comm" : "MARSAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4636,
+      "y_centroid" : 62522,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.093574658528018,
+              43.32408420834661
+            ],
+            [
+              0.077205298142413,
+              43.3239849573138
+            ],
+            [
+              0.078290065824865,
+              43.3351767962482
+            ],
+            [
+              0.082366977540828,
+              43.33966188656731
+            ],
+            [
+              0.085821324768691,
+              43.33817967372631
+            ],
+            [
+              0.086092747072368,
+              43.33256971761028
+            ],
+            [
+              0.093898401103196,
+              43.33160053914768
+            ],
+            [
+              0.093574658528018,
+              43.32408420834661
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62520,
+      "code_cant" : "25",
+      "x_centroid" : 4634,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 33925,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.32993160692374,
+        0.08477116117873394
+      ],
+      "code_comm" : "299",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.08477116117873394,
+        43.32993160692374
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

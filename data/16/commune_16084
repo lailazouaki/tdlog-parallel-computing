@@ -1,0 +1,75 @@
+  {
+    "recordid" : "601dbf3cf56edf724ef9b1553335b852ecc3831a",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 505,
+      "insee_com" : "62583",
+      "z_moyen" : 153,
+      "code_dept" : "62",
+      "nom_comm" : "MONDICOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6615,
+      "y_centroid" : 70085,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.458756134401415,
+              50.15958872609733
+            ],
+            [
+              2.449191578144494,
+              50.17530673957389
+            ],
+            [
+              2.450820795423559,
+              50.17851996944953
+            ],
+            [
+              2.473887491547609,
+              50.18865163585386
+            ],
+            [
+              2.480416927372193,
+              50.1834350169082
+            ],
+            [
+              2.484812375115566,
+              50.16652578281401
+            ],
+            [
+              2.480266113246245,
+              50.16813208387254
+            ],
+            [
+              2.458756134401415,
+              50.15958872609733
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70085,
+      "code_cant" : "40",
+      "x_centroid" : 6619,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 23713,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.17420143986442,
+        2.467254383428866
+      ],
+      "code_comm" : "583",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.467254383428866,
+        50.17420143986442
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0046a9e2127d63d4458dffe66cf81f5ab6818bf8",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 93,
+      "insee_com" : "55379",
+      "z_moyen" : 166,
+      "code_dept" : "55",
+      "nom_comm" : "LE NEUFOUR",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8446,
+      "y_centroid" : 68940,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.984722212703121,
+              49.1224962330839
+            ],
+            [
+              4.978522934762988,
+              49.12845329564196
+            ],
+            [
+              4.974853176353307,
+              49.13284855646366
+            ],
+            [
+              4.988287455924412,
+              49.13541533153795
+            ],
+            [
+              4.989734228106447,
+              49.12526446219281
+            ],
+            [
+              4.984722212703121,
+              49.1224962330839
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68942,
+      "code_cant" : "04",
+      "x_centroid" : 8447,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 34983,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.12958021614095,
+        4.983754577061267
+      ],
+      "code_comm" : "379",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.983754577061267,
+        49.12958021614095
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

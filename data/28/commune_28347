@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d88a5fc4150488441748c8099c30f2a20bc2faa0",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 447,
+      "insee_com" : "09262",
+      "z_moyen" : 574,
+      "code_dept" : "09",
+      "nom_comm" : "SAINT-JEAN-D'AIGUES-VIVES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6076,
+      "y_centroid" : 62028,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.8873425817484,
+              42.90822999375536
+            ],
+            [
+              1.859391089837886,
+              42.91234371592304
+            ],
+            [
+              1.857934061725221,
+              42.91550301714682
+            ],
+            [
+              1.868003212814083,
+              42.92184225617454
+            ],
+            [
+              1.866456773130773,
+              42.92833745682032
+            ],
+            [
+              1.87407018026899,
+              42.93018928875939
+            ],
+            [
+              1.892357233859706,
+              42.92562164981152
+            ],
+            [
+              1.8873425817484,
+              42.90822999375536
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62034,
+      "code_cant" : "07",
+      "x_centroid" : 6082,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 24481,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        42.91890814481645,
+        1.876806868027706
+      ],
+      "code_comm" : "262",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.876806868027706,
+        42.91890814481645
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "aacd40c7de1095067880fdefb8e5909b3b2aaab2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 285,
+      "insee_com" : "50258",
+      "z_moyen" : 25,
+      "code_dept" : "50",
+      "nom_comm" : "JOGANVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3848,
+      "y_centroid" : 69389,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.332326072940331,
+              49.47378069067854
+            ],
+            [
+              -1.341735721320051,
+              49.46187685393002
+            ],
+            [
+              -1.360156679352092,
+              49.46820872952048
+            ],
+            [
+              -1.372543424636779,
+              49.47483704997165
+            ],
+            [
+              -1.370357705127143,
+              49.47772442484694
+            ],
+            [
+              -1.360553142724858,
+              49.47858205276872
+            ],
+            [
+              -1.332326072940331,
+              49.47378069067854
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69387,
+      "code_cant" : "22",
+      "x_centroid" : 3846,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 18145,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.47156370562733,
+        -1.35154159175608
+      ],
+      "code_comm" : "258",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.35154159175608,
+        49.47156370562733
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

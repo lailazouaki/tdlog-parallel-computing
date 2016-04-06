@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2d4fba69611485a23a3d9ec76a4fd907a210bd11",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 342,
+      "insee_com" : "48050",
+      "z_moyen" : 694,
+      "code_dept" : "48",
+      "nom_comm" : "COCURES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7494,
+      "y_centroid" : 63618,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.617731020117553,
+              44.36282431963007
+            ],
+            [
+              3.626635744024651,
+              44.36242290959444
+            ],
+            [
+              3.633328165302841,
+              44.3459742160729
+            ],
+            [
+              3.614286073977242,
+              44.34600115249729
+            ],
+            [
+              3.603881205599405,
+              44.35724801142499
+            ],
+            [
+              3.617731020117553,
+              44.36282431963007
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63612,
+      "code_cant" : "07",
+      "x_centroid" : 7493,
+      "nom_dept" : "LOZERE",
+      "id_geofla" : 11466,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.35394566838377,
+        3.619559720651019
+      ],
+      "code_comm" : "050",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.619559720651019,
+        44.35394566838377
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

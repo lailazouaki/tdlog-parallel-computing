@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f8311015c7bccfb785b3408977e3c18f73ca6193",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 196,
+      "insee_com" : "39145",
+      "z_moyen" : 322,
+      "code_dept" : "39",
+      "nom_comm" : "CHILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8966,
+      "y_centroid" : 66246,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.576209062053434,
+              46.68543837983326
+            ],
+            [
+              5.563009888232937,
+              46.68813945577898
+            ],
+            [
+              5.567830989843025,
+              46.69984231747052
+            ],
+            [
+              5.577908580964652,
+              46.70194063111998
+            ],
+            [
+              5.580064376589482,
+              46.69163998477045
+            ],
+            [
+              5.576209062053434,
+              46.68543837983326
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66247,
+      "code_cant" : "15",
+      "x_centroid" : 8965,
+      "nom_dept" : "JURA",
+      "id_geofla" : 33046,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.69335163223521,
+        5.572377541465425
+      ],
+      "code_comm" : "145",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.572377541465425,
+        46.69335163223521
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f70ca7ccea6bf497a56f67af9ce9ac7d30c53543",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 425,
+      "insee_com" : "32067",
+      "z_moyen" : 276,
+      "code_dept" : "32",
+      "nom_comm" : "CABAS-LOUMASSES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5052,
+      "y_centroid" : 62537,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.593668283192389,
+              43.34701739342369
+            ],
+            [
+              0.603363967095548,
+              43.36800513299438
+            ],
+            [
+              0.615136820113157,
+              43.36642920987463
+            ],
+            [
+              0.6214110821282119,
+              43.36177022133085
+            ],
+            [
+              0.63030637681433,
+              43.36053439725975
+            ],
+            [
+              0.616043268618766,
+              43.34780985804077
+            ],
+            [
+              0.593668283192389,
+              43.34701739342369
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62535,
+      "code_cant" : "15",
+      "x_centroid" : 5061,
+      "nom_dept" : "GERS",
+      "id_geofla" : 36346,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.35668372844351,
+        0.6102366319699329
+      ],
+      "code_comm" : "067",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6102366319699329,
+        43.35668372844351
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

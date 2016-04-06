@@ -1,0 +1,67 @@
+  {
+    "recordid" : "77e5117978dbb2b340c01eea22d5fad20db9dc90",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 155,
+      "insee_com" : "65207",
+      "z_moyen" : 367,
+      "code_dept" : "65",
+      "nom_comm" : "GOURGUE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4772,
+      "y_centroid" : 62303,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.260939482470255,
+              43.13131428932769
+            ],
+            [
+              0.258263775703914,
+              43.13409921328746
+            ],
+            [
+              0.261883831849235,
+              43.14276816234349
+            ],
+            [
+              0.26935369092146,
+              43.14386664801922
+            ],
+            [
+              0.282384386928811,
+              43.13675308839351
+            ],
+            [
+              0.260939482470255,
+              43.13131428932769
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62301,
+      "code_cant" : "11",
+      "x_centroid" : 4776,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 17248,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.13768601269452,
+        0.2681728853982204
+      ],
+      "code_comm" : "207",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2681728853982204,
+        43.13768601269452
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

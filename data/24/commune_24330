@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b3c386eed53b392d7bb641803e4afda2d431d1b5",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 194,
+      "insee_com" : "02584",
+      "z_moyen" : 214,
+      "code_dept" : "02",
+      "nom_comm" : "PAPLEUX",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7634,
+      "y_centroid" : 69912,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.881460895125868,
+              50.00617043276931
+            ],
+            [
+              3.870460352192256,
+              50.01571663414312
+            ],
+            [
+              3.878323477017479,
+              50.02788554494489
+            ],
+            [
+              3.886696769982555,
+              50.02350474772159
+            ],
+            [
+              3.88729241702343,
+              50.00969440968955
+            ],
+            [
+              3.881460895125868,
+              50.00617043276931
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69917,
+      "code_cant" : "05",
+      "x_centroid" : 7631,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 16389,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.01691677436356,
+        3.880237812889157
+      ],
+      "code_comm" : "584",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.880237812889157,
+        50.01691677436356
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

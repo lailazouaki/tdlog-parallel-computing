@@ -1,0 +1,67 @@
+  {
+    "recordid" : "76c0b50d68b91ebe88fbb1bc1209a2403f69b605",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 196,
+      "insee_com" : "25086",
+      "z_moyen" : 352,
+      "code_dept" : "25",
+      "nom_comm" : "BRAILLANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9334,
+      "y_centroid" : 66947,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.083561944938737,
+              47.30128461756539
+            ],
+            [
+              6.076139151498196,
+              47.31620269419054
+            ],
+            [
+              6.089785199252177,
+              47.32012857729686
+            ],
+            [
+              6.09599785277567,
+              47.3157466866176
+            ],
+            [
+              6.095174615740597,
+              47.30928197024478
+            ],
+            [
+              6.083561944938737,
+              47.30128461756539
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66944,
+      "code_cant" : "13",
+      "x_centroid" : 9331,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 32801,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.31191024027082,
+        6.086600322434744
+      ],
+      "code_comm" : "086",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.086600322434744,
+        47.31191024027082
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

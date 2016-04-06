@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4e50a1e4a21b0b832e1e94cf80fb568429d28bd8",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 620,
+      "insee_com" : "30186",
+      "z_moyen" : 81,
+      "code_dept" : "30",
+      "nom_comm" : "NAGES-ET-SOLORGUES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7990,
+      "y_centroid" : 62994,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.241313319689644,
+              43.77324638576098
+            ],
+            [
+              4.235707459622463,
+              43.77879097710824
+            ],
+            [
+              4.216910129344052,
+              43.77859752105682
+            ],
+            [
+              4.210796337195722,
+              43.79608025873907
+            ],
+            [
+              4.23758798147916,
+              43.79796634753761
+            ],
+            [
+              4.25915066969813,
+              43.78463352412859
+            ],
+            [
+              4.255970299128127,
+              43.7840582312779
+            ],
+            [
+              4.241313319689644,
+              43.77324638576098
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62998,
+      "code_cant" : "32",
+      "x_centroid" : 7992,
+      "nom_dept" : "GARD",
+      "id_geofla" : 34870,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        43.78706181778256,
+        4.232972527601224
+      ],
+      "code_comm" : "186",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.232972527601224,
+        43.78706181778256
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

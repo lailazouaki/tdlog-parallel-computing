@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b2d1fa73de3c27e350c18b5a304734f8e7ed07af",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 448,
+      "insee_com" : "50534",
+      "z_moyen" : 21,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-PELLERIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 3961,
+      "y_centroid" : 69187,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.212599054780108,
+              49.28329734588737
+            ],
+            [
+              -1.198587050313358,
+              49.306597353539
+            ],
+            [
+              -1.186369673466503,
+              49.30279099508138
+            ],
+            [
+              -1.178018225138748,
+              49.30420575471415
+            ],
+            [
+              -1.164908560285827,
+              49.29477500807122
+            ],
+            [
+              -1.170495768361113,
+              49.28931580498239
+            ],
+            [
+              -1.185110320493912,
+              49.29032189656194
+            ],
+            [
+              -1.212599054780108,
+              49.28329734588737
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69189,
+      "code_cant" : "09",
+      "x_centroid" : 3953,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 32180,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.29530949021478,
+        -1.189239388173989
+      ],
+      "code_comm" : "534",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.189239388173989,
+        49.29530949021478
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

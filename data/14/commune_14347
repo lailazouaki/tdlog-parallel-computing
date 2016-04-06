@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c103e70527b63d5bcbefc92695a286f7a94c9f59",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 504,
+      "insee_com" : "50556",
+      "z_moyen" : 58,
+      "code_dept" : "50",
+      "nom_comm" : "SAINTE-SUZANNE-SUR-VIRE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4034,
+      "y_centroid" : 68935,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.05916471027014,
+              49.05784612302489
+            ],
+            [
+              -1.064029045451404,
+              49.06694604661372
+            ],
+            [
+              -1.078105344719561,
+              49.07622845843891
+            ],
+            [
+              -1.052051746956359,
+              49.08901254360745
+            ],
+            [
+              -1.041606564827965,
+              49.06933248202343
+            ],
+            [
+              -1.045445571904567,
+              49.06286490469435
+            ],
+            [
+              -1.05916471027014,
+              49.05784612302489
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68921,
+      "code_cant" : "35",
+      "x_centroid" : 4036,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 26856,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.07331805141084,
+        -1.05714630383295
+      ],
+      "code_comm" : "556",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.05714630383295,
+        49.07331805141084
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

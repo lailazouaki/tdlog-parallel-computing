@@ -1,0 +1,67 @@
+  {
+    "recordid" : "afffbd28a40069951cec1cf25e1afc3911d638a7",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 338,
+      "insee_com" : "65325",
+      "z_moyen" : 250,
+      "code_dept" : "65",
+      "nom_comm" : "MOUMOULOUS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4763,
+      "y_centroid" : 62550,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.257992085193744,
+              43.35046856914443
+            ],
+            [
+              0.245006332231328,
+              43.34679903315175
+            ],
+            [
+              0.241366139433612,
+              43.348893605611
+            ],
+            [
+              0.231704192491265,
+              43.36771211454836
+            ],
+            [
+              0.244123969172545,
+              43.3727190380181
+            ],
+            [
+              0.257992085193744,
+              43.35046856914443
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62550,
+      "code_cant" : "18",
+      "x_centroid" : 4765,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 31507,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.35913949744602,
+        0.2443841135935926
+      ],
+      "code_comm" : "325",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2443841135935926,
+        43.35913949744602
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "691fb4baa8cbf793b98bb390073bbd9beb7681f6",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 318,
+      "insee_com" : "17060",
+      "z_moyen" : 40,
+      "code_dept" : "17",
+      "nom_comm" : "BOUTENAC-TOUVENT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4068,
+      "y_centroid" : 64958,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.759789112373883,
+              45.48582521955946
+            ],
+            [
+              -0.7756826555122101,
+              45.4930081752821
+            ],
+            [
+              -0.759451491847099,
+              45.50959976518841
+            ],
+            [
+              -0.746056148337483,
+              45.51173348942059
+            ],
+            [
+              -0.759789112373883,
+              45.48582521955946
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64963,
+      "code_cant" : "08",
+      "x_centroid" : 4064,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 22102,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.49898566267186,
+        -0.7604790569476061
+      ],
+      "code_comm" : "060",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7604790569476061,
+        45.49898566267186
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

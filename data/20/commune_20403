@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0be73685dc80ed83d00d56f2f8c8c742af67e31f",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 267,
+      "insee_com" : "71041",
+      "z_moyen" : 433,
+      "code_dept" : "71",
+      "nom_comm" : "BOIS-SAINTE-MARIE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8042,
+      "y_centroid" : 65822,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.360563432937983,
+              46.34327041835426
+            ],
+            [
+              4.361574898120336,
+              46.32644404264611
+            ],
+            [
+              4.353819592207265,
+              46.32247470192161
+            ],
+            [
+              4.33969105376651,
+              46.32519037129611
+            ],
+            [
+              4.356968187250176,
+              46.34616818050806
+            ],
+            [
+              4.360563432937983,
+              46.34327041835426
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65819,
+      "code_cant" : "11",
+      "x_centroid" : 8040,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 1980,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.33214233772608,
+        4.353303224562393
+      ],
+      "code_comm" : "041",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.353303224562393,
+        46.33214233772608
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

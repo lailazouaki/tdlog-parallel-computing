@@ -1,0 +1,67 @@
+  {
+    "recordid" : "66690a157c21927f5b970fac3bf2e9a604c76a2c",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 339,
+      "insee_com" : "50192",
+      "z_moyen" : 83,
+      "code_dept" : "50",
+      "nom_comm" : "FOURNEAUX",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4045,
+      "y_centroid" : 68816,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.056539331423219,
+              48.95862267402072
+            ],
+            [
+              -1.059549630870639,
+              48.96739887795797
+            ],
+            [
+              -1.054550222843282,
+              48.97255643975937
+            ],
+            [
+              -1.016977999988098,
+              48.97094947436337
+            ],
+            [
+              -1.027543899386121,
+              48.96258126373453
+            ],
+            [
+              -1.056539331423219,
+              48.95862267402072
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68813,
+      "code_cant" : "45",
+      "x_centroid" : 4042,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 34418,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.96643835237449,
+        -1.041463153436828
+      ],
+      "code_comm" : "192",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.041463153436828,
+        48.96643835237449
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

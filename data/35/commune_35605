@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ed9422658e06dbd2582e23df51aaa17ad95b2591",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 442,
+      "insee_com" : "63114",
+      "z_moyen" : 490,
+      "code_dept" : "63",
+      "nom_comm" : "COLLANGES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7170,
+      "y_centroid" : 64817,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.222714642953306,
+              45.42379570049692
+            ],
+            [
+              3.201151253281532,
+              45.4297254677158
+            ],
+            [
+              3.197014172009822,
+              45.43875543563516
+            ],
+            [
+              3.206070457721182,
+              45.44578978616202
+            ],
+            [
+              3.208615226255203,
+              45.44555096204595
+            ],
+            [
+              3.234900402195302,
+              45.43881755898568
+            ],
+            [
+              3.222714642953306,
+              45.42379570049692
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64820,
+      "code_cant" : "40",
+      "x_centroid" : 7167,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 35903,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.43530444798644,
+        3.214853014729972
+      ],
+      "code_comm" : "114",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.214853014729972,
+        45.43530444798644
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

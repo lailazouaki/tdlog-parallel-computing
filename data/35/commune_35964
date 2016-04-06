@@ -1,0 +1,75 @@
+  {
+    "recordid" : "72eed96960cd74d95a614795608a668e4964d4ac",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 689,
+      "insee_com" : "08352",
+      "z_moyen" : 209,
+      "code_dept" : "08",
+      "nom_comm" : "RAILLICOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8146,
+      "y_centroid" : 69515,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.590389221832607,
+              49.6274485622753
+            ],
+            [
+              4.573650092615758,
+              49.64287383348635
+            ],
+            [
+              4.574065620813203,
+              49.65505574688284
+            ],
+            [
+              4.586786977240262,
+              49.66128061597771
+            ],
+            [
+              4.594894757220894,
+              49.67399977739723
+            ],
+            [
+              4.607428103358755,
+              49.67267543622702
+            ],
+            [
+              4.609050792835035,
+              49.66701879602437
+            ],
+            [
+              4.590389221832607,
+              49.6274485622753
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69514,
+      "code_cant" : "28",
+      "x_centroid" : 8149,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 35091,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.65252731979467,
+        4.590976904038239
+      ],
+      "code_comm" : "352",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.590976904038239,
+        49.65252731979467
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

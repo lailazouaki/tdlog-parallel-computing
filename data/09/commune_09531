@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d0421031042ab829db9f9166f5d0d6306a87a6ff",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 561,
+      "insee_com" : "74261",
+      "z_moyen" : 1035,
+      "code_dept" : "74",
+      "nom_comm" : "SAXEL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9615,
+      "y_centroid" : 65773,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.409968337873275,
+              46.23434215500349
+            ],
+            [
+              6.395332544156341,
+              46.23332896739518
+            ],
+            [
+              6.378480673561004,
+              46.24038336791391
+            ],
+            [
+              6.38988844207252,
+              46.24966090004146
+            ],
+            [
+              6.416418164102991,
+              46.25798856839494
+            ],
+            [
+              6.425392179598769,
+              46.2512652215317
+            ],
+            [
+              6.409968337873275,
+              46.23434215500349
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65770,
+      "code_cant" : "07",
+      "x_centroid" : 9621,
+      "nom_dept" : "HAUTE-SAVOIE",
+      "id_geofla" : 17168,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        46.24477956012178,
+        6.403254614283845
+      ],
+      "code_comm" : "261",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.403254614283845,
+        46.24477956012178
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

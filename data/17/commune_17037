@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1fe58264d00bdb0e8db1222c375f8a0cb4f07b89",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 412,
+      "insee_com" : "54234",
+      "z_moyen" : 299,
+      "code_dept" : "54",
+      "nom_comm" : "GORCY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8943,
+      "y_centroid" : 69407,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.674700635848387,
+              49.52112385919887
+            ],
+            [
+              5.669230534098062,
+              49.54850874152064
+            ],
+            [
+              5.689101926036588,
+              49.54609161507299
+            ],
+            [
+              5.701263034650678,
+              49.53951786025748
+            ],
+            [
+              5.688757373494125,
+              49.52525518869009
+            ],
+            [
+              5.674700635848387,
+              49.52112385919887
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69405,
+      "code_cant" : "32",
+      "x_centroid" : 8942,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 24455,
+      "statut" : "Commune simple",
+      "population" : 2.4,
+      "geom_x_y" : [
+        49.53609500302994,
+        5.683080689224508
+      ],
+      "code_comm" : "234",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.683080689224508,
+        49.53609500302994
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

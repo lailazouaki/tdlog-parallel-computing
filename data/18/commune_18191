@@ -1,0 +1,63 @@
+  {
+    "recordid" : "c986fcae36f1b32ac9823e7ace50953f52e105b1",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 334,
+      "insee_com" : "68206",
+      "z_moyen" : 345,
+      "code_dept" : "68",
+      "nom_comm" : "MICHELBACH",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10082,
+      "y_centroid" : 67481,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.125608480434063,
+              47.75188108788972
+            ],
+            [
+              7.092222264077101,
+              47.76244477536402
+            ],
+            [
+              7.099421180630537,
+              47.77034908820934
+            ],
+            [
+              7.133906692571379,
+              47.76201589124899
+            ],
+            [
+              7.125608480434063,
+              47.75188108788972
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67482,
+      "code_cant" : "25",
+      "x_centroid" : 10080,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 20511,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.76147941960248,
+        7.113418912102399
+      ],
+      "code_comm" : "206",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.113418912102399,
+        47.76147941960248
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "103e3fe16df7805b9d8567ca280cd640f8f89eed",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 399,
+      "insee_com" : "50506",
+      "z_moyen" : 49,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-MALO-DE-LA-LANDE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3684,
+      "y_centroid" : 68943,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.559082475844713,
+              49.05016339798267
+            ],
+            [
+              -1.556648525629375,
+              49.06019906122716
+            ],
+            [
+              -1.5483856046053,
+              49.06443026635567
+            ],
+            [
+              -1.547468431984553,
+              49.07459716170074
+            ],
+            [
+              -1.532743486923839,
+              49.07614467206876
+            ],
+            [
+              -1.527931179307374,
+              49.06107870597253
+            ],
+            [
+              -1.54426409301875,
+              49.05275192738677
+            ],
+            [
+              -1.559082475844713,
+              49.05016339798267
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68952,
+      "code_cant" : "36",
+      "x_centroid" : 3681,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 14982,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.06305394569701,
+        -1.542619970838455
+      ],
+      "code_comm" : "506",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.542619970838455,
+        49.06305394569701
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

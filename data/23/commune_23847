@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ac05f2b86dd4bb96a8000a8d9c1dd2c52e150055",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 213,
+      "insee_com" : "25444",
+      "z_moyen" : 236,
+      "code_dept" : "25",
+      "nom_comm" : "PALISE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9331,
+      "y_centroid" : 67007,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.091706628474432,
+              47.35969064975736
+            ],
+            [
+              6.082372852526839,
+              47.36084863592018
+            ],
+            [
+              6.082016160267901,
+              47.37171395368136
+            ],
+            [
+              6.100736054226608,
+              47.37070230846781
+            ],
+            [
+              6.102487485770829,
+              47.36132212189167
+            ],
+            [
+              6.091706628474432,
+              47.35969064975736
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67013,
+      "code_cant" : "13",
+      "x_centroid" : 9332,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 16021,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.36572250358007,
+        6.091703591325468
+      ],
+      "code_comm" : "444",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.091703591325468,
+        47.36572250358007
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ef985e58481858990bdd5300ace5e0386b18a5c6",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1154,
+      "insee_com" : "05111",
+      "z_moyen" : 1211,
+      "code_dept" : "05",
+      "nom_comm" : "PUY-SANIERES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9726,
+      "y_centroid" : 63900,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.419932548694449,
+              44.53387072892755
+            ],
+            [
+              6.41348794719335,
+              44.54166634994263
+            ],
+            [
+              6.43486069696085,
+              44.58541790261258
+            ],
+            [
+              6.464716045868258,
+              44.54636831303187
+            ],
+            [
+              6.436447655781756,
+              44.54131410612367
+            ],
+            [
+              6.419932548694449,
+              44.53387072892755
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63902,
+      "code_cant" : "21",
+      "x_centroid" : 9728,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 25853,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.55569498936045,
+        6.436674188580646
+      ],
+      "code_comm" : "111",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.436674188580646,
+        44.55569498936045
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

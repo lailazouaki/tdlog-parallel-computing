@@ -1,0 +1,75 @@
+  {
+    "recordid" : "819a3324dbf5fe8dfd7deba0c8b675033c42cdbe",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 504,
+      "insee_com" : "57173",
+      "z_moyen" : 234,
+      "code_dept" : "57",
+      "nom_comm" : "DESSELING",
+      "code_arr" : "5",
+      "x_chf_lieu" : 9823,
+      "y_centroid" : 68607,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.834759382344286,
+              48.76787069158331
+            ],
+            [
+              6.828892804689186,
+              48.78147565466212
+            ],
+            [
+              6.837952335539113,
+              48.79626711442147
+            ],
+            [
+              6.846167016603435,
+              48.79991072900744
+            ],
+            [
+              6.870921956732134,
+              48.78782828289999
+            ],
+            [
+              6.855441023525791,
+              48.78634815928046
+            ],
+            [
+              6.850645187811979,
+              48.7765799456251
+            ],
+            [
+              6.834759382344286,
+              48.76787069158331
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68607,
+      "code_cant" : "10",
+      "x_centroid" : 9823,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 26124,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.78531832745102,
+        6.84475115272939
+      ],
+      "code_comm" : "173",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.84475115272939,
+        48.78531832745102
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

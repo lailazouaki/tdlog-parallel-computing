@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bf6f3d9366135958ff877a93b9062742ed0f79fd",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 498,
+      "insee_com" : "65285",
+      "z_moyen" : 280,
+      "code_dept" : "65",
+      "nom_comm" : "LOUIT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4691,
+      "y_centroid" : 62487,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.156864786523527,
+              43.29083214321252
+            ],
+            [
+              0.14510355759589,
+              43.29069305422196
+            ],
+            [
+              0.143518981596915,
+              43.30700697908961
+            ],
+            [
+              0.176934380949478,
+              43.3105403994142
+            ],
+            [
+              0.18004886206246,
+              43.29727258100527
+            ],
+            [
+              0.156864786523527,
+              43.29083214321252
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62489,
+      "code_cant" : "17",
+      "x_centroid" : 4695,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 20987,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.30068550017213,
+        0.1608684256700552
+      ],
+      "code_comm" : "285",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1608684256700552,
+        43.30068550017213
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

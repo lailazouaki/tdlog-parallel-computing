@@ -1,0 +1,67 @@
+  {
+    "recordid" : "50b2510f514a2698c819f16cfa0e1984715a455d",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 223,
+      "insee_com" : "60280",
+      "z_moyen" : 195,
+      "code_dept" : "60",
+      "nom_comm" : "GOURCHELLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6119,
+      "y_centroid" : 69592,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.770928276203259,
+              49.71423614660716
+            ],
+            [
+              1.768602429546705,
+              49.73142124356268
+            ],
+            [
+              1.783815370773601,
+              49.73355102156637
+            ],
+            [
+              1.796103851855831,
+              49.72685264940888
+            ],
+            [
+              1.778477589675994,
+              49.72194143395419
+            ],
+            [
+              1.770928276203259,
+              49.71423614660716
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69596,
+      "code_cant" : "15",
+      "x_centroid" : 6119,
+      "nom_dept" : "OISE",
+      "id_geofla" : 32650,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.72648332695682,
+        1.779003093268974
+      ],
+      "code_comm" : "280",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.779003093268974,
+        49.72648332695682
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

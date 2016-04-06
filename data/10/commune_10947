@@ -1,0 +1,67 @@
+  {
+    "recordid" : "70c84330b8e46f379205268e6f90d682f289e088",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 241,
+      "insee_com" : "14214",
+      "z_moyen" : 50,
+      "code_dept" : "14",
+      "nom_comm" : "CUSSY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4262,
+      "y_centroid" : 69158,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.780089773522865,
+              49.27624402656992
+            ],
+            [
+              -0.7638974533383041,
+              49.29168101074797
+            ],
+            [
+              -0.759461924334859,
+              49.29047838107276
+            ],
+            [
+              -0.741905809096354,
+              49.28478755269327
+            ],
+            [
+              -0.770647192896397,
+              49.27690863331793
+            ],
+            [
+              -0.780089773522865,
+              49.27624402656992
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69158,
+      "code_cant" : "03",
+      "x_centroid" : 4263,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 17601,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.28374256461392,
+        -0.7621524326122305
+      ],
+      "code_comm" : "214",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7621524326122305,
+        49.28374256461392
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

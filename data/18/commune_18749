@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c9cf0944908c90653786acf689158afe25edf931",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 146,
+      "insee_com" : "70021",
+      "z_moyen" : 314,
+      "code_dept" : "70",
+      "nom_comm" : "ANDORNAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9698,
+      "y_centroid" : 67348,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.59357105452477,
+              47.65153458105545
+            ],
+            [
+              6.588047410463615,
+              47.65327220140676
+            ],
+            [
+              6.59716828425172,
+              47.66729985078497
+            ],
+            [
+              6.599503175625179,
+              47.66730901932035
+            ],
+            [
+              6.609883227396062,
+              47.65710443122828
+            ],
+            [
+              6.59357105452477,
+              47.65153458105545
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67345,
+      "code_cant" : "13",
+      "x_centroid" : 9700,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 19236,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.65866480010868,
+        6.598424068781052
+      ],
+      "code_comm" : "021",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.598424068781052,
+        47.65866480010868
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

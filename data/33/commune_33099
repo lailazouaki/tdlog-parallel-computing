@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d7ae07aa1a3c0d9dda016269912f5b74cb813cc3",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 224,
+      "insee_com" : "68385",
+      "z_moyen" : 366,
+      "code_dept" : "68",
+      "nom_comm" : "ZIMMERBACH",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10154,
+      "y_centroid" : 67833,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.234019986286743,
+              48.06652020794234
+            ],
+            [
+              7.206956715550198,
+              48.07683559123226
+            ],
+            [
+              7.215371527151997,
+              48.07983276946455
+            ],
+            [
+              7.24342055151772,
+              48.07895121787348
+            ],
+            [
+              7.250064644581937,
+              48.07427776911374
+            ],
+            [
+              7.234019986286743,
+              48.06652020794234
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67831,
+      "code_cant" : "26",
+      "x_centroid" : 10148,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 33700,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        48.07455995556141,
+        7.230050419520883
+      ],
+      "code_comm" : "385",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.230050419520883,
+        48.07455995556141
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

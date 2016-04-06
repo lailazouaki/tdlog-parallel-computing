@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0c32dd77cbd46d643bb90568eb8b6d9e5dedd230",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 736,
+      "insee_com" : "54573",
+      "z_moyen" : 267,
+      "code_dept" : "54",
+      "nom_comm" : "VILLERS-EN-HAYE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9210,
+      "y_centroid" : 68620,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.007964064507526,
+              48.80422466500404
+            ],
+            [
+              5.995376308470783,
+              48.80544091017637
+            ],
+            [
+              5.987331698816321,
+              48.83221016896549
+            ],
+            [
+              6.006439748739762,
+              48.83898508072676
+            ],
+            [
+              6.007788608115717,
+              48.83306521913168
+            ],
+            [
+              6.025334347257655,
+              48.82720447357547
+            ],
+            [
+              6.027305215451566,
+              48.81138636099271
+            ],
+            [
+              6.007964064507526,
+              48.80422466500404
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68628,
+      "code_cant" : "12",
+      "x_centroid" : 9207,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 21219,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.82033200269916,
+        6.006990570072867
+      ],
+      "code_comm" : "573",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.006990570072867,
+        48.82033200269916
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

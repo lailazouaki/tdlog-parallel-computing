@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7ce652ca9caca7df19db4fc7d2e54e99d1689c56",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 272,
+      "insee_com" : "39428",
+      "z_moyen" : 819,
+      "code_dept" : "39",
+      "nom_comm" : "PLENISETTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9303,
+      "y_centroid" : 66382,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.031087272516707,
+              46.7931058797084
+            ],
+            [
+              6.021687041706048,
+              46.79204691405809
+            ],
+            [
+              6.000573284633804,
+              46.81542353626899
+            ],
+            [
+              6.009297954823713,
+              46.8179616897465
+            ],
+            [
+              6.029043305351933,
+              46.79573679433141
+            ],
+            [
+              6.031087272516707,
+              46.7931058797084
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66376,
+      "code_cant" : "20",
+      "x_centroid" : 9299,
+      "nom_dept" : "JURA",
+      "id_geofla" : 33180,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.80473244292272,
+        6.01569148453046
+      ],
+      "code_comm" : "428",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.01569148453046,
+        46.80473244292272
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

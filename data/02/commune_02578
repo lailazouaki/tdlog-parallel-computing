@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f0f4f1ef061323d46c3586ce97fd0a295d9ce19c",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 598,
+      "insee_com" : "62371",
+      "z_moyen" : 84,
+      "code_dept" : "62",
+      "nom_comm" : "GIVENCHY-EN-GOHELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6837,
+      "y_centroid" : 70327,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.771363073466458,
+              50.37703198549666
+            ],
+            [
+              2.764316822012887,
+              50.37976588122897
+            ],
+            [
+              2.758299093479945,
+              50.39039260184807
+            ],
+            [
+              2.761152106809242,
+              50.39582948556867
+            ],
+            [
+              2.774384455967153,
+              50.40463417844452
+            ],
+            [
+              2.78952033767449,
+              50.4061511139133
+            ],
+            [
+              2.800150767453106,
+              50.39275665122289
+            ],
+            [
+              2.771363073466458,
+              50.37703198549666
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70328,
+      "code_cant" : "45",
+      "x_centroid" : 6841,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 26762,
+      "statut" : "Commune simple",
+      "population" : 2.1,
+      "geom_x_y" : [
+        50.39251662615644,
+        2.777827489474199
+      ],
+      "code_comm" : "371",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.777827489474199,
+        50.39251662615644
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

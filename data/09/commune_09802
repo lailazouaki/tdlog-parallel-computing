@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ac53c3cf432c2815cd32e3a90ccaf2bb332cd683",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 490,
+      "insee_com" : "60519",
+      "z_moyen" : 90,
+      "code_dept" : "60",
+      "nom_comm" : "QUESMY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7042,
+      "y_centroid" : 69481,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.055009126228698,
+              49.62086479585314
+            ],
+            [
+              3.038138751769637,
+              49.62683806649707
+            ],
+            [
+              3.042617100984665,
+              49.63905762066914
+            ],
+            [
+              3.045539234001722,
+              49.64196801953461
+            ],
+            [
+              3.066228874625809,
+              49.64395339348695
+            ],
+            [
+              3.068855670826379,
+              49.62153170399365
+            ],
+            [
+              3.055009126228698,
+              49.62086479585314
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69483,
+      "code_cant" : "18",
+      "x_centroid" : 7039,
+      "nom_dept" : "OISE",
+      "id_geofla" : 34052,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.63208352279738,
+        3.054965422321501
+      ],
+      "code_comm" : "519",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.054965422321501,
+        49.63208352279738
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

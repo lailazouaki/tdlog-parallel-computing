@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e287335dcf8cdc87e780f9429841ec7dd7e1877f",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 374,
+      "insee_com" : "25521",
+      "z_moyen" : 380,
+      "code_dept" : "25",
+      "nom_comm" : "SAINT-JULIEN-LES-MONTBELIARD",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9791,
+      "y_centroid" : 67197,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.714198957207322,
+              47.51233059410859
+            ],
+            [
+              6.684181359590979,
+              47.51603248636595
+            ],
+            [
+              6.681789756681042,
+              47.52012715715934
+            ],
+            [
+              6.701000411146994,
+              47.5249522213894
+            ],
+            [
+              6.71768712397795,
+              47.52806150784112
+            ],
+            [
+              6.726681300791324,
+              47.51375217624926
+            ],
+            [
+              6.722243861500578,
+              47.512299037341
+            ],
+            [
+              6.714198957207322,
+              47.51233059410859
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67200,
+      "code_cant" : "30",
+      "x_centroid" : 9788,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 22561,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.51918585356307,
+        6.706494138300451
+      ],
+      "code_comm" : "521",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.706494138300451,
+        47.51918585356307
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

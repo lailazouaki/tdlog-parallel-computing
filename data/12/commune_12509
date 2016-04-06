@@ -1,0 +1,67 @@
+  {
+    "recordid" : "aa82e51009ff72fa819c760e1669d1fabf128c60",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 232,
+      "insee_com" : "80719",
+      "z_moyen" : 178,
+      "code_dept" : "80",
+      "nom_comm" : "SAINTE-SEGREE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6215,
+      "y_centroid" : 69629,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.914079410224281,
+              49.74986897493974
+            ],
+            [
+              1.904887988290062,
+              49.76138717499369
+            ],
+            [
+              1.911086856523001,
+              49.77318675962569
+            ],
+            [
+              1.922442366180326,
+              49.7623523282429
+            ],
+            [
+              1.923497992734889,
+              49.75174068842651
+            ],
+            [
+              1.914079410224281,
+              49.74986897493974
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69623,
+      "code_cant" : "35",
+      "x_centroid" : 6217,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 16985,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.76027299813797,
+        1.914642728261907
+      ],
+      "code_comm" : "719",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.914642728261907,
+        49.76027299813797
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

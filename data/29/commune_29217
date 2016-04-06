@@ -1,0 +1,67 @@
+  {
+    "recordid" : "39da08760e36886792f8ac10eeb49c6d23bdb166",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 530,
+      "insee_com" : "08228",
+      "z_moyen" : 221,
+      "code_dept" : "08",
+      "nom_comm" : "LA HORGNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8207,
+      "y_centroid" : 69484,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.700534395619774,
+              49.61427259248186
+            ],
+            [
+              4.647977587859956,
+              49.61972455468034
+            ],
+            [
+              4.665598850925247,
+              49.63110597106252
+            ],
+            [
+              4.684660433248047,
+              49.63511262212856
+            ],
+            [
+              4.699586544768704,
+              49.61739581208174
+            ],
+            [
+              4.700534395619774,
+              49.61427259248186
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69488,
+      "code_cant" : "20",
+      "x_centroid" : 8212,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 20318,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.62371006804024,
+        4.676718875671217
+      ],
+      "code_comm" : "228",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.676718875671217,
+        49.62371006804024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

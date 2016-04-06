@@ -1,0 +1,67 @@
+  {
+    "recordid" : "94d385acc16882d154f131b4640bf134e5a71c12",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 361,
+      "insee_com" : "31323",
+      "z_moyen" : 404,
+      "code_dept" : "31",
+      "nom_comm" : "MARTRES-DE-RIVIERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5077,
+      "y_centroid" : 62232,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.654707339880195,
+              43.07091046568855
+            ],
+            [
+              0.627482916764341,
+              43.08054485970024
+            ],
+            [
+              0.639192270368275,
+              43.0908081127981
+            ],
+            [
+              0.651068809947559,
+              43.09584579017363
+            ],
+            [
+              0.656072848028545,
+              43.08022613189582
+            ],
+            [
+              0.654707339880195,
+              43.07091046568855
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62228,
+      "code_cant" : "05",
+      "x_centroid" : 5080,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 21827,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.08296297464913,
+        0.6448356114302529
+      ],
+      "code_comm" : "323",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6448356114302529,
+        43.08296297464913
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

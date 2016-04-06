@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f23a5f91da96d5f3c08330d1ad12e42333f84393",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 284,
+      "insee_com" : "14510",
+      "z_moyen" : 218,
+      "code_dept" : "14",
+      "nom_comm" : "LA POMMERAYE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4492,
+      "y_centroid" : 68731,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.401430321094462,
+              48.90118484577233
+            ],
+            [
+              -0.410334072006988,
+              48.90079647857405
+            ],
+            [
+              -0.426789838087737,
+              48.90561926141356
+            ],
+            [
+              -0.429887020498549,
+              48.910967331478
+            ],
+            [
+              -0.423618788275122,
+              48.91594438774258
+            ],
+            [
+              -0.411123768794367,
+              48.91971243380117
+            ],
+            [
+              -0.401430321094462,
+              48.90118484577233
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68730,
+      "code_cant" : "31",
+      "x_centroid" : 4497,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 29223,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.90940408543272,
+        -0.4154828583495991
+      ],
+      "code_comm" : "510",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4154828583495991,
+        48.90940408543272
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

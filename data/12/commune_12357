@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bb6f529ca1dfdbd19824ac21bdb586016c24f3a1",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 637,
+      "insee_com" : "21362",
+      "z_moyen" : 406,
+      "code_dept" : "21",
+      "nom_comm" : "MACONGE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8193,
+      "y_centroid" : 66817,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.572209138492191,
+              47.21514226946414
+            ],
+            [
+              4.560937540972642,
+              47.22019307986096
+            ],
+            [
+              4.559408020368661,
+              47.23946509743487
+            ],
+            [
+              4.569061724699043,
+              47.23908271512541
+            ],
+            [
+              4.59791468178924,
+              47.22809032238497
+            ],
+            [
+              4.59926672954161,
+              47.21488003916193
+            ],
+            [
+              4.572209138492191,
+              47.21514226946414
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66811,
+      "code_cant" : "26",
+      "x_centroid" : 8193,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 28748,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.22569413506883,
+        4.577930289965051
+      ],
+      "code_comm" : "362",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.577930289965051,
+        47.22569413506883
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

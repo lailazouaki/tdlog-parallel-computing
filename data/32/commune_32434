@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c70cf612bfadb107ad7e9c83f4065081e3939a5d",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 696,
+      "insee_com" : "24109",
+      "z_moyen" : 114,
+      "code_dept" : "24",
+      "nom_comm" : "LA CHAPELLE-GRESIGNAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4917,
+      "y_centroid" : 64801,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.320376596109642,
+              45.37501911771321
+            ],
+            [
+              0.320624298718727,
+              45.39270207768207
+            ],
+            [
+              0.324638401872426,
+              45.39485222300054
+            ],
+            [
+              0.35675534553487,
+              45.40923707286774
+            ],
+            [
+              0.354808593770099,
+              45.38401834755803
+            ],
+            [
+              0.350778193926847,
+              45.37844527026073
+            ],
+            [
+              0.320376596109642,
+              45.37501911771321
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64806,
+      "code_cant" : "44",
+      "x_centroid" : 4918,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 33725,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.38963528059801,
+        0.3393471156517104
+      ],
+      "code_comm" : "109",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3393471156517104,
+        45.38963528059801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

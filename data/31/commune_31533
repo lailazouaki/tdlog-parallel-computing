@@ -1,0 +1,63 @@
+  {
+    "recordid" : "3b2a666e45a3dd1734c21100104286c1064361ad",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 55,
+      "insee_com" : "35022",
+      "z_moyen" : 148,
+      "code_dept" : "35",
+      "nom_comm" : "BECHEREL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3334,
+      "y_centroid" : 68110,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.948021893584549,
+              48.29111651801439
+            ],
+            [
+              -1.947772688720718,
+              48.29737435192833
+            ],
+            [
+              -1.939122366313929,
+              48.30035951434115
+            ],
+            [
+              -1.934902041270111,
+              48.29872380940774
+            ],
+            [
+              -1.948021893584549,
+              48.29111651801439
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68109,
+      "code_cant" : "04",
+      "x_centroid" : 3336,
+      "nom_dept" : "ILLE-ET-VILAINE",
+      "id_geofla" : 12793,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.29650874339523,
+        -1.942823656599094
+      ],
+      "code_comm" : "022",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.942823656599094,
+        48.29650874339523
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

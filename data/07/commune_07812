@@ -1,0 +1,75 @@
+  {
+    "recordid" : "153a975fc23b2a32daffd234e188b26d3e61d3ef",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 210,
+      "insee_com" : "14569",
+      "z_moyen" : 47,
+      "code_dept" : "14",
+      "nom_comm" : "SAINTE-CROIX-SUR-MER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4448,
+      "y_centroid" : 69186,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.51980126369303,
+              49.30847047593223
+            ],
+            [
+              -0.523423484661834,
+              49.3093185886517
+            ],
+            [
+              -0.517069216640916,
+              49.32067959714628
+            ],
+            [
+              -0.513606486835233,
+              49.32400173104342
+            ],
+            [
+              -0.50410305792738,
+              49.32271230206993
+            ],
+            [
+              -0.493790916965571,
+              49.31618173525371
+            ],
+            [
+              -0.512317504628236,
+              49.30891346287932
+            ],
+            [
+              -0.51980126369303,
+              49.30847047593223
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69183,
+      "code_cant" : "28",
+      "x_centroid" : 4448,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 20967,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.31601262597643,
+        -0.5100005361077387
+      ],
+      "code_comm" : "569",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5100005361077387,
+        49.31601262597643
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

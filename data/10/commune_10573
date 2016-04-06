@@ -1,0 +1,79 @@
+  {
+    "recordid" : "f1a574af57eb9dbc71ee1b584b6467d99e71252a",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 674,
+      "insee_com" : "05149",
+      "z_moyen" : 1425,
+      "code_dept" : "05",
+      "nom_comm" : "SAINT-LEGER-LES-MELEZES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9535,
+      "y_centroid" : 63993,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.242260209507154,
+              44.64212103786247
+            ],
+            [
+              6.224581352881612,
+              44.63643015086355
+            ],
+            [
+              6.216833176186497,
+              44.64062939603467
+            ],
+            [
+              6.188326357372682,
+              44.63753595453847
+            ],
+            [
+              6.192432084317838,
+              44.64875208072571
+            ],
+            [
+              6.190243209808174,
+              44.65423031323387
+            ],
+            [
+              6.202937202313741,
+              44.65880987310621
+            ],
+            [
+              6.220921385075467,
+              44.65474644610465
+            ],
+            [
+              6.242260209507154,
+              44.64212103786247
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63989,
+      "code_cant" : "18",
+      "x_centroid" : 9546,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 15319,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        44.64687610086686,
+        6.211718670532299
+      ],
+      "code_comm" : "149",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.211718670532299,
+        44.64687610086686
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

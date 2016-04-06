@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e19a0eca284b66076fb9186e394b75f5bb14deef",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 160,
+      "insee_com" : "75104",
+      "z_moyen" : 33,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-4E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6524,
+      "y_centroid" : 68617,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.364320760755825,
+              48.84616720580085
+            ],
+            [
+              2.344559180836944,
+              48.85399290271931
+            ],
+            [
+              2.350088493587214,
+              48.86195533215501
+            ],
+            [
+              2.3684017253737,
+              48.85573996195296
+            ],
+            [
+              2.369018230803884,
+              48.85322503073002
+            ],
+            [
+              2.364320760755825,
+              48.84616720580085
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68620,
+      "code_cant" : "18",
+      "x_centroid" : 6528,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 11667,
+      "statut" : "Chef-lieu canton",
+      "population" : 28.2,
+      "geom_x_y" : [
+        48.85422828195475,
+        2.357361938142205
+      ],
+      "code_comm" : "104",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.357361938142205,
+        48.85422828195475
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

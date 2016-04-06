@@ -1,0 +1,63 @@
+  {
+    "recordid" : "acf805c30ba1e6623fe43b6f26fbcbfb5d4affad",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 99,
+      "insee_com" : "2B344",
+      "z_moyen" : 485,
+      "code_dept" : "2B",
+      "nom_comm" : "VERDESE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12243,
+      "y_centroid" : 61649,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.364496347680145,
+              42.38789928189598
+            ],
+            [
+              9.366189407781869,
+              42.3960669884376
+            ],
+            [
+              9.385288954587958,
+              42.39906056674528
+            ],
+            [
+              9.380041151619139,
+              42.39390188990504
+            ],
+            [
+              9.364496347680145,
+              42.38789928189598
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61646,
+      "code_cant" : "37",
+      "x_centroid" : 12250,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 33739,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.39416624754758,
+        9.373117774165628
+      ],
+      "code_comm" : "344",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.373117774165628,
+        42.39416624754758
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

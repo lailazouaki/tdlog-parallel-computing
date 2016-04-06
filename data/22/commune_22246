@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d71be9e4859edd1f66ceb3b5483dc2bf2da981a8",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 406,
+      "insee_com" : "59504",
+      "z_moyen" : 38,
+      "code_dept" : "59",
+      "nom_comm" : "ROEULX",
+      "code_arr" : "6",
+      "x_chf_lieu" : 7238,
+      "y_centroid" : 70239,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.330587488187876,
+              50.301950555696
+            ],
+            [
+              3.321161661523132,
+              50.30326838481899
+            ],
+            [
+              3.309043574602996,
+              50.31603083451365
+            ],
+            [
+              3.325173171773334,
+              50.32541662178247
+            ],
+            [
+              3.343349731237585,
+              50.31518590246954
+            ],
+            [
+              3.346700509486339,
+              50.30694326532178
+            ],
+            [
+              3.330587488187876,
+              50.301950555696
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70235,
+      "code_cant" : "11",
+      "x_centroid" : 7234,
+      "nom_dept" : "NORD",
+      "id_geofla" : 24062,
+      "statut" : "Commune simple",
+      "population" : 3.7,
+      "geom_x_y" : [
+        50.31272297330392,
+        3.328134304680185
+      ],
+      "code_comm" : "504",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.328134304680185,
+        50.31272297330392
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

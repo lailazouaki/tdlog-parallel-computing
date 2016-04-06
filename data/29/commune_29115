@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a66891bce062d05600aa1132d01e89c212e7e9c2",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 421,
+      "insee_com" : "62441",
+      "z_moyen" : 131,
+      "code_dept" : "62",
+      "nom_comm" : "HERMIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6686,
+      "y_centroid" : 70351,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.543329947967096,
+              50.4000910228006
+            ],
+            [
+              2.532557621996208,
+              50.41216119634421
+            ],
+            [
+              2.558392581927681,
+              50.42510258185136
+            ],
+            [
+              2.572118003120909,
+              50.42058149965496
+            ],
+            [
+              2.569946960222063,
+              50.41482856021496
+            ],
+            [
+              2.543329947967096,
+              50.4000910228006
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70357,
+      "code_cant" : "28",
+      "x_centroid" : 6681,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21801,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.4135492598849,
+        2.552372447133005
+      ],
+      "code_comm" : "441",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.552372447133005,
+        50.4135492598849
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

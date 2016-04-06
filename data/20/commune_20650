@@ -1,0 +1,75 @@
+  {
+    "recordid" : "011c6af24f173b1c1ff96886896c00faae202041",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 488,
+      "insee_com" : "66197",
+      "z_moyen" : 848,
+      "code_dept" : "66",
+      "nom_comm" : "SOUANYAS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6406,
+      "y_centroid" : 61611,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.29618678924422,
+              42.54011002121212
+            ],
+            [
+              2.261928396177133,
+              42.5430252175527
+            ],
+            [
+              2.263927365588551,
+              42.54936802069214
+            ],
+            [
+              2.27608908084878,
+              42.55501602919835
+            ],
+            [
+              2.29474689558513,
+              42.557667088867
+            ],
+            [
+              2.303365771074608,
+              42.54670181903378
+            ],
+            [
+              2.300496200424453,
+              42.54063278842722
+            ],
+            [
+              2.29618678924422,
+              42.54011002121212
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61613,
+      "code_cant" : "07",
+      "x_centroid" : 6411,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 27149,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.54804993477219,
+        2.284183281849209
+      ],
+      "code_comm" : "197",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.284183281849209,
+        42.54804993477219
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "46c5fb27aec3ba1dcd77768b8243e3aace5243d2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 780,
+      "insee_com" : "14737",
+      "z_moyen" : 126,
+      "code_dept" : "14",
+      "nom_comm" : "VERSAINVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4671,
+      "y_centroid" : 68735,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.179641647427659,
+              48.90511226363497
+            ],
+            [
+              -0.187708450270945,
+              48.90909179948988
+            ],
+            [
+              -0.192608821272852,
+              48.92264134771874
+            ],
+            [
+              -0.19513146026299,
+              48.92946807589437
+            ],
+            [
+              -0.181241264267703,
+              48.93283477204005
+            ],
+            [
+              -0.150015928400153,
+              48.92834112511083
+            ],
+            [
+              -0.147782266353221,
+              48.91242513907859
+            ],
+            [
+              -0.179641647427659,
+              48.90511226363497
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68732,
+      "code_cant" : "18",
+      "x_centroid" : 4676,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 14154,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.91977264962385,
+        -0.1715254635649359
+      ],
+      "code_comm" : "737",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1715254635649359,
+        48.91977264962385
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

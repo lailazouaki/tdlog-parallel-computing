@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9487d0dd18668ab11cfce2c41523b3a30ca229e5",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 72,
+      "insee_com" : "95369",
+      "z_moyen" : 73,
+      "code_dept" : "95",
+      "nom_comm" : "MARGENCY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6480,
+      "y_centroid" : 68781,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.290335704385445,
+              48.99670838476472
+            ],
+            [
+              2.282734995394293,
+              48.99984650528036
+            ],
+            [
+              2.283143165375888,
+              49.00295131421092
+            ],
+            [
+              2.291830954494085,
+              49.00632106616296
+            ],
+            [
+              2.295353864150352,
+              49.00154888194774
+            ],
+            [
+              2.290335704385445,
+              48.99670838476472
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68782,
+      "code_cant" : "24",
+      "x_centroid" : 6479,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 2478,
+      "statut" : "Commune simple",
+      "population" : 2.9,
+      "geom_x_y" : [
+        49.00148884663008,
+        2.289070089687839
+      ],
+      "code_comm" : "369",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.289070089687839,
+        49.00148884663008
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

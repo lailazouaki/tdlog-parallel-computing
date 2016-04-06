@@ -1,0 +1,75 @@
+  {
+    "recordid" : "75ce559224e11b281d2ce44ba27066b8fd91febc",
+    "fields" : {
+      "nom_region" : "LIMOUSIN",
+      "superficie" : 316,
+      "insee_com" : "23020",
+      "z_moyen" : 598,
+      "code_dept" : "23",
+      "nom_comm" : "BELLEGARDE-EN-MARCHE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6453,
+      "y_centroid" : 65426,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.280722612747695,
+              45.98440830016939
+            ],
+            [
+              2.297796143480079,
+              45.98978352380293
+            ],
+            [
+              2.308247078440395,
+              45.98367021093278
+            ],
+            [
+              2.301883599843476,
+              45.9751301864943
+            ],
+            [
+              2.279689974487406,
+              45.97645005811107
+            ],
+            [
+              2.272530672519388,
+              45.97869164458402
+            ],
+            [
+              2.279787039814547,
+              45.97989070006061
+            ],
+            [
+              2.280722612747695,
+              45.98440830016939
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65427,
+      "code_cant" : "04",
+      "x_centroid" : 6452,
+      "nom_dept" : "CREUSE",
+      "id_geofla" : 20088,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.4,
+      "geom_x_y" : [
+        45.98154130816872,
+        2.292912002610254
+      ],
+      "code_comm" : "020",
+      "code_reg" : "74"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.292912002610254,
+        45.98154130816872
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

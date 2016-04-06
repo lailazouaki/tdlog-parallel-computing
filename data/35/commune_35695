@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0fd23edaf87af2c57bd4b9ea2850753cb1e352fe",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 685,
+      "insee_com" : "14079",
+      "z_moyen" : 28,
+      "code_dept" : "14",
+      "nom_comm" : "BLONVILLE-SUR-MER",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4841,
+      "y_centroid" : 69176,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.032764204774515,
+              49.3043728968054
+            ],
+            [
+              0.023475849185017,
+              49.30704080072652
+            ],
+            [
+              0.014294720529241,
+              49.33256839761319
+            ],
+            [
+              0.031424741472057,
+              49.34177013742539
+            ],
+            [
+              0.04203024887704,
+              49.33567964655761
+            ],
+            [
+              0.045946981867443,
+              49.32689711276787
+            ],
+            [
+              0.047380865463478,
+              49.30641351818055
+            ],
+            [
+              0.032764204774515,
+              49.3043728968054
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69194,
+      "code_cant" : "35",
+      "x_centroid" : 4842,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 35403,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        49.32226468501233,
+        0.03223919960488048
+      ],
+      "code_comm" : "079",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.03223919960488048,
+        49.32226468501233
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

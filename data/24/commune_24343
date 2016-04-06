@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8b29d6e2edd1d1d2ac1b6c2cda3010e61fb97a5d",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 306,
+      "insee_com" : "67092",
+      "z_moyen" : 335,
+      "code_dept" : "67",
+      "nom_comm" : "DIEFFENBACH-AU-VAL",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10205,
+      "y_centroid" : 68103,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.346567920176502,
+              48.31917609756058
+            ],
+            [
+              7.318766912802811,
+              48.30390322468045
+            ],
+            [
+              7.313677927702985,
+              48.30327803324852
+            ],
+            [
+              7.308697956084465,
+              48.3130559405047
+            ],
+            [
+              7.334916493300273,
+              48.32501014275945
+            ],
+            [
+              7.346567920176502,
+              48.31917609756058
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68103,
+      "code_cant" : "32",
+      "x_centroid" : 10205,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 16456,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.31440245130167,
+        7.325996418762277
+      ],
+      "code_comm" : "092",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.325996418762277,
+        48.31440245130167
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

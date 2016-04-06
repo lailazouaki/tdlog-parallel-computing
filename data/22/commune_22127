@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c981aeca35fcd8dbdff192184943ca007d77bbf9",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 262,
+      "insee_com" : "14548",
+      "z_moyen" : 51,
+      "code_dept" : "14",
+      "nom_comm" : "RUCQUEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4391,
+      "y_centroid" : 69124,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5821299936794611,
+              49.24782028504929
+            ],
+            [
+              -0.60148370541704,
+              49.25786253116276
+            ],
+            [
+              -0.60029931694178,
+              49.26000369035592
+            ],
+            [
+              -0.5917924623399849,
+              49.26836550595603
+            ],
+            [
+              -0.569322293606906,
+              49.25782013140482
+            ],
+            [
+              -0.5821299936794611,
+              49.24782028504929
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69122,
+      "code_cant" : "13",
+      "x_centroid" : 4389,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24340,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.25805897952024,
+        -0.5861094165553263
+      ],
+      "code_comm" : "548",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5861094165553263,
+        49.25805897952024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

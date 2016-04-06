@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6895e5c66a0fa893712005862ad775ea6912e018",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 244,
+      "insee_com" : "39342",
+      "z_moyen" : 269,
+      "code_dept" : "39",
+      "nom_comm" : "MONAY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8977,
+      "y_centroid" : 66408,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.599394025435953,
+              46.82989540699356
+            ],
+            [
+              5.581911735507797,
+              46.83626193931735
+            ],
+            [
+              5.581886360952588,
+              46.84013622429534
+            ],
+            [
+              5.582796326859591,
+              46.8432508016773
+            ],
+            [
+              5.600094788402173,
+              46.84641054711876
+            ],
+            [
+              5.609121283381183,
+              46.83917937706617
+            ],
+            [
+              5.599394025435953,
+              46.82989540699356
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66406,
+      "code_cant" : "30",
+      "x_centroid" : 8977,
+      "nom_dept" : "JURA",
+      "id_geofla" : 20370,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.83872497496723,
+        5.595035288534907
+      ],
+      "code_comm" : "342",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.595035288534907,
+        46.83872497496723
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

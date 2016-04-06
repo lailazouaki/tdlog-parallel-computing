@@ -1,0 +1,71 @@
+  {
+    "recordid" : "eb242edef634f46daea5fb7412b7e1a36cb36b94",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 166,
+      "insee_com" : "44116",
+      "z_moyen" : 5,
+      "code_dept" : "44",
+      "nom_comm" : "PAIMBOEUF",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3199,
+      "y_centroid" : 66994,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.017672986441025,
+              47.28040584558858
+            ],
+            [
+              -2.041519402367348,
+              47.28702947909716
+            ],
+            [
+              -2.045758324416706,
+              47.28938887781472
+            ],
+            [
+              -2.042358765292115,
+              47.29172889414452
+            ],
+            [
+              -2.028199440447906,
+              47.28989942407133
+            ],
+            [
+              -2.010493518951958,
+              47.28457732848847
+            ],
+            [
+              -2.017672986441025,
+              47.28040584558858
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66995,
+      "code_cant" : "29",
+      "x_centroid" : 3202,
+      "nom_dept" : "LOIRE-ATLANTIQUE",
+      "id_geofla" : 36365,
+      "statut" : "Chef-lieu canton",
+      "population" : 3.2,
+      "geom_x_y" : [
+        47.28639928834714,
+        -2.028074255518901
+      ],
+      "code_comm" : "116",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.028074255518901,
+        47.28639928834714
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

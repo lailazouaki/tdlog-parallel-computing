@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ffabd40f34328eee5ade92f67bc1f5044ef4826d",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 657,
+      "insee_com" : "61360",
+      "z_moyen" : 204,
+      "code_dept" : "61",
+      "nom_comm" : "SAINT-AGNAN-SUR-SARTHE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5103,
+      "y_centroid" : 68388,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.424469466001902,
+              48.60363885694125
+            ],
+            [
+              0.41706264341705,
+              48.6167892453774
+            ],
+            [
+              0.40857317278067,
+              48.6254066382867
+            ],
+            [
+              0.40809249124639,
+              48.62880711544507
+            ],
+            [
+              0.41688090588891,
+              48.63202201115136
+            ],
+            [
+              0.433385356594379,
+              48.63518677416587
+            ],
+            [
+              0.452287522608753,
+              48.62317310657079
+            ],
+            [
+              0.424469466001902,
+              48.60363885694125
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68375,
+      "code_cant" : "09",
+      "x_centroid" : 5105,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 22847,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.62194589426397,
+        0.4289362071072958
+      ],
+      "code_comm" : "360",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4289362071072958,
+        48.62194589426397
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

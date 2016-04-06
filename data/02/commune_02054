@@ -1,0 +1,63 @@
+  {
+    "recordid" : "3a20123e23bb4277692db3aab8292b5f823d99fb",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 210,
+      "insee_com" : "72138",
+      "z_moyen" : 89,
+      "code_dept" : "72",
+      "nom_comm" : "FRESNAY-SUR-SARTHE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4790,
+      "y_centroid" : 68020,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.03822244252628,
+              48.27579522926634
+            ],
+            [
+              0.010108681168898,
+              48.27705947983299
+            ],
+            [
+              0.008235569694381,
+              48.28344086033356
+            ],
+            [
+              0.027944230104221,
+              48.2903845205527
+            ],
+            [
+              0.03822244252628,
+              48.27579522926634
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68021,
+      "code_cant" : "12",
+      "x_centroid" : 4791,
+      "nom_dept" : "SARTHE",
+      "id_geofla" : 25097,
+      "statut" : "Chef-lieu canton",
+      "population" : 2.2,
+      "geom_x_y" : [
+        48.28173965514169,
+        0.0228368822751645
+      ],
+      "code_comm" : "138",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.0228368822751645,
+        48.28173965514169
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

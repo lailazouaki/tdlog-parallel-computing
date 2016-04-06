@@ -1,0 +1,71 @@
+  {
+    "recordid" : "acdd5367d96a6948552e6c8d9370db1a4791705f",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 275,
+      "insee_com" : "25540",
+      "z_moyen" : 378,
+      "code_dept" : "25",
+      "nom_comm" : "SEMONDANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9776,
+      "y_centroid" : 67220,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.703928642330017,
+              47.53226651163579
+            ],
+            [
+              6.68878750790952,
+              47.53324250206867
+            ],
+            [
+              6.677314763823396,
+              47.54383288024658
+            ],
+            [
+              6.676534206862704,
+              47.55028246430241
+            ],
+            [
+              6.689570651659905,
+              47.54535587433449
+            ],
+            [
+              6.708959271987482,
+              47.54320848330095
+            ],
+            [
+              6.703928642330017,
+              47.53226651163579
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67223,
+      "code_cant" : "30",
+      "x_centroid" : 9776,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 20101,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.54022222506372,
+        6.692761230612444
+      ],
+      "code_comm" : "540",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.692761230612444,
+        47.54022222506372
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

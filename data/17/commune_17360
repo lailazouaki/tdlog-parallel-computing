@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5bbcf4e7088085d39b1025e8f03e56d62aa8b368",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1394,
+      "insee_com" : "05160",
+      "z_moyen" : 880,
+      "code_dept" : "05",
+      "nom_comm" : "SALERANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9159,
+      "y_centroid" : 63529,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.735433136411641,
+              44.22602950407862
+            ],
+            [
+              5.698598641416082,
+              44.22631980465501
+            ],
+            [
+              5.681132665069037,
+              44.23069252127127
+            ],
+            [
+              5.672644087768123,
+              44.24566971234326
+            ],
+            [
+              5.674252071027319,
+              44.25586170008236
+            ],
+            [
+              5.686652769624987,
+              44.26606948207071
+            ],
+            [
+              5.732602453857344,
+              44.23981680218883
+            ],
+            [
+              5.735433136411641,
+              44.22602950407862
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63530,
+      "code_cant" : "16",
+      "x_centroid" : 9156,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 31560,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.24212982454555,
+        5.700960582677374
+      ],
+      "code_comm" : "160",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.700960582677374,
+        44.24212982454555
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dbbd40a2b2e7e2d8818ccb5f473c356847b5a393",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 549,
+      "insee_com" : "88432",
+      "z_moyen" : 272,
+      "code_dept" : "88",
+      "nom_comm" : "SAINT-PIERREMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9644,
+      "y_centroid" : 68214,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.583870758203035,
+              48.41722539544067
+            ],
+            [
+              6.56857610875618,
+              48.43822862509309
+            ],
+            [
+              6.584728895220743,
+              48.45993113761376
+            ],
+            [
+              6.594471374936279,
+              48.46241006419817
+            ],
+            [
+              6.588417366291224,
+              48.4316951609858
+            ],
+            [
+              6.594696191423812,
+              48.42200390083006
+            ],
+            [
+              6.583870758203035,
+              48.41722539544067
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68212,
+      "code_cant" : "21",
+      "x_centroid" : 9649,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 32092,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.43945746035217,
+        6.583324618124434
+      ],
+      "code_comm" : "432",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.583324618124434,
+        48.43945746035217
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

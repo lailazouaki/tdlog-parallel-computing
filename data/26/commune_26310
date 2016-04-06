@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ba4706dcd95c1405a1c39f0ef5efce50db1df30b",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 483,
+      "insee_com" : "73314",
+      "z_moyen" : 418,
+      "code_dept" : "73",
+      "nom_comm" : "VILLARD-D'HERY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9449,
+      "y_centroid" : 64954,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.134418100403615,
+              45.49901779392804
+            ],
+            [
+              6.119219395390351,
+              45.50903872606013
+            ],
+            [
+              6.127086493125447,
+              45.51809291997188
+            ],
+            [
+              6.152753172328234,
+              45.52897332061465
+            ],
+            [
+              6.15860509329885,
+              45.52073418638471
+            ],
+            [
+              6.15387526624675,
+              45.51555916264308
+            ],
+            [
+              6.134418100403615,
+              45.49901779392804
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64954,
+      "code_cant" : "18",
+      "x_centroid" : 9450,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 8768,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.51427591712878,
+        6.139190857601263
+      ],
+      "code_comm" : "314",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.139190857601263,
+        45.51427591712878
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

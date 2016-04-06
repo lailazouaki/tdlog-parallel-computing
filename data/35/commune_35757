@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6243ef2d6f4ec3f355cf4dc690990cb76ee3fba0",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 568,
+      "insee_com" : "17446",
+      "z_moyen" : 27,
+      "code_dept" : "17",
+      "nom_comm" : "THORS",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4429,
+      "y_centroid" : 65304,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.310785331369714,
+              45.81081337872619
+            ],
+            [
+              -0.333167588712412,
+              45.81713951876986
+            ],
+            [
+              -0.33530139892938,
+              45.82343962090427
+            ],
+            [
+              -0.319506225689764,
+              45.83752370065623
+            ],
+            [
+              -0.310993609769077,
+              45.83877408766279
+            ],
+            [
+              -0.303250750828122,
+              45.83587344237271
+            ],
+            [
+              -0.297628855783946,
+              45.83112582846278
+            ],
+            [
+              -0.310785331369714,
+              45.81081337872619
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65311,
+      "code_cant" : "15",
+      "x_centroid" : 4426,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 36016,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        45.82522386005366,
+        -0.3161510813722371
+      ],
+      "code_comm" : "446",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3161510813722371,
+        45.82522386005366
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

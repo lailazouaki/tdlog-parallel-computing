@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ca1d0b91fa4c41e49d788ebabe5a988a2e42da9c",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 460,
+      "insee_com" : "02076",
+      "z_moyen" : 64,
+      "code_dept" : "02",
+      "nom_comm" : "BERTRICOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7732,
+      "y_centroid" : 69224,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.02845943930754,
+              49.3893775235648
+            ],
+            [
+              4.01448105686678,
+              49.38652911839971
+            ],
+            [
+              3.997734964884823,
+              49.39355414385804
+            ],
+            [
+              3.990905795695985,
+              49.39937230814851
+            ],
+            [
+              4.001221172992024,
+              49.40995739953524
+            ],
+            [
+              4.031364991966202,
+              49.39900719421009
+            ],
+            [
+              4.02845943930754,
+              49.3893775235648
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69222,
+      "code_cant" : "21",
+      "x_centroid" : 7734,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 22007,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.39752856820596,
+        4.011461786980166
+      ],
+      "code_comm" : "076",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.011461786980166,
+        49.39752856820596
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

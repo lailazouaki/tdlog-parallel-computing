@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1a0db22e06f9928dc9fd0dd18385e4fb860561c3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 565,
+      "insee_com" : "50533",
+      "z_moyen" : 23,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-PATRICE-DE-CLAIDS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3769,
+      "y_centroid" : 69121,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.426256851538885,
+              49.21320951215937
+            ],
+            [
+              -1.427689269130592,
+              49.21388619290965
+            ],
+            [
+              -1.440540958092586,
+              49.21805014776672
+            ],
+            [
+              -1.459154047229377,
+              49.21901912648693
+            ],
+            [
+              -1.45832426655713,
+              49.23250238469055
+            ],
+            [
+              -1.42973491533744,
+              49.2423991840689
+            ],
+            [
+              -1.425275067833358,
+              49.23448645685566
+            ],
+            [
+              -1.426256851538885,
+              49.21320951215937
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69124,
+      "code_cant" : "20",
+      "x_centroid" : 3766,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 28899,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.22756146722487,
+        -1.440333803343156
+      ],
+      "code_comm" : "533",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.440333803343156,
+        49.22756146722487
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

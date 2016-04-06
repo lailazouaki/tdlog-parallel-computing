@@ -1,0 +1,67 @@
+  {
+    "recordid" : "97d626f85da02e5cd802e4b65f7f2dc5b575c4ab",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 401,
+      "insee_com" : "60688",
+      "z_moyen" : 149,
+      "code_dept" : "60",
+      "nom_comm" : "VILLERS-SUR-BONNIERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6251,
+      "y_centroid" : 69376,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.967279784547527,
+              49.52366689610323
+            ],
+            [
+              1.946007353905859,
+              49.53088097968281
+            ],
+            [
+              1.943230038131932,
+              49.54305331833507
+            ],
+            [
+              1.97121869023379,
+              49.54071436426767
+            ],
+            [
+              1.978836277084114,
+              49.52991245833594
+            ],
+            [
+              1.967279784547527,
+              49.52366689610323
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69381,
+      "code_cant" : "22",
+      "x_centroid" : 6247,
+      "nom_dept" : "OISE",
+      "id_geofla" : 18649,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.53409788483479,
+        1.96061918500836
+      ],
+      "code_comm" : "688",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.96061918500836,
+        49.53409788483479
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

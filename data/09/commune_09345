@@ -1,0 +1,79 @@
+  {
+    "recordid" : "0224d9cbc439115d805734b86ea59897074deb5d",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 494,
+      "insee_com" : "84109",
+      "z_moyen" : 186,
+      "code_dept" : "84",
+      "nom_comm" : "SAINT-HIPPOLYTE-LE-GRAVEYRON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8659,
+      "y_centroid" : 63378,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.074024235955265,
+              44.10159580314893
+            ],
+            [
+              5.070298268607017,
+              44.10633010423418
+            ],
+            [
+              5.062948861366959,
+              44.12143263466194
+            ],
+            [
+              5.06464018297893,
+              44.12773932363358
+            ],
+            [
+              5.07100444009061,
+              44.13224712883699
+            ],
+            [
+              5.084891573819193,
+              44.13254209132334
+            ],
+            [
+              5.092079046357417,
+              44.12980306787293
+            ],
+            [
+              5.076781279143567,
+              44.10319122009378
+            ],
+            [
+              5.074024235955265,
+              44.10159580314893
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63381,
+      "code_cant" : "09",
+      "x_centroid" : 8661,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 34817,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.12037399842808,
+        5.076109297968324
+      ],
+      "code_comm" : "109",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.076109297968324,
+        44.12037399842808
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

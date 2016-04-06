@@ -1,0 +1,71 @@
+  {
+    "recordid" : "58f9a66444b5cbe56bf80db66ed75fbb104da23a",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 311,
+      "insee_com" : "33356",
+      "z_moyen" : 20,
+      "code_dept" : "33",
+      "nom_comm" : "LA RIVIERE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4389,
+      "y_centroid" : 64319,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.317689568554446,
+              44.92689477699937
+            ],
+            [
+              -0.330941609559139,
+              44.93280630718768
+            ],
+            [
+              -0.317972549587478,
+              44.94710821344389
+            ],
+            [
+              -0.309177145794033,
+              44.95009195611256
+            ],
+            [
+              -0.304982645914337,
+              44.93857392553691
+            ],
+            [
+              -0.307310035459197,
+              44.93264720932928
+            ],
+            [
+              -0.317689568554446,
+              44.92689477699937
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64316,
+      "code_cant" : "24",
+      "x_centroid" : 4384,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 31889,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        44.93772372174806,
+        -0.316177006649096
+      ],
+      "code_comm" : "356",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.316177006649096,
+        44.93772372174806
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

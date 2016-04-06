@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e172a363ae0d94404efa84b2414f23f5dd6a9c9e",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 360,
+      "insee_com" : "70269",
+      "z_moyen" : 285,
+      "code_dept" : "70",
+      "nom_comm" : "GIREFONTAINE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9372,
+      "y_centroid" : 67597,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.186669831083718,
+              47.8869143774111
+            ],
+            [
+              6.177753450086193,
+              47.88515664502798
+            ],
+            [
+              6.16129590402609,
+              47.89143773262629
+            ],
+            [
+              6.15285836438736,
+              47.90247297096936
+            ],
+            [
+              6.161855505753444,
+              47.9046537786588
+            ],
+            [
+              6.177413577648634,
+              47.90229713719045
+            ],
+            [
+              6.188620352413666,
+              47.89530999985383
+            ],
+            [
+              6.186669831083718,
+              47.8869143774111
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67595,
+      "code_cant" : "25",
+      "x_centroid" : 9369,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 34942,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.8953750468953,
+        6.172056587153294
+      ],
+      "code_comm" : "269",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.172056587153294,
+        47.8953750468953
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

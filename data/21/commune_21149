@@ -1,0 +1,71 @@
+  {
+    "recordid" : "69f1db412cd5b4b0d2804b87fc6cfff5e11c64fc",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 97,
+      "insee_com" : "65354",
+      "z_moyen" : 829,
+      "code_dept" : "65",
+      "nom_comm" : "PAILHAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4849,
+      "y_centroid" : 62049,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.367323395772681,
+              42.90422237250555
+            ],
+            [
+              0.362668030271408,
+              42.90970471894536
+            ],
+            [
+              0.365958223668752,
+              42.91946709792671
+            ],
+            [
+              0.371687486804888,
+              42.91866269114661
+            ],
+            [
+              0.369214783573479,
+              42.91379732921076
+            ],
+            [
+              0.372861590519322,
+              42.90868591489323
+            ],
+            [
+              0.367323395772681,
+              42.90422237250555
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62045,
+      "code_cant" : "02",
+      "x_centroid" : 4848,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 25049,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.91192238399361,
+        0.3675404993982677
+      ],
+      "code_comm" : "354",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3675404993982677,
+        42.91192238399361
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

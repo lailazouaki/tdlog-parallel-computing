@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e56c6f2895825a1816983e072cd0ca4efcc51deb",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 232,
+      "insee_com" : "2B015",
+      "z_moyen" : 546,
+      "code_dept" : "2B",
+      "nom_comm" : "AMPRIANI",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12249,
+      "y_centroid" : 61493,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.360162745544249,
+              42.24489091319974
+            ],
+            [
+              9.348952628226549,
+              42.25072884874643
+            ],
+            [
+              9.345518286586788,
+              42.25711038895933
+            ],
+            [
+              9.357045740031076,
+              42.2622265504736
+            ],
+            [
+              9.366811843945179,
+              42.25570808171894
+            ],
+            [
+              9.367226175485383,
+              42.24902922311085
+            ],
+            [
+              9.360162745544249,
+              42.24489091319974
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61493,
+      "code_cant" : "24",
+      "x_centroid" : 12249,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 29282,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.25365715060166,
+        9.357319764138522
+      ],
+      "code_comm" : "015",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.357319764138522,
+        42.25365715060166
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

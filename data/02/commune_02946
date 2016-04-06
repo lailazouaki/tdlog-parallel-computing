@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e609a0041651e3b6e10cd7e859b36ee56c079348",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 671,
+      "insee_com" : "27211",
+      "z_moyen" : 88,
+      "code_dept" : "27",
+      "nom_comm" : "ECARDENVILLE-SUR-EURE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5732,
+      "y_centroid" : 68910,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.247750783263205,
+              49.08294828700532
+            ],
+            [
+              1.241411042095119,
+              49.09386372095695
+            ],
+            [
+              1.284685045738647,
+              49.12906769109348
+            ],
+            [
+              1.299541927308394,
+              49.1264997675117
+            ],
+            [
+              1.301155962229508,
+              49.12449914428357
+            ],
+            [
+              1.279324263331135,
+              49.10892748463381
+            ],
+            [
+              1.26388152584702,
+              49.09025121548043
+            ],
+            [
+              1.247750783263205,
+              49.08294828700532
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68904,
+      "code_cant" : "42",
+      "x_centroid" : 5735,
+      "nom_dept" : "EURE",
+      "id_geofla" : 11958,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.10670118606507,
+        1.268811857477048
+      ],
+      "code_comm" : "211",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.268811857477048,
+        49.10670118606507
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

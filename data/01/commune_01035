@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c3918efafd775a3ba8a2b9186d9a6ea958363195",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 173,
+      "insee_com" : "68276",
+      "z_moyen" : 541,
+      "code_dept" : "68",
+      "nom_comm" : "RIMBACHZELL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 10118,
+      "y_centroid" : 67635,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.181674701310466,
+              47.89949195353758
+            ],
+            [
+              7.186716564033,
+              47.89392274287156
+            ],
+            [
+              7.182655881211109,
+              47.89204884396108
+            ],
+            [
+              7.15921681508271,
+              47.89646014486704
+            ],
+            [
+              7.167147020558037,
+              47.90324427591739
+            ],
+            [
+              7.175672523758272,
+              47.90411273978108
+            ],
+            [
+              7.181674701310466,
+              47.89949195353758
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67638,
+      "code_cant" : "08",
+      "x_centroid" : 10117,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 28073,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.89795165632775,
+        7.173568485582849
+      ],
+      "code_comm" : "276",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.173568485582849,
+        47.89795165632775
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

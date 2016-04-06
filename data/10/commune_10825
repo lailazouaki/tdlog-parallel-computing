@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f2f6676ee1637ad394c4cb2f957c366de9efd7b2",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 109,
+      "insee_com" : "42109",
+      "z_moyen" : 462,
+      "code_dept" : "42",
+      "nom_comm" : "L'HOPITAL-SOUS-ROCHEFORT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7725,
+      "y_centroid" : 65196,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.936119895656897,
+              45.7648173399218
+            ],
+            [
+              3.928577497816068,
+              45.77463264298238
+            ],
+            [
+              3.933328547460271,
+              45.77933935437419
+            ],
+            [
+              3.94267923470159,
+              45.77294874885909
+            ],
+            [
+              3.940366951511607,
+              45.76714146671723
+            ],
+            [
+              3.936119895656897,
+              45.7648173399218
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65197,
+      "code_cant" : "02",
+      "x_centroid" : 7727,
+      "nom_dept" : "LOIRE",
+      "id_geofla" : 35230,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.77222110503651,
+        3.935822317963674
+      ],
+      "code_comm" : "109",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.935822317963674,
+        45.77222110503651
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

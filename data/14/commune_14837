@@ -1,0 +1,67 @@
+  {
+    "recordid" : "aebd24410698685b787d5d8056fc9f38d0a85451",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 618,
+      "insee_com" : "32461",
+      "z_moyen" : 133,
+      "code_dept" : "32",
+      "nom_comm" : "VERLUS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4418,
+      "y_centroid" : 62830,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.205010919909708,
+              43.5840012881564
+            ],
+            [
+              -0.210606775836633,
+              43.59323717586582
+            ],
+            [
+              -0.217946013969595,
+              43.61562282277539
+            ],
+            [
+              -0.188499213603837,
+              43.60653159796541
+            ],
+            [
+              -0.176560881867224,
+              43.59683191922085
+            ],
+            [
+              -0.205010919909708,
+              43.5840012881564
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62833,
+      "code_cant" : "24",
+      "x_centroid" : 4416,
+      "nom_dept" : "GERS",
+      "id_geofla" : 28017,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.59978861691765,
+        -0.1995913500997185
+      ],
+      "code_comm" : "461",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1995913500997185,
+        43.59978861691765
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

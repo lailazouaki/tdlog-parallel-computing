@@ -1,0 +1,75 @@
+  {
+    "recordid" : "baf7ae4d34fc53ff99def6951bb89636febb88fe",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 378,
+      "insee_com" : "30160",
+      "z_moyen" : 122,
+      "code_dept" : "30",
+      "nom_comm" : "MARUEJOLS-LES-GARDON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7906,
+      "y_centroid" : 63236,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.152634479253268,
+              44.00070320534306
+            ],
+            [
+              4.143619218869071,
+              44.00257100272054
+            ],
+            [
+              4.121428764388028,
+              43.99778729379341
+            ],
+            [
+              4.114062774273807,
+              44.00559426617152
+            ],
+            [
+              4.137594447783489,
+              44.0124717881415
+            ],
+            [
+              4.146805051923596,
+              44.011547543648
+            ],
+            [
+              4.154146251276018,
+              44.01562877796637
+            ],
+            [
+              4.152634479253268,
+              44.00070320534306
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63235,
+      "code_cant" : "14",
+      "x_centroid" : 7911,
+      "nom_dept" : "GARD",
+      "id_geofla" : 7730,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.00586514777814,
+        4.135982073665247
+      ],
+      "code_comm" : "160",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.135982073665247,
+        44.00586514777814
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

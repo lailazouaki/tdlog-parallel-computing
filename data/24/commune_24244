@@ -1,0 +1,75 @@
+  {
+    "recordid" : "80f2e48c5c315f15b7bf470e368bdd6a09ad43db",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 284,
+      "insee_com" : "62533",
+      "z_moyen" : 102,
+      "code_dept" : "62",
+      "nom_comm" : "LUGY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6413,
+      "y_centroid" : 70474,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.179117157323081,
+              50.51104958414968
+            ],
+            [
+              2.174280267004694,
+              50.51671739099685
+            ],
+            [
+              2.164543227326116,
+              50.51724452153885
+            ],
+            [
+              2.154461205212713,
+              50.52488670107175
+            ],
+            [
+              2.164286069718229,
+              50.53103921274469
+            ],
+            [
+              2.193393077384545,
+              50.52235475594594
+            ],
+            [
+              2.190204587789939,
+              50.51662506526461
+            ],
+            [
+              2.179117157323081,
+              50.51104958414968
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70477,
+      "code_cant" : "24",
+      "x_centroid" : 6413,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 30446,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.52171147268723,
+        2.17428495836615
+      ],
+      "code_comm" : "533",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.17428495836615,
+        50.52171147268723
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

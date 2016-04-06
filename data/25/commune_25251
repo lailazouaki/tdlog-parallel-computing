@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ba381f4e42c7cc11f42a5b60c4ae24ff78ec025d",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 309,
+      "insee_com" : "14059",
+      "z_moyen" : 45,
+      "code_dept" : "14",
+      "nom_comm" : "BENERVILLE-SUR-MER",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4846,
+      "y_centroid" : 69195,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.045946981867443,
+              49.32689711276787
+            ],
+            [
+              0.04203024887704,
+              49.33567964655761
+            ],
+            [
+              0.031424741472057,
+              49.34177013742539
+            ],
+            [
+              0.05329917793731,
+              49.35286605297424
+            ],
+            [
+              0.05837551919038,
+              49.32760530598082
+            ],
+            [
+              0.045946981867443,
+              49.32689711276787
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69198,
+      "code_cant" : "35",
+      "x_centroid" : 4854,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 33945,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.33901069559137,
+        0.04779385666924442
+      ],
+      "code_comm" : "059",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.04779385666924442,
+        49.33901069559137
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

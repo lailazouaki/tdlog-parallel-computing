@@ -1,0 +1,75 @@
+  {
+    "recordid" : "67142d1e41effb976ef9c17f4da75eafe4d99f0f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 466,
+      "insee_com" : "50421",
+      "z_moyen" : 23,
+      "code_dept" : "50",
+      "nom_comm" : "QUINEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3888,
+      "y_centroid" : 69431,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.278419053572736,
+              49.5080193942677
+            ],
+            [
+              -1.291605799189074,
+              49.50289961300633
+            ],
+            [
+              -1.305787223708135,
+              49.50654566358551
+            ],
+            [
+              -1.325337305209074,
+              49.50415700458517
+            ],
+            [
+              -1.332542749288905,
+              49.5115862389005
+            ],
+            [
+              -1.325389733521502,
+              49.51627021599833
+            ],
+            [
+              -1.289677515721947,
+              49.51820589803609
+            ],
+            [
+              -1.278419053572736,
+              49.5080193942677
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69432,
+      "code_cant" : "22",
+      "x_centroid" : 3882,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 12116,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.51089153817583,
+        -1.305340562991889
+      ],
+      "code_comm" : "421",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.305340562991889,
+        49.51089153817583
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

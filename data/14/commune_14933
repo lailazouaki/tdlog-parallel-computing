@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f8169292a405495262c5ee5c5c4a4542a6c33393",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 290,
+      "insee_com" : "74307",
+      "z_moyen" : 680,
+      "code_dept" : "74",
+      "nom_comm" : "VILLY-LE-PELLOUX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9424,
+      "y_centroid" : 65493,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.142782187162982,
+              45.99026161896992
+            ],
+            [
+              6.137035892346709,
+              45.99446737945645
+            ],
+            [
+              6.124660406542517,
+              45.99352985877818
+            ],
+            [
+              6.128760286875058,
+              46.00991760937847
+            ],
+            [
+              6.135942171258355,
+              46.01089055427885
+            ],
+            [
+              6.149788985034156,
+              45.99770015227213
+            ],
+            [
+              6.142782187162982,
+              45.99026161896992
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65493,
+      "code_cant" : "30",
+      "x_centroid" : 9426,
+      "nom_dept" : "HAUTE-SAVOIE",
+      "id_geofla" : 19521,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        46.00043415158074,
+        6.136259583739405
+      ],
+      "code_comm" : "307",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.136259583739405,
+        46.00043415158074
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a4b65c5f4fdf129bc624759ccff978f2e9235e9c",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 232,
+      "insee_com" : "63135",
+      "z_moyen" : 351,
+      "code_dept" : "63",
+      "nom_comm" : "DAVAYAT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7084,
+      "y_centroid" : 65386,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.105435974620853,
+              45.93929500814954
+            ],
+            [
+              3.103852101803382,
+              45.94124153866964
+            ],
+            [
+              3.107310118542407,
+              45.95390825766044
+            ],
+            [
+              3.126096008226673,
+              45.95453724730142
+            ],
+            [
+              3.125524054118315,
+              45.94149873133873
+            ],
+            [
+              3.105435974620853,
+              45.93929500814954
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65386,
+      "code_cant" : "14",
+      "x_centroid" : 7089,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 24572,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        45.94711243931599,
+        3.115415061443728
+      ],
+      "code_comm" : "135",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.115415061443728,
+        45.94711243931599
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

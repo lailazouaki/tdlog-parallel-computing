@@ -1,0 +1,75 @@
+  {
+    "recordid" : "872d8b4c1af4546eada49937db9b62fec4375a82",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 602,
+      "insee_com" : "54149",
+      "z_moyen" : 398,
+      "code_dept" : "54",
+      "nom_comm" : "CRUSNES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9115,
+      "y_centroid" : 69299,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.919718930569187,
+              49.4181388204207
+            ],
+            [
+              5.901357609654091,
+              49.42895089485622
+            ],
+            [
+              5.896434667230536,
+              49.42821438457199
+            ],
+            [
+              5.919744923711954,
+              49.44874548776998
+            ],
+            [
+              5.930766517918555,
+              49.44655441542996
+            ],
+            [
+              5.942282982123335,
+              49.43035520518217
+            ],
+            [
+              5.928285447869241,
+              49.42646741706173
+            ],
+            [
+              5.919718930569187,
+              49.4181388204207
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69300,
+      "code_cant" : "02",
+      "x_centroid" : 9118,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 16395,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        49.4338705839257,
+        5.920751509496667
+      ],
+      "code_comm" : "149",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.920751509496667,
+        49.4338705839257
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

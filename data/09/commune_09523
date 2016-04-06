@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1c936e9da51d7044b5deab58cce6b15b461019a3",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 302,
+      "insee_com" : "64252",
+      "z_moyen" : 258,
+      "code_dept" : "64",
+      "nom_comm" : "GURMENCON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4074,
+      "y_centroid" : 62354,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.591893231977123,
+              43.14775358164758
+            ],
+            [
+              -0.60825039593786,
+              43.15034953644879
+            ],
+            [
+              -0.606792369495852,
+              43.16836141721609
+            ],
+            [
+              -0.601458680443978,
+              43.17120494821539
+            ],
+            [
+              -0.598805534792383,
+              43.16969081934194
+            ],
+            [
+              -0.5886310234150141,
+              43.15779356935275
+            ],
+            [
+              -0.591893231977123,
+              43.14775358164758
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62351,
+      "code_cant" : "28",
+      "x_centroid" : 4071,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 17135,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        43.15834072087467,
+        -0.5993762875008478
+      ],
+      "code_comm" : "252",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5993762875008478,
+        43.15834072087467
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

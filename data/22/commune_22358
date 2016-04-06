@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8e55cc7e999f7350c1a0053393a3856e41c0355",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 361,
+      "insee_com" : "16169",
+      "z_moyen" : 36,
+      "code_dept" : "16",
+      "nom_comm" : "JAVREZAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4388,
+      "y_centroid" : 65170,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.368467252927629,
+              45.68570826226561
+            ],
+            [
+              -0.376180567667974,
+              45.70968638635797
+            ],
+            [
+              -0.376590193399908,
+              45.70986338285674
+            ],
+            [
+              -0.368412362645758,
+              45.71352417897846
+            ],
+            [
+              -0.34977772357559,
+              45.71068195850847
+            ],
+            [
+              -0.347828787974726,
+              45.70760339002558
+            ],
+            [
+              -0.368467252927629,
+              45.68570826226561
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65168,
+      "code_cant" : "33",
+      "x_centroid" : 4383,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 17489,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        45.70299834480741,
+        -0.3636477054054815
+      ],
+      "code_comm" : "169",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3636477054054815,
+        45.70299834480741
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

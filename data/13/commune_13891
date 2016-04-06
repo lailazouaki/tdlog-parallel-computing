@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4d3902f049bf33188bff3fb80364dc9a2894a2c8",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 385,
+      "insee_com" : "14542",
+      "z_moyen" : 56,
+      "code_dept" : "14",
+      "nom_comm" : "ROSEL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4481,
+      "y_centroid" : 69079,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.429084651258953,
+              49.21754625301755
+            ],
+            [
+              -0.434442932258729,
+              49.21259733658761
+            ],
+            [
+              -0.443518824943581,
+              49.21295912524194
+            ],
+            [
+              -0.469235934419244,
+              49.21935721881844
+            ],
+            [
+              -0.45766240621221,
+              49.23466368830967
+            ],
+            [
+              -0.429084651258953,
+              49.21754625301755
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69087,
+      "code_cant" : "13",
+      "x_centroid" : 4487,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 27485,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.22165321910025,
+        -0.4500274453982867
+      ],
+      "code_comm" : "542",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4500274453982867,
+        49.22165321910025
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

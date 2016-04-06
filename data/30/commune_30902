@@ -1,0 +1,79 @@
+  {
+    "recordid" : "0f5dcaf2bc2a003c4d3fa8a4affc0e8e2bac15a3",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 333,
+      "insee_com" : "70144",
+      "z_moyen" : 297,
+      "code_dept" : "70",
+      "nom_comm" : "CHAUVIREY-LE-VIEIL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9063,
+      "y_centroid" : 67459,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.744270196030638,
+              47.76801909089804
+            ],
+            [
+              5.74962740532416,
+              47.78405874972956
+            ],
+            [
+              5.755880852887342,
+              47.78921614167264
+            ],
+            [
+              5.769711340191333,
+              47.79253723630442
+            ],
+            [
+              5.767821167719418,
+              47.78960100848181
+            ],
+            [
+              5.775562880713564,
+              47.78609465959018
+            ],
+            [
+              5.774125292607783,
+              47.78158978392
+            ],
+            [
+              5.747489919188069,
+              47.76828579668634
+            ],
+            [
+              5.744270196030638,
+              47.76801909089804
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67463,
+      "code_cant" : "28",
+      "x_centroid" : 9065,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 32060,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.78110833485657,
+        5.75924398101589
+      ],
+      "code_comm" : "144",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.75924398101589,
+        47.78110833485657
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

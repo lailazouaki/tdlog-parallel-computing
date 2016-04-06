@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4ecedda69e7d1a4de7106b80ffc52bef72f41847",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 1147,
+      "insee_com" : "25618",
+      "z_moyen" : 427,
+      "code_dept" : "25",
+      "nom_comm" : "VILLARS-SOUS-ECOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9787,
+      "y_centroid" : 67086,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.713543106456635,
+              47.39776711800182
+            ],
+            [
+              6.70361088935641,
+              47.3984716004964
+            ],
+            [
+              6.672945756770794,
+              47.41407088212804
+            ],
+            [
+              6.676079958573157,
+              47.43381552675257
+            ],
+            [
+              6.713949905900589,
+              47.43905567070873
+            ],
+            [
+              6.717522004892864,
+              47.41513213566498
+            ],
+            [
+              6.72318026795304,
+              47.40943571628478
+            ],
+            [
+              6.713543106456635,
+              47.39776711800182
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67088,
+      "code_cant" : "21",
+      "x_centroid" : 9787,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 24582,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.41904843345686,
+        6.69834595036977
+      ],
+      "code_comm" : "618",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.69834595036977,
+        47.41904843345686
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

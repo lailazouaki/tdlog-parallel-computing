@@ -1,0 +1,67 @@
+  {
+    "recordid" : "50dfa0fdbd3cea54dcfac972758d88b044037ec2",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 213,
+      "insee_com" : "54354",
+      "z_moyen" : 331,
+      "code_dept" : "54",
+      "nom_comm" : "MARTHEMONT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9243,
+      "y_centroid" : 68330,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.028589227656744,
+              48.54966185215283
+            ],
+            [
+              6.025726980168767,
+              48.5512831117827
+            ],
+            [
+              6.029038928403242,
+              48.56400879433239
+            ],
+            [
+              6.036678152050838,
+              48.56734277255742
+            ],
+            [
+              6.053119635025129,
+              48.56133142083466
+            ],
+            [
+              6.028589227656744,
+              48.54966185215283
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68331,
+      "code_cant" : "29",
+      "x_centroid" : 9240,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 26734,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.55926147129873,
+        6.036691097328348
+      ],
+      "code_comm" : "354",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.036691097328348,
+        48.55926147129873
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

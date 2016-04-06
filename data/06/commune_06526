@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b045d96a6a1d324d4f972e20edab6e6bc5bcf00b",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 387,
+      "insee_com" : "88506",
+      "z_moyen" : 437,
+      "code_dept" : "88",
+      "nom_comm" : "VIEUX-MOULIN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9958,
+      "y_centroid" : 68178,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.986986227919084,
+              48.38659462140185
+            ],
+            [
+              6.991907848650005,
+              48.39156352697862
+            ],
+            [
+              6.990770655138718,
+              48.40098832350554
+            ],
+            [
+              7.016766334703528,
+              48.4012719224225
+            ],
+            [
+              7.018284439719216,
+              48.39936474181442
+            ],
+            [
+              7.02258506179481,
+              48.38539098505825
+            ],
+            [
+              6.986986227919084,
+              48.38659462140185
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68180,
+      "code_cant" : "26",
+      "x_centroid" : 9963,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 30285,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.39320708998122,
+        7.005599181160089
+      ],
+      "code_comm" : "506",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.005599181160089,
+        48.39320708998122
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

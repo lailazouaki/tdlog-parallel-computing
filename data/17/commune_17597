@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9874ec068fda1fee49a13feccb67f9eedcac0ade",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1131,
+      "insee_com" : "08229",
+      "z_moyen" : 82,
+      "code_dept" : "08",
+      "nom_comm" : "HOUDILCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7816,
+      "y_centroid" : 69253,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.10628687428772,
+              49.40193199792535
+            ],
+            [
+              4.11093796493447,
+              49.43940978117431
+            ],
+            [
+              4.116889342222667,
+              49.44369665975436
+            ],
+            [
+              4.135894016989207,
+              49.44468843288808
+            ],
+            [
+              4.14177595537438,
+              49.44510053780937
+            ],
+            [
+              4.143169952012355,
+              49.40419601984217
+            ],
+            [
+              4.115033633957801,
+              49.40193260645407
+            ],
+            [
+              4.10628687428772,
+              49.40193199792535
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69256,
+      "code_cant" : "01",
+      "x_centroid" : 7816,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 23323,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.4226756544998,
+        4.125688651203548
+      ],
+      "code_comm" : "229",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.125688651203548,
+        49.4226756544998
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

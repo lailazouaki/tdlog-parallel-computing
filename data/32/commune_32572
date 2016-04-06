@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c4d07a7a8643a2bfb9a5e35ff548181284872ee0",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 329,
+      "insee_com" : "14558",
+      "z_moyen" : 32,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-AUBIN-D'ARQUENAY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4606,
+      "y_centroid" : 69117,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.277665814219665,
+              49.25172323821924
+            ],
+            [
+              -0.302675276088082,
+              49.25742899819974
+            ],
+            [
+              -0.285802091341099,
+              49.27137719812814
+            ],
+            [
+              -0.276023276837498,
+              49.26873707427038
+            ],
+            [
+              -0.268174513887904,
+              49.2598626813201
+            ],
+            [
+              -0.277665814219665,
+              49.25172323821924
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69119,
+      "code_cant" : "48",
+      "x_centroid" : 4609,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 10447,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        49.26100544854543,
+        -0.2838674692946082
+      ],
+      "code_comm" : "558",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2838674692946082,
+        49.26100544854543
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

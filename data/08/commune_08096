@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b8d89eadf6bae836ebb5ebf7890a196b7bb9bce0",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 165,
+      "insee_com" : "70184",
+      "z_moyen" : 355,
+      "code_dept" : "70",
+      "nom_comm" : "COUTHENANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9798,
+      "y_centroid" : 67276,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.721967020594732,
+              47.58320956128006
+            ],
+            [
+              6.715568829255719,
+              47.59691232285387
+            ],
+            [
+              6.719499305364429,
+              47.59902183108755
+            ],
+            [
+              6.723902750479874,
+              47.59740351302414
+            ],
+            [
+              6.740507488134892,
+              47.58512151118646
+            ],
+            [
+              6.721967020594732,
+              47.58320956128006
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67277,
+      "code_cant" : "11",
+      "x_centroid" : 9799,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 13065,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        47.59012023059183,
+        6.725942626254256
+      ],
+      "code_comm" : "184",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.725942626254256,
+        47.59012023059183
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

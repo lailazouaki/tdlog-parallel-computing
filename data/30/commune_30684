@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d4bde1045a0edfe8c1d181e7685545f08b57e258",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 174,
+      "insee_com" : "77233",
+      "z_moyen" : 112,
+      "code_dept" : "77",
+      "nom_comm" : "IVERNY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6845,
+      "y_centroid" : 68773,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.796148998755305,
+              48.98999221157907
+            ],
+            [
+              2.782543448454168,
+              48.99237821511544
+            ],
+            [
+              2.781095161589499,
+              48.99558576283756
+            ],
+            [
+              2.779523243124776,
+              48.99890096137295
+            ],
+            [
+              2.785252562151028,
+              49.00474718180498
+            ],
+            [
+              2.80656198926171,
+              48.99336351016397
+            ],
+            [
+              2.796148998755305,
+              48.98999221157907
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68778,
+      "code_cant" : "37",
+      "x_centroid" : 6846,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 22314,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.99624396718749,
+        2.7908891859636
+      ],
+      "code_comm" : "233",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.7908891859636,
+        48.99624396718749
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

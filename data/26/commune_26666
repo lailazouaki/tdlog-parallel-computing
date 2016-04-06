@@ -1,0 +1,63 @@
+  {
+    "recordid" : "0dd63a884c2d4fe4536de93ba437d796221a5903",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 306,
+      "insee_com" : "50601",
+      "z_moyen" : 90,
+      "code_dept" : "50",
+      "nom_comm" : "TORIGNI-SUR-VIRE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4091,
+      "y_centroid" : 68886,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.970771232189335,
+              49.02433104743479
+            ],
+            [
+              -1.000749076586046,
+              49.02552288225513
+            ],
+            [
+              -0.9870307610803291,
+              49.04226636260912
+            ],
+            [
+              -0.969153057271804,
+              49.03753816151856
+            ],
+            [
+              -0.970771232189335,
+              49.02433104743479
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68890,
+      "code_cant" : "46",
+      "x_centroid" : 4088,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 32245,
+      "statut" : "Chef-lieu canton",
+      "population" : 2.4,
+      "geom_x_y" : [
+        49.03198791446154,
+        -0.982814708616549
+      ],
+      "code_comm" : "601",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.982814708616549,
+        49.03198791446154
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

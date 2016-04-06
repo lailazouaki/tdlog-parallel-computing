@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a1a5f9f53a3facf4df3d45f342c77885d78e97bd",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 116,
+      "insee_com" : "62625",
+      "z_moyen" : 105,
+      "code_dept" : "62",
+      "nom_comm" : "NOYELLES-LES-HUMIERES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6412,
+      "y_centroid" : 70311,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.185043795569806,
+              50.3709988815609
+            ],
+            [
+              2.170498351207999,
+              50.36942061442326
+            ],
+            [
+              2.16710040918742,
+              50.37543103884357
+            ],
+            [
+              2.17795592614915,
+              50.37954391338484
+            ],
+            [
+              2.176537667204556,
+              50.38213808699191
+            ],
+            [
+              2.182894263148061,
+              50.38411955414855
+            ],
+            [
+              2.185043795569806,
+              50.3709988815609
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70309,
+      "code_cant" : "39",
+      "x_centroid" : 6414,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 28334,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.37542375047368,
+        2.177377641856159
+      ],
+      "code_comm" : "625",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.177377641856159,
+        50.37542375047368
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

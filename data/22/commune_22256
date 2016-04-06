@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b63df4121e508ac2c079b1cb72f0ec9868e7c50e",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 363,
+      "insee_com" : "02551",
+      "z_moyen" : 134,
+      "code_dept" : "02",
+      "nom_comm" : "NEUVILLE-SUR-MARGIVAL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7290,
+      "y_centroid" : 69284,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.407373713475377,
+              49.44807204107932
+            ],
+            [
+              3.399513723731643,
+              49.44423336211617
+            ],
+            [
+              3.389940655649526,
+              49.44518134798501
+            ],
+            [
+              3.385694973250317,
+              49.45806574740133
+            ],
+            [
+              3.379294171564236,
+              49.4632629882793
+            ],
+            [
+              3.404082768832162,
+              49.46260761745894
+            ],
+            [
+              3.417684652230827,
+              49.45818436559615
+            ],
+            [
+              3.407373713475377,
+              49.44807204107932
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69282,
+      "code_cant" : "32",
+      "x_centroid" : 7289,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 24124,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.45487297729023,
+        3.398665881503367
+      ],
+      "code_comm" : "551",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.398665881503367,
+        49.45487297729023
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

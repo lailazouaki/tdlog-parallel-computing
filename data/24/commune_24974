@@ -1,0 +1,67 @@
+  {
+    "recordid" : "38f4c64eafe27bf3f0c5a89258dee53b6b515956",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 251,
+      "insee_com" : "57545",
+      "z_moyen" : 260,
+      "code_dept" : "57",
+      "nom_comm" : "PLAPPEVILLE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9278,
+      "y_centroid" : 68968,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.127786604028585,
+              49.12349678665579
+            ],
+            [
+              6.115246610324352,
+              49.12562189765944
+            ],
+            [
+              6.108274567450946,
+              49.133954370723
+            ],
+            [
+              6.135878691115002,
+              49.13781776367601
+            ],
+            [
+              6.136596188387335,
+              49.12928699070658
+            ],
+            [
+              6.127786604028585,
+              49.12349678665579
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68968,
+      "code_cant" : "37",
+      "x_centroid" : 9279,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 24393,
+      "statut" : "Commune simple",
+      "population" : 2.2,
+      "geom_x_y" : [
+        49.13084092397546,
+        6.124227572123295
+      ],
+      "code_comm" : "545",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.124227572123295,
+        49.13084092397546
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

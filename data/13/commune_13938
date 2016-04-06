@@ -1,0 +1,75 @@
+  {
+    "recordid" : "67416c216b87abdc3716d3a9ca1bc7c07c0b4ac9",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 265,
+      "insee_com" : "80094",
+      "z_moyen" : 73,
+      "code_dept" : "80",
+      "nom_comm" : "BERTEAUCOURT-LES-THENNES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6614,
+      "y_centroid" : 69691,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.479502993899087,
+              49.81735965205385
+            ],
+            [
+              2.46274863567686,
+              49.81026127886952
+            ],
+            [
+              2.452916865365935,
+              49.81047814018859
+            ],
+            [
+              2.452431027610663,
+              49.82083490471193
+            ],
+            [
+              2.457587418552315,
+              49.83086635716285
+            ],
+            [
+              2.463237931878734,
+              49.83505099248984
+            ],
+            [
+              2.46649210597401,
+              49.82271200276421
+            ],
+            [
+              2.479502993899087,
+              49.81735965205385
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69683,
+      "code_cant" : "28",
+      "x_centroid" : 6612,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 20024,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.81980245822025,
+        2.4622274185903
+      ],
+      "code_comm" : "094",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.4622274185903,
+        49.81980245822025
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

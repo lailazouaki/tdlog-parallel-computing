@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8e51b1ace8657a85478fe6d576148ad6fab442a0",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 847,
+      "insee_com" : "43067",
+      "z_moyen" : 763,
+      "code_dept" : "43",
+      "nom_comm" : "CHAVANIAC-LAFAYETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7456,
+      "y_centroid" : 64510,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.607171887455249,
+              45.14671483050351
+            ],
+            [
+              3.573633635346566,
+              45.14696432454204
+            ],
+            [
+              3.555278839563081,
+              45.16294981180956
+            ],
+            [
+              3.56189794572792,
+              45.16807617982177
+            ],
+            [
+              3.592814088296397,
+              45.16783523009403
+            ],
+            [
+              3.604649648443921,
+              45.16408894944488
+            ],
+            [
+              3.613605370952075,
+              45.14974111968312
+            ],
+            [
+              3.607171887455249,
+              45.14671483050351
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64512,
+      "code_cant" : "16",
+      "x_centroid" : 7459,
+      "nom_dept" : "HAUTE-LOIRE",
+      "id_geofla" : 25456,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.15747772257106,
+        3.585198937564951
+      ],
+      "code_comm" : "067",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.585198937564951,
+        45.15747772257106
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

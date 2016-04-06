@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f12c64a7c0334453e0a57ffee7c106b36fab22aa",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 362,
+      "insee_com" : "10425",
+      "z_moyen" : 199,
+      "code_dept" : "10",
+      "nom_comm" : "VILLERY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7757,
+      "y_centroid" : 67863,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.023568357043906,
+              48.16117506470715
+            ],
+            [
+              4.006246203251548,
+              48.16622841302727
+            ],
+            [
+              4.001720723728283,
+              48.17160321512406
+            ],
+            [
+              4.005217223457732,
+              48.17718874486851
+            ],
+            [
+              4.029859788753699,
+              48.18721696984962
+            ],
+            [
+              4.029191537756455,
+              48.17916888450183
+            ],
+            [
+              4.023568357043906,
+              48.16117506470715
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67860,
+      "code_cant" : "05",
+      "x_centroid" : 7756,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 18894,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.17349827814607,
+        4.017340845619482
+      ],
+      "code_comm" : "425",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.017340845619482,
+        48.17349827814607
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

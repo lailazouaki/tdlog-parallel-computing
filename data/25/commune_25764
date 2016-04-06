@@ -1,0 +1,75 @@
+  {
+    "recordid" : "701a3cbac0683792e31d67b4add0e41eece85bbb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 806,
+      "insee_com" : "55372",
+      "z_moyen" : 282,
+      "code_dept" : "55",
+      "nom_comm" : "NANCOIS-SUR-ORNAIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8692,
+      "y_centroid" : 68492,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.335816846305006,
+              48.71174528462618
+            ],
+            [
+              5.296928991249261,
+              48.70801935625809
+            ],
+            [
+              5.288350553315487,
+              48.71051476644551
+            ],
+            [
+              5.294365483609942,
+              48.71961330164381
+            ],
+            [
+              5.312409370195859,
+              48.73062953641754
+            ],
+            [
+              5.345009909068081,
+              48.73661596781406
+            ],
+            [
+              5.344092970480305,
+              48.73497832554836
+            ],
+            [
+              5.335816846305006,
+              48.71174528462618
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68482,
+      "code_cant" : "11",
+      "x_centroid" : 8705,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 32506,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.72067250085768,
+        5.318521909461612
+      ],
+      "code_comm" : "372",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.318521909461612,
+        48.72067250085768
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

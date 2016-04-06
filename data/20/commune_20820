@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4756e7b6945e8fd858c0ebec41652f03da5d2cd7",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 375,
+      "insee_com" : "80647",
+      "z_moyen" : 86,
+      "code_dept" : "80",
+      "nom_comm" : "PUZEAUX",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6871,
+      "y_centroid" : 69666,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.822600677752676,
+              49.78662614973673
+            ],
+            [
+              2.811587526748367,
+              49.80411118389059
+            ],
+            [
+              2.827150751028177,
+              49.81168996271659
+            ],
+            [
+              2.841213278478273,
+              49.79875377681242
+            ],
+            [
+              2.833367679839016,
+              49.78702766752419
+            ],
+            [
+              2.822600677752676,
+              49.78662614973673
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69665,
+      "code_cant" : "15",
+      "x_centroid" : 6875,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 17933,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.798599704586,
+        2.826662727978357
+      ],
+      "code_comm" : "647",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.826662727978357,
+        49.798599704586
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

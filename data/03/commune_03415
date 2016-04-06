@@ -1,0 +1,67 @@
+  {
+    "recordid" : "aba3d13685af96a8261b1125b321c60e6ad77885",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 564,
+      "insee_com" : "59443",
+      "z_moyen" : 32,
+      "code_dept" : "59",
+      "nom_comm" : "OCHTEZEELE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6577,
+      "y_centroid" : 70804,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.421676483499275,
+              50.808566662666
+            ],
+            [
+              2.415144337287766,
+              50.80893095240084
+            ],
+            [
+              2.371030033389312,
+              50.81380332344456
+            ],
+            [
+              2.396826704465502,
+              50.83427922962863
+            ],
+            [
+              2.424901800989667,
+              50.81870208893824
+            ],
+            [
+              2.421676483499275,
+              50.808566662666
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70802,
+      "code_cant" : "16",
+      "x_centroid" : 6576,
+      "nom_dept" : "NORD",
+      "id_geofla" : 10254,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.8191546723867,
+        2.400522573124648
+      ],
+      "code_comm" : "443",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.400522573124648,
+        50.8191546723867
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

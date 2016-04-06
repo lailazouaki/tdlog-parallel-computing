@@ -1,0 +1,75 @@
+  {
+    "recordid" : "59f1b34642940303aabb70cabd41627f635c94dd",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 281,
+      "insee_com" : "90050",
+      "z_moyen" : 361,
+      "code_dept" : "90",
+      "nom_comm" : "FRAIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9991,
+      "y_centroid" : 67348,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.970711834793668,
+              47.63674925479721
+            ],
+            [
+              6.97364246496404,
+              47.64261572415674
+            ],
+            [
+              6.969938850115749,
+              47.65466502392643
+            ],
+            [
+              6.971255628406541,
+              47.65515197383989
+            ],
+            [
+              6.994968249411905,
+              47.65100850557576
+            ],
+            [
+              6.991319607893028,
+              47.64111144059174
+            ],
+            [
+              6.972313906804603,
+              47.63677585826987
+            ],
+            [
+              6.970711834793668,
+              47.63674925479721
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67349,
+      "code_cant" : "03",
+      "x_centroid" : 9987,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 23973,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.64639879993536,
+        6.98144939809672
+      ],
+      "code_comm" : "050",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.98144939809672,
+        47.64639879993536
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

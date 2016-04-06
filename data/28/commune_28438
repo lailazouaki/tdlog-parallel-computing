@@ -1,0 +1,67 @@
+  {
+    "recordid" : "702779afb11c1da644b1959b79bdca6d1294d716",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 158,
+      "insee_com" : "61502",
+      "z_moyen" : 151,
+      "code_dept" : "61",
+      "nom_comm" : "VIDAI",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5062,
+      "y_centroid" : 68210,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.387194947295515,
+              48.46761953610046
+            ],
+            [
+              0.384226149476185,
+              48.4546735333447
+            ],
+            [
+              0.379263419677271,
+              48.45378993165884
+            ],
+            [
+              0.358271064155517,
+              48.46194764248332
+            ],
+            [
+              0.374182516339775,
+              48.46338988608824
+            ],
+            [
+              0.387194947295515,
+              48.46761953610046
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68208,
+      "code_cant" : "28",
+      "x_centroid" : 5060,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 29167,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.46029122916526,
+        0.3765814582111978
+      ],
+      "code_comm" : "502",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3765814582111978,
+        48.46029122916526
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

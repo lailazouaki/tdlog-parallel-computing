@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e1f1e03a164d48545ce549776e8b464ad6e11d61",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 249,
+      "insee_com" : "90036",
+      "z_moyen" : 383,
+      "code_dept" : "90",
+      "nom_comm" : "EGUENIGUE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9951,
+      "y_centroid" : 67383,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.9275905241313,
+              47.66373026144491
+            ],
+            [
+              6.926586584835671,
+              47.69066464257677
+            ],
+            [
+              6.934590556582334,
+              47.69295479261096
+            ],
+            [
+              6.943661974780621,
+              47.68567373540351
+            ],
+            [
+              6.936610887344714,
+              47.67676436300654
+            ],
+            [
+              6.938377774441421,
+              47.66654825341936
+            ],
+            [
+              6.9275905241313,
+              47.66373026144491
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67373,
+      "code_cant" : "03",
+      "x_centroid" : 9949,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 35629,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.67932581815409,
+        6.933127288198589
+      ],
+      "code_comm" : "036",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.933127288198589,
+        47.67932581815409
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

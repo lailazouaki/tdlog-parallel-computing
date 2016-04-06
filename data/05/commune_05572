@@ -1,0 +1,63 @@
+  {
+    "recordid" : "4bb3b96266467ded934a169932f4c3b2fd53e5db",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 179,
+      "insee_com" : "67016",
+      "z_moyen" : 236,
+      "code_dept" : "67",
+      "nom_comm" : "AVOLSHEIM",
+      "code_arr" : "3",
+      "x_chf_lieu" : 10319,
+      "y_centroid" : 68383,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.47455538703305,
+              48.55664083241005
+            ],
+            [
+              7.495368466913644,
+              48.56682949690565
+            ],
+            [
+              7.50962687712595,
+              48.56199146482705
+            ],
+            [
+              7.50329591782511,
+              48.55687952950794
+            ],
+            [
+              7.47455538703305,
+              48.55664083241005
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68384,
+      "code_cant" : "14",
+      "x_centroid" : 10314,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 29590,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.56058835893413,
+        7.494165340550928
+      ],
+      "code_comm" : "016",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.494165340550928,
+        48.56058835893413
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "352b3dae28e8d51fbedfbaeee3a05132d756ebce",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 114,
+      "insee_com" : "94001",
+      "z_moyen" : 39,
+      "code_dept" : "94",
+      "nom_comm" : "ABLON-SUR-SEINE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6574,
+      "y_centroid" : 68472,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.414260110402738,
+              48.71781621119755
+            ],
+            [
+              2.411013730714041,
+              48.72604821060389
+            ],
+            [
+              2.423925775846974,
+              48.72881856826605
+            ],
+            [
+              2.435125455748563,
+              48.72409603516107
+            ],
+            [
+              2.414260110402738,
+              48.71781621119755
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68474,
+      "code_cant" : "28",
+      "x_centroid" : 6574,
+      "nom_dept" : "VAL-DE-MARNE",
+      "id_geofla" : 32120,
+      "statut" : "Commune simple",
+      "population" : 5.2,
+      "geom_x_y" : [
+        48.723840946434,
+        2.421176293477384
+      ],
+      "code_comm" : "001",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.421176293477384,
+        48.723840946434
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "87220f56c0747146a2779e8af01bd6f6d19f2e64",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 646,
+      "insee_com" : "54379",
+      "z_moyen" : 351,
+      "code_dept" : "54",
+      "nom_comm" : "MONT-L'ETROIT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9056,
+      "y_centroid" : 68256,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.787024028409426,
+              48.48291106954139
+            ],
+            [
+              5.778585933898555,
+              48.4861873949948
+            ],
+            [
+              5.765154701602297,
+              48.49649260851312
+            ],
+            [
+              5.762776662037544,
+              48.51614395995591
+            ],
+            [
+              5.810772249810127,
+              48.49830220271657
+            ],
+            [
+              5.787024028409426,
+              48.48291106954139
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68256,
+      "code_cant" : "10",
+      "x_centroid" : 9055,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 33439,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.49868575143898,
+        5.782820697844442
+      ],
+      "code_comm" : "379",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.782820697844442,
+        48.49868575143898
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

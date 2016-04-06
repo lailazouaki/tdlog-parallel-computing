@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b2cf6f358a89f165caaa1ef61d55bd8b538dc516",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 519,
+      "insee_com" : "91145",
+      "z_moyen" : 156,
+      "code_dept" : "91",
+      "nom_comm" : "CHATIGNONVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6210,
+      "y_centroid" : 68192,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.930627997848879,
+              48.45371826817908
+            ],
+            [
+              1.92214896483737,
+              48.45760028606413
+            ],
+            [
+              1.916539440608496,
+              48.46330732656432
+            ],
+            [
+              1.916825760699471,
+              48.47369245959639
+            ],
+            [
+              1.923263082472038,
+              48.47913116244725
+            ],
+            [
+              1.93310843856392,
+              48.48142425266526
+            ],
+            [
+              1.95562549415934,
+              48.47264552301906
+            ],
+            [
+              1.930627997848879,
+              48.45371826817908
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68191,
+      "code_cant" : "07",
+      "x_centroid" : 6210,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 30581,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.46875998166299,
+        1.932528745945487
+      ],
+      "code_comm" : "145",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.932528745945487,
+        48.46875998166299
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

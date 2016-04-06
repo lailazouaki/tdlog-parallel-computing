@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b2ef240fc28d77052d3446c23c8bfca1b4927c1f",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 699,
+      "insee_com" : "26328",
+      "z_moyen" : 528,
+      "code_dept" : "26",
+      "nom_comm" : "SAINT-SAUVEUR-EN-DIOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8708,
+      "y_centroid" : 63996,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.178203396721917,
+              44.65474473127577
+            ],
+            [
+              5.157203421232993,
+              44.65891186524082
+            ],
+            [
+              5.152645612076439,
+              44.67965168756569
+            ],
+            [
+              5.15485367560039,
+              44.69678350405464
+            ],
+            [
+              5.166547307523421,
+              44.69254743904547
+            ],
+            [
+              5.180068624919211,
+              44.6765389820818
+            ],
+            [
+              5.178203396721917,
+              44.65474473127577
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64002,
+      "code_cant" : "22",
+      "x_centroid" : 8716,
+      "nom_dept" : "DROME",
+      "id_geofla" : 25573,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.67437620825734,
+        5.165821680090988
+      ],
+      "code_comm" : "328",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.165821680090988,
+        44.67437620825734
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

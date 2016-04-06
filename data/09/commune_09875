@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1ce16faac4bfac7df4a75346d7c32ff8b174d3c0",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 960,
+      "insee_com" : "2B305",
+      "z_moyen" : 407,
+      "code_dept" : "2B",
+      "nom_comm" : "SAN-MARTINO-DI-LOTA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 12287,
+      "y_centroid" : 62028,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.456258423345421,
+              42.71758637674868
+            ],
+            [
+              9.434455326681432,
+              42.72463903226469
+            ],
+            [
+              9.396514442568778,
+              42.72775572129942
+            ],
+            [
+              9.395447278520674,
+              42.74051196135391
+            ],
+            [
+              9.413777257631306,
+              42.7371583911652
+            ],
+            [
+              9.424872728420336,
+              42.74320377249079
+            ],
+            [
+              9.461326810286987,
+              42.74016739662594
+            ],
+            [
+              9.456258423345421,
+              42.71758637674868
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62020,
+      "code_cant" : "45",
+      "x_centroid" : 12267,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 34393,
+      "statut" : "Chef-lieu canton",
+      "population" : 2.7,
+      "geom_x_y" : [
+        42.73239926517287,
+        9.431630855988923
+      ],
+      "code_comm" : "305",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.431630855988923,
+        42.73239926517287
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

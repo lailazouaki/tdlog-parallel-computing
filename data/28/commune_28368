@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f4d17e9350d86eeb7161f24e4cee52755cd1ec67",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 144,
+      "insee_com" : "78502",
+      "z_moyen" : 44,
+      "code_dept" : "78",
+      "nom_comm" : "LE PORT-MARLY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6347,
+      "y_centroid" : 68648,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.109398751331529,
+              48.87283544596528
+            ],
+            [
+              2.104393405454175,
+              48.87293300448545
+            ],
+            [
+              2.101094623742498,
+              48.88553530232717
+            ],
+            [
+              2.107096911991706,
+              48.88940246733326
+            ],
+            [
+              2.110267282891142,
+              48.88743849911382
+            ],
+            [
+              2.119794118279736,
+              48.87811064882213
+            ],
+            [
+              2.109398751331529,
+              48.87283544596528
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68647,
+      "code_cant" : "13",
+      "x_centroid" : 6346,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 25083,
+      "statut" : "Commune simple",
+      "population" : 4.7,
+      "geom_x_y" : [
+        48.88047597550305,
+        2.109039474271139
+      ],
+      "code_comm" : "502",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.109039474271139,
+        48.88047597550305
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

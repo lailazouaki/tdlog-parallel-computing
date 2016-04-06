@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c79f4837ac438ee70ad38e3dd0557fabc9c48c29",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 605,
+      "insee_com" : "76269",
+      "z_moyen" : 151,
+      "code_dept" : "76",
+      "nom_comm" : "FONTAINE-EN-BRAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5863,
+      "y_centroid" : 69543,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.403605595685222,
+              49.66212555470355
+            ],
+            [
+              1.390415237483649,
+              49.67299743407504
+            ],
+            [
+              1.417081368637869,
+              49.68217294596433
+            ],
+            [
+              1.42516120285214,
+              49.690132680966
+            ],
+            [
+              1.440488614540783,
+              49.69130966365535
+            ],
+            [
+              1.4549670366825,
+              49.687126554309
+            ],
+            [
+              1.44831673469247,
+              49.68213489659382
+            ],
+            [
+              1.403605595685222,
+              49.66212555470355
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69540,
+      "code_cant" : "49",
+      "x_centroid" : 5860,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 22851,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.67812437334332,
+        1.422088489273012
+      ],
+      "code_comm" : "269",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.422088489273012,
+        49.67812437334332
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "7e7975a5aaa257192e1a1063ea520cc1e8def772",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 603,
+      "insee_com" : "63033",
+      "z_moyen" : 326,
+      "code_dept" : "63",
+      "nom_comm" : "BEAUMONT-LES-RANDAN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7297,
+      "y_centroid" : 65441,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.392667608433822,
+              45.98475072151717
+            ],
+            [
+              3.390368694540342,
+              45.9793466416294
+            ],
+            [
+              3.379183480631713,
+              45.9812756973689
+            ],
+            [
+              3.367027294313774,
+              45.99074399947843
+            ],
+            [
+              3.372361254542362,
+              46.0038739258225
+            ],
+            [
+              3.395807431832381,
+              46.01720294554035
+            ],
+            [
+              3.392667608433822,
+              45.98475072151717
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65442,
+      "code_cant" : "32",
+      "x_centroid" : 7296,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 24119,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.99639442630059,
+        3.383353547911258
+      ],
+      "code_comm" : "033",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.383353547911258,
+        45.99639442630059
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

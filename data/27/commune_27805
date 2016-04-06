@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1c528d4f195fbba5644d97f94273b7e1265c324c",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 380,
+      "insee_com" : "67053",
+      "z_moyen" : 170,
+      "code_dept" : "67",
+      "nom_comm" : "BOESENBIESEN",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10387,
+      "y_centroid" : 68015,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.56804394621375,
+              48.21272603940245
+            ],
+            [
+              7.547023813415962,
+              48.2196394451439
+            ],
+            [
+              7.549907334616609,
+              48.22289007511147
+            ],
+            [
+              7.560095315690658,
+              48.24508281565706
+            ],
+            [
+              7.575886260143463,
+              48.22446348717144
+            ],
+            [
+              7.574924833747442,
+              48.22115696984
+            ],
+            [
+              7.56804394621375,
+              48.21272603940245
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68017,
+      "code_cant" : "12",
+      "x_centroid" : 10386,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 24812,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.22619286986316,
+        7.562298587538729
+      ],
+      "code_comm" : "053",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.562298587538729,
+        48.22619286986316
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

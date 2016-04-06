@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0d89c8a8095c59315fe8ab89ce0221e3a30dc1fe",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 456,
+      "insee_com" : "62246",
+      "z_moyen" : 141,
+      "code_dept" : "62",
+      "nom_comm" : "COUPELLE-NEUVE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6374,
+      "y_centroid" : 70448,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.122667857469588,
+              50.49087816415378
+            ],
+            [
+              2.108315734508327,
+              50.48845063039884
+            ],
+            [
+              2.089757113743061,
+              50.49230120136652
+            ],
+            [
+              2.083019367018033,
+              50.49910964764893
+            ],
+            [
+              2.127344530559498,
+              50.51008514590695
+            ],
+            [
+              2.122667857469588,
+              50.49087816415378
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70451,
+      "code_cant" : "24",
+      "x_centroid" : 6366,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 23521,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.49803069077055,
+        2.108231414450366
+      ],
+      "code_comm" : "246",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.108231414450366,
+        50.49803069077055
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

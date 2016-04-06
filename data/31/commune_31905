@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8a4cd85e769dbc240d4cb42871236ed7626639a6",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 264,
+      "insee_com" : "76214",
+      "z_moyen" : 85,
+      "code_dept" : "76",
+      "nom_comm" : "DENESTANVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5629,
+      "y_centroid" : 69693,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.085668783162792,
+              49.79879638328627
+            ],
+            [
+              1.076271873436236,
+              49.81052922669455
+            ],
+            [
+              1.088667092078411,
+              49.81625991082492
+            ],
+            [
+              1.098716179658302,
+              49.81531155136885
+            ],
+            [
+              1.100246398659219,
+              49.8092693238566
+            ],
+            [
+              1.106906421696314,
+              49.80492439068304
+            ],
+            [
+              1.091383094653504,
+              49.79932629829292
+            ],
+            [
+              1.085668783162792,
+              49.79879638328627
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69696,
+      "code_cant" : "35",
+      "x_centroid" : 5624,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 31547,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.80769909481702,
+        1.090820569199167
+      ],
+      "code_comm" : "214",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.090820569199167,
+        49.80769909481702
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

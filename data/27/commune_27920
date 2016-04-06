@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d9bb45104365bb712d51b88af3b1a5e7dbc7c9af",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 651,
+      "insee_com" : "08349",
+      "z_moyen" : 228,
+      "code_dept" : "08",
+      "nom_comm" : "PURE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8570,
+      "y_centroid" : 69558,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.179975743192546,
+              49.66738434018738
+            ],
+            [
+              5.171051435921725,
+              49.66660909956502
+            ],
+            [
+              5.162437105395724,
+              49.67317175136034
+            ],
+            [
+              5.166194556636603,
+              49.69291647767509
+            ],
+            [
+              5.190511395696675,
+              49.6945036895789
+            ],
+            [
+              5.1996600846199,
+              49.69231616275926
+            ],
+            [
+              5.197945744824427,
+              49.67916927743078
+            ],
+            [
+              5.179975743192546,
+              49.66738434018738
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69548,
+      "code_cant" : "04",
+      "x_centroid" : 8574,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 29650,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.68182913414045,
+        5.180186790029413
+      ],
+      "code_comm" : "349",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.180186790029413,
+        49.68182913414045
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

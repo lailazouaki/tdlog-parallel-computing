@@ -1,0 +1,67 @@
+  {
+    "recordid" : "15916bd6985ccc5f4e3c4a2744896895557180f6",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 236,
+      "insee_com" : "33477",
+      "z_moyen" : 29,
+      "code_dept" : "33",
+      "nom_comm" : "SAINT-SEURIN-DE-CURSAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4150,
+      "y_centroid" : 64575,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.627771871614229,
+              45.14695857085308
+            ],
+            [
+              -0.635733829493336,
+              45.15206236440094
+            ],
+            [
+              -0.635731863037244,
+              45.16826900260175
+            ],
+            [
+              -0.623025672205023,
+              45.16489670268118
+            ],
+            [
+              -0.614285678164789,
+              45.15841106719908
+            ],
+            [
+              -0.627771871614229,
+              45.14695857085308
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64578,
+      "code_cant" : "07",
+      "x_centroid" : 4150,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 28989,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        45.15795700548612,
+        -0.6274263265928915
+      ],
+      "code_comm" : "477",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6274263265928915,
+        45.15795700548612
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

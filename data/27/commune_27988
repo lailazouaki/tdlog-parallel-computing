@@ -1,0 +1,75 @@
+  {
+    "recordid" : "06f6c0bab3fb4d2e30c8ccfc45057e80d4a9efd6",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 458,
+      "insee_com" : "84121",
+      "z_moyen" : 310,
+      "code_dept" : "84",
+      "nom_comm" : "SANNES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9005,
+      "y_centroid" : 62984,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.511093047701126,
+              43.74704486519995
+            ],
+            [
+              5.48916246883444,
+              43.7476474419005
+            ],
+            [
+              5.472830918941662,
+              43.75252102992423
+            ],
+            [
+              5.475091398459872,
+              43.7706107763053
+            ],
+            [
+              5.484412739945455,
+              43.76954328371493
+            ],
+            [
+              5.495094762362336,
+              43.75837834942411
+            ],
+            [
+              5.504319365470293,
+              43.7582746572528
+            ],
+            [
+              5.511093047701126,
+              43.74704486519995
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62985,
+      "code_cant" : "19",
+      "x_centroid" : 9004,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 29956,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.75669780306859,
+        5.488589927393033
+      ],
+      "code_comm" : "121",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.488589927393033,
+        43.75669780306859
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

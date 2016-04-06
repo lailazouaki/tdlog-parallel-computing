@@ -1,0 +1,75 @@
+  {
+    "recordid" : "abc00d1f5bbf068e7e94002c1590cae31f8972f7",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 336,
+      "insee_com" : "65111",
+      "z_moyen" : 531,
+      "code_dept" : "65",
+      "nom_comm" : "BULAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4780,
+      "y_centroid" : 62198,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.272754597104404,
+              43.03194508013136
+            ],
+            [
+              0.267079480808055,
+              43.03730853388539
+            ],
+            [
+              0.271703883606529,
+              43.04669500926655
+            ],
+            [
+              0.275152861153453,
+              43.05214590834108
+            ],
+            [
+              0.293215104638134,
+              43.05321361392728
+            ],
+            [
+              0.28861218722926,
+              43.04223581433728
+            ],
+            [
+              0.285930564640586,
+              43.0358418690229
+            ],
+            [
+              0.272754597104404,
+              43.03194508013136
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62194,
+      "code_cant" : "05",
+      "x_centroid" : 4781,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 15223,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.04323278404608,
+        0.2797213302754492
+      ],
+      "code_comm" : "111",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2797213302754492,
+        43.04323278404608
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dbdddc1c0a5b3304441ef00d93d1e6d2c36d68b6",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 665,
+      "insee_com" : "08278",
+      "z_moyen" : 208,
+      "code_dept" : "08",
+      "nom_comm" : "MARQUIGNY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8235,
+      "y_centroid" : 69401,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.725098877408805,
+              49.53724294211637
+            ],
+            [
+              4.710033219998535,
+              49.53694386204005
+            ],
+            [
+              4.685891853939776,
+              49.54123694459353
+            ],
+            [
+              4.681531595889424,
+              49.54687063748193
+            ],
+            [
+              4.691841001469128,
+              49.55871857629447
+            ],
+            [
+              4.707403537853877,
+              49.56089168816442
+            ],
+            [
+              4.722256677369544,
+              49.55835369498507
+            ],
+            [
+              4.725098877408805,
+              49.53724294211637
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69404,
+      "code_cant" : "30",
+      "x_centroid" : 8234,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 18689,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.54851603550649,
+        4.705346188484306
+      ],
+      "code_comm" : "278",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.705346188484306,
+        49.54851603550649
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

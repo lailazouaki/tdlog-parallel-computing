@@ -1,0 +1,71 @@
+  {
+    "recordid" : "25e33d39cf1d5b805c40a7c7d3ef368085d62e5b",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 566,
+      "insee_com" : "65239",
+      "z_moyen" : 643,
+      "code_dept" : "65",
+      "nom_comm" : "LABASTIDE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4841,
+      "y_centroid" : 62187,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.367371986924072,
+              43.02509608106837
+            ],
+            [
+              0.340170816156318,
+              43.02664070624927
+            ],
+            [
+              0.333152844622022,
+              43.0349438636121
+            ],
+            [
+              0.334722242514346,
+              43.04162391862237
+            ],
+            [
+              0.362272671618879,
+              43.04926782950891
+            ],
+            [
+              0.368511765387997,
+              43.0256548859935
+            ],
+            [
+              0.367371986924072,
+              43.02509608106837
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62187,
+      "code_cant" : "05",
+      "x_centroid" : 4840,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 19014,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.03579288851414,
+        0.3516718852574063
+      ],
+      "code_comm" : "239",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3516718852574063,
+        43.03579288851414
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

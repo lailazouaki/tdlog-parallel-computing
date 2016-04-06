@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0d850b690cdf3050e4f14ad94ccd9050facd225c",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 326,
+      "insee_com" : "2B025",
+      "z_moyen" : 442,
+      "code_dept" : "2B",
+      "nom_comm" : "AVAPESSA",
+      "code_arr" : "5",
+      "x_chf_lieu" : 11842,
+      "y_centroid" : 61802,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.894917990336465,
+              42.5499673438838
+            ],
+            [
+              8.878941617926976,
+              42.55403183721132
+            ],
+            [
+              8.879517441307316,
+              42.55985966618285
+            ],
+            [
+              8.890623380824854,
+              42.56598074429923
+            ],
+            [
+              8.899159766620221,
+              42.56440896654524
+            ],
+            [
+              8.916325498690245,
+              42.56867759128109
+            ],
+            [
+              8.894917990336465,
+              42.5499673438838
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61804,
+      "code_cant" : "05",
+      "x_centroid" : 11842,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 35065,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.55916669626701,
+        8.8943476716893
+      ],
+      "code_comm" : "025",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        8.8943476716893,
+        42.55916669626701
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2d1fe545df60d9061a7542eb574eeea43c3f1ed5",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 455,
+      "insee_com" : "70522",
+      "z_moyen" : 283,
+      "code_dept" : "70",
+      "nom_comm" : "VAROGNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9402,
+      "y_centroid" : 67402,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.20412864535311,
+              47.7076017437043
+            ],
+            [
+              6.191787417405022,
+              47.71122720583939
+            ],
+            [
+              6.188271986168072,
+              47.71983562447568
+            ],
+            [
+              6.204950388855075,
+              47.73345921666087
+            ],
+            [
+              6.208835517674306,
+              47.72747050398554
+            ],
+            [
+              6.237569728057998,
+              47.71697690565685
+            ],
+            [
+              6.214176753977465,
+              47.71355054860735
+            ],
+            [
+              6.20412864535311,
+              47.7076017437043
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67398,
+      "code_cant" : "26",
+      "x_centroid" : 9404,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 31286,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.71901266780522,
+        6.207283977711827
+      ],
+      "code_comm" : "522",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.207283977711827,
+        47.71901266780522
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

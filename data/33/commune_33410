@@ -1,0 +1,75 @@
+  {
+    "recordid" : "096b566b167bd32b6e48dba30406e6c195779a3f",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 359,
+      "insee_com" : "54555",
+      "z_moyen" : 279,
+      "code_dept" : "54",
+      "nom_comm" : "VAXAINVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9771,
+      "y_centroid" : 68310,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.736873457584517,
+              48.50695835049396
+            ],
+            [
+              6.747662692737282,
+              48.51720934329209
+            ],
+            [
+              6.750212296167772,
+              48.52859338554529
+            ],
+            [
+              6.761836788704007,
+              48.53413371754363
+            ],
+            [
+              6.772620647848588,
+              48.52325476111016
+            ],
+            [
+              6.760907183369856,
+              48.51664657847285
+            ],
+            [
+              6.754649958318836,
+              48.5080186722725
+            ],
+            [
+              6.736873457584517,
+              48.50695835049396
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68305,
+      "code_cant" : "03",
+      "x_centroid" : 9772,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 30623,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.52004564271488,
+        6.755813738485273
+      ],
+      "code_comm" : "555",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.755813738485273,
+        48.52004564271488
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

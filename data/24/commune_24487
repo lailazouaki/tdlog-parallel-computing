@@ -1,0 +1,71 @@
+  {
+    "recordid" : "24b072588b838c84d273728aeac15cd88f481f70",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 497,
+      "insee_com" : "59568",
+      "z_moyen" : 57,
+      "code_dept" : "59",
+      "nom_comm" : "SERCUS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6615,
+      "y_centroid" : 70680,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.464081434911729,
+              50.70062443146948
+            ],
+            [
+              2.448694221959256,
+              50.69676131302341
+            ],
+            [
+              2.428000064280967,
+              50.70133411067633
+            ],
+            [
+              2.454995474996817,
+              50.72147512395012
+            ],
+            [
+              2.468253789818968,
+              50.72155942862963
+            ],
+            [
+              2.468175168053192,
+              50.72097582797659
+            ],
+            [
+              2.464081434911729,
+              50.70062443146948
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70679,
+      "code_cant" : "29",
+      "x_centroid" : 6612,
+      "nom_dept" : "NORD",
+      "id_geofla" : 25426,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.70835276224263,
+        2.451936573830937
+      ],
+      "code_comm" : "568",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.451936573830937,
+        50.70835276224263
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

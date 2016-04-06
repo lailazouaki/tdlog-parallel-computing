@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7f69a3f6e812d2f8fd0bda7ebdb254895a08a794",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 286,
+      "insee_com" : "60078",
+      "z_moyen" : 83,
+      "code_dept" : "60",
+      "nom_comm" : "BLINCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6722,
+      "y_centroid" : 69206,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.610020333336275,
+              49.37389419947676
+            ],
+            [
+              2.609836719651588,
+              49.39088218466051
+            ],
+            [
+              2.620751288596521,
+              49.39720887856463
+            ],
+            [
+              2.632806828496398,
+              49.38489577449685
+            ],
+            [
+              2.624690803800226,
+              49.376304656461
+            ],
+            [
+              2.610020333336275,
+              49.37389419947676
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69205,
+      "code_cant" : "08",
+      "x_centroid" : 6723,
+      "nom_dept" : "OISE",
+      "id_geofla" : 22986,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.38480963068046,
+        2.619368035526768
+      ],
+      "code_comm" : "078",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.619368035526768,
+        49.38480963068046
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

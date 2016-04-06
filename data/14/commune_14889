@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a0c24e01ee97c35487876a493b43276832ac5418",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 241,
+      "insee_com" : "56259",
+      "z_moyen" : 29,
+      "code_dept" : "56",
+      "nom_comm" : "LA TRINITE-SURZUR",
+      "code_arr" : "3",
+      "x_chf_lieu" : 2799,
+      "y_centroid" : 67375,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.582144138415455,
+              47.60020452737979
+            ],
+            [
+              -2.591399828003322,
+              47.5980102471851
+            ],
+            [
+              -2.601166563436472,
+              47.59954455844963
+            ],
+            [
+              -2.607612116973886,
+              47.60831263848555
+            ],
+            [
+              -2.584557264133532,
+              47.61114294381827
+            ],
+            [
+              -2.578566583980778,
+              47.60617802435226
+            ],
+            [
+              -2.582144138415455,
+              47.60020452737979
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67375,
+      "code_cant" : "37",
+      "x_centroid" : 2801,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 29038,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        47.60470546166788,
+        -2.592272236709031
+      ],
+      "code_comm" : "259",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.592272236709031,
+        47.60470546166788
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

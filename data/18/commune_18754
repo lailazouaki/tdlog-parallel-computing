@@ -1,0 +1,75 @@
+  {
+    "recordid" : "26d9e75a48ecea33572f5d91ab6d52768431dc97",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 397,
+      "insee_com" : "54529",
+      "z_moyen" : 431,
+      "code_dept" : "54",
+      "nom_comm" : "TRAMONT-EMY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9180,
+      "y_centroid" : 68166,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.94958480891344,
+              48.3965013937712
+            ],
+            [
+              5.941102044772357,
+              48.40073648399822
+            ],
+            [
+              5.942222899737389,
+              48.43041775290865
+            ],
+            [
+              5.954213921682613,
+              48.42786898643425
+            ],
+            [
+              5.958641020733394,
+              48.42097053630724
+            ],
+            [
+              5.954926448726167,
+              48.4188934940575
+            ],
+            [
+              5.960138254584622,
+              48.40673568642887
+            ],
+            [
+              5.94958480891344,
+              48.3965013937712
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68159,
+      "code_cant" : "10",
+      "x_centroid" : 9181,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 19264,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.41351296956153,
+        5.949246802475386
+      ],
+      "code_comm" : "529",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.949246802475386,
+        48.41351296956153
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,79 @@
+  {
+    "recordid" : "95ba1cf7cf216926633f2b7e8da0896e9cb93e0b",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 499,
+      "insee_com" : "84115",
+      "z_moyen" : 233,
+      "code_dept" : "84",
+      "nom_comm" : "SAINT-PIERRE-DE-VASSOLS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8709,
+      "y_centroid" : 63352,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.129678936703429,
+              44.08534785900368
+            ],
+            [
+              5.132625027781534,
+              44.10496355136176
+            ],
+            [
+              5.139894016047051,
+              44.11351044364316
+            ],
+            [
+              5.143999004013319,
+              44.10106803030136
+            ],
+            [
+              5.15983032967506,
+              44.09910936060628
+            ],
+            [
+              5.163824351871239,
+              44.09243077757136
+            ],
+            [
+              5.159138085374747,
+              44.08745415520163
+            ],
+            [
+              5.151313859184738,
+              44.08502406236501
+            ],
+            [
+              5.129678936703429,
+              44.08534785900368
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63360,
+      "code_cant" : "15",
+      "x_centroid" : 8716,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 18071,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        44.09490730266975,
+        5.144364017236078
+      ],
+      "code_comm" : "115",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.144364017236078,
+        44.09490730266975
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

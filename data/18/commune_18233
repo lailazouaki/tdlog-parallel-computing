@@ -1,0 +1,71 @@
+  {
+    "recordid" : "42b492985d3fc7174ae02ad758d33d74bc025d10",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 313,
+      "insee_com" : "54461",
+      "z_moyen" : 303,
+      "code_dept" : "54",
+      "nom_comm" : "ROMAIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9480,
+      "y_centroid" : 68297,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.351069840259323,
+              48.50885457696832
+            ],
+            [
+              6.340955891521475,
+              48.52132175105261
+            ],
+            [
+              6.352904567010262,
+              48.525892213372
+            ],
+            [
+              6.360430252941526,
+              48.53333286485178
+            ],
+            [
+              6.371400764914686,
+              48.5238921241171
+            ],
+            [
+              6.367316700647122,
+              48.51749809572927
+            ],
+            [
+              6.351069840259323,
+              48.50885457696832
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68292,
+      "code_cant" : "05",
+      "x_centroid" : 9478,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 17923,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.5207521700349,
+        6.356860269128182
+      ],
+      "code_comm" : "461",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.356860269128182,
+        48.5207521700349
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

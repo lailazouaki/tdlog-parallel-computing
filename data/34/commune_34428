@@ -1,0 +1,75 @@
+  {
+    "recordid" : "da2a68df13b7eff81699fa88acd2ed9d34568a3a",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 561,
+      "insee_com" : "50472",
+      "z_moyen" : 72,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-GEORGES-DE-LIVOYE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3900,
+      "y_centroid" : 68568,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.212814575804855,
+              48.72494074816811
+            ],
+            [
+              -1.234622662454469,
+              48.72660016848772
+            ],
+            [
+              -1.241962104050607,
+              48.74721787042341
+            ],
+            [
+              -1.222864444258111,
+              48.74886821337022
+            ],
+            [
+              -1.216710250543367,
+              48.75394962515309
+            ],
+            [
+              -1.215857872268773,
+              48.74441442417196
+            ],
+            [
+              -1.200219016137671,
+              48.73640960267058
+            ],
+            [
+              -1.212814575804855,
+              48.72494074816811
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68567,
+      "code_cant" : "05",
+      "x_centroid" : 3896,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 31384,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.73726556840317,
+        -1.222703952904789
+      ],
+      "code_comm" : "472",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.222703952904789,
+        48.73726556840317
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

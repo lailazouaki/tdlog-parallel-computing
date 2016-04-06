@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ac8045778b4b89d8d5b20e8ce7879f3f6bbb0ed6",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 439,
+      "insee_com" : "08155",
+      "z_moyen" : 245,
+      "code_dept" : "08",
+      "nom_comm" : "ETALLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8038,
+      "y_centroid" : 69736,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.441517956501506,
+              49.83978682701527
+            ],
+            [
+              4.428095242576098,
+              49.85760954953324
+            ],
+            [
+              4.446390855987074,
+              49.86565157093489
+            ],
+            [
+              4.461446230609268,
+              49.85841003104889
+            ],
+            [
+              4.459959724436364,
+              49.84919996557156
+            ],
+            [
+              4.45266916623596,
+              49.84058013859223
+            ],
+            [
+              4.441517956501506,
+              49.83978682701527
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69730,
+      "code_cant" : "24",
+      "x_centroid" : 8040,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 29394,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.85280349181081,
+        4.446186702710408
+      ],
+      "code_comm" : "155",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.446186702710408,
+        49.85280349181081
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

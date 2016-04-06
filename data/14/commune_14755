@@ -1,0 +1,79 @@
+  {
+    "recordid" : "ddbbfbdff55b3a3959ae04a2cab6607da1f6cfb1",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 312,
+      "insee_com" : "34338",
+      "z_moyen" : 184,
+      "code_dept" : "34",
+      "nom_comm" : "VILLENEUVETTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7322,
+      "y_centroid" : 62790,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.407124471524072,
+              43.60338694828247
+            ],
+            [
+              3.395071801678181,
+              43.60803830524063
+            ],
+            [
+              3.386232803753086,
+              43.60654945399419
+            ],
+            [
+              3.375477733938443,
+              43.6035818931994
+            ],
+            [
+              3.383028669401229,
+              43.61069978213244
+            ],
+            [
+              3.399625698787582,
+              43.61649760882678
+            ],
+            [
+              3.417623317254022,
+              43.61516124336163
+            ],
+            [
+              3.415028425626906,
+              43.60569647185577
+            ],
+            [
+              3.407124471524072,
+              43.60338694828247
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62791,
+      "code_cant" : "10",
+      "x_centroid" : 7323,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 14689,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.6102089011122,
+        3.400774883171419
+      ],
+      "code_comm" : "338",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.400774883171419,
+        43.6102089011122
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "48c72c1049612e8dce9b6fdbb87cfffaa6f653ae",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 430,
+      "insee_com" : "76734",
+      "z_moyen" : 118,
+      "code_dept" : "76",
+      "nom_comm" : "VERGETOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5033,
+      "y_centroid" : 69492,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.277017484777389,
+              49.59420761889422
+            ],
+            [
+              0.268653315877567,
+              49.61204821328148
+            ],
+            [
+              0.278824431254494,
+              49.62299442412174
+            ],
+            [
+              0.292164951052117,
+              49.62722172696944
+            ],
+            [
+              0.295128457276299,
+              49.62614582470221
+            ],
+            [
+              0.285922960817297,
+              49.59792276978183
+            ],
+            [
+              0.277017484777389,
+              49.59420761889422
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69499,
+      "code_cant" : "12",
+      "x_centroid" : 5034,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 17053,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.61159227377028,
+        0.2818622730095665
+      ],
+      "code_comm" : "734",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2818622730095665,
+        49.61159227377028
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

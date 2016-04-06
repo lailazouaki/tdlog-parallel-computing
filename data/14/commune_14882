@@ -1,0 +1,63 @@
+  {
+    "recordid" : "bb1569b478568310fb0675a844a51dc56d913e3b",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 381,
+      "insee_com" : "08365",
+      "z_moyen" : 247,
+      "code_dept" : "08",
+      "nom_comm" : "RIMOGNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8107,
+      "y_centroid" : 69721,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.526813548993466,
+              49.82827262635704
+            ],
+            [
+              4.522211607332965,
+              49.85283362688403
+            ],
+            [
+              4.545621595018102,
+              49.84526131868907
+            ],
+            [
+              4.549837564383276,
+              49.82851258517109
+            ],
+            [
+              4.526813548993466,
+              49.82827262635704
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69723,
+      "code_cant" : "24",
+      "x_centroid" : 8105,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 29018,
+      "statut" : "Commune simple",
+      "population" : 1.4,
+      "geom_x_y" : [
+        49.83874036157918,
+        4.535390671684165
+      ],
+      "code_comm" : "365",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.535390671684165,
+        49.83874036157918
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

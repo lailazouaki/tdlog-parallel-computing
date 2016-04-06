@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9d47b41967cbcac29644f0871e22fb83c0e4d5b9",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 466,
+      "insee_com" : "62340",
+      "z_moyen" : 116,
+      "code_dept" : "62",
+      "nom_comm" : "FLORINGHEM",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6592,
+      "y_centroid" : 70445,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.427880207440799,
+              50.48268345169614
+            ],
+            [
+              2.410274537339749,
+              50.49639753144714
+            ],
+            [
+              2.410518993423598,
+              50.49955834950928
+            ],
+            [
+              2.428556069986843,
+              50.50992065455145
+            ],
+            [
+              2.433921165050585,
+              50.51224317947182
+            ],
+            [
+              2.448899819967582,
+              50.49416089006519
+            ],
+            [
+              2.427880207440799,
+              50.48268345169614
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70444,
+      "code_cant" : "27",
+      "x_centroid" : 6594,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 31009,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        50.49720963603878,
+        2.429430146225698
+      ],
+      "code_comm" : "340",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.429430146225698,
+        50.49720963603878
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

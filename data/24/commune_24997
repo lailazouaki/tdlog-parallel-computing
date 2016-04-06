@@ -1,0 +1,67 @@
+  {
+    "recordid" : "36e29436c9b8fe0061ad0867bb14aac87bbe077f",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 214,
+      "insee_com" : "16139",
+      "z_moyen" : 74,
+      "code_dept" : "16",
+      "nom_comm" : "FLEURAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4602,
+      "y_centroid" : 65178,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.06992416967292001,
+              45.71588004956703
+            ],
+            [
+              -0.087872173332842,
+              45.71200114432357
+            ],
+            [
+              -0.09724276339127,
+              45.71348318361696
+            ],
+            [
+              -0.096346691488361,
+              45.72389840980662
+            ],
+            [
+              -0.078788395272565,
+              45.72351440117707
+            ],
+            [
+              -0.06992416967292001,
+              45.71588004956703
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65181,
+      "code_cant" : "17",
+      "x_centroid" : 4600,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 24559,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.71814718255254,
+        -0.08577586712024965
+      ],
+      "code_comm" : "139",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.08577586712024965,
+        45.71814718255254
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

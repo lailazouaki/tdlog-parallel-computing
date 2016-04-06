@@ -1,0 +1,71 @@
+  {
+    "recordid" : "185067f7a92db587d0f40f561ca5057005b31f79",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 275,
+      "insee_com" : "62133",
+      "z_moyen" : 33,
+      "code_dept" : "62",
+      "nom_comm" : "BILLY-MONTIGNY",
+      "code_arr" : "7",
+      "x_chf_lieu" : 6937,
+      "y_centroid" : 70352,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.921632333128137,
+              50.40599133707561
+            ],
+            [
+              2.915274953957057,
+              50.41086175145975
+            ],
+            [
+              2.890929699052071,
+              50.41068107187813
+            ],
+            [
+              2.890506717541984,
+              50.41786238790281
+            ],
+            [
+              2.918725480951907,
+              50.4229023278444
+            ],
+            [
+              2.924140343932129,
+              50.410239111206
+            ],
+            [
+              2.921632333128137,
+              50.40599133707561
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70356,
+      "code_cant" : "75",
+      "x_centroid" : 6934,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24912,
+      "statut" : "Commune simple",
+      "population" : 8.1,
+      "geom_x_y" : [
+        50.41517910537511,
+        2.908289845368417
+      ],
+      "code_comm" : "133",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.908289845368417,
+        50.41517910537511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

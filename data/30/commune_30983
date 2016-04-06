@@ -1,0 +1,75 @@
+  {
+    "recordid" : "003ca40fab9bdcf99b3581502aca43cbd98fced7",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 216,
+      "insee_com" : "65380",
+      "z_moyen" : 323,
+      "code_dept" : "65",
+      "nom_comm" : "SABALOS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4677,
+      "y_centroid" : 62470,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.154085315812659,
+              43.28123547862458
+            ],
+            [
+              0.153612971450062,
+              43.27832459392361
+            ],
+            [
+              0.149831121031959,
+              43.27931404703637
+            ],
+            [
+              0.133584388171338,
+              43.27849711679097
+            ],
+            [
+              0.134373662832891,
+              43.2876545498544
+            ],
+            [
+              0.14510355759589,
+              43.29069305422196
+            ],
+            [
+              0.156864786523527,
+              43.29083214321252
+            ],
+            [
+              0.154085315812659,
+              43.28123547862458
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62471,
+      "code_cant" : "17",
+      "x_centroid" : 4681,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 32473,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.2845871036894,
+        0.1450762129594292
+      ],
+      "code_comm" : "380",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1450762129594292,
+        43.2845871036894
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

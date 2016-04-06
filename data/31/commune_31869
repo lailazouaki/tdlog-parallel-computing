@@ -1,0 +1,75 @@
+  {
+    "recordid" : "946648baebcbc48c259e854e3c8e5299b50fef9b",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 647,
+      "insee_com" : "27201",
+      "z_moyen" : 152,
+      "code_dept" : "27",
+      "nom_comm" : "DAUBEUF-LA-CAMPAGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5563,
+      "y_centroid" : 69006,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.026382338081219,
+              49.1716487969901
+            ],
+            [
+              1.00850577635118,
+              49.18638226380947
+            ],
+            [
+              1.020476614667952,
+              49.20054596143638
+            ],
+            [
+              1.023403550359334,
+              49.20439808057499
+            ],
+            [
+              1.036955482173043,
+              49.20280305708737
+            ],
+            [
+              1.052874740576977,
+              49.18422993593484
+            ],
+            [
+              1.029850066408323,
+              49.17783901052128
+            ],
+            [
+              1.026382338081219,
+              49.1716487969901
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69010,
+      "code_cant" : "24",
+      "x_centroid" : 5563,
+      "nom_dept" : "EURE",
+      "id_geofla" : 2996,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.18918547989756,
+        1.029444509927405
+      ],
+      "code_comm" : "201",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.029444509927405,
+        49.18918547989756
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d4b3dc7c25badcdda6aeb6cc6f93f8a62c2517f8",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 667,
+      "insee_com" : "63308",
+      "z_moyen" : 687,
+      "code_dept" : "63",
+      "nom_comm" : "ROYAT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7038,
+      "y_centroid" : 65175,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.042313956050616,
+              45.74460497866045
+            ],
+            [
+              3.027639585690858,
+              45.7455460370221
+            ],
+            [
+              3.020927755036788,
+              45.75063523916967
+            ],
+            [
+              3.027432430821957,
+              45.76870665000388
+            ],
+            [
+              3.050374177491813,
+              45.7685906809989
+            ],
+            [
+              3.054248220804973,
+              45.76969648652243
+            ],
+            [
+              3.065291714612912,
+              45.76169429326722
+            ],
+            [
+              3.042313956050616,
+              45.74460497866045
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65183,
+      "code_cant" : "61",
+      "x_centroid" : 7031,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 35915,
+      "statut" : "Chef-lieu canton",
+      "population" : 4.4,
+      "geom_x_y" : [
+        45.7578437859007,
+        3.040765529960156
+      ],
+      "code_comm" : "308",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.040765529960156,
+        45.7578437859007
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ec11b17345ee5deffaff50470eb04afa049f87bc",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 683,
+      "insee_com" : "64381",
+      "z_moyen" : 168,
+      "code_dept" : "64",
+      "nom_comm" : "MERITEIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3946,
+      "y_centroid" : 62560,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.722887505527087,
+              43.34419715825604
+            ],
+            [
+              -0.727698123156141,
+              43.33825856112066
+            ],
+            [
+              -0.760303423963743,
+              43.32437666533668
+            ],
+            [
+              -0.765022102240299,
+              43.32504094082023
+            ],
+            [
+              -0.7734829378574281,
+              43.33123027899566
+            ],
+            [
+              -0.7752060405301689,
+              43.3400141974447
+            ],
+            [
+              -0.733413627108257,
+              43.35295731209594
+            ],
+            [
+              -0.722887505527087,
+              43.34419715825604
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62557,
+      "code_cant" : "24",
+      "x_centroid" : 3958,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 25168,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.33866519835588,
+        -0.750086761556778
+      ],
+      "code_comm" : "381",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.750086761556778,
+        43.33866519835588
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

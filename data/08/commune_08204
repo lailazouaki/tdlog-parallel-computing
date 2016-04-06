@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b5af4c90847ed331311530b67ca375c13a2f8140",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 202,
+      "insee_com" : "68131",
+      "z_moyen" : 329,
+      "code_dept" : "68",
+      "nom_comm" : "HEIWILLER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10243,
+      "y_centroid" : 67336,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.316587001693187,
+              47.61652715638144
+            ],
+            [
+              7.310698215564173,
+              47.62465961181159
+            ],
+            [
+              7.314013078687037,
+              47.62673663722774
+            ],
+            [
+              7.325498152909064,
+              47.63336083201164
+            ],
+            [
+              7.335854565947312,
+              47.62016674364028
+            ],
+            [
+              7.329203143214098,
+              47.61641124779195
+            ],
+            [
+              7.316587001693187,
+              47.61652715638144
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67336,
+      "code_cant" : "01",
+      "x_centroid" : 10245,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 8417,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.62334036158083,
+        7.323259662539356
+      ],
+      "code_comm" : "131",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.323259662539356,
+        47.62334036158083
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

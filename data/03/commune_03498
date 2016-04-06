@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c22bee378f94319ad173e0269585e7ec0ec73997",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 395,
+      "insee_com" : "67307",
+      "z_moyen" : 203,
+      "code_dept" : "67",
+      "nom_comm" : "MULHAUSEN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10337,
+      "y_centroid" : 68747,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.545429504930712,
+              48.87692266021173
+            ],
+            [
+              7.534928543498677,
+              48.88367189697504
+            ],
+            [
+              7.553128103668517,
+              48.89685259084978
+            ],
+            [
+              7.5666269274156,
+              48.89234752576995
+            ],
+            [
+              7.576507283650116,
+              48.89424894560327
+            ],
+            [
+              7.564815306782041,
+              48.88011172495813
+            ],
+            [
+              7.545429504930712,
+              48.87692266021173
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68743,
+      "code_cant" : "04",
+      "x_centroid" : 10338,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 11211,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.88649276583079,
+        7.554859589142092
+      ],
+      "code_comm" : "307",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.554859589142092,
+        48.88649276583079
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

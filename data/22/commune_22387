@@ -1,0 +1,67 @@
+  {
+    "recordid" : "da32c4bfd0ddc30401372889ed9a40b7c92c2535",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 685,
+      "insee_com" : "91244",
+      "z_moyen" : 66,
+      "code_dept" : "91",
+      "nom_comm" : "FONTENAY-LE-VICOMTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6556,
+      "y_centroid" : 68275,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.404570931636072,
+              48.53149435432244
+            ],
+            [
+              2.374443938974373,
+              48.5454092767546
+            ],
+            [
+              2.390374937466352,
+              48.55722255661294
+            ],
+            [
+              2.402774167892405,
+              48.56319566027086
+            ],
+            [
+              2.425165596050208,
+              48.54447782020264
+            ],
+            [
+              2.404570931636072,
+              48.53149435432244
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68276,
+      "code_cant" : "16",
+      "x_centroid" : 6557,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 16627,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        48.54683861324552,
+        2.400680410512904
+      ],
+      "code_comm" : "244",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.400680410512904,
+        48.54683861324552
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

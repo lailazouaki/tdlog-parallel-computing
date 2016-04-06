@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d829fa3aeea1b35abbe30e0ae771e088b20813f8",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 732,
+      "insee_com" : "08147",
+      "z_moyen" : 131,
+      "code_dept" : "08",
+      "nom_comm" : "DRICOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8098,
+      "y_centroid" : 69226,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.49552122580346,
+              49.37522624397455
+            ],
+            [
+              4.495219481248824,
+              49.39710296439491
+            ],
+            [
+              4.541752529950239,
+              49.41287175361992
+            ],
+            [
+              4.549151165891312,
+              49.40964873875499
+            ],
+            [
+              4.532381296942307,
+              49.40215783240972
+            ],
+            [
+              4.531691827218087,
+              49.3924033110258
+            ],
+            [
+              4.51303296939583,
+              49.37798416041569
+            ],
+            [
+              4.49552122580346,
+              49.37522624397455
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69228,
+      "code_cant" : "14",
+      "x_centroid" : 8100,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 29609,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.39356755357257,
+        4.5156079596464
+      ],
+      "code_comm" : "147",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.5156079596464,
+        49.39356755357257
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "13458eeea0bd3f06eabe46d27193b8f9b7afe7e4",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 159,
+      "insee_com" : "67427",
+      "z_moyen" : 280,
+      "code_dept" : "67",
+      "nom_comm" : "SAINT-MAURICE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10211,
+      "y_centroid" : 68124,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.334916493300273,
+              48.32501014275945
+            ],
+            [
+              7.325052740284521,
+              48.33223729248666
+            ],
+            [
+              7.329490857708349,
+              48.33772459474371
+            ],
+            [
+              7.344527742273514,
+              48.33847994096973
+            ],
+            [
+              7.343413426961089,
+              48.33202415701376
+            ],
+            [
+              7.334916493300273,
+              48.32501014275945
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68118,
+      "code_cant" : "32",
+      "x_centroid" : 10211,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 30730,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.33292016164622,
+        7.335272851457985
+      ],
+      "code_comm" : "427",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.335272851457985,
+        48.33292016164622
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "cf607eff16aab5d8bd9633437533a1d002a25a03",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 311,
+      "insee_com" : "73095",
+      "z_moyen" : 501,
+      "code_dept" : "73",
+      "nom_comm" : "LA CROIX-DE-LA-ROCHETTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9436,
+      "y_centroid" : 64909,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.124297505821325,
+              45.46811049897294
+            ],
+            [
+              6.12154740585157,
+              45.46543850992315
+            ],
+            [
+              6.099663329311931,
+              45.4700736154588
+            ],
+            [
+              6.119174178895403,
+              45.48588893390014
+            ],
+            [
+              6.134428472218413,
+              45.47583026229029
+            ],
+            [
+              6.124297505821325,
+              45.46811049897294
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64900,
+      "code_cant" : "22",
+      "x_centroid" : 9435,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 26249,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.47460198880034,
+        6.117998182857735
+      ],
+      "code_comm" : "095",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.117998182857735,
+        45.47460198880034
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

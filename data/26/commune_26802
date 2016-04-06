@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3679a94e45beccefc57ad2bd3e1b9fcd9c752f2f",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 363,
+      "insee_com" : "39162",
+      "z_moyen" : 210,
+      "code_dept" : "39",
+      "nom_comm" : "CONDAMINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8865,
+      "y_centroid" : 66195,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.440601411158743,
+              46.63791114479762
+            ],
+            [
+              5.415007980106288,
+              46.6541460575929
+            ],
+            [
+              5.427103274511693,
+              46.66016051782731
+            ],
+            [
+              5.452598180307757,
+              46.65074451976744
+            ],
+            [
+              5.450797563252887,
+              46.64765705429812
+            ],
+            [
+              5.443552860287093,
+              46.63955988131588
+            ],
+            [
+              5.440601411158743,
+              46.63791114479762
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66195,
+      "code_cant" : "15",
+      "x_centroid" : 8861,
+      "nom_dept" : "JURA",
+      "id_geofla" : 7782,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.64990518797111,
+        5.434930446937305
+      ],
+      "code_comm" : "162",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.434930446937305,
+        46.64990518797111
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1b4434b1afae46a928ad780c5650fddf84fd21e2",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 269,
+      "insee_com" : "34222",
+      "z_moyen" : 51,
+      "code_dept" : "34",
+      "nom_comm" : "PUILACHER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7409,
+      "y_centroid" : 62743,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.509150015992303,
+              43.56276397040622
+            ],
+            [
+              3.503906980298353,
+              43.5574888580403
+            ],
+            [
+              3.487997203577284,
+              43.5633919515994
+            ],
+            [
+              3.503625714744222,
+              43.57479256682318
+            ],
+            [
+              3.512239145075641,
+              43.57477927657869
+            ],
+            [
+              3.51795094394953,
+              43.57001941797929
+            ],
+            [
+              3.51605623257187,
+              43.56435993396627
+            ],
+            [
+              3.509150015992303,
+              43.56276397040622
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62743,
+      "code_cant" : "14",
+      "x_centroid" : 7407,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 21730,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.56675928739572,
+        3.504381772353228
+      ],
+      "code_comm" : "222",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.504381772353228,
+        43.56675928739572
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

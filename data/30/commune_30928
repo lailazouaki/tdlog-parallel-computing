@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c66506af477658c2b89b10bbca4389a284adcbd3",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 372,
+      "insee_com" : "64091",
+      "z_moyen" : 255,
+      "code_dept" : "64",
+      "nom_comm" : "BALIROS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4313,
+      "y_centroid" : 62422,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.29305246152745,
+              43.22796077868384
+            ],
+            [
+              -0.297188892064645,
+              43.22235166755965
+            ],
+            [
+              -0.309568595508537,
+              43.21883064941039
+            ],
+            [
+              -0.325509704179814,
+              43.22394945832277
+            ],
+            [
+              -0.307707527003968,
+              43.241989589192
+            ],
+            [
+              -0.298123156030475,
+              43.23288363973072
+            ],
+            [
+              -0.29305246152745,
+              43.22796077868384
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62421,
+      "code_cant" : "26",
+      "x_centroid" : 4311,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 32208,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.22851773414356,
+        -0.308318533909003
+      ],
+      "code_comm" : "091",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.308318533909003,
+        43.22851773414356
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

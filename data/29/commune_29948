@@ -1,0 +1,67 @@
+  {
+    "recordid" : "95b6a4df70f54fa52d570f6b75635058b5ebb466",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 559,
+      "insee_com" : "90032",
+      "z_moyen" : 373,
+      "code_dept" : "90",
+      "nom_comm" : "DANJOUTIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9901,
+      "y_centroid" : 67312,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.839854072218698,
+              47.60819820038493
+            ],
+            [
+              6.847257635033876,
+              47.62179639566767
+            ],
+            [
+              6.878617945233787,
+              47.6296260363182
+            ],
+            [
+              6.890233264700224,
+              47.62236333492876
+            ],
+            [
+              6.88403211848028,
+              47.6113409625514
+            ],
+            [
+              6.839854072218698,
+              47.60819820038493
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67312,
+      "code_cant" : "11",
+      "x_centroid" : 9903,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 27820,
+      "statut" : "Chef-lieu canton",
+      "population" : 3.5,
+      "geom_x_y" : [
+        47.61792632861515,
+        6.866322664192026
+      ],
+      "code_comm" : "032",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.866322664192026,
+        47.61792632861515
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

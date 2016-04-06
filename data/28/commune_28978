@@ -1,0 +1,71 @@
+  {
+    "recordid" : "be4201dff19c0a67576d2a0ec37b93ff0414bbd2",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 242,
+      "insee_com" : "51220",
+      "z_moyen" : 107,
+      "code_dept" : "51",
+      "nom_comm" : "DROUILLY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8118,
+      "y_centroid" : 68532,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.482677833692889,
+              48.76138939270182
+            ],
+            [
+              4.482281382103522,
+              48.76467768599159
+            ],
+            [
+              4.532469320799961,
+              48.77825726066951
+            ],
+            [
+              4.539125557373736,
+              48.7778118661543
+            ],
+            [
+              4.538764958082818,
+              48.77435322100597
+            ],
+            [
+              4.515115714323046,
+              48.76701830356127
+            ],
+            [
+              4.482677833692889,
+              48.76138939270182
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68535,
+      "code_cant" : "34",
+      "x_centroid" : 8111,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 28883,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.76997204911616,
+        4.512330116774317
+      ],
+      "code_comm" : "220",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.512330116774317,
+        48.76997204911616
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

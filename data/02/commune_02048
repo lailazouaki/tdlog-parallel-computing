@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8dde85af05e5ec4a7e7beb6b6e1289c3dce4ef54",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 310,
+      "insee_com" : "67492",
+      "z_moyen" : 209,
+      "code_dept" : "67",
+      "nom_comm" : "TRAENHEIM",
+      "code_arr" : "3",
+      "x_chf_lieu" : 10291,
+      "y_centroid" : 68419,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.449017077724156,
+              48.58641279412863
+            ],
+            [
+              7.446142636136512,
+              48.59078184096957
+            ],
+            [
+              7.455549957118247,
+              48.59838515590533
+            ],
+            [
+              7.469420060243077,
+              48.60190099289235
+            ],
+            [
+              7.48847180841498,
+              48.59675068556468
+            ],
+            [
+              7.468365500992097,
+              48.58828198760085
+            ],
+            [
+              7.449017077724156,
+              48.58641279412863
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68420,
+      "code_cant" : "33",
+      "x_centroid" : 10290,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 25069,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.59407358380191,
+        7.465155186561285
+      ],
+      "code_comm" : "492",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.465155186561285,
+        48.59407358380191
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

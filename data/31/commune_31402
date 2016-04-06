@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c7475601a44af19293dffbcde6ae6efbee238a74",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 560,
+      "insee_com" : "75114",
+      "z_moyen" : 63,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-14E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6505,
+      "y_centroid" : 68589,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.343909438065682,
+              48.81575714610157
+            ],
+            [
+              2.33190893200826,
+              48.81701278914861
+            ],
+            [
+              2.314148423547311,
+              48.82229055105604
+            ],
+            [
+              2.301320806267096,
+              48.82513028921857
+            ],
+            [
+              2.324660773025275,
+              48.84352162052588
+            ],
+            [
+              2.336591298996422,
+              48.83969412678994
+            ],
+            [
+              2.342031572330786,
+              48.83830317558654
+            ],
+            [
+              2.343909438065682,
+              48.81575714610157
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68594,
+      "code_cant" : "28",
+      "x_centroid" : 6506,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 32539,
+      "statut" : "Chef-lieu canton",
+      "population" : 137.2,
+      "geom_x_y" : [
+        48.82899321160943,
+        2.327100883257538
+      ],
+      "code_comm" : "114",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.327100883257538,
+        48.82899321160943
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "98c2b602616c9b1be9107ed464817c0a439fbe74",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 550,
+      "insee_com" : "28257",
+      "z_moyen" : 151,
+      "code_dept" : "28",
+      "nom_comm" : "MONDONVILLE-SAINT-JEAN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6129,
+      "y_centroid" : 68076,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.825087329043687,
+              48.3478984242041
+            ],
+            [
+              1.810542057313999,
+              48.35478965962598
+            ],
+            [
+              1.806416904470347,
+              48.36107370873118
+            ],
+            [
+              1.812668746931019,
+              48.37421939452583
+            ],
+            [
+              1.826200288659055,
+              48.37607276540692
+            ],
+            [
+              1.842236852143077,
+              48.36847443554645
+            ],
+            [
+              1.845710065117785,
+              48.36465726142009
+            ],
+            [
+              1.825087329043687,
+              48.3478984242041
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68077,
+      "code_cant" : "02",
+      "x_centroid" : 6129,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 3047,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.36311851292633,
+        1.824357854028834
+      ],
+      "code_comm" : "257",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.824357854028834,
+        48.36311851292633
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

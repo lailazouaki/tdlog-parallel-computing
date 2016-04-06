@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fba475035bb3b51a5224b60fed143fa3da416f96",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 59,
+      "insee_com" : "65411",
+      "z_moyen" : 708,
+      "code_dept" : "65",
+      "nom_comm" : "SASSIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4533,
+      "y_centroid" : 62022,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.015884867193464,
+              42.86859272632386
+            ],
+            [
+              -0.020377162763367,
+              42.87733940725276
+            ],
+            [
+              -0.017617353047984,
+              42.88638914287029
+            ],
+            [
+              -0.016650968264325,
+              42.88663228829534
+            ],
+            [
+              -0.014826823033321,
+              42.87766646408944
+            ],
+            [
+              -0.013072278934329,
+              42.87120945635522
+            ],
+            [
+              -0.015884867193464,
+              42.86859272632386
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62023,
+      "code_cant" : "13",
+      "x_centroid" : 4533,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 14931,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.87703559205688,
+        -0.01677834656326038
+      ],
+      "code_comm" : "411",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.01677834656326038,
+        42.87703559205688
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "6a0af3b66c6f2711930b6c4947a8559b491dc7c3",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 155,
+      "insee_com" : "65220",
+      "z_moyen" : 376,
+      "code_dept" : "65",
+      "nom_comm" : "HIBARETTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4587,
+      "y_centroid" : 62340,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.050822770773027,
+              43.16057483312132
+            ],
+            [
+              0.037396591955014,
+              43.15912661203335
+            ],
+            [
+              0.025944233222348,
+              43.16950457263296
+            ],
+            [
+              0.037736145249769,
+              43.17144935481577
+            ],
+            [
+              0.050822770773027,
+              43.16057483312132
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62340,
+      "code_cant" : "16",
+      "x_centroid" : 4590,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 20293,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.16510760469245,
+        0.03811071477680664
+      ],
+      "code_comm" : "220",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.03811071477680664,
+        43.16510760469245
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

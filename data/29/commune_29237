@@ -1,0 +1,75 @@
+  {
+    "recordid" : "edd0fdb24ea780b59a0c6b081fd46ccf938e78b8",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 455,
+      "insee_com" : "73083",
+      "z_moyen" : 734,
+      "code_dept" : "73",
+      "nom_comm" : "LES CHAVANNES-EN-MAURIENNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9567,
+      "y_centroid" : 64820,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.296838477210855,
+              45.37240724348561
+            ],
+            [
+              6.282185461583806,
+              45.38346323421318
+            ],
+            [
+              6.278345582260854,
+              45.38189041291127
+            ],
+            [
+              6.274714997019504,
+              45.39994007710673
+            ],
+            [
+              6.282405826342232,
+              45.40258090515069
+            ],
+            [
+              6.298846606902342,
+              45.3995835124631
+            ],
+            [
+              6.300213434969628,
+              45.3767058530055
+            ],
+            [
+              6.296838477210855,
+              45.37240724348561
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64822,
+      "code_cant" : "11",
+      "x_centroid" : 9572,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 20407,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.38968736895984,
+        6.288811342201904
+      ],
+      "code_comm" : "083",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.288811342201904,
+        45.38968736895984
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

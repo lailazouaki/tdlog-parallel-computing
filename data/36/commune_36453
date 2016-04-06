@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4e2352130e269c3fae11b3cd95ee2357827f4801",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 395,
+      "insee_com" : "45159",
+      "z_moyen" : 111,
+      "code_dept" : "45",
+      "nom_comm" : "GRANGERMONT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6573,
+      "y_centroid" : 67876,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.409923698174832,
+              48.17609728955046
+            ],
+            [
+              2.407175725959684,
+              48.17880101180948
+            ],
+            [
+              2.415126263145299,
+              48.19103330263253
+            ],
+            [
+              2.446277296740686,
+              48.19899388575537
+            ],
+            [
+              2.4488612782841,
+              48.18483383054641
+            ],
+            [
+              2.427824856636986,
+              48.18281713849143
+            ],
+            [
+              2.409923698174832,
+              48.17609728955046
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67878,
+      "code_cant" : "30",
+      "x_centroid" : 6575,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 35101,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.18789365044681,
+        2.429262405388015
+      ],
+      "code_comm" : "159",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.429262405388015,
+        48.18789365044681
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

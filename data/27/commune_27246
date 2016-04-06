@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c4e8eac60fad83904ef0de8ac02e8f542eaa91af",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 621,
+      "insee_com" : "62343",
+      "z_moyen" : 78,
+      "code_dept" : "62",
+      "nom_comm" : "FONTAINE-LES-CROISILLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6934,
+      "y_centroid" : 70130,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.908908781671315,
+              50.20200059939554
+            ],
+            [
+              2.876734603099654,
+              50.21774977825257
+            ],
+            [
+              2.891026295046565,
+              50.22932881138833
+            ],
+            [
+              2.898733949353504,
+              50.22492649917971
+            ],
+            [
+              2.9287189961188,
+              50.22199327498627
+            ],
+            [
+              2.922607763224314,
+              50.20957984324018
+            ],
+            [
+              2.925088646544091,
+              50.20672585213553
+            ],
+            [
+              2.908908781671315,
+              50.20200059939554
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70134,
+      "code_cant" : "20",
+      "x_centroid" : 6931,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29951,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.21575245153605,
+        2.904360804938138
+      ],
+      "code_comm" : "343",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.904360804938138,
+        50.21575245153605
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7bff25cf4f6e3e68c47de66e09a57d6d9ad2b220",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 237,
+      "insee_com" : "61048",
+      "z_moyen" : 193,
+      "code_dept" : "61",
+      "nom_comm" : "BOECE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5115,
+      "y_centroid" : 68268,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.443504023211399,
+              48.50591063989712
+            ],
+            [
+              0.44366413726194,
+              48.51540967329633
+            ],
+            [
+              0.455062294724114,
+              48.52228770555095
+            ],
+            [
+              0.464893051637478,
+              48.52240784141577
+            ],
+            [
+              0.465764066000955,
+              48.51279596471415
+            ],
+            [
+              0.443504023211399,
+              48.50591063989712
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68265,
+      "code_cant" : "05",
+      "x_centroid" : 5120,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 31221,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.51492533161682,
+        0.4545404437890901
+      ],
+      "code_comm" : "048",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4545404437890901,
+        48.51492533161682
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

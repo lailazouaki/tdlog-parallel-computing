@@ -1,0 +1,67 @@
+  {
+    "recordid" : "873309a63a2d46f9fa8aec5f66d4c062edafb17a",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 851,
+      "insee_com" : "11374",
+      "z_moyen" : 560,
+      "code_dept" : "11",
+      "nom_comm" : "SALZA",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6588,
+      "y_centroid" : 62096,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.514571176015715,
+              42.97286221206851
+            ],
+            [
+              2.485524158391456,
+              42.97520935071821
+            ],
+            [
+              2.478236193537293,
+              42.97934720765002
+            ],
+            [
+              2.502828779413826,
+              43.00253219917734
+            ],
+            [
+              2.534691015673458,
+              42.98690899782503
+            ],
+            [
+              2.514571176015715,
+              42.97286221206851
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62094,
+      "code_cant" : "23",
+      "x_centroid" : 6596,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 5512,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.98543964775585,
+        2.505906801101893
+      ],
+      "code_comm" : "374",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.505906801101893,
+        42.98543964775585
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

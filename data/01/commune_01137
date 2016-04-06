@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8ef496aec8a4acb960f98db97771aa63f3ebbf13",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 544,
+      "insee_com" : "59441",
+      "z_moyen" : 146,
+      "code_dept" : "59",
+      "nom_comm" : "OBIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7561,
+      "y_centroid" : 70193,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.79597101193774,
+              50.25839393314651
+            ],
+            [
+              3.7763300457884,
+              50.25632830616589
+            ],
+            [
+              3.752885554875606,
+              50.26961967333727
+            ],
+            [
+              3.767431053707136,
+              50.28000871563431
+            ],
+            [
+              3.787071496268342,
+              50.28417688187342
+            ],
+            [
+              3.787080273478625,
+              50.27393152757773
+            ],
+            [
+              3.79597101193774,
+              50.25839393314651
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70190,
+      "code_cant" : "08",
+      "x_centroid" : 7553,
+      "nom_dept" : "NORD",
+      "id_geofla" : 16524,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        50.26929504138301,
+        3.776086686698066
+      ],
+      "code_comm" : "441",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.776086686698066,
+        50.26929504138301
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

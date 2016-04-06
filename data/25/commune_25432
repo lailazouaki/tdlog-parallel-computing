@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fc2cf363be05f19f86a43e0f1360c11c64c2d83f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 315,
+      "insee_com" : "14159",
+      "z_moyen" : 64,
+      "code_dept" : "14",
+      "nom_comm" : "CHOUAIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4352,
+      "y_centroid" : 69072,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.644021128717135,
+              49.19839289413464
+            ],
+            [
+              -0.659903649804372,
+              49.21381395062215
+            ],
+            [
+              -0.628301094874796,
+              49.21842391695024
+            ],
+            [
+              -0.62768731019847,
+              49.2184874009959
+            ],
+            [
+              -0.624803457834371,
+              49.21204050513708
+            ],
+            [
+              -0.632652000506266,
+              49.20350630734617
+            ],
+            [
+              -0.644021128717135,
+              49.19839289413464
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69073,
+      "code_cant" : "02",
+      "x_centroid" : 4347,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24777,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.20971531884537,
+        -0.6407319809708969
+      ],
+      "code_comm" : "159",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6407319809708969,
+        49.20971531884537
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

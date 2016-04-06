@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bda6fbe5e552876d46da6af6a991737e9aab11d6",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 168,
+      "insee_com" : "29126",
+      "z_moyen" : 59,
+      "code_dept" : "29",
+      "nom_comm" : "LOC-BREVALAIRE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 1543,
+      "y_centroid" : 68538,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -4.401864135965966,
+              48.54732193579083
+            ],
+            [
+              -4.407193511680775,
+              48.54699818152913
+            ],
+            [
+              -4.417240000003063,
+              48.55431228055277
+            ],
+            [
+              -4.415945509416898,
+              48.5610161257027
+            ],
+            [
+              -4.407342367762974,
+              48.55976474075591
+            ],
+            [
+              -4.394242591438209,
+              48.55539598217835
+            ],
+            [
+              -4.401864135965966,
+              48.54732193579083
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68538,
+      "code_cant" : "24",
+      "x_centroid" : 1541,
+      "nom_dept" : "FINISTERE",
+      "id_geofla" : 31698,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.55415831823456,
+        -4.406808907958796
+      ],
+      "code_comm" : "126",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -4.406808907958796,
+        48.55415831823456
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

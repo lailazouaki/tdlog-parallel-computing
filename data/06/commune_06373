@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6494c632ece74a8fc037ed13a0b9be06fbe76d2a",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 682,
+      "insee_com" : "91556",
+      "z_moyen" : 137,
+      "code_dept" : "91",
+      "nom_comm" : "SAINT-HILAIRE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6316,
+      "y_centroid" : 68160,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.106493061036837,
+              48.42777676967245
+            ],
+            [
+              2.075893259525821,
+              48.43204088044896
+            ],
+            [
+              2.063366858899248,
+              48.44306293278502
+            ],
+            [
+              2.078499451232458,
+              48.45765737475227
+            ],
+            [
+              2.104143647907071,
+              48.44664361883301
+            ],
+            [
+              2.109190620782657,
+              48.43691097730424
+            ],
+            [
+              2.1045184958788,
+              48.43100079818544
+            ],
+            [
+              2.106493061036837,
+              48.42777676967245
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68152,
+      "code_cant" : "08",
+      "x_centroid" : 6324,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 20170,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.44161955930031,
+        2.087070925516384
+      ],
+      "code_comm" : "556",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.087070925516384,
+        48.44161955930031
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

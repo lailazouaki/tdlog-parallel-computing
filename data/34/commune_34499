@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c906f26c656247772af9135210e90e1bb36a86e7",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 249,
+      "insee_com" : "62357",
+      "z_moyen" : 99,
+      "code_dept" : "62",
+      "nom_comm" : "FRESNOY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6379,
+      "y_centroid" : 70310,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.136302200880918,
+              50.36207533615443
+            ],
+            [
+              2.125734965793693,
+              50.36847427451039
+            ],
+            [
+              2.13010862908927,
+              50.38023063361707
+            ],
+            [
+              2.139268675210912,
+              50.38402071002686
+            ],
+            [
+              2.152310755557389,
+              50.37832008993454
+            ],
+            [
+              2.136302200880918,
+              50.36207533615443
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70303,
+      "code_cant" : "39",
+      "x_centroid" : 6385,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 35719,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.37392023983924,
+        2.137639441479308
+      ],
+      "code_comm" : "357",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.137639441479308,
+        50.37392023983924
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

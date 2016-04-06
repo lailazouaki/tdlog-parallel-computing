@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8283337d0ff23df2514ef7f81e2aef0046ce4eb0",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 1122,
+      "insee_com" : "17429",
+      "z_moyen" : 12,
+      "code_dept" : "17",
+      "nom_comm" : "SOUBISE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3894,
+      "y_centroid" : 65423,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.991337481223316,
+              45.88644462812001
+            ],
+            [
+              -1.008886540008815,
+              45.8939381379186
+            ],
+            [
+              -1.029940884827278,
+              45.91344057416855
+            ],
+            [
+              -1.008751584769838,
+              45.93307472614126
+            ],
+            [
+              -0.978272002892711,
+              45.91452260471762
+            ],
+            [
+              -0.98442152090555,
+              45.90221500022564
+            ],
+            [
+              -0.981245188756858,
+              45.89597039815042
+            ],
+            [
+              -0.991337481223316,
+              45.88644462812001
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65440,
+      "code_cant" : "26",
+      "x_centroid" : 3898,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 10765,
+      "statut" : "Commune simple",
+      "population" : 3,
+      "geom_x_y" : [
+        45.9097262725346,
+        -1.002261085889013
+      ],
+      "code_comm" : "429",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.002261085889013,
+        45.9097262725346
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b3cbd24b4f72bc664b94cad8c5cc05c4b7c5decf",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 246,
+      "insee_com" : "68080",
+      "z_moyen" : 326,
+      "code_dept" : "68",
+      "nom_comm" : "EMLINGEN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10221,
+      "y_centroid" : 67340,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.287444928640181,
+              47.6148884221958
+            ],
+            [
+              7.281461339673068,
+              47.63185672752106
+            ],
+            [
+              7.290176394622265,
+              47.63708046302708
+            ],
+            [
+              7.295315523291021,
+              47.6371348301473
+            ],
+            [
+              7.301313532450336,
+              47.63394820890815
+            ],
+            [
+              7.296867715867404,
+              47.621807365267
+            ],
+            [
+              7.287444928640181,
+              47.6148884221958
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67335,
+      "code_cant" : "01",
+      "x_centroid" : 10221,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 35985,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.62784147498954,
+        7.291193794883012
+      ],
+      "code_comm" : "080",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.291193794883012,
+        47.62784147498954
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

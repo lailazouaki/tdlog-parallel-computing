@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d888ff274d13d821f72fb2a99ef4cc87a6e893f5",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 211,
+      "insee_com" : "62278",
+      "z_moyen" : 43,
+      "code_dept" : "62",
+      "nom_comm" : "DROUVIN-LE-MARAIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6736,
+      "y_centroid" : 70436,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.637588953561028,
+              50.48223651637158
+            ],
+            [
+              2.616270364341032,
+              50.48844668806119
+            ],
+            [
+              2.621814064964865,
+              50.49405594131068
+            ],
+            [
+              2.630981977568144,
+              50.49690212838756
+            ],
+            [
+              2.650781595829101,
+              50.48678952591866
+            ],
+            [
+              2.637588953561028,
+              50.48223651637158
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70441,
+      "code_cant" : "64",
+      "x_centroid" : 6739,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 17756,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.4892270417088,
+        2.632772172052572
+      ],
+      "code_comm" : "278",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.632772172052572,
+        50.4892270417088
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

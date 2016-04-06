@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5bebaccb1850a3fe1b6e0f28784a1e4bdc353cac",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 554,
+      "insee_com" : "57069",
+      "z_moyen" : 291,
+      "code_dept" : "57",
+      "nom_comm" : "BERVILLER-EN-MOSELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9654,
+      "y_centroid" : 69138,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.646015897344328,
+              49.25395011569347
+            ],
+            [
+              6.632587607860753,
+              49.27355080018286
+            ],
+            [
+              6.653230482366532,
+              49.2811164651288
+            ],
+            [
+              6.667845816612192,
+              49.28043890777896
+            ],
+            [
+              6.66152999982018,
+              49.25733162564242
+            ],
+            [
+              6.646015897344328,
+              49.25395011569347
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69141,
+      "code_cant" : "04",
+      "x_centroid" : 9657,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 709,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.26875540024299,
+        6.651668841136487
+      ],
+      "code_comm" : "069",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.651668841136487,
+        49.26875540024299
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

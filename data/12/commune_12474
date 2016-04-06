@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cdd75e9023e7945eb01592dbae0447d31483a760",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 342,
+      "insee_com" : "55429",
+      "z_moyen" : 221,
+      "code_dept" : "55",
+      "nom_comm" : "RIAVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8948,
+      "y_centroid" : 68919,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.656505031334614,
+              49.08409134278445
+            ],
+            [
+              5.649876010198024,
+              49.08757534568385
+            ],
+            [
+              5.658249371166906,
+              49.10502314095194
+            ],
+            [
+              5.668353287177417,
+              49.10699438521913
+            ],
+            [
+              5.683971299373234,
+              49.10535126535827
+            ],
+            [
+              5.684610191909291,
+              49.10154954861408
+            ],
+            [
+              5.656505031334614,
+              49.08409134278445
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68924,
+      "code_cant" : "09",
+      "x_centroid" : 8946,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 22266,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.0974087964289,
+        5.66574426270221
+      ],
+      "code_comm" : "429",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.66574426270221,
+        49.0974087964289
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

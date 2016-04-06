@@ -1,0 +1,71 @@
+  {
+    "recordid" : "34ba2b77b6b265aa3dd935b46b197f5c63ae3703",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 415,
+      "insee_com" : "17324",
+      "z_moyen" : 66,
+      "code_dept" : "17",
+      "nom_comm" : "SAINT-DIZANT-DU-BOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4205,
+      "y_centroid" : 64842,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.585384425095744,
+              45.39118326802307
+            ],
+            [
+              -0.586445735531987,
+              45.40089323370882
+            ],
+            [
+              -0.571516894382108,
+              45.40890574917589
+            ],
+            [
+              -0.565702337137703,
+              45.41780726422373
+            ],
+            [
+              -0.553376243485428,
+              45.39737726059964
+            ],
+            [
+              -0.565123076663183,
+              45.3920193850994
+            ],
+            [
+              -0.585384425095744,
+              45.39118326802307
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64839,
+      "code_cant" : "16",
+      "x_centroid" : 4207,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 26518,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.40087260447515,
+        -0.5700738185092066
+      ],
+      "code_comm" : "324",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5700738185092066,
+        45.40087260447515
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

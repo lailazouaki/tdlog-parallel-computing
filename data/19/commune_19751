@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1de9689d0d7b487fdd140166e2254b36123db101",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 159,
+      "insee_com" : "65186",
+      "z_moyen" : 742,
+      "code_dept" : "65",
+      "nom_comm" : "GAUDENT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5014,
+      "y_centroid" : 62139,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.56892010276369,
+              42.9916342791493
+            ],
+            [
+              0.542022526038005,
+              43.00101934049337
+            ],
+            [
+              0.545867165589618,
+              43.00373450358617
+            ],
+            [
+              0.554063179487133,
+              43.00067300738527
+            ],
+            [
+              0.575648768498661,
+              42.99633000351544
+            ],
+            [
+              0.56892010276369,
+              42.9916342791493
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62134,
+      "code_cant" : "15",
+      "x_centroid" : 5008,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 21673,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.99752625113601,
+        0.5594829192654781
+      ],
+      "code_comm" : "186",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5594829192654781,
+        42.99752625113601
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

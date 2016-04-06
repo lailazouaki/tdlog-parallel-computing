@@ -1,0 +1,75 @@
+  {
+    "recordid" : "69f7552b416a19ca8644827307248ef0ac02c16a",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 402,
+      "insee_com" : "64486",
+      "z_moyen" : 178,
+      "code_dept" : "64",
+      "nom_comm" : "SAINT-JEAN-POUDGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4425,
+      "y_centroid" : 62750,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.195823220002164,
+              43.51625062658594
+            ],
+            [
+              -0.201355522975366,
+              43.52404745583798
+            ],
+            [
+              -0.198989745908723,
+              43.53267160882255
+            ],
+            [
+              -0.191026021485311,
+              43.53323934463134
+            ],
+            [
+              -0.177935766788033,
+              43.5411424224861
+            ],
+            [
+              -0.169648271520818,
+              43.53250643578824
+            ],
+            [
+              -0.169913559532683,
+              43.5254301933528
+            ],
+            [
+              -0.195823220002164,
+              43.51625062658594
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62747,
+      "code_cant" : "11",
+      "x_centroid" : 4424,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 11559,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.52821739409576,
+        -0.1853194000509131
+      ],
+      "code_comm" : "486",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1853194000509131,
+        43.52821739409576
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

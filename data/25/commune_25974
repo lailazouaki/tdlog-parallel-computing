@@ -1,0 +1,75 @@
+  {
+    "recordid" : "171772b7feeff4c769e1e194e07bf6c770cf1cfb",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 355,
+      "insee_com" : "64530",
+      "z_moyen" : 147,
+      "code_dept" : "64",
+      "nom_comm" : "SUSMIOU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3936,
+      "y_centroid" : 62531,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.797206965299975,
+              43.29809427733565
+            ],
+            [
+              -0.801102932859227,
+              43.30537829239043
+            ],
+            [
+              -0.790019646816234,
+              43.31480078607023
+            ],
+            [
+              -0.7659472041163909,
+              43.32277520406934
+            ],
+            [
+              -0.757893345517899,
+              43.31617497307143
+            ],
+            [
+              -0.760147578301212,
+              43.313673949156
+            ],
+            [
+              -0.77407376974594,
+              43.31106301772934
+            ],
+            [
+              -0.797206965299975,
+              43.29809427733565
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62536,
+      "code_cant" : "24",
+      "x_centroid" : 3932,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 23772,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.3117294130536,
+        -0.7808891882589089
+      ],
+      "code_comm" : "530",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7808891882589089,
+        43.3117294130536
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

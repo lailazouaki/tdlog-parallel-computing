@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0fbf68af2fc094537062d5bfb6a625aaa4561df7",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 517,
+      "insee_com" : "25616",
+      "z_moyen" : 271,
+      "code_dept" : "25",
+      "nom_comm" : "VILLARS-SAINT-GEORGES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9142,
+      "y_centroid" : 66732,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.824114005440543,
+              47.11072976005743
+            ],
+            [
+              5.815278059409581,
+              47.11057590322702
+            ],
+            [
+              5.80474437990742,
+              47.11608401875684
+            ],
+            [
+              5.816596794262761,
+              47.13479532739866
+            ],
+            [
+              5.828074264158409,
+              47.14118173331558
+            ],
+            [
+              5.837059488331644,
+              47.13329524006271
+            ],
+            [
+              5.840545792132373,
+              47.13206555186741
+            ],
+            [
+              5.824114005440543,
+              47.11072976005743
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66732,
+      "code_cant" : "07",
+      "x_centroid" : 9139,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 34588,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.12483769063425,
+        5.822422088967173
+      ],
+      "code_comm" : "616",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.822422088967173,
+        47.12483769063425
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "00eb0d671941d892de95c46bdda59c4edcff1459",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 333,
+      "insee_com" : "67442",
+      "z_moyen" : 215,
+      "code_dept" : "67",
+      "nom_comm" : "SCHARRACHBERGHEIM-IRMSTETT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 10312,
+      "y_centroid" : 68415,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.480917213672416,
+              48.58086304041454
+            ],
+            [
+              7.472086258599251,
+              48.58478146358635
+            ],
+            [
+              7.468365500992097,
+              48.58828198760085
+            ],
+            [
+              7.48847180841498,
+              48.59675068556468
+            ],
+            [
+              7.511979582664459,
+              48.59622144721932
+            ],
+            [
+              7.512110002731425,
+              48.59269361188306
+            ],
+            [
+              7.495743614225293,
+              48.5838441571136
+            ],
+            [
+              7.480917213672416,
+              48.58086304041454
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68420,
+      "code_cant" : "33",
+      "x_centroid" : 10309,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 27778,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        48.58963378841997,
+        7.490281768198803
+      ],
+      "code_comm" : "442",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.490281768198803,
+        48.58963378841997
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

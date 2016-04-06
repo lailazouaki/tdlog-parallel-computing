@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3e905587baaea85c886d87c36ca7c46f2f8d899b",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 623,
+      "insee_com" : "52207",
+      "z_moyen" : 415,
+      "code_dept" : "52",
+      "nom_comm" : "FRECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8834,
+      "y_centroid" : 67638,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.472664858643062,
+              47.93193367643316
+            ],
+            [
+              5.434439129298116,
+              47.94240216397237
+            ],
+            [
+              5.436857018709904,
+              47.95390376470286
+            ],
+            [
+              5.444592773988995,
+              47.96208948042798
+            ],
+            [
+              5.463050172231484,
+              47.9652245573205
+            ],
+            [
+              5.467106167659533,
+              47.95875585567483
+            ],
+            [
+              5.465002494840098,
+              47.94464608102237
+            ],
+            [
+              5.472664858643062,
+              47.93193367643316
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67640,
+      "code_cant" : "20",
+      "x_centroid" : 8831,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 21170,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.94940236132074,
+        5.453330765448896
+      ],
+      "code_comm" : "207",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.453330765448896,
+        47.94940236132074
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "39f167fd2385a35893cf20c3031e1bbdadcf0ab1",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 329,
+      "insee_com" : "31308",
+      "z_moyen" : 658,
+      "code_dept" : "31",
+      "nom_comm" : "LUSCAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5060,
+      "y_centroid" : 62155,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.625022574231495,
+              43.00231738143325
+            ],
+            [
+              0.615700655235022,
+              43.01108174142169
+            ],
+            [
+              0.616481178831414,
+              43.02042063028026
+            ],
+            [
+              0.615650821562277,
+              43.0215269450679
+            ],
+            [
+              0.628375602858429,
+              43.02372471142668
+            ],
+            [
+              0.636555627443038,
+              43.01770533780734
+            ],
+            [
+              0.639608893824841,
+              43.00717323551458
+            ],
+            [
+              0.625022574231495,
+              43.00231738143325
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62154,
+      "code_cant" : "05",
+      "x_centroid" : 5063,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 30673,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.01332261547246,
+        0.6269444649875811
+      ],
+      "code_comm" : "308",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6269444649875811,
+        43.01332261547246
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "76ebdee05e8b148a8d649cbc9a6fb8145f09fa69",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 471,
+      "insee_com" : "27642",
+      "z_moyen" : 151,
+      "code_dept" : "27",
+      "nom_comm" : "LE TILLEUL-OTHON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5386,
+      "y_centroid" : 68926,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.815542124576401,
+              49.10639723064428
+            ],
+            [
+              0.78924916882605,
+              49.10454049093448
+            ],
+            [
+              0.776607113321493,
+              49.11054966311669
+            ],
+            [
+              0.784019557608973,
+              49.12272119602801
+            ],
+            [
+              0.798774456200813,
+              49.12444023714625
+            ],
+            [
+              0.806539438323393,
+              49.11583049445353
+            ],
+            [
+              0.815806383901878,
+              49.1154055237843
+            ],
+            [
+              0.815542124576401,
+              49.10639723064428
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68928,
+      "code_cant" : "04",
+      "x_centroid" : 5391,
+      "nom_dept" : "EURE",
+      "id_geofla" : 32519,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.11341101755653,
+        0.7959719900080895
+      ],
+      "code_comm" : "642",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7959719900080895,
+        49.11341101755653
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

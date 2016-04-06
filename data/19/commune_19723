@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3214420ab12bebef7e6512ea9f77593b80561b4c",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 555,
+      "insee_com" : "40299",
+      "z_moyen" : 102,
+      "code_dept" : "40",
+      "nom_comm" : "SERRESLOUS-ET-ARRIBANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4059,
+      "y_centroid" : 62918,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.638143364206277,
+              43.65229605026244
+            ],
+            [
+              -0.663756909495048,
+              43.66096565195149
+            ],
+            [
+              -0.66091837860456,
+              43.67110490854964
+            ],
+            [
+              -0.652571710019467,
+              43.67390784080548
+            ],
+            [
+              -0.625263237531952,
+              43.67263308934355
+            ],
+            [
+              -0.6256776821200301,
+              43.66290913323897
+            ],
+            [
+              -0.638143364206277,
+              43.65229605026244
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62916,
+      "code_cant" : "08",
+      "x_centroid" : 4061,
+      "nom_dept" : "LANDES",
+      "id_geofla" : 21559,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.66467720718608,
+        -0.6436993599109402
+      ],
+      "code_comm" : "299",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6436993599109402,
+        43.66467720718608
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

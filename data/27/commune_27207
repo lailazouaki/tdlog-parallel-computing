@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c4065dcde06bc85deb5322592151323ba0aed865",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 412,
+      "insee_com" : "62879",
+      "z_moyen" : 159,
+      "code_dept" : "62",
+      "nom_comm" : "WARLUZEL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6621,
+      "y_centroid" : 70149,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.459599075744064,
+              50.21955237214633
+            ],
+            [
+              2.452066134545826,
+              50.23021383193208
+            ],
+            [
+              2.462261288532823,
+              50.24036075222655
+            ],
+            [
+              2.47989445097957,
+              50.24118179707023
+            ],
+            [
+              2.486078752241585,
+              50.23333276306444
+            ],
+            [
+              2.481234715821807,
+              50.22515898714087
+            ],
+            [
+              2.459599075744064,
+              50.21955237214633
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70145,
+      "code_cant" : "08",
+      "x_centroid" : 6620,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 32314,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.23116608471594,
+        2.469130105959841
+      ],
+      "code_comm" : "879",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.469130105959841,
+        50.23116608471594
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

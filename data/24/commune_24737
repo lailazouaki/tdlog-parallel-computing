@@ -1,0 +1,75 @@
+  {
+    "recordid" : "188ca015ae31ba06ef0101ad54c6366168cdaac8",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 609,
+      "insee_com" : "45285",
+      "z_moyen" : 111,
+      "code_dept" : "45",
+      "nom_comm" : "SAINT-JEAN-DE-LA-RUELLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6158,
+      "y_centroid" : 67574,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.862287134846679,
+              47.89332841810505
+            ],
+            [
+              1.859556531697343,
+              47.90020539785491
+            ],
+            [
+              1.856948053947517,
+              47.91754210584579
+            ],
+            [
+              1.864396203044596,
+              47.9267498318113
+            ],
+            [
+              1.885272515761265,
+              47.92678777240041
+            ],
+            [
+              1.884682688910007,
+              47.91088736765792
+            ],
+            [
+              1.87691554845393,
+              47.89581842527139
+            ],
+            [
+              1.862287134846679,
+              47.89332841810505
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67575,
+      "code_cant" : "37",
+      "x_centroid" : 6156,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 30923,
+      "statut" : "Chef-lieu canton",
+      "population" : 16.6,
+      "geom_x_y" : [
+        47.91161411720919,
+        1.871081447090435
+      ],
+      "code_comm" : "285",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.871081447090435,
+        47.91161411720919
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

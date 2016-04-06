@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3f773ef1dc16eedb01f4f01b0da721a6b9cea1cc",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 406,
+      "insee_com" : "62892",
+      "z_moyen" : 68,
+      "code_dept" : "62",
+      "nom_comm" : "WILLERVAL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6889,
+      "y_centroid" : 70294,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.848618870358064,
+              50.34899660570839
+            ],
+            [
+              2.837052442428862,
+              50.3504901674515
+            ],
+            [
+              2.838871468284277,
+              50.36967811696092
+            ],
+            [
+              2.853656020388684,
+              50.3780636746472
+            ],
+            [
+              2.861387741382472,
+              50.36923861062741
+            ],
+            [
+              2.862524008050217,
+              50.35918480701938
+            ],
+            [
+              2.848618870358064,
+              50.34899660570839
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70288,
+      "code_cant" : "45",
+      "x_centroid" : 6892,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 33332,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.36259799466659,
+        2.849334640880387
+      ],
+      "code_comm" : "892",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.849334640880387,
+        50.36259799466659
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

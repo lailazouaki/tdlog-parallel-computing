@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8448661c7aba716118005d0a80c3d56cbd76b363",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 398,
+      "insee_com" : "70159",
+      "z_moyen" : 291,
+      "code_dept" : "70",
+      "nom_comm" : "COGNIERES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9479,
+      "y_centroid" : 67161,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.299164156293184,
+              47.48321921452827
+            ],
+            [
+              6.272827922321593,
+              47.49938662537458
+            ],
+            [
+              6.268995738498472,
+              47.50563860949105
+            ],
+            [
+              6.279414350711259,
+              47.51357122589437
+            ],
+            [
+              6.296219742254526,
+              47.50079002049841
+            ],
+            [
+              6.302508132614116,
+              47.49153029084918
+            ],
+            [
+              6.299164156293184,
+              47.48321921452827
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67152,
+      "code_cant" : "17",
+      "x_centroid" : 9473,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 28391,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.49901150936255,
+        6.286353105363362
+      ],
+      "code_comm" : "159",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.286353105363362,
+        47.49901150936255
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

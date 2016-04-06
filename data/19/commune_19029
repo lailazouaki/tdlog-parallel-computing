@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0d093eec62fe1ba711e22e6ad722b9b36ce9d8ec",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 270,
+      "insee_com" : "69087",
+      "z_moyen" : 234,
+      "code_dept" : "69",
+      "nom_comm" : "FONTAINES-SAINT-MARTIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8438,
+      "y_centroid" : 65287,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.86420880966742,
+              45.83300329660663
+            ],
+            [
+              4.853929701642663,
+              45.83771222676742
+            ],
+            [
+              4.840672944112634,
+              45.83704632198185
+            ],
+            [
+              4.845383597827793,
+              45.84804852707422
+            ],
+            [
+              4.854572670925127,
+              45.85607676904669
+            ],
+            [
+              4.866832937383344,
+              45.83820227608215
+            ],
+            [
+              4.86420880966742,
+              45.83300329660663
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65288,
+      "code_cant" : "25",
+      "x_centroid" : 8438,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 1304,
+      "statut" : "Commune simple",
+      "population" : 2.8,
+      "geom_x_y" : [
+        45.84333006550076,
+        4.854108480760101
+      ],
+      "code_comm" : "087",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.854108480760101,
+        45.84333006550076
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

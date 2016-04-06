@@ -1,0 +1,75 @@
+  {
+    "recordid" : "de62dc836477321d63e06a1b6d4a30e52c0d6d35",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 347,
+      "insee_com" : "54310",
+      "z_moyen" : 328,
+      "code_dept" : "54",
+      "nom_comm" : "LEMENIL-MITRY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9404,
+      "y_centroid" : 68219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.259684680837448,
+              48.44343755924158
+            ],
+            [
+              6.24220215693865,
+              48.44741922044572
+            ],
+            [
+              6.239016389734365,
+              48.45523153704019
+            ],
+            [
+              6.253839430782747,
+              48.46660295065245
+            ],
+            [
+              6.259653346957074,
+              48.45862805173251
+            ],
+            [
+              6.270989686250889,
+              48.45372405424026
+            ],
+            [
+              6.273294794464867,
+              48.44944660943128
+            ],
+            [
+              6.259684680837448,
+              48.44343755924158
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68218,
+      "code_cant" : "14",
+      "x_centroid" : 9406,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 20214,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.45314512286804,
+        6.254920802734471
+      ],
+      "code_comm" : "310",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.254920802734471,
+        48.45314512286804
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

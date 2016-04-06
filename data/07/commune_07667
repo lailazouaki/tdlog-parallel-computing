@@ -1,0 +1,63 @@
+  {
+    "recordid" : "6f38cd668e32ef20beffb0b03faf858b70d85ff7",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 56,
+      "insee_com" : "27686",
+      "z_moyen" : 13,
+      "code_dept" : "27",
+      "nom_comm" : "VIEUX-PORT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5263,
+      "y_centroid" : 69279,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.608135738451319,
+              49.42246739463487
+            ],
+            [
+              0.599426463981916,
+              49.42891326169191
+            ],
+            [
+              0.614557472583208,
+              49.42994980315456
+            ],
+            [
+              0.615088804598132,
+              49.42681300023787
+            ],
+            [
+              0.608135738451319,
+              49.42246739463487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69277,
+      "code_cant" : "29",
+      "x_centroid" : 5264,
+      "nom_dept" : "EURE",
+      "id_geofla" : 2277,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.42698093877331,
+        0.6083368191999067
+      ],
+      "code_comm" : "686",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6083368191999067,
+        49.42698093877331
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

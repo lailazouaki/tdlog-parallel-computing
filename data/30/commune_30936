@@ -1,0 +1,79 @@
+  {
+    "recordid" : "737c42204bdd0e4b8e8eba0ffb43a0173aec53a3",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 325,
+      "insee_com" : "76607",
+      "z_moyen" : 128,
+      "code_dept" : "76",
+      "nom_comm" : "SAINTE-MARGUERITE-SUR-FAUVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5268,
+      "y_centroid" : 69552,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.607393689464979,
+              49.66477158762635
+            ],
+            [
+              0.589853601976295,
+              49.66666372961291
+            ],
+            [
+              0.574123128739041,
+              49.67272483039725
+            ],
+            [
+              0.570278301563063,
+              49.67668454432423
+            ],
+            [
+              0.606318641044049,
+              49.67592475528185
+            ],
+            [
+              0.613610104069819,
+              49.68087750236285
+            ],
+            [
+              0.6171695456259571,
+              49.67643445474734
+            ],
+            [
+              0.608824061130711,
+              49.67032845996218
+            ],
+            [
+              0.607393689464979,
+              49.66477158762635
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69548,
+      "code_cant" : "20",
+      "x_centroid" : 5263,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 32244,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.67229527726532,
+        0.5957273616532029
+      ],
+      "code_comm" : "607",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5957273616532029,
+        49.67229527726532
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

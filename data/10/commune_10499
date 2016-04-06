@@ -1,0 +1,75 @@
+  {
+    "recordid" : "efb7e7d7394b30d9a328628a7b380bd4ff521773",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 343,
+      "insee_com" : "30249",
+      "z_moyen" : 75,
+      "code_dept" : "30",
+      "nom_comm" : "SAINT-DIONISY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7988,
+      "y_centroid" : 63013,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.210796337195722,
+              43.79608025873907
+            ],
+            [
+              4.213006888381486,
+              43.80188760517169
+            ],
+            [
+              4.208661056164201,
+              43.80733581819992
+            ],
+            [
+              4.213430035576572,
+              43.81070282127672
+            ],
+            [
+              4.227742102383198,
+              43.81509659221786
+            ],
+            [
+              4.235068613198289,
+              43.80730986079711
+            ],
+            [
+              4.23758798147916,
+              43.79796634753761
+            ],
+            [
+              4.210796337195722,
+              43.79608025873907
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63014,
+      "code_cant" : "32",
+      "x_centroid" : 7984,
+      "nom_dept" : "GARD",
+      "id_geofla" : 18297,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        43.80461376293751,
+        4.223326896546844
+      ],
+      "code_comm" : "249",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.223326896546844,
+        43.80461376293751
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

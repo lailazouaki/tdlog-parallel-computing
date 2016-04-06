@@ -1,0 +1,75 @@
+  {
+    "recordid" : "350a2e546e8511b09cd5dee0690c71a31448c7bd",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 537,
+      "insee_com" : "66059",
+      "z_moyen" : 16,
+      "code_dept" : "66",
+      "nom_comm" : "CORNEILLA-DEL-VERCOL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6959,
+      "y_centroid" : 61692,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.948089283772568,
+              42.61198116247591
+            ],
+            [
+              2.929429992247552,
+              42.62257004119699
+            ],
+            [
+              2.934579941650353,
+              42.63293924112683
+            ],
+            [
+              2.945969169910992,
+              42.62760529526305
+            ],
+            [
+              2.961877306128737,
+              42.63380654834209
+            ],
+            [
+              2.966920631197175,
+              42.6293849378885
+            ],
+            [
+              2.971782629917594,
+              42.62072860654053
+            ],
+            [
+              2.948089283772568,
+              42.61198116247591
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61693,
+      "code_cant" : "28",
+      "x_centroid" : 6959,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 31054,
+      "statut" : "Commune simple",
+      "population" : 2,
+      "geom_x_y" : [
+        42.62321569933636,
+        2.950701166579795
+      ],
+      "code_comm" : "059",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.950701166579795,
+        42.62321569933636
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

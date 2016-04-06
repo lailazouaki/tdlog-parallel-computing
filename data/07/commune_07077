@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cd11a3adb6bac53b46934d17a43af1a99de7b78d",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 152,
+      "insee_com" : "60426",
+      "z_moyen" : 82,
+      "code_dept" : "60",
+      "nom_comm" : "MONTREUIL-SUR-THERAIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6414,
+      "y_centroid" : 69205,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.188959592066434,
+              49.37484147667228
+            ],
+            [
+              2.183025031052137,
+              49.37926011560048
+            ],
+            [
+              2.187144396621379,
+              49.38519366860822
+            ],
+            [
+              2.196499189031654,
+              49.38749443325133
+            ],
+            [
+              2.20724256379845,
+              49.38372703025475
+            ],
+            [
+              2.198279117147822,
+              49.37663851653084
+            ],
+            [
+              2.188959592066434,
+              49.37484147667228
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69204,
+      "code_cant" : "28",
+      "x_centroid" : 6414,
+      "nom_dept" : "OISE",
+      "id_geofla" : 31765,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.38133788131031,
+        2.194190961077301
+      ],
+      "code_comm" : "426",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.194190961077301,
+        49.38133788131031
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

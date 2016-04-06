@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0045940d093f88fcadbfcb1d3b9104558aeccd1c",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 330,
+      "insee_com" : "54521",
+      "z_moyen" : 401,
+      "code_dept" : "54",
+      "nom_comm" : "THIL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9108,
+      "y_centroid" : 69343,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.913163430031824,
+              49.45700763221219
+            ],
+            [
+              5.889518304514295,
+              49.47647010401579
+            ],
+            [
+              5.897027450755907,
+              49.48113832526374
+            ],
+            [
+              5.904672707159006,
+              49.48452573001077
+            ],
+            [
+              5.917527317273455,
+              49.48262495001743
+            ],
+            [
+              5.913163430031824,
+              49.45700763221219
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69343,
+      "code_cant" : "37",
+      "x_centroid" : 9106,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 32999,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        49.47359800219774,
+        5.906167883486981
+      ],
+      "code_comm" : "521",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.906167883486981,
+        49.47359800219774
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

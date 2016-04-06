@@ -1,0 +1,79 @@
+  {
+    "recordid" : "72678efda67abd660e7792af1142671bec908c5b",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 723,
+      "insee_com" : "66224",
+      "z_moyen" : 9,
+      "code_dept" : "66",
+      "nom_comm" : "VILLELONGUE-DE-LA-SALANQUE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6987,
+      "y_centroid" : 61806,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.98224759506564,
+              42.71367704472384
+            ],
+            [
+              2.973261903486634,
+              42.71314470141444
+            ],
+            [
+              2.960810720211783,
+              42.71710596249393
+            ],
+            [
+              2.958051043685431,
+              42.72264348610792
+            ],
+            [
+              2.960116846554294,
+              42.73323596989967
+            ],
+            [
+              2.97433553752332,
+              42.73922854028662
+            ],
+            [
+              2.99565785439248,
+              42.73493367196902
+            ],
+            [
+              2.993233144036257,
+              42.71342655087425
+            ],
+            [
+              2.98224759506564,
+              42.71367704472384
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61808,
+      "code_cant" : "31",
+      "x_centroid" : 6981,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 20638,
+      "statut" : "Commune simple",
+      "population" : 3,
+      "geom_x_y" : [
+        42.72560989216913,
+        2.97746160667765
+      ],
+      "code_comm" : "224",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.97746160667765,
+        42.72560989216913
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

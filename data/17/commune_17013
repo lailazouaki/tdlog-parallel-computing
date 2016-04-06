@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b0c7f4d788ea39b46ce2ae3c87cf98991d938baf",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 788,
+      "insee_com" : "16412",
+      "z_moyen" : 113,
+      "code_dept" : "16",
+      "nom_comm" : "VILLEJOUBERT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4806,
+      "y_centroid" : 65270,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.173141975892439,
+              45.78895529948067
+            ],
+            [
+              0.163281129358893,
+              45.78910426575913
+            ],
+            [
+              0.157967817372048,
+              45.79398952493865
+            ],
+            [
+              0.159261468689504,
+              45.81416109318742
+            ],
+            [
+              0.172818167694842,
+              45.82823375073473
+            ],
+            [
+              0.183874563498487,
+              45.82222064511697
+            ],
+            [
+              0.192306280798317,
+              45.80695946011056
+            ],
+            [
+              0.173141975892439,
+              45.78895529948067
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65265,
+      "code_cant" : "25",
+      "x_centroid" : 4805,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 24311,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.80746162516412,
+        0.1731204623131824
+      ],
+      "code_comm" : "412",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1731204623131824,
+        45.80746162516412
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

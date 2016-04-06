@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f3dfdd557740c5f8b5b6ba8b5e47f5312331bdd9",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 317,
+      "insee_com" : "62840",
+      "z_moyen" : 110,
+      "code_dept" : "62",
+      "nom_comm" : "VELU",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6980,
+      "y_centroid" : 70002,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.959626904380984,
+              50.09276362864532
+            ],
+            [
+              2.956874612491163,
+              50.09525940796117
+            ],
+            [
+              2.975881328286224,
+              50.1123282779805
+            ],
+            [
+              2.990169870965723,
+              50.10361885148742
+            ],
+            [
+              2.979687585802903,
+              50.09332540991104
+            ],
+            [
+              2.959626904380984,
+              50.09276362864532
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70008,
+      "code_cant" : "11",
+      "x_centroid" : 6981,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 35476,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.1007618527461,
+        2.974118228837144
+      ],
+      "code_comm" : "840",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.974118228837144,
+        50.1007618527461
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

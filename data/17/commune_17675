@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5bc10016591b083575a44969ca0f382bd08ba9af",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 232,
+      "insee_com" : "93079",
+      "z_moyen" : 43,
+      "code_dept" : "93",
+      "nom_comm" : "VILLETANEUSE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6519,
+      "y_centroid" : 68732,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.345795945167748,
+              48.9465302972303
+            ],
+            [
+              2.333312950123798,
+              48.9553823356351
+            ],
+            [
+              2.343705488906669,
+              48.96721105797449
+            ],
+            [
+              2.353463561423415,
+              48.96562740697539
+            ],
+            [
+              2.352027000232667,
+              48.95048498083455
+            ],
+            [
+              2.345795945167748,
+              48.9465302972303
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68740,
+      "code_cant" : "39",
+      "x_centroid" : 6520,
+      "nom_dept" : "SEINE-SAINT-DENIS",
+      "id_geofla" : 18989,
+      "statut" : "Commune simple",
+      "population" : 12.8,
+      "geom_x_y" : [
+        48.95729765014796,
+        2.345066336514906
+      ],
+      "code_comm" : "079",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.345066336514906,
+        48.95729765014796
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

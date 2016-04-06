@@ -1,0 +1,75 @@
+  {
+    "recordid" : "cfb3d820d0d196bc2f72a5a4c9562bb6604bb915",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 623,
+      "insee_com" : "62207",
+      "z_moyen" : 51,
+      "code_dept" : "62",
+      "nom_comm" : "CAMPIGNEULLES-LES-PETITES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6099,
+      "y_centroid" : 70388,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.747101881236151,
+              50.42759435504832
+            ],
+            [
+              1.733868179060161,
+              50.42400292755195
+            ],
+            [
+              1.726047231553888,
+              50.4276215468514
+            ],
+            [
+              1.714889553244528,
+              50.4452017065206
+            ],
+            [
+              1.726533132613203,
+              50.45123857173994
+            ],
+            [
+              1.741534728123802,
+              50.45356476421217
+            ],
+            [
+              1.756012206249245,
+              50.45609930918698
+            ],
+            [
+              1.747101881236151,
+              50.42759435504832
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70393,
+      "code_cant" : "37",
+      "x_centroid" : 6101,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 30482,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.44060932078212,
+        1.736395950245101
+      ],
+      "code_comm" : "207",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.736395950245101,
+        50.44060932078212
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

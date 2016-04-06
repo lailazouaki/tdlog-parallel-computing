@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1c0e3d3697439ab5acf8615e7a1e1c118886f02e",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 202,
+      "insee_com" : "69134",
+      "z_moyen" : 413,
+      "code_dept" : "69",
+      "nom_comm" : "MOIRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8242,
+      "y_centroid" : 65375,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.595514796707684,
+              45.9154053383233
+            ],
+            [
+              4.592418011514673,
+              45.93103967718042
+            ],
+            [
+              4.592518587342616,
+              45.93183986320473
+            ],
+            [
+              4.599332403988929,
+              45.93534646490831
+            ],
+            [
+              4.613324285891422,
+              45.92958162913305
+            ],
+            [
+              4.611966085181106,
+              45.92330523179333
+            ],
+            [
+              4.595514796707684,
+              45.9154053383233
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65376,
+      "code_cant" : "06",
+      "x_centroid" : 8241,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 35259,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.92623571590187,
+        4.601767704041947
+      ],
+      "code_comm" : "134",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.601767704041947,
+        45.92623571590187
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

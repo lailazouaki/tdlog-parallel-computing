@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b50ed03ae41d295a13ced21db0039e4eef312fa6",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 441,
+      "insee_com" : "70218",
+      "z_moyen" : 194,
+      "code_dept" : "70",
+      "nom_comm" : "ESMOULINS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8936,
+      "y_centroid" : 67043,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.558639947046784,
+              47.40183612284243
+            ],
+            [
+              5.549566311948399,
+              47.40379176272621
+            ],
+            [
+              5.544184176869421,
+              47.41281724050953
+            ],
+            [
+              5.532945378993025,
+              47.42010572981466
+            ],
+            [
+              5.572538816628736,
+              47.41778659679836
+            ],
+            [
+              5.580422165296099,
+              47.41229795692316
+            ],
+            [
+              5.572592902726748,
+              47.40426627353047
+            ],
+            [
+              5.558639947046784,
+              47.40183612284243
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67036,
+      "code_cant" : "09",
+      "x_centroid" : 8929,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 32436,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.41159912436044,
+        5.559216082760276
+      ],
+      "code_comm" : "218",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.559216082760276,
+        47.41159912436044
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

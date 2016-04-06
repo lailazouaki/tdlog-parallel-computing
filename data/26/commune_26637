@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5b773c46eda3d2da4ce8950639a9183146d39bee",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 162,
+      "insee_com" : "88331",
+      "z_moyen" : 344,
+      "code_dept" : "88",
+      "nom_comm" : "NONZEVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9695,
+      "y_centroid" : 68023,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.633625367151319,
+              48.25814078290974
+            ],
+            [
+              6.61997451740909,
+              48.26343254256729
+            ],
+            [
+              6.63911923470859,
+              48.27440960088803
+            ],
+            [
+              6.642810735326627,
+              48.26847734113888
+            ],
+            [
+              6.640907256369646,
+              48.26221302821418
+            ],
+            [
+              6.633625367151319,
+              48.25814078290974
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68022,
+      "code_cant" : "03",
+      "x_centroid" : 9695,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 32093,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.26549933472229,
+        6.633568466728736
+      ],
+      "code_comm" : "331",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.633568466728736,
+        48.26549933472229
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

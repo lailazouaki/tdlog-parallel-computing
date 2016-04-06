@@ -1,0 +1,75 @@
+  {
+    "recordid" : "96bd507ff82beed9189503dcecfb4c932b561d24",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 513,
+      "insee_com" : "78036",
+      "z_moyen" : 115,
+      "code_dept" : "78",
+      "nom_comm" : "AUTOUILLET",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6122,
+      "y_centroid" : 68611,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.785211745717037,
+              48.83031925729741
+            ],
+            [
+              1.778040029701332,
+              48.83230593172821
+            ],
+            [
+              1.791696954851194,
+              48.854399942691
+            ],
+            [
+              1.80599968410054,
+              48.86012894348131
+            ],
+            [
+              1.812676496076097,
+              48.85306295718061
+            ],
+            [
+              1.810673912665453,
+              48.84287051536151
+            ],
+            [
+              1.799232429734001,
+              48.83141426641256
+            ],
+            [
+              1.785211745717037,
+              48.83031925729741
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68617,
+      "code_cant" : "15",
+      "x_centroid" : 6117,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 18701,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.84393076456708,
+        1.797002074958473
+      ],
+      "code_comm" : "036",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.797002074958473,
+        48.84393076456708
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

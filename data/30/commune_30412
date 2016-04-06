@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2b90ccbca6d2c3c3daffb61163a63fe0e82cc1e9",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 406,
+      "insee_com" : "73014",
+      "z_moyen" : 891,
+      "code_dept" : "73",
+      "nom_comm" : "ALLONDAZ",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9622,
+      "y_centroid" : 65180,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.376284013236108,
+              45.70105775585517
+            ],
+            [
+              6.366755707279608,
+              45.70153227242259
+            ],
+            [
+              6.357995426392183,
+              45.71380814493607
+            ],
+            [
+              6.358723978080999,
+              45.72029382136243
+            ],
+            [
+              6.361247867925658,
+              45.72307568028548
+            ],
+            [
+              6.383330913318561,
+              45.71868326156879
+            ],
+            [
+              6.386618820123642,
+              45.70262218872247
+            ],
+            [
+              6.376284013236108,
+              45.70105775585517
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65174,
+      "code_cant" : "05",
+      "x_centroid" : 9622,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 28175,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.71165303264503,
+        6.372238351214216
+      ],
+      "code_comm" : "014",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.372238351214216,
+        45.71165303264503
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

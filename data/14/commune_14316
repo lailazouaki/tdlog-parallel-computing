@@ -1,0 +1,71 @@
+  {
+    "recordid" : "82ed9f27eac67e8f72a8e3a58c7d647295ff97cf",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 620,
+      "insee_com" : "45207",
+      "z_moyen" : 85,
+      "code_dept" : "45",
+      "nom_comm" : "MIGNERETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6702,
+      "y_centroid" : 67734,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.60048435087865,
+              48.04017141784468
+            ],
+            [
+              2.596793386898896,
+              48.04908581281806
+            ],
+            [
+              2.588473837687404,
+              48.05234164643637
+            ],
+            [
+              2.592934974019367,
+              48.06914005527432
+            ],
+            [
+              2.605644161830851,
+              48.07887498152235
+            ],
+            [
+              2.62415027679691,
+              48.06543727545709
+            ],
+            [
+              2.60048435087865,
+              48.04017141784468
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67728,
+      "code_cant" : "12",
+      "x_centroid" : 6705,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 26689,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.06113211519394,
+        2.60460243092882
+      ],
+      "code_comm" : "207",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.60460243092882,
+        48.06113211519394
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

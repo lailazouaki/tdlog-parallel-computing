@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4e143e22884a16777f3a82af873b8701d3cc4d8e",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 452,
+      "insee_com" : "27205",
+      "z_moyen" : 70,
+      "code_dept" : "27",
+      "nom_comm" : "DOUVILLE-SUR-ANDELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5763,
+      "y_centroid" : 69161,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.300862227890411,
+              49.31813179403262
+            ],
+            [
+              1.296457131628001,
+              49.32199890977096
+            ],
+            [
+              1.296030430039138,
+              49.34242073177042
+            ],
+            [
+              1.307235286530264,
+              49.3494293439014
+            ],
+            [
+              1.326055378487373,
+              49.3284278097469
+            ],
+            [
+              1.300862227890411,
+              49.31813179403262
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69167,
+      "code_cant" : "18",
+      "x_centroid" : 5769,
+      "nom_dept" : "EURE",
+      "id_geofla" : 15843,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.3329198858013,
+        1.30756774405373
+      ],
+      "code_comm" : "205",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.30756774405373,
+        49.3329198858013
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

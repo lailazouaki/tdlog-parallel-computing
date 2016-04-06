@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ab6d15bad7d6963ce6d57f02010f584bb606dbfd",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 339,
+      "insee_com" : "34120",
+      "z_moyen" : 62,
+      "code_dept" : "34",
+      "nom_comm" : "JACOU",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7735,
+      "y_centroid" : 62853,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.901693822191119,
+              43.65471355446061
+            ],
+            [
+              3.902195945563041,
+              43.67559519555425
+            ],
+            [
+              3.918931502408742,
+              43.66851712891634
+            ],
+            [
+              3.926652092853323,
+              43.66069479232529
+            ],
+            [
+              3.922815478526317,
+              43.65489631617211
+            ],
+            [
+              3.901693822191119,
+              43.65471355446061
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62850,
+      "code_cant" : "07",
+      "x_centroid" : 7735,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 24511,
+      "statut" : "Commune simple",
+      "population" : 4.8,
+      "geom_x_y" : [
+        43.66298469427915,
+        3.911961077696301
+      ],
+      "code_comm" : "120",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.911961077696301,
+        43.66298469427915
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

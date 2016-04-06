@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3f8d0b735e219aad9529b036d2e68d059963aeb",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 545,
+      "insee_com" : "78053",
+      "z_moyen" : 124,
+      "code_dept" : "78",
+      "nom_comm" : "BEHOUST",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6060,
+      "y_centroid" : 68599,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.713343374151283,
+              48.81555392357301
+            ],
+            [
+              1.710372283772162,
+              48.83215306098732
+            ],
+            [
+              1.718919506605413,
+              48.84858797156441
+            ],
+            [
+              1.732908326850179,
+              48.84610157804001
+            ],
+            [
+              1.740031488487819,
+              48.83782094880777
+            ],
+            [
+              1.733221739954673,
+              48.82087517663425
+            ],
+            [
+              1.713343374151283,
+              48.81555392357301
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68595,
+      "code_cant" : "15",
+      "x_centroid" : 6063,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 23994,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.83240017750799,
+        1.724237487492949
+      ],
+      "code_comm" : "053",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.724237487492949,
+        48.83240017750799
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

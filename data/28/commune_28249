@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fac30fa7fa8fd5f716053bbaf9f7050d80d26703",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 419,
+      "insee_com" : "25369",
+      "z_moyen" : 432,
+      "code_dept" : "25",
+      "nom_comm" : "MARVELISE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9702,
+      "y_centroid" : 67196,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.583668347131338,
+              47.5103467495977
+            ],
+            [
+              6.579592347630313,
+              47.5259436011924
+            ],
+            [
+              6.581399953031624,
+              47.52929410728319
+            ],
+            [
+              6.59090026213999,
+              47.53168689236
+            ],
+            [
+              6.609618775093938,
+              47.52713467501265
+            ],
+            [
+              6.60752860468979,
+              47.51686391025263
+            ],
+            [
+              6.583668347131338,
+              47.5103467495977
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67196,
+      "code_cant" : "10",
+      "x_centroid" : 9703,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 21452,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.52186649169337,
+        6.593592552293721
+      ],
+      "code_comm" : "369",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.593592552293721,
+        47.52186649169337
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

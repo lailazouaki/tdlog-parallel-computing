@@ -1,0 +1,75 @@
+  {
+    "recordid" : "eed37e9a218b8ddf1c5948db46b2ce9cfded5bdf",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 504,
+      "insee_com" : "80440",
+      "z_moyen" : 108,
+      "code_dept" : "80",
+      "nom_comm" : "HIERMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6339,
+      "y_centroid" : 70116,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.080636594432475,
+              50.19398296032025
+            ],
+            [
+              2.07635898781931,
+              50.1876735697988
+            ],
+            [
+              2.066590322946549,
+              50.18493259750991
+            ],
+            [
+              2.053764155185043,
+              50.19095031189563
+            ],
+            [
+              2.069373175932253,
+              50.21238873870596
+            ],
+            [
+              2.083606406691199,
+              50.21696768818648
+            ],
+            [
+              2.085713666299286,
+              50.20101651215799
+            ],
+            [
+              2.080636594432475,
+              50.19398296032025
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70111,
+      "code_cant" : "19",
+      "x_centroid" : 6336,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 28492,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.19981375470744,
+        2.071910196055113
+      ],
+      "code_comm" : "440",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.071910196055113,
+        50.19981375470744
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

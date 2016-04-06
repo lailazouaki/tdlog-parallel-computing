@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8bd9e99949257ae2e3a6a77ab84d631b2ca63d8",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 126,
+      "insee_com" : "76131",
+      "z_moyen" : 33,
+      "code_dept" : "76",
+      "nom_comm" : "LA BOUILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5496,
+      "y_centroid" : 69187,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.93223961446666,
+              49.34488906450504
+            ],
+            [
+              0.9232158708904979,
+              49.34990470040753
+            ],
+            [
+              0.924327756885451,
+              49.35887077475934
+            ],
+            [
+              0.934184100704131,
+              49.35234968066444
+            ],
+            [
+              0.947933935411536,
+              49.35133407516984
+            ],
+            [
+              0.944533937101715,
+              49.34615988656116
+            ],
+            [
+              0.93223961446666,
+              49.34488906450504
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69188,
+      "code_cant" : "26",
+      "x_centroid" : 5498,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 24783,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        49.35024048556141,
+        0.9337496849579628
+      ],
+      "code_comm" : "131",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9337496849579628,
+        49.35024048556141
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

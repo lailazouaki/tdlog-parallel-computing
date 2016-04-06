@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f925377397c8f2d4d47d409cf56bcf126e4d847f",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 514,
+      "insee_com" : "77043",
+      "z_moyen" : 151,
+      "code_dept" : "77",
+      "nom_comm" : "BOITRON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7190,
+      "y_centroid" : 68663,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.271818988756862,
+              48.88621786316362
+            ],
+            [
+              3.2480575283401,
+              48.88774430079823
+            ],
+            [
+              3.239815274264353,
+              48.89544108453154
+            ],
+            [
+              3.252405398956277,
+              48.90413832646504
+            ],
+            [
+              3.27007622059624,
+              48.9077778649695
+            ],
+            [
+              3.282082343387925,
+              48.90290303782826
+            ],
+            [
+              3.271818988756862,
+              48.88621786316362
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68664,
+      "code_cant" : "26",
+      "x_centroid" : 7192,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 12593,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.89658685975216,
+        3.261883552054025
+      ],
+      "code_comm" : "043",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.261883552054025,
+        48.89658685975216
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

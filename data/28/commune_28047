@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0853e20fde147b91b98616e04a5e8af1d98bb8a7",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 349,
+      "insee_com" : "14691",
+      "z_moyen" : 73,
+      "code_dept" : "14",
+      "nom_comm" : "TILLY-LA-CAMPAGNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4586,
+      "y_centroid" : 68951,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.308193288841033,
+              49.10318129002666
+            ],
+            [
+              -0.324386715706777,
+              49.10628012118208
+            ],
+            [
+              -0.328703138052606,
+              49.11884930490763
+            ],
+            [
+              -0.324610608134312,
+              49.12066334510587
+            ],
+            [
+              -0.319007711570639,
+              49.11966628000238
+            ],
+            [
+              -0.282120257692181,
+              49.10396809061649
+            ],
+            [
+              -0.308193288841033,
+              49.10318129002666
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68952,
+      "code_cant" : "06",
+      "x_centroid" : 4583,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 20884,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.11027585222784,
+        -0.3107628277047963
+      ],
+      "code_comm" : "691",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3107628277047963,
+        49.11027585222784
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

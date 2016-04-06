@@ -1,0 +1,75 @@
+  {
+    "recordid" : "31f8dc30388daa95c695307fbf0553f77fa8be22",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 244,
+      "insee_com" : "31321",
+      "z_moyen" : 353,
+      "code_dept" : "31",
+      "nom_comm" : "MARSOULAS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5369,
+      "y_centroid" : 62251,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.992095363012682,
+              43.09801836815735
+            ],
+            [
+              0.98863869548606,
+              43.09891657824306
+            ],
+            [
+              0.9811316368852,
+              43.1071615288482
+            ],
+            [
+              0.993371850424707,
+              43.1150198113376
+            ],
+            [
+              1.000888994369589,
+              43.11427780118611
+            ],
+            [
+              1.003768928691676,
+              43.10555895434817
+            ],
+            [
+              0.996301666992064,
+              43.09815966415989
+            ],
+            [
+              0.992095363012682,
+              43.09801836815735
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62250,
+      "code_cant" : "32",
+      "x_centroid" : 5365,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 23748,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.10654813606399,
+        0.9934689005886833
+      ],
+      "code_comm" : "321",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9934689005886833,
+        43.10654813606399
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

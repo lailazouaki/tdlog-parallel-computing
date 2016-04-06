@@ -1,0 +1,75 @@
+  {
+    "recordid" : "54c6629ffe015170c1dd8244414d66bac2cf6fc9",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 408,
+      "insee_com" : "57310",
+      "z_moyen" : 284,
+      "code_dept" : "57",
+      "nom_comm" : "HELLERING-LES-FENETRANGE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 9982,
+      "y_centroid" : 68641,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.067190325510979,
+              48.79948597132432
+            ],
+            [
+              7.049170604661184,
+              48.80406972880585
+            ],
+            [
+              7.044905838621402,
+              48.81024787139037
+            ],
+            [
+              7.052434616715777,
+              48.81483760140419
+            ],
+            [
+              7.071568005687929,
+              48.81521362581571
+            ],
+            [
+              7.085040494589195,
+              48.8119079036728
+            ],
+            [
+              7.088087736845957,
+              48.80625616801981
+            ],
+            [
+              7.067190325510979,
+              48.79948597132432
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68643,
+      "code_cant" : "10",
+      "x_centroid" : 9984,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 27432,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.80818994755883,
+        7.0660594073294
+      ],
+      "code_comm" : "310",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.0660594073294,
+        48.80818994755883
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

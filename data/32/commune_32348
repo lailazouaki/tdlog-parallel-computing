@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a2a7256c7f4a0cb6dcdcd071199bdaa12abd45d1",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 279,
+      "insee_com" : "34315",
+      "z_moyen" : 24,
+      "code_dept" : "34",
+      "nom_comm" : "USCLAS-D'HERAULT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7375,
+      "y_centroid" : 62693,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.466287845709469,
+              43.51230110857265
+            ],
+            [
+              3.453318144193632,
+              43.51679171791038
+            ],
+            [
+              3.457901482550986,
+              43.52567079507842
+            ],
+            [
+              3.478094230154197,
+              43.53166592269859
+            ],
+            [
+              3.480054518889415,
+              43.52355065799772
+            ],
+            [
+              3.470536374094753,
+              43.51481999116234
+            ],
+            [
+              3.466287845709469,
+              43.51230110857265
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62689,
+      "code_cant" : "21",
+      "x_centroid" : 7377,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 3324,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.52180191071146,
+        3.467312732643374
+      ],
+      "code_comm" : "315",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.467312732643374,
+        43.52180191071146
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

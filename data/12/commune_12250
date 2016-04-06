@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f0ddf684d3c59609137c3e917c1e4a50ef868dd1",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 139,
+      "insee_com" : "58310",
+      "z_moyen" : 267,
+      "code_dept" : "58",
+      "nom_comm" : "VILLIERS-LE-SEC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7324,
+      "y_centroid" : 66974,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.429451603707606,
+              47.37304861839843
+            ],
+            [
+              3.426470747187978,
+              47.37982027273132
+            ],
+            [
+              3.434927942142643,
+              47.3816253937391
+            ],
+            [
+              3.447264810708877,
+              47.37971512325797
+            ],
+            [
+              3.448045691457318,
+              47.3732394987229
+            ],
+            [
+              3.429451603707606,
+              47.37304861839843
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66975,
+      "code_cant" : "25",
+      "x_centroid" : 7330,
+      "nom_dept" : "NIEVRE",
+      "id_geofla" : 10549,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.3770117778874,
+        3.437524983241154
+      ],
+      "code_comm" : "310",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.437524983241154,
+        47.3770117778874
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

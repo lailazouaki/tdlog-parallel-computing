@@ -1,0 +1,67 @@
+  {
+    "recordid" : "181e2fed776111f4e81e322d392599ccbae4d2af",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 265,
+      "insee_com" : "89249",
+      "z_moyen" : 134,
+      "code_dept" : "89",
+      "nom_comm" : "MERCY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7469,
+      "y_centroid" : 67701,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.638498946778505,
+              48.02500720293099
+            ],
+            [
+              3.623306853964261,
+              48.02107496324413
+            ],
+            [
+              3.613360691463707,
+              48.02748967834997
+            ],
+            [
+              3.622231932227721,
+              48.03805317505791
+            ],
+            [
+              3.630637155556926,
+              48.04074420137489
+            ],
+            [
+              3.638498946778505,
+              48.02500720293099
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67702,
+      "code_cant" : "07",
+      "x_centroid" : 7466,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 23440,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.03001888267146,
+        3.62631173753306
+      ],
+      "code_comm" : "249",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.62631173753306,
+        48.03001888267146
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

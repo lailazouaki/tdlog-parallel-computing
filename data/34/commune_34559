@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c72e4dea5158d9c14912880d032de37dbb086ad0",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 412,
+      "insee_com" : "68355",
+      "z_moyen" : 395,
+      "code_dept" : "68",
+      "nom_comm" : "WALDIGHOFEN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10245,
+      "y_centroid" : 67251,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.309149052125252,
+              47.5274303835287
+            ],
+            [
+              7.299414754847934,
+              47.54192535013105
+            ],
+            [
+              7.309890096986905,
+              47.55344685450205
+            ],
+            [
+              7.336853707118168,
+              47.5629307899304
+            ],
+            [
+              7.341446218056388,
+              47.5614255897915
+            ],
+            [
+              7.323896465199058,
+              47.54585126286297
+            ],
+            [
+              7.309149052125252,
+              47.5274303835287
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67256,
+      "code_cant" : "10",
+      "x_centroid" : 10245,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 32599,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        47.54698240808945,
+        7.317021688599776
+      ],
+      "code_comm" : "355",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.317021688599776,
+        47.54698240808945
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

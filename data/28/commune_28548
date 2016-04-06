@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8e43b1b7553f6a034a0f7a0c5e5df31f5255a42d",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 241,
+      "insee_com" : "14134",
+      "z_moyen" : 35,
+      "code_dept" : "14",
+      "nom_comm" : "CANTELOUP",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4715,
+      "y_centroid" : 68974,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.124835170652842,
+              49.12661483647856
+            ],
+            [
+              -0.132717004797935,
+              49.13066581399804
+            ],
+            [
+              -0.126518714786294,
+              49.14473781818108
+            ],
+            [
+              -0.107637209146841,
+              49.14367044403996
+            ],
+            [
+              -0.117126829231752,
+              49.12998215447629
+            ],
+            [
+              -0.124835170652842,
+              49.12661483647856
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68970,
+      "code_cant" : "34",
+      "x_centroid" : 4722,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 17926,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.13661104893504,
+        -0.1213125946991509
+      ],
+      "code_comm" : "134",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1213125946991509,
+        49.13661104893504
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

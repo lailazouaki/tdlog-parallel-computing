@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0bb0dc4577e6aa7e79d97e69de0d138d030ca654",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 274,
+      "insee_com" : "67149",
+      "z_moyen" : 223,
+      "code_dept" : "67",
+      "nom_comm" : "FURCHHAUSEN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10263,
+      "y_centroid" : 68558,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.432316221365515,
+              48.71021688188312
+            ],
+            [
+              7.415831092346815,
+              48.72291804194028
+            ],
+            [
+              7.411901726305419,
+              48.72829734198337
+            ],
+            [
+              7.4201350591725,
+              48.73097415896453
+            ],
+            [
+              7.449051641725495,
+              48.71859297507037
+            ],
+            [
+              7.449999800532217,
+              48.71598112127968
+            ],
+            [
+              7.432316221365515,
+              48.71021688188312
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68556,
+      "code_cant" : "21",
+      "x_centroid" : 10257,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 28896,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.72049499190939,
+        7.430415100786648
+      ],
+      "code_comm" : "149",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.430415100786648,
+        48.72049499190939
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

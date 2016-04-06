@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fb59fcede356ce41056faa71e24ec9e758f3f40f",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 459,
+      "insee_com" : "72338",
+      "z_moyen" : 62,
+      "code_dept" : "72",
+      "nom_comm" : "SOUILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4903,
+      "y_centroid" : 67837,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.182256638913781,
+              48.109857136391
+            ],
+            [
+              0.157588858238896,
+              48.1130375778036
+            ],
+            [
+              0.156046359981248,
+              48.12646171684251
+            ],
+            [
+              0.165171677672383,
+              48.12583510318305
+            ],
+            [
+              0.185728197364129,
+              48.1317750723958
+            ],
+            [
+              0.187078826355988,
+              48.12838576070456
+            ],
+            [
+              0.189797382241305,
+              48.12203068509235
+            ],
+            [
+              0.182256638913781,
+              48.109857136391
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67836,
+      "code_cant" : "01",
+      "x_centroid" : 4897,
+      "nom_dept" : "SARTHE",
+      "id_geofla" : 24298,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.1201531494345,
+        0.1733924853399346
+      ],
+      "code_comm" : "338",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1733924853399346,
+        48.1201531494345
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

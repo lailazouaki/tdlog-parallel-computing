@@ -1,0 +1,71 @@
+  {
+    "recordid" : "02db3933fbf54221fee59e8b82f12e57a72ec182",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 604,
+      "insee_com" : "25366",
+      "z_moyen" : 736,
+      "code_dept" : "25",
+      "nom_comm" : "MANCENANS-LIZERNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9855,
+      "y_centroid" : 66910,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.764354381471495,
+              47.23780840061964
+            ],
+            [
+              6.76042693569321,
+              47.2531676056477
+            ],
+            [
+              6.751827568391426,
+              47.25513171216163
+            ],
+            [
+              6.77238743196613,
+              47.27249892177576
+            ],
+            [
+              6.794376414955848,
+              47.26678813244056
+            ],
+            [
+              6.796213626904323,
+              47.26374469469383
+            ],
+            [
+              6.764354381471495,
+              47.23780840061964
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66913,
+      "code_cant" : "12",
+      "x_centroid" : 9852,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 27706,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.25805754670525,
+        6.773668053101619
+      ],
+      "code_comm" : "366",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.773668053101619,
+        47.25805754670525
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

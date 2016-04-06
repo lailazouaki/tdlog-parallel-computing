@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6972e74569b789473486ac5bc5730ba9ae0f2a54",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 470,
+      "insee_com" : "57705",
+      "z_moyen" : 257,
+      "code_dept" : "57",
+      "nom_comm" : "VELVING",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9572,
+      "y_centroid" : 69104,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.540192346671576,
+              49.22958560333573
+            ],
+            [
+              6.518544699941345,
+              49.23938954891427
+            ],
+            [
+              6.524691057927081,
+              49.2482987542358
+            ],
+            [
+              6.538536531419525,
+              49.25196056527174
+            ],
+            [
+              6.562151943631505,
+              49.24635158794141
+            ],
+            [
+              6.540192346671576,
+              49.22958560333573
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69103,
+      "code_cant" : "03",
+      "x_centroid" : 9576,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 28490,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.24199718511068,
+        6.538880393535404
+      ],
+      "code_comm" : "705",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.538880393535404,
+        49.24199718511068
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

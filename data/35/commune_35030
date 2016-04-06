@@ -1,0 +1,67 @@
+  {
+    "recordid" : "89b1d8fc903cc58b707daf613a4d220d3710def6",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 234,
+      "insee_com" : "80174",
+      "z_moyen" : 107,
+      "code_dept" : "80",
+      "nom_comm" : "LE CARDONNOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6624,
+      "y_centroid" : 69481,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.478108809141049,
+              49.62079017454133
+            ],
+            [
+              2.466798344302644,
+              49.62704051737758
+            ],
+            [
+              2.473367404563221,
+              49.63531855713201
+            ],
+            [
+              2.505849416322824,
+              49.64013672272606
+            ],
+            [
+              2.505507397155604,
+              49.63973095490738
+            ],
+            [
+              2.478108809141049,
+              49.62079017454133
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69477,
+      "code_cant" : "27",
+      "x_centroid" : 6626,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 32905,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.63116531168235,
+        2.48308861146288
+      ],
+      "code_comm" : "174",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.48308861146288,
+        49.63116531168235
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

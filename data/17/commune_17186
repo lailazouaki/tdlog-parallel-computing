@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a5db232ab830faf07216681199df23269dc1ee6f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 493,
+      "insee_com" : "08114",
+      "z_moyen" : 222,
+      "code_dept" : "08",
+      "nom_comm" : "CHEHERY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8353,
+      "y_centroid" : 69506,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.892549248332974,
+              49.6308850827339
+            ],
+            [
+              4.860862576875246,
+              49.63478999113661
+            ],
+            [
+              4.851555610862901,
+              49.64303072349625
+            ],
+            [
+              4.88088852782468,
+              49.65026558939334
+            ],
+            [
+              4.898523752739163,
+              49.64349281761992
+            ],
+            [
+              4.901120181012036,
+              49.63698944853608
+            ],
+            [
+              4.892549248332974,
+              49.6308850827339
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69510,
+      "code_cant" : "36",
+      "x_centroid" : 8357,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 18600,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.64021821748433,
+        4.878477603767662
+      ],
+      "code_comm" : "114",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.878477603767662,
+        49.64021821748433
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

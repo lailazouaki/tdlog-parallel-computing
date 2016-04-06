@@ -1,0 +1,71 @@
+  {
+    "recordid" : "42d737dcce40b3b9ff873c616566932151233da2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 461,
+      "insee_com" : "14248",
+      "z_moyen" : 158,
+      "code_dept" : "14",
+      "nom_comm" : "ESPINS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4503,
+      "y_centroid" : 68831,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.420550351147002,
+              48.98765199284428
+            ],
+            [
+              -0.432648836661793,
+              48.99213057334974
+            ],
+            [
+              -0.42469004441392,
+              49.01143912018291
+            ],
+            [
+              -0.419666624901739,
+              49.01223944850068
+            ],
+            [
+              -0.402655295724708,
+              49.0073769835012
+            ],
+            [
+              -0.392339676172877,
+              48.99669778334373
+            ],
+            [
+              -0.420550351147002,
+              48.98765199284428
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68832,
+      "code_cant" : "31",
+      "x_centroid" : 4502,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24933,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.99967880003155,
+        -0.4146633389372654
+      ],
+      "code_comm" : "248",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4146633389372654,
+        48.99967880003155
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

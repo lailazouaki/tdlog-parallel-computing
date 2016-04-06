@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f3b022749f65ee1c6fb28523ccec7d3f67f829f5",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 321,
+      "insee_com" : "68332",
+      "z_moyen" : 297,
+      "code_dept" : "68",
+      "nom_comm" : "TAGOLSHEIM",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10203,
+      "y_centroid" : 67369,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.24871115164519,
+              47.64794477165712
+            ],
+            [
+              7.244877300367928,
+              47.65105884294388
+            ],
+            [
+              7.25510084862127,
+              47.6606471176221
+            ],
+            [
+              7.267893519359679,
+              47.66344331923652
+            ],
+            [
+              7.276658365355218,
+              47.66225729524563
+            ],
+            [
+              7.27949589744486,
+              47.64907383175849
+            ],
+            [
+              7.24871115164519,
+              47.64794477165712
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67370,
+      "code_cant" : "01",
+      "x_centroid" : 10199,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 17564,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        47.65486348435543,
+        7.263810801134436
+      ],
+      "code_comm" : "332",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.263810801134436,
+        47.65486348435543
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ca966b67cbe3b5bdca6d95f3b9d3a5b61d05ce03",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 344,
+      "insee_com" : "55055",
+      "z_moyen" : 232,
+      "code_dept" : "55",
+      "nom_comm" : "BLANZEE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8850,
+      "y_centroid" : 68985,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.549334434067189,
+              49.155697143238
+            ],
+            [
+              5.540151489703288,
+              49.15302180674975
+            ],
+            [
+              5.520730875719504,
+              49.15692931532973
+            ],
+            [
+              5.510728781222027,
+              49.15515045026566
+            ],
+            [
+              5.530369676565539,
+              49.1680970011145
+            ],
+            [
+              5.554056238502179,
+              49.1646733103905
+            ],
+            [
+              5.555429127404722,
+              49.1594178954885
+            ],
+            [
+              5.549334434067189,
+              49.155697143238
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68984,
+      "code_cant" : "08",
+      "x_centroid" : 8849,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 32550,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.16039552808199,
+        5.536471826413795
+      ],
+      "code_comm" : "055",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.536471826413795,
+        49.16039552808199
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

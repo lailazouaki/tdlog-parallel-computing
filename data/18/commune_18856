@@ -1,0 +1,75 @@
+  {
+    "recordid" : "695556f3ae01a4dd722ce0e57de428e8a5b01b47",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 713,
+      "insee_com" : "52519",
+      "z_moyen" : 449,
+      "code_dept" : "52",
+      "nom_comm" : "VESVRES-SOUS-CHALANCEY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8626,
+      "y_centroid" : 67349,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.160200988724029,
+              47.67815504007488
+            ],
+            [
+              5.148669522167761,
+              47.6993560682454
+            ],
+            [
+              5.157773374856855,
+              47.70118733554696
+            ],
+            [
+              5.182733951773973,
+              47.71562587051454
+            ],
+            [
+              5.187391041680202,
+              47.70621964783341
+            ],
+            [
+              5.185352477875929,
+              47.68969013472783
+            ],
+            [
+              5.178340930532217,
+              47.68095186221426
+            ],
+            [
+              5.160200988724029,
+              47.67815504007488
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67348,
+      "code_cant" : "23",
+      "x_centroid" : 8628,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 30143,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.69523160155602,
+        5.170733638194571
+      ],
+      "code_comm" : "519",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.170733638194571,
+        47.69523160155602
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "54cfb12e3397f9f626f47c2ed20ee6b45e7b67a8",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 297,
+      "insee_com" : "62435",
+      "z_moyen" : 135,
+      "code_dept" : "62",
+      "nom_comm" : "HERLINCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6501,
+      "y_centroid" : 70276,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.28236737705926,
+              50.33449588272438
+            ],
+            [
+              2.275725937145594,
+              50.33983515797274
+            ],
+            [
+              2.289018086392322,
+              50.3543226550666
+            ],
+            [
+              2.303044725393438,
+              50.35072159057256
+            ],
+            [
+              2.309388003244995,
+              50.34553189628538
+            ],
+            [
+              2.303827218649687,
+              50.34077804038618
+            ],
+            [
+              2.28236737705926,
+              50.33449588272438
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70276,
+      "code_cant" : "43",
+      "x_centroid" : 6495,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21618,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.34431441483679,
+        2.291983065324287
+      ],
+      "code_comm" : "435",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.291983065324287,
+        50.34431441483679
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

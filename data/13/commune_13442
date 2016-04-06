@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6d78d87a0511aa45cca6d3b8d4569b8f62a8bd8e",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 776,
+      "insee_com" : "59159",
+      "z_moyen" : 3,
+      "code_dept" : "59",
+      "nom_comm" : "CRAYWICK",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6462,
+      "y_centroid" : 70976,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.264576034460902,
+              50.95532511628831
+            ],
+            [
+              2.237223495886796,
+              50.96640984156529
+            ],
+            [
+              2.183695521134437,
+              50.9726021160886
+            ],
+            [
+              2.177488067730749,
+              50.98459022844951
+            ],
+            [
+              2.237754894413539,
+              50.97811000382217
+            ],
+            [
+              2.269589023522601,
+              50.95922963692921
+            ],
+            [
+              2.264576034460902,
+              50.95532511628831
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70974,
+      "code_cant" : "27",
+      "x_centroid" : 6451,
+      "nom_dept" : "NORD",
+      "id_geofla" : 23087,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.97262857412436,
+        2.22142508420885
+      ],
+      "code_comm" : "159",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.22142508420885,
+        50.97262857412436
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

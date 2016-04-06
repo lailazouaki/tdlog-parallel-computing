@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8940fe36fbdbb51437d361b09a319928db45b3ac",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 229,
+      "insee_com" : "59013",
+      "z_moyen" : 32,
+      "code_dept" : "59",
+      "nom_comm" : "ANSTAING",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7135,
+      "y_centroid" : 70562,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.192144606052108,
+              50.59329548675605
+            ],
+            [
+              3.186877093717805,
+              50.59859866086432
+            ],
+            [
+              3.172957130361406,
+              50.60196642231185
+            ],
+            [
+              3.180203459675434,
+              50.60928840831541
+            ],
+            [
+              3.195570788430921,
+              50.61142802007883
+            ],
+            [
+              3.202471180097976,
+              50.60176022394759
+            ],
+            [
+              3.192144606052108,
+              50.59329548675605
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70564,
+      "code_cant" : "33",
+      "x_centroid" : 7134,
+      "nom_dept" : "NORD",
+      "id_geofla" : 13747,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        50.60352353598611,
+        3.189202151915252
+      ],
+      "code_comm" : "013",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.189202151915252,
+        50.60352353598611
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

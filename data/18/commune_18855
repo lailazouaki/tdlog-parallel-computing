@@ -1,0 +1,67 @@
+  {
+    "recordid" : "04e881eac013b7365c827a8d65c7e3b4b32027cd",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 158,
+      "insee_com" : "69189",
+      "z_moyen" : 216,
+      "code_dept" : "69",
+      "nom_comm" : "SAINTE-COLOMBE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8456,
+      "y_centroid" : 64934,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.861328431938606,
+              45.51684863017464
+            ],
+            [
+              4.85696064386421,
+              45.52147857481246
+            ],
+            [
+              4.845343792710096,
+              45.5243181566883
+            ],
+            [
+              4.855437558494766,
+              45.53072710650466
+            ],
+            [
+              4.871813878997794,
+              45.52763613931555
+            ],
+            [
+              4.861328431938606,
+              45.51684863017464
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64934,
+      "code_cant" : "07",
+      "x_centroid" : 8451,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 30140,
+      "statut" : "Commune simple",
+      "population" : 1.9,
+      "geom_x_y" : [
+        45.52500306174669,
+        4.859314579375715
+      ],
+      "code_comm" : "189",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.859314579375715,
+        45.52500306174669
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

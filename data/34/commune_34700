@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7cdc333ee190d32d1f5af6abae558dc174fc2ecb",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 281,
+      "insee_com" : "17363",
+      "z_moyen" : 63,
+      "code_dept" : "17",
+      "nom_comm" : "SAINT-MARTIAL-DE-VITATERNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4318,
+      "y_centroid" : 64906,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.419706056353725,
+              45.45972610861863
+            ],
+            [
+              -0.427022329111345,
+              45.45562711378144
+            ],
+            [
+              -0.446090099590917,
+              45.45663803534124
+            ],
+            [
+              -0.444903332344926,
+              45.46248801426204
+            ],
+            [
+              -0.435764081542701,
+              45.4648594501033
+            ],
+            [
+              -0.42605216302932,
+              45.4722859458634
+            ],
+            [
+              -0.417563276769073,
+              45.46965173045292
+            ],
+            [
+              -0.419706056353725,
+              45.45972610861863
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64904,
+      "code_cant" : "11",
+      "x_centroid" : 4320,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 34151,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        45.46261029987956,
+        -0.4302353887032579
+      ],
+      "code_comm" : "363",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4302353887032579,
+        45.46261029987956
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

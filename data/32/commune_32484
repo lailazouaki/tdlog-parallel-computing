@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1b915bcf044f52a453ac54f3968448155a7e04cb",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 288,
+      "insee_com" : "14116",
+      "z_moyen" : 81,
+      "code_dept" : "14",
+      "nom_comm" : "LE BU-SUR-ROUVRES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4675,
+      "y_centroid" : 68860,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.159207800037159,
+              49.02680455733989
+            ],
+            [
+              -0.196130933087274,
+              49.02639383755548
+            ],
+            [
+              -0.190286298130286,
+              49.03260575211092
+            ],
+            [
+              -0.175038944264043,
+              49.0424319810611
+            ],
+            [
+              -0.172630119405555,
+              49.04355753680416
+            ],
+            [
+              -0.159207800037159,
+              49.02680455733989
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68861,
+      "code_cant" : "07",
+      "x_centroid" : 4677,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 33954,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.03245262224874,
+        -0.1767212515910384
+      ],
+      "code_comm" : "116",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1767212515910384,
+        49.03245262224874
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

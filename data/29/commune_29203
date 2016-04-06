@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fbf8234c6c7fa8f7a295fd0137abe4ce3540ed5a",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 591,
+      "insee_com" : "02144",
+      "z_moyen" : 85,
+      "code_dept" : "02",
+      "nom_comm" : "CAULAINCOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7076,
+      "y_centroid" : 69739,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.118826180146239,
+              49.84646865713934
+            ],
+            [
+              3.10442704439758,
+              49.85029992425416
+            ],
+            [
+              3.103607025484828,
+              49.85701145926187
+            ],
+            [
+              3.08783633630933,
+              49.86569302220653
+            ],
+            [
+              3.119133756013172,
+              49.88302261563243
+            ],
+            [
+              3.129143963279847,
+              49.86110164433281
+            ],
+            [
+              3.120438217717192,
+              49.85844239366222
+            ],
+            [
+              3.118826180146239,
+              49.84646865713934
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69739,
+      "code_cant" : "33",
+      "x_centroid" : 7080,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 20231,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.86465838198542,
+        3.11126489472884
+      ],
+      "code_comm" : "144",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.11126489472884,
+        49.86465838198542
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

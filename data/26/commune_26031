@@ -1,0 +1,75 @@
+  {
+    "recordid" : "edb4fd8d8747dbb45570f3bbd9df545dfc3ab7b0",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 563,
+      "insee_com" : "31226",
+      "z_moyen" : 325,
+      "code_dept" : "31",
+      "nom_comm" : "GOUZENS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5526,
+      "y_centroid" : 62328,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.167971163153015,
+              43.17618704854168
+            ],
+            [
+              1.168108487941385,
+              43.18659018792263
+            ],
+            [
+              1.180019293832779,
+              43.192172129389
+            ],
+            [
+              1.199959979572566,
+              43.18324850619026
+            ],
+            [
+              1.190465072336996,
+              43.16765058399769
+            ],
+            [
+              1.17642487851999,
+              43.16852975907371
+            ],
+            [
+              1.168117566258033,
+              43.16963059337451
+            ],
+            [
+              1.167971163153015,
+              43.17618704854168
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62335,
+      "code_cant" : "20",
+      "x_centroid" : 5520,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 18216,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.17913497446072,
+        1.181873826933842
+      ],
+      "code_comm" : "226",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.181873826933842,
+        43.17913497446072
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

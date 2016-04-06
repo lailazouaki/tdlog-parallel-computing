@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b3c3900fcc3e48212a516a20683fe83781cdd114",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 364,
+      "insee_com" : "08374",
+      "z_moyen" : 195,
+      "code_dept" : "08",
+      "nom_comm" : "LA SABOTTERIE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8209,
+      "y_centroid" : 69396,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.662988529675107,
+              49.53055045725344
+            ],
+            [
+              4.658659276119474,
+              49.55045741022859
+            ],
+            [
+              4.665202473486675,
+              49.55966227130946
+            ],
+            [
+              4.668916013411497,
+              49.55912586840296
+            ],
+            [
+              4.681531595889424,
+              49.54687063748193
+            ],
+            [
+              4.685891853939776,
+              49.54123694459353
+            ],
+            [
+              4.666533536930781,
+              49.53084338926649
+            ],
+            [
+              4.662988529675107,
+              49.53055045725344
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69398,
+      "code_cant" : "30",
+      "x_centroid" : 8209,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 28489,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.54475436772347,
+        4.669961908138978
+      ],
+      "code_comm" : "374",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.669961908138978,
+        49.54475436772347
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

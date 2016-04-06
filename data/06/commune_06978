@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a8227a5b16bbaa8e7469c992da1d5ae38ec7fb46",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 221,
+      "insee_com" : "65013",
+      "z_moyen" : 197,
+      "code_dept" : "65",
+      "nom_comm" : "ANSOST",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4660,
+      "y_centroid" : 62635,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.108731980044606,
+              43.42230855189352
+            ],
+            [
+              0.105164688900528,
+              43.42521109435652
+            ],
+            [
+              0.100863486900873,
+              43.43948222925345
+            ],
+            [
+              0.109087938796387,
+              43.44201573212016
+            ],
+            [
+              0.116882923071369,
+              43.43908157531037
+            ],
+            [
+              0.11599356958945,
+              43.42281728530514
+            ],
+            [
+              0.108731980044606,
+              43.42230855189352
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62635,
+      "code_cant" : "18",
+      "x_centroid" : 4659,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 14351,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.43247358018986,
+        0.1097764618212175
+      ],
+      "code_comm" : "013",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1097764618212175,
+        43.43247358018986
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

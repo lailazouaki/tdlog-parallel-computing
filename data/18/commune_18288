@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3a2e4fd0cf9d94f6424143acc048472c40954ea7",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 611,
+      "insee_com" : "14696",
+      "z_moyen" : 149,
+      "code_dept" : "14",
+      "nom_comm" : "TORTISAMBERT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4889,
+      "y_centroid" : 68776,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.138491476441162,
+              48.96547294734216
+            ],
+            [
+              0.13337779025021,
+              48.96526978578716
+            ],
+            [
+              0.111363671855968,
+              48.9517026522536
+            ],
+            [
+              0.091596615252695,
+              48.95408608181885
+            ],
+            [
+              0.102811089383962,
+              48.9717965818367
+            ],
+            [
+              0.123099776509512,
+              48.97540753059776
+            ],
+            [
+              0.142705312005415,
+              48.9703604926289
+            ],
+            [
+              0.138491476441162,
+              48.96547294734216
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68778,
+      "code_cant" : "23",
+      "x_centroid" : 4887,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 18237,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.96418562486746,
+        0.1149383499002432
+      ],
+      "code_comm" : "696",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1149383499002432,
+        48.96418562486746
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

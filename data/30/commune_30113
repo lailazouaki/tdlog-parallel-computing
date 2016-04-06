@@ -1,0 +1,75 @@
+  {
+    "recordid" : "36ca5116c18c60b2efd379ba7d825ae208fedf5b",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 265,
+      "insee_com" : "31039",
+      "z_moyen" : 306,
+      "code_dept" : "31",
+      "nom_comm" : "BACHAS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5324,
+      "y_centroid" : 62410,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.948784406112322,
+              43.23987083858982
+            ],
+            [
+              0.940263683522481,
+              43.24273207369982
+            ],
+            [
+              0.931315695916421,
+              43.24066237821416
+            ],
+            [
+              0.934969077522172,
+              43.25895403880099
+            ],
+            [
+              0.94361021914943,
+              43.257625156508
+            ],
+            [
+              0.9517552282544079,
+              43.24979836784887
+            ],
+            [
+              0.952109366745959,
+              43.24155363723487
+            ],
+            [
+              0.948784406112322,
+              43.23987083858982
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62405,
+      "code_cant" : "02",
+      "x_centroid" : 5327,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 19016,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.24874754752614,
+        0.9417342275272725
+      ],
+      "code_comm" : "039",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9417342275272725,
+        43.24874754752614
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

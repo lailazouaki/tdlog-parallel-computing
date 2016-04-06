@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0edb0fb3701822774a1ebe706749b83ceb41f7a9",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 749,
+      "insee_com" : "51424",
+      "z_moyen" : 173,
+      "code_dept" : "51",
+      "nom_comm" : "PASSAVANT-EN-ARGONNE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8466,
+      "y_centroid" : 68820,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.035267201621294,
+              49.0225604619846
+            ],
+            [
+              5.010132311281914,
+              49.01204633523925
+            ],
+            [
+              4.985508851995935,
+              49.0142821624359
+            ],
+            [
+              4.976596945938656,
+              49.01438428865632
+            ],
+            [
+              4.970044178200915,
+              49.01827878536622
+            ],
+            [
+              4.96671487266518,
+              49.02100479091665
+            ],
+            [
+              5.010010482423647,
+              49.0346881177889
+            ],
+            [
+              5.035267201621294,
+              49.0225604619846
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68822,
+      "code_cant" : "23",
+      "x_centroid" : 8463,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 29005,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.02205258244382,
+        5.001820827908277
+      ],
+      "code_comm" : "424",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.001820827908277,
+        49.02205258244382
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

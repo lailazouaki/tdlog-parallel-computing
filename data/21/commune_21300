@@ -1,0 +1,67 @@
+  {
+    "recordid" : "fc5485329034154bef5acf8c4cfbd54414e8f926",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 249,
+      "insee_com" : "80143",
+      "z_moyen" : 149,
+      "code_dept" : "80",
+      "nom_comm" : "BROCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6152,
+      "y_centroid" : 69731,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.834739195160634,
+              49.86010358184655
+            ],
+            [
+              1.822573793361216,
+              49.84222408724037
+            ],
+            [
+              1.798450393933907,
+              49.84596036724569
+            ],
+            [
+              1.816808714305362,
+              49.85358801047403
+            ],
+            [
+              1.825733925873212,
+              49.8624881041622
+            ],
+            [
+              1.834739195160634,
+              49.86010358184655
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69733,
+      "code_cant" : "25",
+      "x_centroid" : 6150,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 18246,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.85112245155451,
+        1.819754465971537
+      ],
+      "code_comm" : "143",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.819754465971537,
+        49.85112245155451
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

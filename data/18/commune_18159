@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4064291bc262350f5c1ac8ec04fdbaa8ec13e0f7",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 666,
+      "insee_com" : "69042",
+      "z_moyen" : 696,
+      "code_dept" : "69",
+      "nom_comm" : "LA CHAPELLE-SUR-COISE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8167,
+      "y_centroid" : 65067,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.514398800246597,
+              45.64060501795993
+            ],
+            [
+              4.506745574896681,
+              45.63679893190344
+            ],
+            [
+              4.478712296781937,
+              45.63944034781826
+            ],
+            [
+              4.481088107965594,
+              45.66010581730689
+            ],
+            [
+              4.502301080076132,
+              45.6674802678371
+            ],
+            [
+              4.512975081810762,
+              45.64864892524994
+            ],
+            [
+              4.514398800246597,
+              45.64060501795993
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65072,
+      "code_cant" : "28",
+      "x_centroid" : 8165,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 17839,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        45.65019988913988,
+        4.496058959805995
+      ],
+      "code_comm" : "042",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.496058959805995,
+        45.65019988913988
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

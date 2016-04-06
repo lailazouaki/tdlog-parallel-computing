@@ -1,0 +1,71 @@
+  {
+    "recordid" : "124f0a1774f42adff45e3edd29469258cc3da0aa",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 327,
+      "insee_com" : "25166",
+      "z_moyen" : 490,
+      "code_dept" : "25",
+      "nom_comm" : "COTEBRUNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9504,
+      "y_centroid" : 66887,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.320457056435123,
+              47.24318800397208
+            ],
+            [
+              6.289792062017174,
+              47.25148717145509
+            ],
+            [
+              6.303085045530149,
+              47.25977714382925
+            ],
+            [
+              6.30748614593256,
+              47.25902993190134
+            ],
+            [
+              6.316632379918073,
+              47.2581829191686
+            ],
+            [
+              6.328380847096069,
+              47.25191721774886
+            ],
+            [
+              6.320457056435123,
+              47.24318800397208
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66890,
+      "code_cant" : "04",
+      "x_centroid" : 9503,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 23832,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.25198698795674,
+        6.310627079984076
+      ],
+      "code_comm" : "166",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.310627079984076,
+        47.25198698795674
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a4a8056696ced10cc188b8a2557d81c8fd334f2f",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 357,
+      "insee_com" : "27401",
+      "z_moyen" : 135,
+      "code_dept" : "27",
+      "nom_comm" : "LE MESNIL-FUGUET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5611,
+      "y_centroid" : 68875,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.096946610138599,
+              49.06318869566445
+            ],
+            [
+              1.09434658227968,
+              49.06839102633364
+            ],
+            [
+              1.10639532684514,
+              49.07918540499296
+            ],
+            [
+              1.120451179905176,
+              49.08423575505773
+            ],
+            [
+              1.125137820086703,
+              49.07996492529357
+            ],
+            [
+              1.136166711780368,
+              49.07099869663522
+            ],
+            [
+              1.096946610138599,
+              49.06318869566445
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68872,
+      "code_cant" : "16",
+      "x_centroid" : 5622,
+      "nom_dept" : "EURE",
+      "id_geofla" : 21921,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.07305454437672,
+        1.113990835017585
+      ],
+      "code_comm" : "401",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.113990835017585,
+        49.07305454437672
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

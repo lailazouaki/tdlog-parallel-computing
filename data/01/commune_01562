@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4bf0bbe4967ac7c85111c50b11afb633bee7b428",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 410,
+      "insee_com" : "63297",
+      "z_moyen" : 371,
+      "code_dept" : "63",
+      "nom_comm" : "REIGNAT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7279,
+      "y_centroid" : 65166,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.351800878075106,
+              45.73283502469757
+            ],
+            [
+              3.343125543158259,
+              45.73975055136213
+            ],
+            [
+              3.349287441739079,
+              45.76038903143283
+            ],
+            [
+              3.366126368020856,
+              45.7601465330296
+            ],
+            [
+              3.370211129728489,
+              45.75151543406928
+            ],
+            [
+              3.351800878075106,
+              45.73283502469757
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65166,
+      "code_cant" : "47",
+      "x_centroid" : 7276,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 28672,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.74872991416836,
+        3.355674130712637
+      ],
+      "code_comm" : "297",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.355674130712637,
+        45.74872991416836
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

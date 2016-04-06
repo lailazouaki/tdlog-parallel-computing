@@ -1,0 +1,67 @@
+  {
+    "recordid" : "725d0e3ce8557cf41bb9a4191796cb04ed6b0644",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 392,
+      "insee_com" : "80836",
+      "z_moyen" : 54,
+      "code_dept" : "80",
+      "nom_comm" : "YONVAL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6132,
+      "y_centroid" : 69997,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.80385759685497,
+              50.08898924868913
+            ],
+            [
+              1.783399797191572,
+              50.07929398962008
+            ],
+            [
+              1.765267065495528,
+              50.08565191222364
+            ],
+            [
+              1.791474999294804,
+              50.10245773306862
+            ],
+            [
+              1.805089329807428,
+              50.09182161476618
+            ],
+            [
+              1.80385759685497,
+              50.08898924868913
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69996,
+      "code_cant" : "02",
+      "x_centroid" : 6130,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 27203,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.08991101261629,
+        1.786716804833566
+      ],
+      "code_comm" : "836",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.786716804833566,
+        50.08991101261629
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

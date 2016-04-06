@@ -1,0 +1,71 @@
+  {
+    "recordid" : "67c111bf53263dcdaca443f95959482efa546107",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 381,
+      "insee_com" : "21368",
+      "z_moyen" : 346,
+      "code_dept" : "21",
+      "nom_comm" : "MAGNY-LES-VILLERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8422,
+      "y_centroid" : 66676,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.868409038400784,
+              47.08242573259409
+            ],
+            [
+              4.858133962767324,
+              47.09376735434142
+            ],
+            [
+              4.860921739002107,
+              47.10271009490274
+            ],
+            [
+              4.865313509450664,
+              47.10346784061738
+            ],
+            [
+              4.899915208388141,
+              47.09653741279408
+            ],
+            [
+              4.893989730128734,
+              47.09378884208265
+            ],
+            [
+              4.868409038400784,
+              47.08242573259409
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66679,
+      "code_cant" : "24",
+      "x_centroid" : 8421,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 8125,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.09418690690216,
+        4.874533947914747
+      ],
+      "code_comm" : "368",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.874533947914747,
+        47.09418690690216
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c3c99e22220a39285ec6f99dda4b71158c26a51a",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 236,
+      "insee_com" : "88117",
+      "z_moyen" : 395,
+      "code_dept" : "88",
+      "nom_comm" : "COURCELLES-SOUS-CHATENOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9086,
+      "y_centroid" : 68068,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.827401209280602,
+              48.32382992353658
+            ],
+            [
+              5.818123956912642,
+              48.32074714056088
+            ],
+            [
+              5.808435019855913,
+              48.32333620474841
+            ],
+            [
+              5.801843219118519,
+              48.3321350935448
+            ],
+            [
+              5.824377020485614,
+              48.33489460334604
+            ],
+            [
+              5.827401209280602,
+              48.32382992353658
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68067,
+      "code_cant" : "07",
+      "x_centroid" : 9086,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 21892,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.32807005244141,
+        5.81600954432731
+      ],
+      "code_comm" : "117",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.81600954432731,
+        48.32807005244141
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

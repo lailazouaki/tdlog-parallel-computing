@@ -1,0 +1,75 @@
+  {
+    "recordid" : "df35dbe9532115147a978e69f060ed2a5c3fd16a",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 485,
+      "insee_com" : "39238",
+      "z_moyen" : 240,
+      "code_dept" : "39",
+      "nom_comm" : "FRASNE-LES-MEULIERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8893,
+      "y_centroid" : 66803,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.514167072295391,
+              47.17943298096374
+            ],
+            [
+              5.497609799220564,
+              47.18304300634102
+            ],
+            [
+              5.494989081647702,
+              47.18464876764295
+            ],
+            [
+              5.498638446942642,
+              47.19068603372004
+            ],
+            [
+              5.487598476474667,
+              47.20483089264395
+            ],
+            [
+              5.503321733434069,
+              47.21381464745403
+            ],
+            [
+              5.513161476540738,
+              47.20372961638037
+            ],
+            [
+              5.514167072295391,
+              47.17943298096374
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66812,
+      "code_cant" : "18",
+      "x_centroid" : 8895,
+      "nom_dept" : "JURA",
+      "id_geofla" : 27899,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.19661622470122,
+        5.503430472568875
+      ],
+      "code_comm" : "238",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.503430472568875,
+        47.19661622470122
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "616a25ce52c0346aeadbd59845f0a76f6e1e9bd4",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 441,
+      "insee_com" : "27623",
+      "z_moyen" : 157,
+      "code_dept" : "27",
+      "nom_comm" : "SURTAUVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5582,
+      "y_centroid" : 69015,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.06577139263483,
+              49.17870913034345
+            ],
+            [
+              1.052874740576977,
+              49.18422993593484
+            ],
+            [
+              1.036955482173043,
+              49.20280305708737
+            ],
+            [
+              1.058121990371082,
+              49.21513360258159
+            ],
+            [
+              1.062124355745554,
+              49.21639407460384
+            ],
+            [
+              1.063637565417947,
+              49.19541096096599
+            ],
+            [
+              1.06577139263483,
+              49.17870913034345
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69024,
+      "code_cant" : "39",
+      "x_centroid" : 5581,
+      "nom_dept" : "EURE",
+      "id_geofla" : 21541,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.19817228443449,
+        1.054344270680738
+      ],
+      "code_comm" : "623",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.054344270680738,
+        49.19817228443449
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

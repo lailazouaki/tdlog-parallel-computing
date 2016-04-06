@@ -1,0 +1,75 @@
+  {
+    "recordid" : "21c16fd62b5579d9bf31ed9e96d211a43a364a3c",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 252,
+      "insee_com" : "71308",
+      "z_moyen" : 314,
+      "code_dept" : "71",
+      "nom_comm" : "MONTCEAUX-RAGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8410,
+      "y_centroid" : 66150,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.844194558894732,
+              46.60910461171215
+            ],
+            [
+              4.830376473280779,
+              46.62219683397943
+            ],
+            [
+              4.837175182617698,
+              46.63113077811047
+            ],
+            [
+              4.841549910403941,
+              46.62981763713203
+            ],
+            [
+              4.841106556783588,
+              46.62676247303389
+            ],
+            [
+              4.852570571453247,
+              46.62249765130978
+            ],
+            [
+              4.851252607519261,
+              46.61642136756289
+            ],
+            [
+              4.844194558894732,
+              46.60910461171215
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66150,
+      "code_cant" : "47",
+      "x_centroid" : 8409,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 25288,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.62038759324513,
+        4.841780331167392
+      ],
+      "code_comm" : "308",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.841780331167392,
+        46.62038759324513
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

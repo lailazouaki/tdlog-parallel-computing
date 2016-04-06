@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6b8c49ad9315709ba4aac76569ecf6df7f8a09d3",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 127,
+      "insee_com" : "62632",
+      "z_moyen" : 23,
+      "code_dept" : "62",
+      "nom_comm" : "OBLINGHEM",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6715,
+      "y_centroid" : 70505,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.589087570341578,
+              50.54357036354421
+            ],
+            [
+              2.585596619516152,
+              50.55013780249259
+            ],
+            [
+              2.592223177121815,
+              50.55814791766913
+            ],
+            [
+              2.60143395424509,
+              50.55684951972928
+            ],
+            [
+              2.59831562899854,
+              50.54684079240393
+            ],
+            [
+              2.589087570341578,
+              50.54357036354421
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70502,
+      "code_cant" : "12",
+      "x_centroid" : 6711,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 19918,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.55124764873285,
+        2.593527291356926
+      ],
+      "code_comm" : "632",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.593527291356926,
+        50.55124764873285
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

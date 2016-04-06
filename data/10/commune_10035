@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0e689bf050658145b7aec476f9410e13277a739f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 147,
+      "insee_com" : "51119",
+      "z_moyen" : 198,
+      "code_dept" : "51",
+      "nom_comm" : "CHAMPILLON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7714,
+      "y_centroid" : 68876,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.985264546983257,
+              49.07905673988962
+            ],
+            [
+              3.965184807459749,
+              49.07984909854173
+            ],
+            [
+              3.970998409723169,
+              49.0927956476357
+            ],
+            [
+              3.980468669062279,
+              49.09038089178689
+            ],
+            [
+              3.983993313514509,
+              49.08420159270244
+            ],
+            [
+              3.985264546983257,
+              49.07905673988962
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68876,
+      "code_cant" : "03",
+      "x_centroid" : 7712,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 14600,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.08482481317595,
+        3.975392795675292
+      ],
+      "code_comm" : "119",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.975392795675292,
+        49.08482481317595
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "748adee361bace2b986bc4576dc9e528067f5acb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 444,
+      "insee_com" : "88433",
+      "z_moyen" : 329,
+      "code_dept" : "88",
+      "nom_comm" : "SAINT-PRANCHER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9190,
+      "y_centroid" : 68091,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.969295963289996,
+              48.33452626977554
+            ],
+            [
+              5.937033703379075,
+              48.33833823843273
+            ],
+            [
+              5.924916356517092,
+              48.35502397065407
+            ],
+            [
+              5.947848037780979,
+              48.35227657354288
+            ],
+            [
+              5.955418930970899,
+              48.35648143073468
+            ],
+            [
+              5.964810432509502,
+              48.35006143092311
+            ],
+            [
+              5.964413498374317,
+              48.34014070253875
+            ],
+            [
+              5.969295963289996,
+              48.33452626977554
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68090,
+      "code_cant" : "16",
+      "x_centroid" : 9184,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 32854,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.34557997388224,
+        5.94859855562207
+      ],
+      "code_comm" : "433",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.94859855562207,
+        48.34557997388224
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

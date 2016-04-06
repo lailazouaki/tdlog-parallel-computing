@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e1d5ed7759d8468686e6eba43cf12042101f1111",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 458,
+      "insee_com" : "02484",
+      "z_moyen" : 84,
+      "code_dept" : "02",
+      "nom_comm" : "MEZY-MOULINS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7380,
+      "y_centroid" : 68849,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.536179205126366,
+              49.05415066077719
+            ],
+            [
+              3.500910594961019,
+              49.05567861970863
+            ],
+            [
+              3.488002275472015,
+              49.07096359130546
+            ],
+            [
+              3.493659359789948,
+              49.07292762529309
+            ],
+            [
+              3.523144359251466,
+              49.06939508225769
+            ],
+            [
+              3.537086296335648,
+              49.05719481170389
+            ],
+            [
+              3.536179205126366,
+              49.05415066077719
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68845,
+      "code_cant" : "10",
+      "x_centroid" : 7374,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 20900,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.06300748884759,
+        3.512278276097689
+      ],
+      "code_comm" : "484",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.512278276097689,
+        49.06300748884759
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

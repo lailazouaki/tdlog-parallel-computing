@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5b29b17da7ff92e645524ec1d81f4ad344c33ec4",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 642,
+      "insee_com" : "52203",
+      "z_moyen" : 237,
+      "code_dept" : "52",
+      "nom_comm" : "FONTAINES-SUR-MARNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8551,
+      "y_centroid" : 68307,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.098862587438781,
+              48.54127953493921
+            ],
+            [
+              5.093796290622383,
+              48.55015165273758
+            ],
+            [
+              5.104961289201587,
+              48.56795190711221
+            ],
+            [
+              5.134454575326742,
+              48.57069284865202
+            ],
+            [
+              5.14352840485834,
+              48.56313271076748
+            ],
+            [
+              5.098862587438781,
+              48.54127953493921
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68292,
+      "code_cant" : "08",
+      "x_centroid" : 8561,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 13072,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.55853229085891,
+        5.115652564650146
+      ],
+      "code_comm" : "203",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.115652564650146,
+        48.55853229085891
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

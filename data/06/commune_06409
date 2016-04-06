@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7884d7a257a01d51f9f948471cffcbcf3865a7b2",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 594,
+      "insee_com" : "59617",
+      "z_moyen" : 151,
+      "code_dept" : "59",
+      "nom_comm" : "VIEUX-MESNIL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7617,
+      "y_centroid" : 70183,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.87028884420031,
+              50.24688216724264
+            ],
+            [
+              3.848772811414563,
+              50.24899890699636
+            ],
+            [
+              3.861166629496605,
+              50.268766665889
+            ],
+            [
+              3.868442215644561,
+              50.27311550877678
+            ],
+            [
+              3.882739977754304,
+              50.27189146792885
+            ],
+            [
+              3.894137850125574,
+              50.26437425531038
+            ],
+            [
+              3.885322266952723,
+              50.25612284467613
+            ],
+            [
+              3.87028884420031,
+              50.24688216724264
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70177,
+      "code_cant" : "10",
+      "x_centroid" : 7621,
+      "nom_dept" : "NORD",
+      "id_geofla" : 15007,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.259976396321,
+        3.871059082531227
+      ],
+      "code_comm" : "617",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.871059082531227,
+        50.259976396321
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "811eee8cfc2fc8f220829e6cc7b329de585fff68",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 93,
+      "insee_com" : "29132",
+      "z_moyen" : 47,
+      "code_dept" : "29",
+      "nom_comm" : "LOCQUENOLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 1949,
+      "y_centroid" : 68578,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.858126394300361,
+              48.61812026405936
+            ],
+            [
+              -3.871018497875877,
+              48.62191697883815
+            ],
+            [
+              -3.871166768161198,
+              48.62511376351682
+            ],
+            [
+              -3.858216398785149,
+              48.628760323465
+            ],
+            [
+              -3.858126394300361,
+              48.61812026405936
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68579,
+      "code_cant" : "43",
+      "x_centroid" : 1947,
+      "nom_dept" : "FINISTERE",
+      "id_geofla" : 27684,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.62347942009899,
+        -3.863473532675319
+      ],
+      "code_comm" : "132",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.863473532675319,
+        48.62347942009899
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

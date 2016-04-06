@@ -1,0 +1,63 @@
+  {
+    "recordid" : "ad89aa6347b075ff4d2105bc1e75ac65870dd19d",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 48,
+      "insee_com" : "22153",
+      "z_moyen" : 148,
+      "code_dept" : "22",
+      "nom_comm" : "MONCONTOUR",
+      "code_arr" : "4",
+      "x_chf_lieu" : 2830,
+      "y_centroid" : 68213,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.628182996096358,
+              48.35405900100456
+            ],
+            [
+              -2.636537807918825,
+              48.35549216210461
+            ],
+            [
+              -2.63717797047621,
+              48.36019708489784
+            ],
+            [
+              -2.628782818361368,
+              48.36281573967261
+            ],
+            [
+              -2.628182996096358,
+              48.35405900100456
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68214,
+      "code_cant" : "26",
+      "x_centroid" : 2831,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 12685,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.9,
+      "geom_x_y" : [
+        48.35819803693769,
+        -2.632255818372636
+      ],
+      "code_comm" : "153",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.632255818372636,
+        48.35819803693769
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

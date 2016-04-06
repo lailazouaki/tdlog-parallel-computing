@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b725eda5854231e845752ac280632ab6cd7c9f61",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 516,
+      "insee_com" : "80477",
+      "z_moyen" : 63,
+      "code_dept" : "80",
+      "nom_comm" : "LIGESCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6197,
+      "y_centroid" : 70219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.863650922352277,
+              50.27809257392233
+            ],
+            [
+              1.85492951030966,
+              50.28700049307532
+            ],
+            [
+              1.85720410932288,
+              50.30481002683413
+            ],
+            [
+              1.894225630107042,
+              50.29353726625983
+            ],
+            [
+              1.88089335196643,
+              50.27905856056349
+            ],
+            [
+              1.863650922352277,
+              50.27809257392233
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70218,
+      "code_cant" : "19",
+      "x_centroid" : 6194,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 13445,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.29032921629216,
+        1.871369710324764
+      ],
+      "code_comm" : "477",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.871369710324764,
+        50.29032921629216
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

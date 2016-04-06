@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e08fb79571060b5c80ff020124efcbb4f3221255",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 263,
+      "insee_com" : "91292",
+      "z_moyen" : 88,
+      "code_dept" : "91",
+      "nom_comm" : "GUIBEVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6462,
+      "y_centroid" : 68299,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.282745353910117,
+              48.55947393239594
+            ],
+            [
+              2.265708596484375,
+              48.55959488177511
+            ],
+            [
+              2.263504914735424,
+              48.56210909794977
+            ],
+            [
+              2.25918689410627,
+              48.57323711062458
+            ],
+            [
+              2.267843319155169,
+              48.57558461229858
+            ],
+            [
+              2.28164512415866,
+              48.57251122478778
+            ],
+            [
+              2.282745353910117,
+              48.55947393239594
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68303,
+      "code_cant" : "01",
+      "x_centroid" : 6462,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 18561,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.567187826379,
+        2.27170202676192
+      ],
+      "code_comm" : "292",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.27170202676192,
+        48.567187826379
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

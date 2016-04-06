@@ -1,0 +1,71 @@
+  {
+    "recordid" : "54d7f2662d2087046974cd900472f0016bcb6d1d",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 213,
+      "insee_com" : "33435",
+      "z_moyen" : 12,
+      "code_dept" : "33",
+      "nom_comm" : "SAINT-MACAIRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4440,
+      "y_centroid" : 63901,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.237731026483586,
+              44.55869410678351
+            ],
+            [
+              -0.245025165251897,
+              44.55711940138084
+            ],
+            [
+              -0.251931742774808,
+              44.55932180808234
+            ],
+            [
+              -0.23044286358003,
+              44.56786352117387
+            ],
+            [
+              -0.217463965766189,
+              44.56924264166893
+            ],
+            [
+              -0.218343289337214,
+              44.56322543599473
+            ],
+            [
+              -0.237731026483586,
+              44.55869410678351
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63904,
+      "code_cant" : "43",
+      "x_centroid" : 4433,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 16231,
+      "statut" : "Chef-lieu canton",
+      "population" : 2,
+      "geom_x_y" : [
+        44.56316558265758,
+        -0.2325490726951371
+      ],
+      "code_comm" : "435",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2325490726951371,
+        44.56316558265758
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

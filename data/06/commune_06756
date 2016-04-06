@@ -1,0 +1,71 @@
+  {
+    "recordid" : "279cf3f7e8da7ac1299e22384616c36b458dfa6f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 317,
+      "insee_com" : "80646",
+      "z_moyen" : 82,
+      "code_dept" : "80",
+      "nom_comm" : "PUNCHY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6863,
+      "y_centroid" : 69659,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.800731328790932,
+              49.77942274298266
+            ],
+            [
+              2.798728462436379,
+              49.78066830430823
+            ],
+            [
+              2.798488736914183,
+              49.79924771176409
+            ],
+            [
+              2.794413755325264,
+              49.80126238468107
+            ],
+            [
+              2.811587526748367,
+              49.80411118389059
+            ],
+            [
+              2.822600677752676,
+              49.78662614973673
+            ],
+            [
+              2.800731328790932,
+              49.77942274298266
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69659,
+      "code_cant" : "37",
+      "x_centroid" : 6861,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 6648,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.79193711271939,
+        2.807840102629682
+      ],
+      "code_comm" : "646",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.807840102629682,
+        49.79193711271939
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

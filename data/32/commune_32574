@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e7385b73a46472ba4a843b48aac9e0b78c60d0c4",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 529,
+      "insee_com" : "64099",
+      "z_moyen" : 175,
+      "code_dept" : "64",
+      "nom_comm" : "BASTANES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3942,
+      "y_centroid" : 62576,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.7752060405301689,
+              43.3400141974447
+            ],
+            [
+              -0.7811848093635611,
+              43.34763170249276
+            ],
+            [
+              -0.730089458591953,
+              43.36660823876562
+            ],
+            [
+              -0.72633754011465,
+              43.36109073161896
+            ],
+            [
+              -0.733413627108257,
+              43.35295731209594
+            ],
+            [
+              -0.7752060405301689,
+              43.3400141974447
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62571,
+      "code_cant" : "24",
+      "x_centroid" : 3957,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 10458,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.35282618259188,
+        -0.7524847253839558
+      ],
+      "code_comm" : "099",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7524847253839558,
+        43.35282618259188
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

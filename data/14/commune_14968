@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e7c2e59001479b48d5e3358fc9cdc4bd23a11e61",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 625,
+      "insee_com" : "76236",
+      "z_moyen" : 122,
+      "code_dept" : "76",
+      "nom_comm" : "ENVRONVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5316,
+      "y_centroid" : 69535,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.665380192881713,
+              49.64325333570694
+            ],
+            [
+              0.646207966864442,
+              49.65437269613125
+            ],
+            [
+              0.65007602799914,
+              49.66030885505155
+            ],
+            [
+              0.683521548603529,
+              49.67528891112606
+            ],
+            [
+              0.692002043593744,
+              49.65831603530395
+            ],
+            [
+              0.670590392510956,
+              49.64558276957175
+            ],
+            [
+              0.665380192881713,
+              49.64325333570694
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69539,
+      "code_cant" : "20",
+      "x_centroid" : 5317,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 19695,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.65855276288104,
+        0.6703892615583601
+      ],
+      "code_comm" : "236",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6703892615583601,
+        49.65855276288104
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

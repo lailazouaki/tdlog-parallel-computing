@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e06f3f153c5edf12ff5e48a63f454532939856e4",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 249,
+      "insee_com" : "78343",
+      "z_moyen" : 141,
+      "code_dept" : "78",
+      "nom_comm" : "LES LOGES-EN-JOSAS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6369,
+      "y_centroid" : 68517,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.128439647637345,
+              48.75339898835865
+            ],
+            [
+              2.123268520439859,
+              48.75352303609486
+            ],
+            [
+              2.133318347136743,
+              48.76597286104084
+            ],
+            [
+              2.140552656680784,
+              48.77117895065694
+            ],
+            [
+              2.145853094674799,
+              48.77074026416568
+            ],
+            [
+              2.15468772629526,
+              48.76295995751248
+            ],
+            [
+              2.128439647637345,
+              48.75339898835865
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68517,
+      "code_cant" : "29",
+      "x_centroid" : 6367,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 24733,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        48.76243851375222,
+        2.139117236937875
+      ],
+      "code_comm" : "343",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.139117236937875,
+        48.76243851375222
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

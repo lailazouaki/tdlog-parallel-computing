@@ -1,0 +1,71 @@
+  {
+    "recordid" : "990555063ab314a60bc945814195df28ff4cc4a9",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 282,
+      "insee_com" : "62389",
+      "z_moyen" : 147,
+      "code_dept" : "62",
+      "nom_comm" : "GRINCOURT-LES-PAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6637,
+      "y_centroid" : 70089,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.484812375115566,
+              50.16652578281401
+            ],
+            [
+              2.480416927372193,
+              50.1834350169082
+            ],
+            [
+              2.473887491547609,
+              50.18865163585386
+            ],
+            [
+              2.485371477234598,
+              50.19134035961422
+            ],
+            [
+              2.501252133117044,
+              50.17096698156899
+            ],
+            [
+              2.493561341378816,
+              50.16683154720088
+            ],
+            [
+              2.484812375115566,
+              50.16652578281401
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70079,
+      "code_cant" : "40",
+      "x_centroid" : 6633,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 32315,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        50.17802414084753,
+        2.48803738534286
+      ],
+      "code_comm" : "389",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.48803738534286,
+        50.17802414084753
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

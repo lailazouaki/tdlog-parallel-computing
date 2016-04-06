@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b4d09910f8af3e0a34f29718213b40c649a20423",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 512,
+      "insee_com" : "10137",
+      "z_moyen" : 280,
+      "code_dept" : "10",
+      "nom_comm" : "ENGENTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8302,
+      "y_centroid" : 67992,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.764000465425497,
+              48.26404867217106
+            ],
+            [
+              4.75235596779245,
+              48.26976563549959
+            ],
+            [
+              4.753321677946654,
+              48.29393328336046
+            ],
+            [
+              4.763193965247406,
+              48.29312960197672
+            ],
+            [
+              4.78351530864156,
+              48.28149443749755
+            ],
+            [
+              4.772563173994915,
+              48.27537729051399
+            ],
+            [
+              4.764000465425497,
+              48.26404867217106
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67980,
+      "code_cant" : "03",
+      "x_centroid" : 8308,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 18730,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.28008096075523,
+        4.763745691715369
+      ],
+      "code_comm" : "137",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.763745691715369,
+        48.28008096075523
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

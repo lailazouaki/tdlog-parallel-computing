@@ -1,0 +1,67 @@
+  {
+    "recordid" : "196b88e4ff9e3c2f3492255fd29eb16f1dd8780e",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 404,
+      "insee_com" : "33390",
+      "z_moyen" : 61,
+      "code_dept" : "33",
+      "nom_comm" : "SAINTE-COLOMBE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4582,
+      "y_centroid" : 64246,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.048711876802623,
+              44.87098945306645
+            ],
+            [
+              -0.06645812009535899,
+              44.87088800091689
+            ],
+            [
+              -0.08342477951340101,
+              44.87481494366284
+            ],
+            [
+              -0.067654128114114,
+              44.88859607897685
+            ],
+            [
+              -0.052440585127155,
+              44.88806032233433
+            ],
+            [
+              -0.048711876802623,
+              44.87098945306645
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64246,
+      "code_cant" : "21",
+      "x_centroid" : 4581,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 18043,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        44.87895889767264,
+        -0.06349711720036942
+      ],
+      "code_comm" : "390",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.06349711720036942,
+        44.87895889767264
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

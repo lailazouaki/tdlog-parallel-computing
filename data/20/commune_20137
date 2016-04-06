@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a38a07b42c1edba398c63b7671b7e6fe3885622e",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 461,
+      "insee_com" : "08371",
+      "z_moyen" : 205,
+      "code_dept" : "08",
+      "nom_comm" : "RUBECOURT-ET-LAMECOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8460,
+      "y_centroid" : 69568,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.009171557554329,
+              49.68112086977288
+            ],
+            [
+              5.000151122555284,
+              49.68744453217528
+            ],
+            [
+              5.00666702107303,
+              49.69745812610293
+            ],
+            [
+              5.017291947435345,
+              49.70792458892994
+            ],
+            [
+              5.03101165346034,
+              49.70508986421181
+            ],
+            [
+              5.032039583314331,
+              49.69467320249613
+            ],
+            [
+              5.031721243321011,
+              49.68595074523517
+            ],
+            [
+              5.009171557554329,
+              49.68112086977288
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69564,
+      "code_cant" : "27",
+      "x_centroid" : 8456,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 17098,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.69380221436428,
+        5.018136291689207
+      ],
+      "code_comm" : "371",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.018136291689207,
+        49.69380221436428
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

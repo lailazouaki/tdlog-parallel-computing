@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f79180f9ca0fbbf9751cdc4dd79513b9bdb69a91",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 340,
+      "insee_com" : "88316",
+      "z_moyen" : 364,
+      "code_dept" : "88",
+      "nom_comm" : "MORVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9078,
+      "y_centroid" : 67963,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.791167497233495,
+              48.22579136123792
+            ],
+            [
+              5.786779070096248,
+              48.22485058372407
+            ],
+            [
+              5.774820547156036,
+              48.23752061501794
+            ],
+            [
+              5.799543652588858,
+              48.24296062045295
+            ],
+            [
+              5.813550017293625,
+              48.23845038392319
+            ],
+            [
+              5.815278489686948,
+              48.23497891378678
+            ],
+            [
+              5.791167497233495,
+              48.22579136123792
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67965,
+      "code_cant" : "04",
+      "x_centroid" : 9074,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 21877,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.23475469490108,
+        5.794721919026175
+      ],
+      "code_comm" : "316",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.794721919026175,
+        48.23475469490108
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

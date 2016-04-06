@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5a168cc371d50eb2178762dc9dbf46f43317360f",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 89,
+      "insee_com" : "09320",
+      "z_moyen" : 720,
+      "code_dept" : "09",
+      "nom_comm" : "URS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5962,
+      "y_centroid" : 61873,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.733492697697154,
+              42.77239951345874
+            ],
+            [
+              1.728972804242104,
+              42.77367693740046
+            ],
+            [
+              1.73062535172431,
+              42.78409224570848
+            ],
+            [
+              1.741852490024855,
+              42.78037567145309
+            ],
+            [
+              1.743146909893675,
+              42.77866423573057
+            ],
+            [
+              1.742725033094056,
+              42.77784993474605
+            ],
+            [
+              1.733492697697154,
+              42.77239951345874
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61869,
+      "code_cant" : "03",
+      "x_centroid" : 5963,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 13130,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.7781131979546,
+        1.734897465873426
+      ],
+      "code_comm" : "320",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.734897465873426,
+        42.7781131979546
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3552887a30302a0fad7502ba27f88b14cc32f6e9",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 462,
+      "insee_com" : "89162",
+      "z_moyen" : 70,
+      "code_dept" : "89",
+      "nom_comm" : "EVRY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7190,
+      "y_centroid" : 67965,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.282737392970169,
+              48.2698839741124
+            ],
+            [
+              3.252311682067047,
+              48.2570233001198
+            ],
+            [
+              3.247123475306242,
+              48.25686330243444
+            ],
+            [
+              3.239052419512107,
+              48.2657335024725
+            ],
+            [
+              3.256062346723452,
+              48.27745764094452
+            ],
+            [
+              3.270012114790566,
+              48.27986493622308
+            ],
+            [
+              3.282737392970169,
+              48.2698839741124
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67960,
+      "code_cant" : "22",
+      "x_centroid" : 7192,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 33894,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.26856306822332,
+        3.259821093769732
+      ],
+      "code_comm" : "162",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.259821093769732,
+        48.26856306822332
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

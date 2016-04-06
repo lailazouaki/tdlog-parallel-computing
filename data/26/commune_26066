@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a16dcac79850adbf27c5048b1144819abaacdb59",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 192,
+      "insee_com" : "80189",
+      "z_moyen" : 90,
+      "code_dept" : "80",
+      "nom_comm" : "LA CHAVATTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6831,
+      "y_centroid" : 69618,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.762323968982968,
+              49.74702687295552
+            ],
+            [
+              2.751783194019113,
+              49.75614345853645
+            ],
+            [
+              2.752450089628256,
+              49.75875939017892
+            ],
+            [
+              2.760337486065968,
+              49.7596466769494
+            ],
+            [
+              2.768241822586895,
+              49.76297733427919
+            ],
+            [
+              2.777753936148841,
+              49.75726277246149
+            ],
+            [
+              2.762323968982968,
+              49.74702687295552
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69620,
+      "code_cant" : "37",
+      "x_centroid" : 6830,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 18417,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.75566832712081,
+        2.764268839045527
+      ],
+      "code_comm" : "189",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.764268839045527,
+        49.75566832712081
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

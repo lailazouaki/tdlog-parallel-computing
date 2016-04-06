@@ -1,0 +1,71 @@
+  {
+    "recordid" : "834e3873ece434f5bc2d741e93220ea66474c388",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 324,
+      "insee_com" : "39169",
+      "z_moyen" : 300,
+      "code_dept" : "39",
+      "nom_comm" : "COURBOUZON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8933,
+      "y_centroid" : 66200,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.523486337555539,
+              46.63797182257844
+            ],
+            [
+              5.517807100112369,
+              46.64807852224526
+            ],
+            [
+              5.524964724741619,
+              46.66417300668611
+            ],
+            [
+              5.534467182657215,
+              46.66674708365765
+            ],
+            [
+              5.540594811822061,
+              46.65981878351594
+            ],
+            [
+              5.531532278057184,
+              46.64138891600129
+            ],
+            [
+              5.523486337555539,
+              46.63797182257844
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66198,
+      "code_cant" : "34",
+      "x_centroid" : 8933,
+      "nom_dept" : "JURA",
+      "id_geofla" : 24775,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        46.65302590109657,
+        5.528798047433333
+      ],
+      "code_comm" : "169",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.528798047433333,
+        46.65302590109657
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

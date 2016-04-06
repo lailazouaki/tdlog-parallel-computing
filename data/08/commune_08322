@@ -1,0 +1,75 @@
+  {
+    "recordid" : "234d3868ab1ec12540cd890285bafd4d142632b6",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 663,
+      "insee_com" : "51135",
+      "z_moyen" : 128,
+      "code_dept" : "51",
+      "nom_comm" : "CHATILLON-SUR-BROUE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8257,
+      "y_centroid" : 68287,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.724822260313137,
+              48.54140953400173
+            ],
+            [
+              4.684709702309671,
+              48.53537138189892
+            ],
+            [
+              4.674932245529054,
+              48.53763299221892
+            ],
+            [
+              4.679142225485341,
+              48.54766896426467
+            ],
+            [
+              4.688467549665662,
+              48.55109097447797
+            ],
+            [
+              4.699964890970724,
+              48.56293895943077
+            ],
+            [
+              4.726623095523469,
+              48.54795175139303
+            ],
+            [
+              4.724822260313137,
+              48.54140953400173
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68286,
+      "code_cant" : "24",
+      "x_centroid" : 8255,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 19590,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.54679401885517,
+        4.700702413149724
+      ],
+      "code_comm" : "135",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.700702413149724,
+        48.54679401885517
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

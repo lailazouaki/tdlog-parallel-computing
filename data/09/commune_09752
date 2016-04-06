@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c8ff844c45ecd04d60948121caaffef674f8b674",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 321,
+      "insee_com" : "78605",
+      "z_moyen" : 135,
+      "code_dept" : "78",
+      "nom_comm" : "TACOIGNIERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6027,
+      "y_centroid" : 68600,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.656204439236225,
+              48.82148255680223
+            ],
+            [
+              1.652073565555279,
+              48.82319903968735
+            ],
+            [
+              1.658914411297187,
+              48.84163414446016
+            ],
+            [
+              1.670258449557493,
+              48.84458509205779
+            ],
+            [
+              1.676740332424349,
+              48.84048348124857
+            ],
+            [
+              1.677094539458584,
+              48.83189752182909
+            ],
+            [
+              1.672430445187565,
+              48.82672785377822
+            ],
+            [
+              1.656204439236225,
+              48.82148255680223
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68603,
+      "code_cant" : "08",
+      "x_centroid" : 6020,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 12075,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        48.83313539560542,
+        1.665230676835606
+      ],
+      "code_comm" : "605",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.665230676835606,
+        48.83313539560542
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

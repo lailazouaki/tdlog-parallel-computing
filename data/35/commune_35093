@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ba237e86b0637df949c895667d28b1440c182d5d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 444,
+      "insee_com" : "78559",
+      "z_moyen" : 141,
+      "code_dept" : "78",
+      "nom_comm" : "SAINT-ILLIERS-LE-BOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5906,
+      "y_centroid" : 68749,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.510995819945549,
+              48.9535744661091
+            ],
+            [
+              1.501099380737069,
+              48.95293848005994
+            ],
+            [
+              1.495225187888849,
+              48.96574429166262
+            ],
+            [
+              1.518387886304518,
+              48.97836326922376
+            ],
+            [
+              1.520304411237761,
+              48.97823403352236
+            ],
+            [
+              1.528356055028505,
+              48.96988791495029
+            ],
+            [
+              1.523092236760798,
+              48.96138694280246
+            ],
+            [
+              1.510995819945549,
+              48.9535744661091
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68741,
+      "code_cant" : "02",
+      "x_centroid" : 5910,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 36244,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.96509397584606,
+        1.511869816403923
+      ],
+      "code_comm" : "559",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.511869816403923,
+        48.96509397584606
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

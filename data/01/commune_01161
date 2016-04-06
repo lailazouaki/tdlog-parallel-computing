@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fa8b23528f543ca0775ad1d7993f44b6644069be",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 304,
+      "insee_com" : "65144",
+      "z_moyen" : 656,
+      "code_dept" : "65",
+      "nom_comm" : "CHEUST",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4566,
+      "y_centroid" : 62219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.006174712525562,
+              43.04554838319951
+            ],
+            [
+              0.017038975901627,
+              43.05356331333155
+            ],
+            [
+              0.013524580790915,
+              43.05911805078642
+            ],
+            [
+              0.036966345061205,
+              43.06418505830065
+            ],
+            [
+              0.054526661989766,
+              43.054640806398
+            ],
+            [
+              0.03820371519392,
+              43.05295981908959
+            ],
+            [
+              0.006174712525562,
+              43.04554838319951
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62214,
+      "code_cant" : "12",
+      "x_centroid" : 4578,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 16644,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.05593250416473,
+        0.02978442712596419
+      ],
+      "code_comm" : "144",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.02978442712596419,
+        43.05593250416473
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

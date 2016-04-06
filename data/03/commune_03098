@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fa73280d9cf5d26eda92f7f30e4db3df7cdc62d3",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 658,
+      "insee_com" : "09045",
+      "z_moyen" : 874,
+      "code_dept" : "09",
+      "nom_comm" : "BEDEILHAC-ET-AYNAT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5825,
+      "y_centroid" : 61988,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.567909734172175,
+              42.86261469573435
+            ],
+            [
+              1.553007291045201,
+              42.86503203306409
+            ],
+            [
+              1.551601775581643,
+              42.87481646660353
+            ],
+            [
+              1.566457949329451,
+              42.90013626388866
+            ],
+            [
+              1.580725357233787,
+              42.89451557882538
+            ],
+            [
+              1.577521854025449,
+              42.86650194783733
+            ],
+            [
+              1.567909734172175,
+              42.86261469573435
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61980,
+      "code_cant" : "18",
+      "x_centroid" : 5828,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 27411,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        42.87958520190233,
+        1.567197989538507
+      ],
+      "code_comm" : "045",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.567197989538507,
+        42.87958520190233
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

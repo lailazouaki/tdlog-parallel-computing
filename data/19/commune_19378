@@ -1,0 +1,71 @@
+  {
+    "recordid" : "beac1d8c730c2a95f985d3e49d5e5179d9ab827c",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 479,
+      "insee_com" : "67375",
+      "z_moyen" : 163,
+      "code_dept" : "67",
+      "nom_comm" : "PFULGRIESHEIM",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10439,
+      "y_centroid" : 68483,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.636584619435705,
+              48.63760724941874
+            ],
+            [
+              7.636613123026327,
+              48.64099406095539
+            ],
+            [
+              7.648678881424046,
+              48.64855170539115
+            ],
+            [
+              7.668980742678294,
+              48.65372206985107
+            ],
+            [
+              7.696153485467786,
+              48.64252507998721
+            ],
+            [
+              7.696744239771816,
+              48.64047433305103
+            ],
+            [
+              7.636584619435705,
+              48.63760724941874
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68483,
+      "code_cant" : "31",
+      "x_centroid" : 10434,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 29311,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        48.64433186067365,
+        7.665062855697249
+      ],
+      "code_comm" : "375",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.665062855697249,
+        48.64433186067365
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

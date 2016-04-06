@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3b8894c771e9f3db58051b9b99a7165d07dbde81",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 772,
+      "insee_com" : "66012",
+      "z_moyen" : 63,
+      "code_dept" : "66",
+      "nom_comm" : "BAHO",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6854,
+      "y_centroid" : 61784,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.81208411618907,
+              42.6883386945867
+            ],
+            [
+              2.802752732756675,
+              42.71952093499769
+            ],
+            [
+              2.814259845777758,
+              42.72455861573729
+            ],
+            [
+              2.823072358065414,
+              42.72199305272468
+            ],
+            [
+              2.828990455476604,
+              42.7165360178859
+            ],
+            [
+              2.842754887010063,
+              42.69459190922383
+            ],
+            [
+              2.826445788938305,
+              42.69074554602213
+            ],
+            [
+              2.81208411618907,
+              42.6883386945867
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61778,
+      "code_cant" : "30",
+      "x_centroid" : 6852,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 12823,
+      "statut" : "Commune simple",
+      "population" : 3.1,
+      "geom_x_y" : [
+        42.70578414802562,
+        2.820665887368852
+      ],
+      "code_comm" : "012",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.820665887368852,
+        42.70578414802562
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

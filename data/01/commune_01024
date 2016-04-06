@@ -1,0 +1,71 @@
+  {
+    "recordid" : "77882ec94ff3bcc4d4625c69b92fb1fbdd7bea92",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 469,
+      "insee_com" : "01023",
+      "z_moyen" : 172,
+      "code_dept" : "01",
+      "nom_comm" : "ASNIERES-SUR-SAONE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8447,
+      "y_centroid" : 65890,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.876244342015458,
+              46.36931185583898
+            ],
+            [
+              4.865690621451424,
+              46.37576299563319
+            ],
+            [
+              4.873919178764043,
+              46.38498658624287
+            ],
+            [
+              4.888207701704545,
+              46.40298160185766
+            ],
+            [
+              4.897915615515331,
+              46.39871326280438
+            ],
+            [
+              4.896280539887861,
+              46.38461708540511
+            ],
+            [
+              4.876244342015458,
+              46.36931185583898
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65888,
+      "code_cant" : "02",
+      "x_centroid" : 8447,
+      "nom_dept" : "AIN",
+      "id_geofla" : 28012,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.38572814180976,
+        4.883874786227863
+      ],
+      "code_comm" : "023",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.883874786227863,
+        46.38572814180976
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

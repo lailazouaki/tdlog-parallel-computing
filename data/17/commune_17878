@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f59efcd59d5c66184a09959c9030e569b1311177",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 278,
+      "insee_com" : "80371",
+      "z_moyen" : 67,
+      "code_dept" : "80",
+      "nom_comm" : "FROYELLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6233,
+      "y_centroid" : 70144,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.937958163767757,
+              50.21678467671902
+            ],
+            [
+              1.913574460382403,
+              50.2169310273093
+            ],
+            [
+              1.910036305890875,
+              50.22851129207962
+            ],
+            [
+              1.928407683330754,
+              50.23093561898462
+            ],
+            [
+              1.943011446058906,
+              50.22278212760324
+            ],
+            [
+              1.937958163767757,
+              50.21678467671902
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70149,
+      "code_cant" : "19",
+      "x_centroid" : 6232,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 31166,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.22315949576792,
+        1.925499097701913
+      ],
+      "code_comm" : "371",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.925499097701913,
+        50.22315949576792
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

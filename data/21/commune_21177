@@ -1,0 +1,71 @@
+  {
+    "recordid" : "af5b45d3f2d79131ee925171c32ca7e3b66d6891",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 287,
+      "insee_com" : "59217",
+      "z_moyen" : 92,
+      "code_dept" : "59",
+      "nom_comm" : "ETH",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7476,
+      "y_centroid" : 70254,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.666651109946911,
+              50.31707626266673
+            ],
+            [
+              3.658578441484775,
+              50.31526106025441
+            ],
+            [
+              3.651585757589213,
+              50.323217326995
+            ],
+            [
+              3.655688732271668,
+              50.32922914256471
+            ],
+            [
+              3.673676028441803,
+              50.33493230058818
+            ],
+            [
+              3.684924525142667,
+              50.32756188068328
+            ],
+            [
+              3.666651109946911,
+              50.31707626266673
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70255,
+      "code_cant" : "50",
+      "x_centroid" : 7475,
+      "nom_dept" : "NORD",
+      "id_geofla" : 25159,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.32535713689298,
+        3.666876538324497
+      ],
+      "code_comm" : "217",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.666876538324497,
+        50.32535713689298
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

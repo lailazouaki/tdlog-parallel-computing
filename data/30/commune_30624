@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ccfb5f60a822f8a40fb23118ee8717b0610656a8",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 247,
+      "insee_com" : "51497",
+      "z_moyen" : 125,
+      "code_dept" : "51",
+      "nom_comm" : "SAINT-LUMIER-LA-POPULEUSE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8319,
+      "y_centroid" : 68491,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.786564281318712,
+              48.7229171791136
+            ],
+            [
+              4.78795310026561,
+              48.73210883104743
+            ],
+            [
+              4.826944222593702,
+              48.73211209496469
+            ],
+            [
+              4.828744713480539,
+              48.73032118274911
+            ],
+            [
+              4.826073598197847,
+              48.72743818096805
+            ],
+            [
+              4.786564281318712,
+              48.7229171791136
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68487,
+      "code_cant" : "28",
+      "x_centroid" : 8327,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 19260,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.72855015458015,
+        4.805155757547853
+      ],
+      "code_comm" : "497",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.805155757547853,
+        48.72855015458015
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

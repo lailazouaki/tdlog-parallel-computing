@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b43457eb2c697ca64f8e9364a34042b190544222",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 630,
+      "insee_com" : "50576",
+      "z_moyen" : 62,
+      "code_dept" : "50",
+      "nom_comm" : "SIOUVILLE-HAGUE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3499,
+      "y_centroid" : 69507,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.808250086920453,
+              49.55097986277304
+            ],
+            [
+              -1.842650661781486,
+              49.55051077810485
+            ],
+            [
+              -1.854536097492552,
+              49.55633806895843
+            ],
+            [
+              -1.841156772964548,
+              49.57163913282913
+            ],
+            [
+              -1.821899122311342,
+              49.57090281462866
+            ],
+            [
+              -1.811429748259721,
+              49.56068557794588
+            ],
+            [
+              -1.808250086920453,
+              49.55097986277304
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69506,
+      "code_cant" : "28",
+      "x_centroid" : 3505,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 22675,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        49.55996454198808,
+        -1.8308686968966
+      ],
+      "code_comm" : "576",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.8308686968966,
+        49.55996454198808
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

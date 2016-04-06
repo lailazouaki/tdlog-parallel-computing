@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0efc51655f4d56c9d68a30083774d162b7bd3ead",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 680,
+      "insee_com" : "48134",
+      "z_moyen" : 664,
+      "code_dept" : "48",
+      "nom_comm" : "SAINT-ANDEOL-DE-CLERGUEMORT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7723,
+      "y_centroid" : 63560,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.909247627830779,
+              44.27880274364983
+            ],
+            [
+              3.904623039408728,
+              44.2881668269771
+            ],
+            [
+              3.877067661972202,
+              44.31102089390027
+            ],
+            [
+              3.896351710875129,
+              44.31352998096261
+            ],
+            [
+              3.922859060237588,
+              44.30522694177012
+            ],
+            [
+              3.924943424417407,
+              44.30082546986888
+            ],
+            [
+              3.919058127521899,
+              44.28573359896141
+            ],
+            [
+              3.909247627830779,
+              44.27880274364983
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63551,
+      "code_cant" : "17",
+      "x_centroid" : 7722,
+      "nom_dept" : "LOZERE",
+      "id_geofla" : 34831,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.29963524536747,
+        3.905179238045751
+      ],
+      "code_comm" : "134",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.905179238045751,
+        44.29963524536747
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

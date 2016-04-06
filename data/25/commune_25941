@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c405a8f3f2da84465b5bdbe2c89709c281626757",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 410,
+      "insee_com" : "62243",
+      "z_moyen" : 153,
+      "code_dept" : "62",
+      "nom_comm" : "COULLEMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6624,
+      "y_centroid" : 70134,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.485204325476593,
+              50.20779987700574
+            ],
+            [
+              2.47551783074561,
+              50.20817203912711
+            ],
+            [
+              2.459599075744064,
+              50.21955237214633
+            ],
+            [
+              2.481234715821807,
+              50.22515898714087
+            ],
+            [
+              2.486078752241585,
+              50.23333276306444
+            ],
+            [
+              2.497801773820333,
+              50.22288401579046
+            ],
+            [
+              2.497009010990563,
+              50.21532885935553
+            ],
+            [
+              2.485204325476593,
+              50.20779987700574
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70131,
+      "code_cant" : "08",
+      "x_centroid" : 6629,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 26416,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.2184414139504,
+        2.482029986493719
+      ],
+      "code_comm" : "243",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.482029986493719,
+        50.2184414139504
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

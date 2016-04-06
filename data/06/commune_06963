@@ -1,0 +1,67 @@
+  {
+    "recordid" : "04dee9eaf2e9912edb2aa9bb15c058f9aa257724",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 232,
+      "insee_com" : "70567",
+      "z_moyen" : 400,
+      "code_dept" : "70",
+      "nom_comm" : "VILLERS-SUR-SAULNOT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9742,
+      "y_centroid" : 67227,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.648108404433427,
+              47.53611825771102
+            ],
+            [
+              6.636346139512026,
+              47.54981314363098
+            ],
+            [
+              6.648475416484216,
+              47.56020219267226
+            ],
+            [
+              6.659006086730368,
+              47.54660787949157
+            ],
+            [
+              6.654297284391413,
+              47.54178152329063
+            ],
+            [
+              6.648108404433427,
+              47.53611825771102
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67228,
+      "code_cant" : "11",
+      "x_centroid" : 9742,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 14276,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.54816697156426,
+        6.647916042751084
+      ],
+      "code_comm" : "567",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.647916042751084,
+        47.54816697156426
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d82b875438100af32f24a4913cc593c4acb7c845",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 282,
+      "insee_com" : "26227",
+      "z_moyen" : 710,
+      "code_dept" : "26",
+      "nom_comm" : "PELONNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8905,
+      "y_centroid" : 63676,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.368965179399372,
+              44.37272809069518
+            ],
+            [
+              5.36767283106728,
+              44.37695255936513
+            ],
+            [
+              5.374304755354594,
+              44.38987705414859
+            ],
+            [
+              5.388517100018741,
+              44.38886715569861
+            ],
+            [
+              5.395838980667774,
+              44.384412258433
+            ],
+            [
+              5.395242248064293,
+              44.38099402301737
+            ],
+            [
+              5.368965179399372,
+              44.37272809069518
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63677,
+      "code_cant" : "20",
+      "x_centroid" : 8896,
+      "nom_dept" : "DROME",
+      "id_geofla" : 27961,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        44.38223344805542,
+        5.380622571593867
+      ],
+      "code_comm" : "227",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.380622571593867,
+        44.38223344805542
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

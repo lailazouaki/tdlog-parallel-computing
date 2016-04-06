@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b3dae4ed23ec9b20057059bad139ffd3441a1fb7",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 501,
+      "insee_com" : "02072",
+      "z_moyen" : 95,
+      "code_dept" : "02",
+      "nom_comm" : "BERRIEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7614,
+      "y_centroid" : 69317,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.862294900328007,
+              49.46958737282325
+            ],
+            [
+              3.84008347084728,
+              49.47679913758684
+            ],
+            [
+              3.829229579472017,
+              49.49403207812611
+            ],
+            [
+              3.828710468040798,
+              49.49521305014812
+            ],
+            [
+              3.852723580145829,
+              49.49124458834637
+            ],
+            [
+              3.876703491624622,
+              49.47987434092807
+            ],
+            [
+              3.862294900328007,
+              49.46958737282325
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69323,
+      "code_cant" : "12",
+      "x_centroid" : 7617,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 28486,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.48235639622101,
+        3.852103183896386
+      ],
+      "code_comm" : "072",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.852103183896386,
+        49.48235639622101
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

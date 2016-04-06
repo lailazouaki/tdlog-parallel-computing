@@ -1,0 +1,67 @@
+  {
+    "recordid" : "82ce1fcfaead0f46709a3671c16cb856c991da1c",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 302,
+      "insee_com" : "76679",
+      "z_moyen" : 101,
+      "code_dept" : "76",
+      "nom_comm" : "SOMMESNIL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5320,
+      "y_centroid" : 69593,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.674919144966892,
+              49.70214685325659
+            ],
+            [
+              0.648757002119747,
+              49.71138862805981
+            ],
+            [
+              0.67312853497915,
+              49.72019879313936
+            ],
+            [
+              0.685287139253409,
+              49.71163026458724
+            ],
+            [
+              0.689436124865202,
+              49.70600998542722
+            ],
+            [
+              0.674919144966892,
+              49.70214685325659
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69593,
+      "code_cant" : "40",
+      "x_centroid" : 5319,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 34416,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.71066734232079,
+        0.6711529117594783
+      ],
+      "code_comm" : "679",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6711529117594783,
+        49.71066734232079
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d564b89809266ae577253b105406e6cf794e9f0f",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 503,
+      "insee_com" : "64219",
+      "z_moyen" : 296,
+      "code_dept" : "64",
+      "nom_comm" : "ESTIALESCQ",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4113,
+      "y_centroid" : 62422,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.552657919117129,
+              43.20560762401471
+            ],
+            [
+              -0.572981832462141,
+              43.21319323384677
+            ],
+            [
+              -0.556654920045586,
+              43.22752720575745
+            ],
+            [
+              -0.538705694805748,
+              43.23863424668803
+            ],
+            [
+              -0.535486908315305,
+              43.22509836073821
+            ],
+            [
+              -0.548611475413001,
+              43.21246688352079
+            ],
+            [
+              -0.552657919117129,
+              43.20560762401471
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62421,
+      "code_cant" : "17",
+      "x_centroid" : 4113,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 27757,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.22086795697655,
+        -0.5518699629291222
+      ],
+      "code_comm" : "219",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5518699629291222,
+        43.22086795697655
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

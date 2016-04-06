@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0c3229b5b49a5558e2286944d5aece20378ee294",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 185,
+      "insee_com" : "65241",
+      "z_moyen" : 504,
+      "code_dept" : "65",
+      "nom_comm" : "LABORDE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4793,
+      "y_centroid" : 62187,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.303134118621674,
+              43.03917210136047
+            ],
+            [
+              0.302073447127006,
+              43.02665495756405
+            ],
+            [
+              0.289437046938115,
+              43.02697625491722
+            ],
+            [
+              0.285930564640586,
+              43.0358418690229
+            ],
+            [
+              0.28861218722926,
+              43.04223581433728
+            ],
+            [
+              0.303134118621674,
+              43.03917210136047
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62183,
+      "code_cant" : "05",
+      "x_centroid" : 4793,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 31459,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.03406439974275,
+        0.294781061742267
+      ],
+      "code_comm" : "241",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.294781061742267,
+        43.03406439974275
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

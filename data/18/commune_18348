@@ -1,0 +1,67 @@
+  {
+    "recordid" : "613ed0c2801a083cc0158b70179f3d33b3abb05e",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 161,
+      "insee_com" : "56225",
+      "z_moyen" : 71,
+      "code_dept" : "56",
+      "nom_comm" : "SAINT-LERY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3089,
+      "y_centroid" : 67898,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.253629282413343,
+              48.08980747980554
+            ],
+            [
+              -2.266688713954554,
+              48.08577863297538
+            ],
+            [
+              -2.273663391902844,
+              48.08903767262201
+            ],
+            [
+              -2.269831139459545,
+              48.09461151551528
+            ],
+            [
+              -2.255791313783547,
+              48.09679049413658
+            ],
+            [
+              -2.253629282413343,
+              48.08980747980554
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67896,
+      "code_cant" : "20",
+      "x_centroid" : 3084,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 32064,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.09135599604706,
+        -2.263275924400878
+      ],
+      "code_comm" : "225",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.263275924400878,
+        48.09135599604706
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

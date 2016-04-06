@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6efa09b1ed488f65b0fa5d2fbffae61e85591d93",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 236,
+      "insee_com" : "39284",
+      "z_moyen" : 225,
+      "code_dept" : "39",
+      "nom_comm" : "LAVANGEOT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8976,
+      "y_centroid" : 66755,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.604608605159067,
+              47.14255534148101
+            ],
+            [
+              5.589955705364215,
+              47.14890150763921
+            ],
+            [
+              5.603640516533588,
+              47.15311629357907
+            ],
+            [
+              5.613209170325375,
+              47.16117879201407
+            ],
+            [
+              5.622980969494109,
+              47.15356226468794
+            ],
+            [
+              5.604608605159067,
+              47.14255534148101
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66757,
+      "code_cant" : "24",
+      "x_centroid" : 8975,
+      "nom_dept" : "JURA",
+      "id_geofla" : 30065,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.15115196229201,
+        5.60803139614378
+      ],
+      "code_comm" : "284",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.60803139614378,
+        47.15115196229201
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

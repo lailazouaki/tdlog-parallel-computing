@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f7a161b5544558b896b1759acfaa4c93236e0920",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 477,
+      "insee_com" : "30301",
+      "z_moyen" : 179,
+      "code_dept" : "30",
+      "nom_comm" : "SAINT-VICTOR-DES-OULES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8189,
+      "y_centroid" : 63282,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.472631966696143,
+              44.03347221828368
+            ],
+            [
+              4.459750715366162,
+              44.0347519921105
+            ],
+            [
+              4.475957653618649,
+              44.04962146152106
+            ],
+            [
+              4.494326906551648,
+              44.05332403044716
+            ],
+            [
+              4.505511639703738,
+              44.04864288117315
+            ],
+            [
+              4.505267184902323,
+              44.04222797706015
+            ],
+            [
+              4.472631966696143,
+              44.03347221828368
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63281,
+      "code_cant" : "35",
+      "x_centroid" : 8189,
+      "nom_dept" : "GARD",
+      "id_geofla" : 33348,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        44.04327901458466,
+        4.484415944402693
+      ],
+      "code_comm" : "301",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.484415944402693,
+        44.04327901458466
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

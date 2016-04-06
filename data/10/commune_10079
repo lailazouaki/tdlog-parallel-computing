@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e840c35e0b19b5712aea4b44717962483d935a57",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 153,
+      "insee_com" : "65168",
+      "z_moyen" : 751,
+      "code_dept" : "65",
+      "nom_comm" : "ESQUIEZE-SERE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4545,
+      "y_centroid" : 62026,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.000111576379566,
+              42.87396633314785
+            ],
+            [
+              -0.014826823033321,
+              42.87766646408944
+            ],
+            [
+              -0.016650968264325,
+              42.88663228829534
+            ],
+            [
+              -0.014844960046291,
+              42.88743896032469
+            ],
+            [
+              0.002974346981865,
+              42.88268258145199
+            ],
+            [
+              -0.000111576379566,
+              42.87396633314785
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62020,
+      "code_cant" : "13",
+      "x_centroid" : 4541,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 14838,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        42.88077332218614,
+        -0.007177843455079896
+      ],
+      "code_comm" : "168",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.007177843455079896,
+        42.88077332218614
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "1de0af02cbe78a338ea7276d41974ce96dad446a",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 204,
+      "insee_com" : "14082",
+      "z_moyen" : 161,
+      "code_dept" : "14",
+      "nom_comm" : "LA BOISSIERE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4906,
+      "y_centroid" : 68960,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.138686591012492,
+              49.12300658233519
+            ],
+            [
+              0.123356960911974,
+              49.12480911672557
+            ],
+            [
+              0.119331197980732,
+              49.13729936766627
+            ],
+            [
+              0.147036289000901,
+              49.13243565402709
+            ],
+            [
+              0.138686591012492,
+              49.12300658233519
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68967,
+      "code_cant" : "49",
+      "x_centroid" : 4907,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 10467,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.1299503910197,
+        0.132026565149412
+      ],
+      "code_comm" : "082",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.132026565149412,
+        49.1299503910197
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

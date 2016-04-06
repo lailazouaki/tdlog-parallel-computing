@@ -1,0 +1,71 @@
+  {
+    "recordid" : "df845baf86b194cedab717d5bb1d21ce196e01ea",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 329,
+      "insee_com" : "39302",
+      "z_moyen" : 250,
+      "code_dept" : "39",
+      "nom_comm" : "LOUVATANGE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9056,
+      "y_centroid" : 66801,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.715428736308108,
+              47.17969736865405
+            ],
+            [
+              5.707729184795959,
+              47.19262417552924
+            ],
+            [
+              5.711730358928207,
+              47.20043062992937
+            ],
+            [
+              5.728795973211796,
+              47.19578694355583
+            ],
+            [
+              5.736811360371054,
+              47.18474290448759
+            ],
+            [
+              5.724815477029871,
+              47.18086407124613
+            ],
+            [
+              5.715428736308108,
+              47.17969736865405
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66808,
+      "code_cant" : "14",
+      "x_centroid" : 9059,
+      "nom_dept" : "JURA",
+      "id_geofla" : 26670,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.18957298748498,
+        5.72090559448149
+      ],
+      "code_comm" : "302",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.72090559448149,
+        47.18957298748498
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

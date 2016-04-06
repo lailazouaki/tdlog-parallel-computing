@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c4f4a9a2ffee0244108a25d31d633af54b4032e9",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 433,
+      "insee_com" : "27604",
+      "z_moyen" : 44,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-SULPICE-DE-GRIMBOUVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5145,
+      "y_centroid" : 69225,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.473637252242638,
+              49.37630680602891
+            ],
+            [
+              0.446299565827307,
+              49.36569580885833
+            ],
+            [
+              0.431232468114574,
+              49.36684245472913
+            ],
+            [
+              0.420907180638821,
+              49.37228845969929
+            ],
+            [
+              0.46075718129884,
+              49.38725148843579
+            ],
+            [
+              0.473637252242638,
+              49.37630680602891
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69227,
+      "code_cant" : "06",
+      "x_centroid" : 5146,
+      "nom_dept" : "EURE",
+      "id_geofla" : 10301,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.37517098902904,
+        0.4487222342276361
+      ],
+      "code_comm" : "604",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4487222342276361,
+        49.37517098902904
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

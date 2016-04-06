@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7116eed35e91ca924eb4892f93c34714d9817fde",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 234,
+      "insee_com" : "64544",
+      "z_moyen" : 353,
+      "code_dept" : "64",
+      "nom_comm" : "UROST",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4446,
+      "y_centroid" : 62540,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.153895605935822,
+              43.32932819656074
+            ],
+            [
+              -0.159862486594718,
+              43.33873326030161
+            ],
+            [
+              -0.159272301528626,
+              43.34911315672883
+            ],
+            [
+              -0.139193912208455,
+              43.34537636346091
+            ],
+            [
+              -0.14553986246776,
+              43.33259665470626
+            ],
+            [
+              -0.153895605935822,
+              43.32932819656074
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62539,
+      "code_cant" : "23",
+      "x_centroid" : 4444,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 3877,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.34009834686586,
+        -0.1509212334148839
+      ],
+      "code_comm" : "544",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1509212334148839,
+        43.34009834686586
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

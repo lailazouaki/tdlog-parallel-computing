@@ -1,0 +1,71 @@
+  {
+    "recordid" : "690e21b97b9b922a24617a6288abc98f3d70d00f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 285,
+      "insee_com" : "50244",
+      "z_moyen" : 47,
+      "code_dept" : "50",
+      "nom_comm" : "HERENGUERVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3706,
+      "y_centroid" : 68843,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.502328828683303,
+              48.96496931420385
+            ],
+            [
+              -1.519423620288183,
+              48.97654813081098
+            ],
+            [
+              -1.508879701649757,
+              48.98433098212787
+            ],
+            [
+              -1.502552602210385,
+              48.98048877874854
+            ],
+            [
+              -1.491102323776041,
+              48.98447611316124
+            ],
+            [
+              -1.487648634975313,
+              48.9679519877382
+            ],
+            [
+              -1.502328828683303,
+              48.96496931420385
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68846,
+      "code_cant" : "23",
+      "x_centroid" : 3706,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 20915,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.97484747494892,
+        -1.501553213953591
+      ],
+      "code_comm" : "244",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.501553213953591,
+        48.97484747494892
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

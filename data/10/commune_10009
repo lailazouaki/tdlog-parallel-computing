@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7cf4455ebd51748e305047a66dfee85b24eab49a",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 1283,
+      "insee_com" : "68015",
+      "z_moyen" : 229,
+      "code_dept" : "68",
+      "nom_comm" : "BALDERSHEIM",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10277,
+      "y_centroid" : 67535,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.45454648008041,
+              47.78452849188613
+            ],
+            [
+              7.355398064331911,
+              47.80102368417058
+            ],
+            [
+              7.354148768470997,
+              47.80520751859964
+            ],
+            [
+              7.377810136144273,
+              47.80787674765936
+            ],
+            [
+              7.460435832127936,
+              47.80593920441714
+            ],
+            [
+              7.45454648008041,
+              47.78452849188613
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67535,
+      "code_cant" : "31",
+      "x_centroid" : 10304,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 14513,
+      "statut" : "Commune simple",
+      "population" : 2.5,
+      "geom_x_y" : [
+        47.79904522334417,
+        7.416012124694211
+      ],
+      "code_comm" : "015",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.416012124694211,
+        47.79904522334417
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

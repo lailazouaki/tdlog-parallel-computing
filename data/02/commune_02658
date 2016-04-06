@@ -1,0 +1,67 @@
+  {
+    "recordid" : "badb1ba6d8c8bcaf2aa1c3537df6ce3e6fbc4c69",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 317,
+      "insee_com" : "68071",
+      "z_moyen" : 319,
+      "code_dept" : "68",
+      "nom_comm" : "DIEFMATTEN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10084,
+      "y_centroid" : 67419,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.102086460382421,
+              47.69986672495455
+            ],
+            [
+              7.075871785015804,
+              47.70553361909651
+            ],
+            [
+              7.096595049897688,
+              47.71352444177222
+            ],
+            [
+              7.114865748828015,
+              47.70974623428523
+            ],
+            [
+              7.12258588284887,
+              47.70131748720252
+            ],
+            [
+              7.102086460382421,
+              47.69986672495455
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67421,
+      "code_cant" : "05",
+      "x_centroid" : 10074,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 15103,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.7060797697941,
+        7.10092606116452
+      ],
+      "code_comm" : "071",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.10092606116452,
+        47.7060797697941
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

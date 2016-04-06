@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2f529cddbf9e9aa4ddca509c2f69eade8b3de0f4",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 570,
+      "insee_com" : "52414",
+      "z_moyen" : 229,
+      "code_dept" : "52",
+      "nom_comm" : "RACHECOURT-SUR-MARNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8551,
+      "y_centroid" : 68263,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.08831328469195,
+              48.50710754672897
+            ],
+            [
+              5.07265509068487,
+              48.51183622845245
+            ],
+            [
+              5.071396053544174,
+              48.51459385597143
+            ],
+            [
+              5.074620531951698,
+              48.5235184899778
+            ],
+            [
+              5.089257266267553,
+              48.52706860723208
+            ],
+            [
+              5.098471002199359,
+              48.53522124230621
+            ],
+            [
+              5.115424791256911,
+              48.5158069381444
+            ],
+            [
+              5.08831328469195,
+              48.50710754672897
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68271,
+      "code_cant" : "08",
+      "x_centroid" : 8545,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 28798,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.51905285463756,
+        5.092461324697413
+      ],
+      "code_comm" : "414",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.092461324697413,
+        48.51905285463756
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6408d4dac02efaf6f3b4bd3a3eaa9877ee4ae94b",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 484,
+      "insee_com" : "63273",
+      "z_moyen" : 345,
+      "code_dept" : "63",
+      "nom_comm" : "PERIGNAT-SUR-ALLIER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7180,
+      "y_centroid" : 65142,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.237304177477722,
+              45.72026611181296
+            ],
+            [
+              3.227300799870487,
+              45.71988150522479
+            ],
+            [
+              3.208953090110259,
+              45.72598630806846
+            ],
+            [
+              3.216017493004449,
+              45.73406840177962
+            ],
+            [
+              3.253315746947683,
+              45.73282914386589
+            ],
+            [
+              3.257156985742619,
+              45.73207304046331
+            ],
+            [
+              3.25631310100126,
+              45.7220074665615
+            ],
+            [
+              3.237304177477722,
+              45.72026611181296
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65143,
+      "code_cant" : "06",
+      "x_centroid" : 7182,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 6839,
+      "statut" : "Commune simple",
+      "population" : 1.4,
+      "geom_x_y" : [
+        45.72724868641431,
+        3.234508981884832
+      ],
+      "code_comm" : "273",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.234508981884832,
+        45.72724868641431
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

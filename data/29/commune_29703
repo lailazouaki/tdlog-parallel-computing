@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d2dbce3c7b8f0c588c467f6cab27cb858fdf1a4d",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 221,
+      "insee_com" : "35007",
+      "z_moyen" : 76,
+      "code_dept" : "35",
+      "nom_comm" : "AUBIGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3564,
+      "y_centroid" : 68099,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.630159422562104,
+              48.28536633234479
+            ],
+            [
+              -1.635185875268294,
+              48.29076628677377
+            ],
+            [
+              -1.638186775933853,
+              48.31087331744205
+            ],
+            [
+              -1.630104487495262,
+              48.30930643989655
+            ],
+            [
+              -1.62246526359786,
+              48.3032424036893
+            ],
+            [
+              -1.621958195950487,
+              48.29685419110602
+            ],
+            [
+              -1.630159422562104,
+              48.28536633234479
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68094,
+      "code_cant" : "34",
+      "x_centroid" : 3568,
+      "nom_dept" : "ILLE-ET-VILAINE",
+      "id_geofla" : 22232,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.29919378888516,
+        -1.630355570880845
+      ],
+      "code_comm" : "007",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.630355570880845,
+        48.29919378888516
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

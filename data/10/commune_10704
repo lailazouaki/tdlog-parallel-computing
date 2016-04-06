@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e12d0e1e049f220088915472f1d44face91c422e",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 69,
+      "insee_com" : "93061",
+      "z_moyen" : 72,
+      "code_dept" : "93",
+      "nom_comm" : "LE PRE-SAINT-GERVAIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6562,
+      "y_centroid" : 68651,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.410694436897796,
+              48.87847512664253
+            ],
+            [
+              2.400339329688884,
+              48.88374772032462
+            ],
+            [
+              2.398637534206755,
+              48.8894139101678
+            ],
+            [
+              2.407430750147965,
+              48.88849547619878
+            ],
+            [
+              2.411308740149787,
+              48.88323558443705
+            ],
+            [
+              2.410694436897796,
+              48.87847512664253
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68651,
+      "code_cant" : "23",
+      "x_centroid" : 6563,
+      "nom_dept" : "SEINE-SAINT-DENIS",
+      "id_geofla" : 9774,
+      "statut" : "Commune simple",
+      "population" : 18.1,
+      "geom_x_y" : [
+        48.88467348774405,
+        2.405422329606518
+      ],
+      "code_comm" : "061",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.405422329606518,
+        48.88467348774405
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

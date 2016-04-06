@@ -1,0 +1,67 @@
+  {
+    "recordid" : "43c88643f8a9afb4be92450ce0745187fd46e2fc",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 651,
+      "insee_com" : "39173",
+      "z_moyen" : 220,
+      "code_dept" : "39",
+      "nom_comm" : "COUSANCE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8832,
+      "y_centroid" : 66064,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.399585406623972,
+              46.52408977044638
+            ],
+            [
+              5.395361334824363,
+              46.52211535187348
+            ],
+            [
+              5.360072984356585,
+              46.52424536656605
+            ],
+            [
+              5.362579104630698,
+              46.5516424312081
+            ],
+            [
+              5.399722476032409,
+              46.53223969020848
+            ],
+            [
+              5.399585406623972,
+              46.52408977044638
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66063,
+      "code_cant" : "03",
+      "x_centroid" : 8821,
+      "nom_dept" : "JURA",
+      "id_geofla" : 13118,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        46.53335274448696,
+        5.377416447442668
+      ],
+      "code_comm" : "173",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.377416447442668,
+        46.53335274448696
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

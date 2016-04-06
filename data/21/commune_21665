@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a613900ebe801d9a1de802b824b2e83cadaf90a1",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 434,
+      "insee_com" : "08080",
+      "z_moyen" : 234,
+      "code_dept" : "08",
+      "nom_comm" : "BOUVELLEMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8202,
+      "y_centroid" : 69439,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.652552516950813,
+              49.57579010061151
+            ],
+            [
+              4.63884168821261,
+              49.58145896306475
+            ],
+            [
+              4.649074502471785,
+              49.58327093509888
+            ],
+            [
+              4.655266899715255,
+              49.59266954415933
+            ],
+            [
+              4.690603084728734,
+              49.58743684706625
+            ],
+            [
+              4.674819083353592,
+              49.57700406535168
+            ],
+            [
+              4.652552516950813,
+              49.57579010061151
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69439,
+      "code_cant" : "20",
+      "x_centroid" : 8204,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 24093,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.58362750799805,
+        4.664816682054256
+      ],
+      "code_comm" : "080",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.664816682054256,
+        49.58362750799805
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

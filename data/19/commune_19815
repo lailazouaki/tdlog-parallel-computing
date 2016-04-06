@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8ffa63aebef059defa9e8a1a80e2c9861133de9e",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 852,
+      "insee_com" : "65182",
+      "z_moyen" : 1176,
+      "code_dept" : "65",
+      "nom_comm" : "GAILLAGOS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4408,
+      "y_centroid" : 62156,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.162909354444628,
+              42.97666178610709
+            ],
+            [
+              -0.174721900416599,
+              42.97770860559586
+            ],
+            [
+              -0.192080752504736,
+              42.98173979699158
+            ],
+            [
+              -0.198745281033026,
+              42.98654607155867
+            ],
+            [
+              -0.196136007345928,
+              43.00725352170843
+            ],
+            [
+              -0.178222912996538,
+              43.01315793399023
+            ],
+            [
+              -0.165659211888003,
+              42.99401493669491
+            ],
+            [
+              -0.162909354444628,
+              42.97666178610709
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62143,
+      "code_cant" : "03",
+      "x_centroid" : 4404,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 29495,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.99351618111614,
+        -0.1813408596614842
+      ],
+      "code_comm" : "182",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1813408596614842,
+        42.99351618111614
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

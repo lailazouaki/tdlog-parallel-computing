@@ -1,0 +1,67 @@
+  {
+    "recordid" : "df5e047680a2c7bc4b421e343d7e011b9e37a81c",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 426,
+      "insee_com" : "49342",
+      "z_moyen" : 68,
+      "code_dept" : "49",
+      "nom_comm" : "TANCOIGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4419,
+      "y_centroid" : 66798,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.419694861698332,
+              47.15812865948133
+            ],
+            [
+              -0.436073461345226,
+              47.16345573479294
+            ],
+            [
+              -0.413695985659996,
+              47.18019422455669
+            ],
+            [
+              -0.391490759027746,
+              47.17388140173002
+            ],
+            [
+              -0.41003065875567,
+              47.158855468571
+            ],
+            [
+              -0.419694861698332,
+              47.15812865948133
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66804,
+      "code_cant" : "34",
+      "x_centroid" : 4414,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 3718,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.16854654533935,
+        -0.4136927779641706
+      ],
+      "code_comm" : "342",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4136927779641706,
+        47.16854654533935
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

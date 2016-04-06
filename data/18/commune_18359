@@ -1,0 +1,75 @@
+  {
+    "recordid" : "cb5431d059ad5bcaca2c429d287c7f58cb179a06",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 431,
+      "insee_com" : "77021",
+      "z_moyen" : 54,
+      "code_dept" : "77",
+      "nom_comm" : "BARBEY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7040,
+      "y_centroid" : 68073,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.066701666498092,
+              48.35771875540476
+            ],
+            [
+              3.049451310341775,
+              48.36003041497057
+            ],
+            [
+              3.041407912803463,
+              48.36350629086552
+            ],
+            [
+              3.023476553940706,
+              48.35929166729106
+            ],
+            [
+              3.032083565735468,
+              48.37157933986278
+            ],
+            [
+              3.047411428017272,
+              48.37351750760213
+            ],
+            [
+              3.07287382728899,
+              48.36951000403658
+            ],
+            [
+              3.066701666498092,
+              48.35771875540476
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68072,
+      "code_cant" : "20",
+      "x_centroid" : 7037,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 32125,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.36603354494105,
+        3.050011831379685
+      ],
+      "code_comm" : "021",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.050011831379685,
+        48.36603354494105
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

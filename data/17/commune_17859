@@ -1,0 +1,67 @@
+  {
+    "recordid" : "04c95501c07e8614f0dadfe497986c623e7f4833",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 256,
+      "insee_com" : "09318",
+      "z_moyen" : 740,
+      "code_dept" : "09",
+      "nom_comm" : "UNAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5996,
+      "y_centroid" : 61851,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.76918459987324,
+              42.74527101204447
+            ],
+            [
+              1.772332169639074,
+              42.76725800741515
+            ],
+            [
+              1.774997082602457,
+              42.76879927215884
+            ],
+            [
+              1.797144419514318,
+              42.75963489502875
+            ],
+            [
+              1.779372906394519,
+              42.75279740898051
+            ],
+            [
+              1.76918459987324,
+              42.74527101204447
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61853,
+      "code_cant" : "03",
+      "x_centroid" : 5999,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 31051,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.75874999935605,
+        1.779488186682366
+      ],
+      "code_comm" : "318",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.779488186682366,
+        42.75874999935605
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

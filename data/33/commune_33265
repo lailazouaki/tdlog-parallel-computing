@@ -1,0 +1,75 @@
+  {
+    "recordid" : "171c7c264d1b15ce47fb9d2b6f884c22df854c34",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 343,
+      "insee_com" : "62277",
+      "z_moyen" : 51,
+      "code_dept" : "62",
+      "nom_comm" : "DROCOURT",
+      "code_arr" : "7",
+      "x_chf_lieu" : 6947,
+      "y_centroid" : 70324,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.929788983179459,
+              50.37901023385317
+            ],
+            [
+              2.91695693809499,
+              50.38756680416394
+            ],
+            [
+              2.926766236838628,
+              50.40131734391016
+            ],
+            [
+              2.937019935302608,
+              50.40099083753852
+            ],
+            [
+              2.944174300454018,
+              50.3962901708996
+            ],
+            [
+              2.94175133675714,
+              50.39049864920744
+            ],
+            [
+              2.945636941871918,
+              50.38135238660216
+            ],
+            [
+              2.929788983179459,
+              50.37901023385317
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70326,
+      "code_cant" : "67",
+      "x_centroid" : 6951,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 28290,
+      "statut" : "Commune simple",
+      "population" : 3,
+      "geom_x_y" : [
+        50.39004198122839,
+        2.932204702952058
+      ],
+      "code_comm" : "277",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.932204702952058,
+        50.39004198122839
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

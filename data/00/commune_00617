@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4f8c00b1ae48f4b6edb58c1afc54901abd65fd12",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 562,
+      "insee_com" : "54441",
+      "z_moyen" : 250,
+      "code_dept" : "54",
+      "nom_comm" : "PUXIEUX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9109,
+      "y_centroid" : 68898,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.907072562241097,
+              49.07198320764678
+            ],
+            [
+              5.893386360620591,
+              49.06231742184086
+            ],
+            [
+              5.877665270573665,
+              49.0630100199672
+            ],
+            [
+              5.864095876102863,
+              49.07192682737793
+            ],
+            [
+              5.860980014913182,
+              49.07551901210911
+            ],
+            [
+              5.884799657954723,
+              49.08591716155841
+            ],
+            [
+              5.898079720697105,
+              49.08260149591763
+            ],
+            [
+              5.907072562241097,
+              49.07198320764678
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68902,
+      "code_cant" : "08",
+      "x_centroid" : 9107,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 13963,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.07359229195199,
+        5.885123591734965
+      ],
+      "code_comm" : "441",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.885123591734965,
+        49.07359229195199
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

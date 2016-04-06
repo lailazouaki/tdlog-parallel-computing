@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a643ac49a02213d90b75cf1ecfca65678c3c2cb8",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1169,
+      "insee_com" : "51293",
+      "z_moyen" : 101,
+      "code_dept" : "51",
+      "nom_comm" : "HEUTREGIVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7917,
+      "y_centroid" : 69150,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.214818375988389,
+              49.31495690910015
+            ],
+            [
+              4.212850079974821,
+              49.32014607563367
+            ],
+            [
+              4.290315785392909,
+              49.34691637390607
+            ],
+            [
+              4.308294331817835,
+              49.32660295193555
+            ],
+            [
+              4.289973385171162,
+              49.32111810829634
+            ],
+            [
+              4.270396140467515,
+              49.31583251487848
+            ],
+            [
+              4.240303554750897,
+              49.31968747547624
+            ],
+            [
+              4.214818375988389,
+              49.31495690910015
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69146,
+      "code_cant" : "05",
+      "x_centroid" : 7921,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 30373,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.32815435258986,
+        4.267355978340615
+      ],
+      "code_comm" : "293",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.267355978340615,
+        49.32815435258986
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

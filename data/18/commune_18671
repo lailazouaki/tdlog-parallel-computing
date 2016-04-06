@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9f828e050149eb966e5ff32aac400cb80dad523c",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 114,
+      "insee_com" : "54298",
+      "z_moyen" : 328,
+      "code_dept" : "54",
+      "nom_comm" : "LANEUVEVILLE-DERRIERE-FOUG",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9063,
+      "y_centroid" : 68489,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.811993846373397,
+              48.70198153166638
+            ],
+            [
+              5.802611541649509,
+              48.70375042918717
+            ],
+            [
+              5.789537333893272,
+              48.71278697837469
+            ],
+            [
+              5.800417028158111,
+              48.71151502205447
+            ],
+            [
+              5.80461751900705,
+              48.71274832331573
+            ],
+            [
+              5.811429810172261,
+              48.70868190983338
+            ],
+            [
+              5.820440224354256,
+              48.70807315212921
+            ],
+            [
+              5.811993846373397,
+              48.70198153166638
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68491,
+      "code_cant" : "27",
+      "x_centroid" : 9064,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 20881,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.70761707606772,
+        5.80562400535677
+      ],
+      "code_comm" : "298",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.80562400535677,
+        48.70761707606772
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

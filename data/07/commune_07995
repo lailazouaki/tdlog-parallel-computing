@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0a4c983c088b8e9bcd6e02db9831bc54a8410757",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 551,
+      "insee_com" : "14389",
+      "z_moyen" : 142,
+      "code_dept" : "14",
+      "nom_comm" : "MAISONCELLES-PELVEY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4315,
+      "y_centroid" : 68906,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.669569685786547,
+              49.04613561814943
+            ],
+            [
+              -0.690371060539456,
+              49.05404024740906
+            ],
+            [
+              -0.695436204659217,
+              49.05958231964329
+            ],
+            [
+              -0.670866602002095,
+              49.0733606891859
+            ],
+            [
+              -0.671363757169162,
+              49.06993406496092
+            ],
+            [
+              -0.6481910575115301,
+              49.06302534182332
+            ],
+            [
+              -0.65438514175833,
+              49.05839943442297
+            ],
+            [
+              -0.669569685786547,
+              49.04613561814943
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68903,
+      "code_cant" : "37",
+      "x_centroid" : 4316,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 14964,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.05928445802505,
+        -0.6726391269910815
+      ],
+      "code_comm" : "389",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6726391269910815,
+        49.05928445802505
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

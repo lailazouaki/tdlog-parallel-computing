@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d34b76ecce7e1fe75a85ea6dec3e87b64edd2ecd",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 424,
+      "insee_com" : "76017",
+      "z_moyen" : 117,
+      "code_dept" : "76",
+      "nom_comm" : "ANGLESQUEVILLE-L'ESNEVAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5003,
+      "y_centroid" : 69514,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.220315259614858,
+              49.61668845031812
+            ],
+            [
+              0.218987325846436,
+              49.62331196644691
+            ],
+            [
+              0.228462229485682,
+              49.63162095908584
+            ],
+            [
+              0.235079087985221,
+              49.64445872332127
+            ],
+            [
+              0.242035722394196,
+              49.64692755878103
+            ],
+            [
+              0.249210383362048,
+              49.63193055073994
+            ],
+            [
+              0.24408845908735,
+              49.6231735812201
+            ],
+            [
+              0.220315259614858,
+              49.61668845031812
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69517,
+      "code_cant" : "12",
+      "x_centroid" : 5002,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 28885,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.63045460190808,
+        0.2354443034848013
+      ],
+      "code_comm" : "017",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2354443034848013,
+        49.63045460190808
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "13b854c71da346cb7930fc77afd3226566d404d6",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 249,
+      "insee_com" : "65076",
+      "z_moyen" : 685,
+      "code_dept" : "65",
+      "nom_comm" : "BAZUS-NESTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4864,
+      "y_centroid" : 62181,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.398033916391103,
+              43.01964203742259
+            ],
+            [
+              0.379037072664346,
+              43.0261547773281
+            ],
+            [
+              0.377378333787862,
+              43.03813657076154
+            ],
+            [
+              0.388446227406608,
+              43.04297708209915
+            ],
+            [
+              0.395472145628701,
+              43.0324299724821
+            ],
+            [
+              0.398033916391103,
+              43.01964203742259
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62186,
+      "code_cant" : "05",
+      "x_centroid" : 4869,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 16643,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.03130004884619,
+        0.3874375618849314
+      ],
+      "code_comm" : "076",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3874375618849314,
+        43.03130004884619
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

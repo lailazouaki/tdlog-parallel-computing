@@ -1,0 +1,63 @@
+  {
+    "recordid" : "405663c5d44215d66faae2cf34e895239a0fdd84",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 102,
+      "insee_com" : "59494",
+      "z_moyen" : 139,
+      "code_dept" : "59",
+      "nom_comm" : "RAUCOURT-AU-BOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7471,
+      "y_centroid" : 70122,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.65490386612516,
+              50.20044376955843
+            ],
+            [
+              3.64679692652817,
+              50.20651223889259
+            ],
+            [
+              3.652991336300526,
+              50.21162502106351
+            ],
+            [
+              3.667050944319085,
+              50.2092058420636
+            ],
+            [
+              3.65490386612516,
+              50.20044376955843
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70126,
+      "code_cant" : "49",
+      "x_centroid" : 7468,
+      "nom_dept" : "NORD",
+      "id_geofla" : 22994,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.2067851455212,
+        3.656011477599003
+      ],
+      "code_comm" : "494",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.656011477599003,
+        50.2067851455212
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

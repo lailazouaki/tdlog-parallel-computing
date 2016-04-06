@@ -1,0 +1,63 @@
+  {
+    "recordid" : "e235acf637eb9c3cd9f009631e51fb4c49ab6d8e",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 151,
+      "insee_com" : "90083",
+      "z_moyen" : 365,
+      "code_dept" : "90",
+      "nom_comm" : "RECOUVRANCE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9991,
+      "y_centroid" : 67264,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.98078377163992,
+              47.5637556023683
+            ],
+            [
+              6.966960805205814,
+              47.56553368509595
+            ],
+            [
+              6.985764388372843,
+              47.58070964717616
+            ],
+            [
+              6.986143394959604,
+              47.57169295978218
+            ],
+            [
+              6.98078377163992,
+              47.5637556023683
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67268,
+      "code_cant" : "13",
+      "x_centroid" : 9990,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 25121,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.57035746443245,
+        6.978950723357856
+      ],
+      "code_comm" : "083",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.978950723357856,
+        47.57035746443245
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

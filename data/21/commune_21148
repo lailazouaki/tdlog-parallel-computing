@@ -1,0 +1,71 @@
+  {
+    "recordid" : "146b5e5a2fc6f46040f2af456eca0dc66dc0f28e",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 248,
+      "insee_com" : "54233",
+      "z_moyen" : 271,
+      "code_dept" : "54",
+      "nom_comm" : "GONDREXON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9778,
+      "y_centroid" : 68404,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.758518986096032,
+              48.59696304152348
+            ],
+            [
+              6.754159598035285,
+              48.61076180300372
+            ],
+            [
+              6.769994909441741,
+              48.61529512484358
+            ],
+            [
+              6.771248812253668,
+              48.60857340520435
+            ],
+            [
+              6.77907574723963,
+              48.60431763477836
+            ],
+            [
+              6.782090576522602,
+              48.5977468666345
+            ],
+            [
+              6.758518986096032,
+              48.59696304152348
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68405,
+      "code_cant" : "06",
+      "x_centroid" : 9776,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 25040,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.60460291793688,
+        6.766784271000923
+      ],
+      "code_comm" : "233",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.766784271000923,
+        48.60460291793688
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

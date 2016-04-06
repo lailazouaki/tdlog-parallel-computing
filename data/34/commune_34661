@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a524272d27834863838b7f7cda4b9adf04865ce7",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 566,
+      "insee_com" : "57376",
+      "z_moyen" : 345,
+      "code_dept" : "57",
+      "nom_comm" : "LAMBACH",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10186,
+      "y_centroid" : 68899,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.36211786756675,
+              49.01997649077607
+            ],
+            [
+              7.338147845861114,
+              49.02823029958124
+            ],
+            [
+              7.342386507498118,
+              49.03387639461764
+            ],
+            [
+              7.359679796688483,
+              49.04066067411037
+            ],
+            [
+              7.374972474624204,
+              49.0399149268203
+            ],
+            [
+              7.390231884151648,
+              49.02292220708318
+            ],
+            [
+              7.36211786756675,
+              49.01997649077607
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68904,
+      "code_cant" : "26",
+      "x_centroid" : 10189,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 36246,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.02997663653013,
+        7.364276892942801
+      ],
+      "code_comm" : "376",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.364276892942801,
+        49.02997663653013
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

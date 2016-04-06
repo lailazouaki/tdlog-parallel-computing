@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4278c57e59394832da3cb8de6233d69089c8333b",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 388,
+      "insee_com" : "62344",
+      "z_moyen" : 143,
+      "code_dept" : "62",
+      "nom_comm" : "FONTAINE-LES-HERMANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6537,
+      "y_centroid" : 70480,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.330640839174285,
+              50.51629683856498
+            ],
+            [
+              2.322468917072344,
+              50.51992362926045
+            ],
+            [
+              2.317787268807545,
+              50.52566055665525
+            ],
+            [
+              2.334504556434227,
+              50.53286045662831
+            ],
+            [
+              2.334461708667257,
+              50.53610052158866
+            ],
+            [
+              2.352479403112204,
+              50.53902338538651
+            ],
+            [
+              2.352931999597184,
+              50.52573244705744
+            ],
+            [
+              2.330640839174285,
+              50.51629683856498
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70478,
+      "code_cant" : "27",
+      "x_centroid" : 6529,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 15851,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.52752995559074,
+        2.337645062063284
+      ],
+      "code_comm" : "344",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.337645062063284,
+        50.52752995559074
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

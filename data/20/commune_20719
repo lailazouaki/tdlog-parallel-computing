@@ -1,0 +1,67 @@
+  {
+    "recordid" : "45a9f85691f20f90847597091f4c8eb72b06ef06",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 262,
+      "insee_com" : "57568",
+      "z_moyen" : 228,
+      "code_dept" : "57",
+      "nom_comm" : "REMELFING",
+      "code_arr" : "6",
+      "x_chf_lieu" : 9987,
+      "y_centroid" : 68954,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.096660779758944,
+              49.08245752324581
+            ],
+            [
+              7.070061818801807,
+              49.0865399872568
+            ],
+            [
+              7.078478469049916,
+              49.09716641199908
+            ],
+            [
+              7.091498630280547,
+              49.09432882640233
+            ],
+            [
+              7.100963820236094,
+              49.08746963389942
+            ],
+            [
+              7.096660779758944,
+              49.08245752324581
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68957,
+      "code_cant" : "50",
+      "x_centroid" : 9983,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 25443,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        49.08931005497104,
+        7.085716727092024
+      ],
+      "code_comm" : "568",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.085716727092024,
+        49.08931005497104
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

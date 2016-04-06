@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a04715c6b7e4207f0d154d972330ae0ff5b552f2",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 153,
+      "insee_com" : "63325",
+      "z_moyen" : 375,
+      "code_dept" : "63",
+      "nom_comm" : "SAINT-BONNET-LES-ALLIER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7197,
+      "y_centroid" : 65155,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.260740785178233,
+              45.73128138194308
+            ],
+            [
+              3.257156985742619,
+              45.73207304046331
+            ],
+            [
+              3.253315746947683,
+              45.73282914386589
+            ],
+            [
+              3.246679943069299,
+              45.74131748389421
+            ],
+            [
+              3.256072703740882,
+              45.74783412232797
+            ],
+            [
+              3.261193874433465,
+              45.74281563929082
+            ],
+            [
+              3.260740785178233,
+              45.73128138194308
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65158,
+      "code_cant" : "47",
+      "x_centroid" : 7198,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 34174,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        45.73937495044491,
+        3.255323539860556
+      ],
+      "code_comm" : "325",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.255323539860556,
+        45.73937495044491
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

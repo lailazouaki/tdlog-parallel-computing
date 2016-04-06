@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4ba84f0cdca75206373350d7fa6bd24a45400ff1",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 195,
+      "insee_com" : "57500",
+      "z_moyen" : 290,
+      "code_dept" : "57",
+      "nom_comm" : "NEUFMOULINS",
+      "code_arr" : "5",
+      "x_chf_lieu" : 9919,
+      "y_centroid" : 68495,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.979206866775865,
+              48.67211206229076
+            ],
+            [
+              6.956909253575885,
+              48.68077101234869
+            ],
+            [
+              6.962421757224082,
+              48.68459543843985
+            ],
+            [
+              6.970616869059252,
+              48.68719552042478
+            ],
+            [
+              6.986158479429916,
+              48.68088573964923
+            ],
+            [
+              6.979206866775865,
+              48.67211206229076
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68497,
+      "code_cant" : "16",
+      "x_centroid" : 9923,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 32467,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.68019534382074,
+        6.972530404656819
+      ],
+      "code_comm" : "500",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.972530404656819,
+        48.68019534382074
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bf16d06e23889085ce9befad66c19f15991581ef",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 575,
+      "insee_com" : "62122",
+      "z_moyen" : 115,
+      "code_dept" : "62",
+      "nom_comm" : "BEUGNY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6952,
+      "y_centroid" : 70022,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.929430519202239,
+              50.10304214797973
+            ],
+            [
+              2.921297796157426,
+              50.10704266962816
+            ],
+            [
+              2.912669186658576,
+              50.12254659414216
+            ],
+            [
+              2.929292354181848,
+              50.13207672851792
+            ],
+            [
+              2.954433627870943,
+              50.12395221002567
+            ],
+            [
+              2.954350864642021,
+              50.12278469513019
+            ],
+            [
+              2.933968149153828,
+              50.10333206079191
+            ],
+            [
+              2.929430519202239,
+              50.10304214797973
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70024,
+      "code_cant" : "11",
+      "x_centroid" : 6951,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 11037,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.1183185417328,
+        2.93213204111065
+      ],
+      "code_comm" : "122",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.93213204111065,
+        50.1183185417328
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

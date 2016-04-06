@@ -1,0 +1,71 @@
+  {
+    "recordid" : "71b49319e85e2e9e5a9ab1cf935ead9e891a5ea5",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 372,
+      "insee_com" : "62876",
+      "z_moyen" : 111,
+      "code_dept" : "62",
+      "nom_comm" : "WARLENCOURT-EAUCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6849,
+      "y_centroid" : 69981,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.79948031418048,
+              50.06653409069829
+            ],
+            [
+              2.792331066613976,
+              50.07465026658508
+            ],
+            [
+              2.774461873146073,
+              50.07922608887862
+            ],
+            [
+              2.781835751792952,
+              50.0911124704468
+            ],
+            [
+              2.801374353881233,
+              50.08887343578544
+            ],
+            [
+              2.803588438644568,
+              50.07222590228021
+            ],
+            [
+              2.79948031418048,
+              50.06653409069829
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69982,
+      "code_cant" : "09",
+      "x_centroid" : 6850,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29938,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.0811867179268,
+        2.791349699062039
+      ],
+      "code_comm" : "876",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.791349699062039,
+        50.0811867179268
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

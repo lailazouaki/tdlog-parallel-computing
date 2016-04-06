@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3c4e9acb67000e0cd6974aba38300fee6c131d7a",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 743,
+      "insee_com" : "38107",
+      "z_moyen" : 246,
+      "code_dept" : "38",
+      "nom_comm" : "CHONAS-L'AMBALLAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8415,
+      "y_centroid" : 64866,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.823145056275501,
+              45.45083184687198
+            ],
+            [
+              4.802532902489177,
+              45.45843359535625
+            ],
+            [
+              4.786591338599743,
+              45.45223064683373
+            ],
+            [
+              4.781317772724985,
+              45.45778170906202
+            ],
+            [
+              4.779995721511892,
+              45.46964678517339
+            ],
+            [
+              4.799125620012615,
+              45.47850177635295
+            ],
+            [
+              4.827348588321922,
+              45.46736340237488
+            ],
+            [
+              4.823145056275501,
+              45.45083184687198
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64862,
+      "code_cant" : "39",
+      "x_centroid" : 8408,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 31930,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        45.46447426097482,
+        4.802917076562903
+      ],
+      "code_comm" : "107",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.802917076562903,
+        45.46447426097482
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

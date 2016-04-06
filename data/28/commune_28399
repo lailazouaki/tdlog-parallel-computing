@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f66d669efacda735f65f2fb6ee02e7fc4c4f3957",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 264,
+      "insee_com" : "39168",
+      "z_moyen" : 553,
+      "code_dept" : "39",
+      "nom_comm" : "COURBETTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8963,
+      "y_centroid" : 66140,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.561819437593718,
+              46.58794991889808
+            ],
+            [
+              5.558014377852362,
+              46.59540441727345
+            ],
+            [
+              5.570842090186974,
+              46.61020738500716
+            ],
+            [
+              5.580673541265257,
+              46.59754467932337
+            ],
+            [
+              5.575191603674612,
+              46.59190224479517
+            ],
+            [
+              5.561819437593718,
+              46.58794991889808
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66140,
+      "code_cant" : "11",
+      "x_centroid" : 8966,
+      "nom_dept" : "JURA",
+      "id_geofla" : 25230,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.59775704901276,
+        5.569126370876928
+      ],
+      "code_comm" : "168",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.569126370876928,
+        46.59775704901276
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

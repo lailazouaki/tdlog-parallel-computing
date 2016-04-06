@@ -1,0 +1,71 @@
+  {
+    "recordid" : "756ddd99794fb08346144dab442677edcffdb5e6",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 305,
+      "insee_com" : "02751",
+      "z_moyen" : 100,
+      "code_dept" : "02",
+      "nom_comm" : "TRUCY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7443,
+      "y_centroid" : 69304,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.616170744010147,
+              49.46182238579362
+            ],
+            [
+              3.603020054677997,
+              49.46455800653244
+            ],
+            [
+              3.598200764942407,
+              49.47704818961579
+            ],
+            [
+              3.602559039907552,
+              49.48289567357967
+            ],
+            [
+              3.623879863253022,
+              49.47667603066653
+            ],
+            [
+              3.62059088669169,
+              49.46358844520331
+            ],
+            [
+              3.616170744010147,
+              49.46182238579362
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69304,
+      "code_cant" : "12",
+      "x_centroid" : 7442,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 20650,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.47214981799802,
+        3.61092318317332
+      ],
+      "code_comm" : "751",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.61092318317332,
+        49.47214981799802
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

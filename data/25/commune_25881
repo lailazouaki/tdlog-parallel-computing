@@ -1,0 +1,71 @@
+  {
+    "recordid" : "292321d8a518bb1e3eb58d47ed3a5ed8b98d9509",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 572,
+      "insee_com" : "72148",
+      "z_moyen" : 75,
+      "code_dept" : "72",
+      "nom_comm" : "JAUZE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5052,
+      "y_centroid" : 67933,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.393094993737341,
+              48.19426040377576
+            ],
+            [
+              0.374455197711744,
+              48.20002332944367
+            ],
+            [
+              0.365295294355531,
+              48.20816497344877
+            ],
+            [
+              0.376371092995891,
+              48.22784854924299
+            ],
+            [
+              0.385963911627693,
+              48.2256844959578
+            ],
+            [
+              0.39672526912941,
+              48.21811682214302
+            ],
+            [
+              0.393094993737341,
+              48.19426040377576
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67933,
+      "code_cant" : "03",
+      "x_centroid" : 5056,
+      "nom_dept" : "SARTHE",
+      "id_geofla" : 6272,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.21117864987612,
+        0.3824814518077248
+      ],
+      "code_comm" : "148",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3824814518077248,
+        48.21117864987612
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

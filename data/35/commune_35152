@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c59ca8bdb244c5bcbe5efda4e23853e05fd49c25",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 173,
+      "insee_com" : "27699",
+      "z_moyen" : 115,
+      "code_dept" : "27",
+      "nom_comm" : "VOISCREVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5377,
+      "y_centroid" : 69112,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.7613144075199469,
+              49.27203112843756
+            ],
+            [
+              0.7583060770594831,
+              49.27769493975391
+            ],
+            [
+              0.763587106298957,
+              49.28937605028695
+            ],
+            [
+              0.766727137023102,
+              49.28766256807843
+            ],
+            [
+              0.777579170422632,
+              49.28371711483048
+            ],
+            [
+              0.771152204091313,
+              49.27432667504274
+            ],
+            [
+              0.7613144075199469,
+              49.27203112843756
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69113,
+      "code_cant" : "07",
+      "x_centroid" : 5375,
+      "nom_dept" : "EURE",
+      "id_geofla" : 35675,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.28029916885362,
+        0.7668983023674042
+      ],
+      "code_comm" : "699",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7668983023674042,
+        49.28029916885362
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4a0554acf5adc4f9e4cfc49295da9cef48ab0f5e",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 560,
+      "insee_com" : "89079",
+      "z_moyen" : 114,
+      "code_dept" : "89",
+      "nom_comm" : "CHAMVRES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7269,
+      "y_centroid" : 67621,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.354490580460586,
+              47.94522063671167
+            ],
+            [
+              3.33782893543368,
+              47.94544970150148
+            ],
+            [
+              3.337350828368159,
+              47.95873427507458
+            ],
+            [
+              3.344936829274294,
+              47.96737868413571
+            ],
+            [
+              3.356770822728231,
+              47.97357093207656
+            ],
+            [
+              3.375705752710841,
+              47.96571849571185
+            ],
+            [
+              3.354490580460586,
+              47.94522063671167
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67619,
+      "code_cant" : "19",
+      "x_centroid" : 7263,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 16751,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        47.95889802404361,
+        3.353631605131501
+      ],
+      "code_comm" : "079",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.353631605131501,
+        47.95889802404361
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

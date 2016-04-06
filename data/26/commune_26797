@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c53027a0970a75bc82813051d97b3d2c0bf21e57",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 1036,
+      "insee_com" : "59579",
+      "z_moyen" : 6,
+      "code_dept" : "59",
+      "nom_comm" : "STEENE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6554,
+      "y_centroid" : 70954,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.369125347028807,
+              50.93338099399265
+            ],
+            [
+              2.338474362732782,
+              50.96353302039454
+            ],
+            [
+              2.38398935414264,
+              50.97008936299422
+            ],
+            [
+              2.400942140240129,
+              50.94604222386128
+            ],
+            [
+              2.401936462785744,
+              50.94482703118949
+            ],
+            [
+              2.369125347028807,
+              50.93338099399265
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70954,
+      "code_cant" : "09",
+      "x_centroid" : 6557,
+      "nom_dept" : "NORD",
+      "id_geofla" : 32249,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        50.95319399114393,
+        2.37222398651448
+      ],
+      "code_comm" : "579",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.37222398651448,
+        50.95319399114393
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

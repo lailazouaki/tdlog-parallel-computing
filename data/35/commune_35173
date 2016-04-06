@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c4703b7ef63029b1816330e64830b133279c6450",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 284,
+      "insee_com" : "09237",
+      "z_moyen" : 1113,
+      "code_dept" : "09",
+      "nom_comm" : "LE PUCH",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6262,
+      "y_centroid" : 61805,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.102565242556713,
+              42.71159902408757
+            ],
+            [
+              2.088969086072617,
+              42.71166403547727
+            ],
+            [
+              2.087574978782886,
+              42.72281993062582
+            ],
+            [
+              2.100535312379497,
+              42.73171458751504
+            ],
+            [
+              2.11380591461173,
+              42.724496878849
+            ],
+            [
+              2.102565242556713,
+              42.71159902408757
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61802,
+      "code_cant" : "13",
+      "x_centroid" : 6261,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 35769,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.72076696959531,
+        2.099267240822253
+      ],
+      "code_comm" : "237",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.099267240822253,
+        42.72076696959531
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

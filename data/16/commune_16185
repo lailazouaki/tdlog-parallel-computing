@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4a28c038db85364c8e14ac2acbf4829abb201443",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 376,
+      "insee_com" : "60165",
+      "z_moyen" : 214,
+      "code_dept" : "60",
+      "nom_comm" : "LE COUDRAY-SUR-THELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6362,
+      "y_centroid" : 69125,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.126927087219389,
+              49.2992479744045
+            ],
+            [
+              2.10884954377231,
+              49.30407832036439
+            ],
+            [
+              2.114148763830237,
+              49.31733232263398
+            ],
+            [
+              2.122464669027225,
+              49.32159122207782
+            ],
+            [
+              2.122807674064407,
+              49.32163866191241
+            ],
+            [
+              2.13697018039442,
+              49.31274197773204
+            ],
+            [
+              2.137820736633102,
+              49.29968585207832
+            ],
+            [
+              2.126927087219389,
+              49.2992479744045
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69121,
+      "code_cant" : "28",
+      "x_centroid" : 6363,
+      "nom_dept" : "OISE",
+      "id_geofla" : 9866,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.30914873990912,
+        2.124287415884521
+      ],
+      "code_comm" : "165",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.124287415884521,
+        49.30914873990912
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

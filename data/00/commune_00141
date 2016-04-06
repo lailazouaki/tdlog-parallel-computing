@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9bbd2f4ecf803b4570fa3d2424b3157d1126cb8e",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 298,
+      "insee_com" : "13031",
+      "z_moyen" : 231,
+      "code_dept" : "13",
+      "nom_comm" : "LA DESTROUSSE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9113,
+      "y_centroid" : 62565,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.587567026084289,
+              43.36662265132276
+            ],
+            [
+              5.595185861013436,
+              43.39140912624064
+            ],
+            [
+              5.603807068689637,
+              43.38499127395255
+            ],
+            [
+              5.608309702735789,
+              43.37650280223453
+            ],
+            [
+              5.609583543205011,
+              43.36621987313709
+            ],
+            [
+              5.600926608684246,
+              43.36821953104977
+            ],
+            [
+              5.587567026084289,
+              43.36662265132276
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62565,
+      "code_cant" : "29",
+      "x_centroid" : 9106,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 13599,
+      "statut" : "Commune simple",
+      "population" : 2.9,
+      "geom_x_y" : [
+        43.376423280879,
+        5.598859324440053
+      ],
+      "code_comm" : "031",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.598859324440053,
+        43.376423280879
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

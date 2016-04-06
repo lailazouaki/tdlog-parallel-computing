@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d6fd591f0e9826fe5cb90848a14ee8b2bbc8c937",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 403,
+      "insee_com" : "60690",
+      "z_moyen" : 107,
+      "code_dept" : "60",
+      "nom_comm" : "VILLERS-SUR-TRIE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6143,
+      "y_centroid" : 69133,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.828785910406064,
+              49.30471623822649
+            ],
+            [
+              1.804794960258245,
+              49.30469691492852
+            ],
+            [
+              1.801369417085293,
+              49.31840907321038
+            ],
+            [
+              1.808150096302697,
+              49.32373542015603
+            ],
+            [
+              1.822538385942974,
+              49.32304943958705
+            ],
+            [
+              1.834238408962981,
+              49.31897352767562
+            ],
+            [
+              1.828785910406064,
+              49.30471623822649
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69125,
+      "code_cant" : "07",
+      "x_centroid" : 6139,
+      "nom_dept" : "OISE",
+      "id_geofla" : 36534,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.31395327924472,
+        1.817137504068246
+      ],
+      "code_comm" : "690",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.817137504068246,
+        49.31395327924472
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

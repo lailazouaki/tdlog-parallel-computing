@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0bd13ff830ef3cbdf1b14d0e8189881b7cf7ac3b",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 238,
+      "insee_com" : "76572",
+      "z_moyen" : 56,
+      "code_dept" : "76",
+      "nom_comm" : "SAINT-DENIS-D'ACLON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5527,
+      "y_centroid" : 69757,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.959086774686117,
+              49.8606412966727
+            ],
+            [
+              0.928525281550684,
+              49.8553098109104
+            ],
+            [
+              0.924565632590593,
+              49.86141647806611
+            ],
+            [
+              0.95654620218832,
+              49.87409663604485
+            ],
+            [
+              0.9557557789138,
+              49.86536646321922
+            ],
+            [
+              0.959086774686117,
+              49.8606412966727
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69760,
+      "code_cant" : "39",
+      "x_centroid" : 5520,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 21794,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.86327619643857,
+        0.9431537263525993
+      ],
+      "code_comm" : "572",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9431537263525993,
+        49.86327619643857
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

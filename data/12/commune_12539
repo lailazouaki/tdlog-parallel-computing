@@ -1,0 +1,67 @@
+  {
+    "recordid" : "775863457e1463537587ddb7c2a96085e8eccec6",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 366,
+      "insee_com" : "75111",
+      "z_moyen" : 43,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-11E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6544,
+      "y_centroid" : 68623,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.399114284416081,
+              48.84810075930868
+            ],
+            [
+              2.369018230803884,
+              48.85322503073002
+            ],
+            [
+              2.3684017253737,
+              48.85573996195296
+            ],
+            [
+              2.363856758564782,
+              48.86743436510144
+            ],
+            [
+              2.377012647123743,
+              48.87191931652078
+            ],
+            [
+              2.399114284416081,
+              48.84810075930868
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68622,
+      "code_cant" : "25",
+      "x_centroid" : 6544,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 36586,
+      "statut" : "Chef-lieu canton",
+      "population" : 152.7,
+      "geom_x_y" : [
+        48.85941549762749,
+        2.378741060237548
+      ],
+      "code_comm" : "111",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.378741060237548,
+        48.85941549762749
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

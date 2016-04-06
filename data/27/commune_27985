@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a8972a63c12b30fc6f5ca45d000e93e7e1e3b7d5",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 261,
+      "insee_com" : "67050",
+      "z_moyen" : 593,
+      "code_dept" : "67",
+      "nom_comm" : "BLANCHERUPT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 10101,
+      "y_centroid" : 68201,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.203781851746283,
+              48.39791867681035
+            ],
+            [
+              7.187604974494136,
+              48.3998340013899
+            ],
+            [
+              7.183983624258323,
+              48.40940361850761
+            ],
+            [
+              7.193778373402126,
+              48.41666114213203
+            ],
+            [
+              7.20321911010434,
+              48.41506537663845
+            ],
+            [
+              7.204877395585474,
+              48.41126769073356
+            ],
+            [
+              7.203781851746283,
+              48.39791867681035
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68202,
+      "code_cant" : "23",
+      "x_centroid" : 10103,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 29932,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.40710959966445,
+        7.19552856029443
+      ],
+      "code_comm" : "050",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.19552856029443,
+        48.40710959966445
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

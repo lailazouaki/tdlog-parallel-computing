@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6ef08cfac6192b9e07f515ab84cde92fb00989c5",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 163,
+      "insee_com" : "70547",
+      "z_moyen" : 394,
+      "code_dept" : "70",
+      "nom_comm" : "VERLANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9796,
+      "y_centroid" : 67254,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.722268613344609,
+              47.55945517380218
+            ],
+            [
+              6.709204783103221,
+              47.57607380651249
+            ],
+            [
+              6.717172882459279,
+              47.58073119215136
+            ],
+            [
+              6.725743443052623,
+              47.56842759999288
+            ],
+            [
+              6.725942365850082,
+              47.56040114535254
+            ],
+            [
+              6.722268613344609,
+              47.55945517380218
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67256,
+      "code_cant" : "11",
+      "x_centroid" : 9794,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 35391,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.57038878492224,
+        6.718871577458535
+      ],
+      "code_comm" : "547",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.718871577458535,
+        47.57038878492224
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

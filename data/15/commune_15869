@@ -1,0 +1,67 @@
+  {
+    "recordid" : "fdf95f2e2819b817c09f26485f39a0650f7353ca",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 504,
+      "insee_com" : "50191",
+      "z_moyen" : 12,
+      "code_dept" : "50",
+      "nom_comm" : "FOUCARVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3912,
+      "y_centroid" : 69358,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.274140584299295,
+              49.43217596514445
+            ],
+            [
+              -1.282744258910045,
+              49.4353911330737
+            ],
+            [
+              -1.286808396696121,
+              49.44109799830972
+            ],
+            [
+              -1.230736434826812,
+              49.46255860190943
+            ],
+            [
+              -1.223118360683892,
+              49.45555210989939
+            ],
+            [
+              -1.274140584299295,
+              49.43217596514445
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69352,
+      "code_cant" : "37",
+      "x_centroid" : 3914,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 30680,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.44695499196954,
+        -1.255898443163415
+      ],
+      "code_comm" : "191",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.255898443163415,
+        49.44695499196954
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

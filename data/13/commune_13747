@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c6c20a092ff5ded2121af163d699d37bb26a2ed8",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 259,
+      "insee_com" : "78475",
+      "z_moyen" : 115,
+      "code_dept" : "78",
+      "nom_comm" : "OSMOY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6058,
+      "y_centroid" : 68634,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.716446665799904,
+              48.85492053285942
+            ],
+            [
+              1.705221892354182,
+              48.86014227173364
+            ],
+            [
+              1.701853375257341,
+              48.86567329322538
+            ],
+            [
+              1.719877707684332,
+              48.87227138342212
+            ],
+            [
+              1.729202260876186,
+              48.87121948360357
+            ],
+            [
+              1.727488283890878,
+              48.85933778282258
+            ],
+            [
+              1.716446665799904,
+              48.85492053285942
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68633,
+      "code_cant" : "08",
+      "x_centroid" : 6058,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 13082,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.86400211371487,
+        1.717105282250053
+      ],
+      "code_comm" : "475",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.717105282250053,
+        48.86400211371487
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

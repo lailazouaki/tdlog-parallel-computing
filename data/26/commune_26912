@@ -1,0 +1,67 @@
+  {
+    "recordid" : "93800af72b8a1c13bf0c83256372bbfe26fe491e",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 521,
+      "insee_com" : "02068",
+      "z_moyen" : 134,
+      "code_dept" : "02",
+      "nom_comm" : "BERLANCOURT",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7546,
+      "y_centroid" : 69649,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.759313116663813,
+              49.76877549359359
+            ],
+            [
+              3.737257727181199,
+              49.77178607064968
+            ],
+            [
+              3.745593003871218,
+              49.79349676362963
+            ],
+            [
+              3.776280929330116,
+              49.78808512916837
+            ],
+            [
+              3.778739039522033,
+              49.78000101579337
+            ],
+            [
+              3.759313116663813,
+              49.76877549359359
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69646,
+      "code_cant" : "27",
+      "x_centroid" : 7545,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 27140,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.78085336311965,
+        3.757107146986393
+      ],
+      "code_comm" : "068",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.757107146986393,
+        49.78085336311965
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

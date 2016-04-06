@@ -1,0 +1,75 @@
+  {
+    "recordid" : "eb48ac5808380aaedcfa29e05af55d2ffd817d38",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 526,
+      "insee_com" : "14311",
+      "z_moyen" : 100,
+      "code_dept" : "14",
+      "nom_comm" : "GRAINVILLE-SUR-ODON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4425,
+      "y_centroid" : 68989,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.522833771514869,
+              49.12248821937759
+            ],
+            [
+              -0.551853150241019,
+              49.13933738002056
+            ],
+            [
+              -0.552824964738423,
+              49.13950667385153
+            ],
+            [
+              -0.547146873490682,
+              49.14792713152416
+            ],
+            [
+              -0.521228405358745,
+              49.15292745819927
+            ],
+            [
+              -0.518821298292053,
+              49.1294276146922
+            ],
+            [
+              -0.512090705684011,
+              49.12421549738871
+            ],
+            [
+              -0.522833771514869,
+              49.12248821937759
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68989,
+      "code_cant" : "32",
+      "x_centroid" : 4423,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 27886,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        49.13862701163602,
+        -0.5316721894437182
+      ],
+      "code_comm" : "311",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5316721894437182,
+        49.13862701163602
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

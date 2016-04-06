@@ -1,0 +1,63 @@
+  {
+    "recordid" : "18426be75ebb7141bcbdc3b3b1f4a24189e8ebd9",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 115,
+      "insee_com" : "57184",
+      "z_moyen" : 254,
+      "code_dept" : "57",
+      "nom_comm" : "DORNOT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9233,
+      "y_centroid" : 68872,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.057507053933946,
+              49.04003873330696
+            ],
+            [
+              6.045443553760129,
+              49.04368375983088
+            ],
+            [
+              6.035337182832915,
+              49.05413470947351
+            ],
+            [
+              6.061947249027749,
+              49.04732225539919
+            ],
+            [
+              6.057507053933946,
+              49.04003873330696
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68874,
+      "code_cant" : "13",
+      "x_centroid" : 9229,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 12594,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.04681978333068,
+        6.050030252902032
+      ],
+      "code_comm" : "184",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.050030252902032,
+        49.04681978333068
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

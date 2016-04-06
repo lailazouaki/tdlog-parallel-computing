@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ed53f4aaaf140a23a7078e911a645be2430d274b",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 256,
+      "insee_com" : "70276",
+      "z_moyen" : 325,
+      "code_dept" : "70",
+      "nom_comm" : "GRANGES-LA-VILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9685,
+      "y_centroid" : 67246,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5600134635402,
+              47.55475565431949
+            ],
+            [
+              6.555100372156089,
+              47.56013167877746
+            ],
+            [
+              6.562905093170337,
+              47.56797581297398
+            ],
+            [
+              6.560733651054777,
+              47.57734092027207
+            ],
+            [
+              6.560779269280961,
+              47.5804210877043
+            ],
+            [
+              6.568781680141507,
+              47.58299674419443
+            ],
+            [
+              6.575510141684545,
+              47.5597777895608
+            ],
+            [
+              6.5600134635402,
+              47.55475565431949
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67245,
+      "code_cant" : "27",
+      "x_centroid" : 9680,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 35292,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.56737905566364,
+        6.565988992839877
+      ],
+      "code_comm" : "276",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.565988992839877,
+        47.56737905566364
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

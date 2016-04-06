@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0c41875cc43dad6738ccc8254126e36352388bad",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 540,
+      "insee_com" : "62206",
+      "z_moyen" : 48,
+      "code_dept" : "62",
+      "nom_comm" : "CAMPIGNEULLES-LES-GRANDES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6084,
+      "y_centroid" : 70378,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.692561273272875,
+              50.41977505738126
+            ],
+            [
+              1.689600834820774,
+              50.42933243037712
+            ],
+            [
+              1.692525307209457,
+              50.43851206963398
+            ],
+            [
+              1.703277536100921,
+              50.44460464256841
+            ],
+            [
+              1.714889553244528,
+              50.4452017065206
+            ],
+            [
+              1.726047231553888,
+              50.4276215468514
+            ],
+            [
+              1.708337681067818,
+              50.41995891630084
+            ],
+            [
+              1.692561273272875,
+              50.41977505738126
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70383,
+      "code_cant" : "37",
+      "x_centroid" : 6079,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 36331,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.43177162875945,
+        1.706279641860651
+      ],
+      "code_comm" : "206",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.706279641860651,
+        50.43177162875945
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

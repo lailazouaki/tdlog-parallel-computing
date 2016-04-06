@@ -1,0 +1,71 @@
+  {
+    "recordid" : "af46a0d9e38241fce66309f92e267b1c173e3a8a",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 314,
+      "insee_com" : "67035",
+      "z_moyen" : 201,
+      "code_dept" : "67",
+      "nom_comm" : "BERSTHEIM",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10433,
+      "y_centroid" : 68649,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.684978461531604,
+              48.78315512565845
+            ],
+            [
+              7.672814080587854,
+              48.78448792009719
+            ],
+            [
+              7.661822853871381,
+              48.79635070618068
+            ],
+            [
+              7.695406842904066,
+              48.80160249896726
+            ],
+            [
+              7.688548578702726,
+              48.78586198157337
+            ],
+            [
+              7.684663401372802,
+              48.78571722021901
+            ],
+            [
+              7.684978461531604,
+              48.78315512565845
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68648,
+      "code_cant" : "09",
+      "x_centroid" : 10435,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 20266,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.79261793325873,
+        7.679774282836024
+      ],
+      "code_comm" : "035",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.679774282836024,
+        48.79261793325873
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

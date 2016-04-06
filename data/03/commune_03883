@@ -1,0 +1,67 @@
+  {
+    "recordid" : "dabe2c84aaa526ad1a7de888d1dfea76620c9aa7",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 235,
+      "insee_com" : "65016",
+      "z_moyen" : 485,
+      "code_dept" : "65",
+      "nom_comm" : "ANTIST",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4660,
+      "y_centroid" : 62287,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.15157487312491,
+              43.11955981837411
+            ],
+            [
+              0.12922516445735,
+              43.11389047806374
+            ],
+            [
+              0.120533433803671,
+              43.11549458142638
+            ],
+            [
+              0.121346980094486,
+              43.12160954856889
+            ],
+            [
+              0.146849944086526,
+              43.1261759975439
+            ],
+            [
+              0.15157487312491,
+              43.11955981837411
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62285,
+      "code_cant" : "04",
+      "x_centroid" : 4667,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 14929,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.11988063568208,
+        0.1352495726571102
+      ],
+      "code_comm" : "016",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1352495726571102,
+        43.11988063568208
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

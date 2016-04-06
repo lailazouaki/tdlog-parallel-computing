@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a9f072f1501a95e4635ed8ca7a01336040c497fe",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 533,
+      "insee_com" : "77275",
+      "z_moyen" : 151,
+      "code_dept" : "77",
+      "nom_comm" : "LES MARETS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7230,
+      "y_centroid" : 68414,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.312402948465337,
+              48.65453334641111
+            ],
+            [
+              3.301420311084736,
+              48.68291306734552
+            ],
+            [
+              3.312696472411477,
+              48.68774112932945
+            ],
+            [
+              3.321465177190714,
+              48.68657549948302
+            ],
+            [
+              3.331137691591195,
+              48.67589035654928
+            ],
+            [
+              3.323740551104083,
+              48.65694968871346
+            ],
+            [
+              3.312402948465337,
+              48.65453334641111
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68412,
+      "code_cant" : "29",
+      "x_centroid" : 7233,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 30946,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.67251103066312,
+        3.316599715792021
+      ],
+      "code_comm" : "275",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.316599715792021,
+        48.67251103066312
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

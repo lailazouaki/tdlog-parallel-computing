@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f994bcebc21414518f926c8de78793dbcee367eb",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 240,
+      "insee_com" : "65313",
+      "z_moyen" : 376,
+      "code_dept" : "65",
+      "nom_comm" : "MOMERES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4632,
+      "y_centroid" : 62349,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.09103382378297201,
+              43.16999301368378
+            ],
+            [
+              0.065353140509681,
+              43.16764999379502
+            ],
+            [
+              0.058308456067018,
+              43.17076139024876
+            ],
+            [
+              0.065807351980521,
+              43.17081268444193
+            ],
+            [
+              0.070899802952598,
+              43.17442549766638
+            ],
+            [
+              0.091374505893823,
+              43.18447563878882
+            ],
+            [
+              0.095210488402378,
+              43.17839539285938
+            ],
+            [
+              0.09103382378297201,
+              43.16999301368378
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62353,
+      "code_cant" : "34",
+      "x_centroid" : 4625,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 13269,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        43.17437173599541,
+        0.08137941125939079
+      ],
+      "code_comm" : "313",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.08137941125939079,
+        43.17437173599541
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

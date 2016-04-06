@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ee4feef0f4cb7d8adcd17b9ec46cefbe2a36194d",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 868,
+      "insee_com" : "71324",
+      "z_moyen" : 325,
+      "code_dept" : "71",
+      "nom_comm" : "MOROGES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8280,
+      "y_centroid" : 66292,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.693055584401075,
+              46.740677688849
+            ],
+            [
+              4.670005712155603,
+              46.73663823683802
+            ],
+            [
+              4.647679864796102,
+              46.74209417421594
+            ],
+            [
+              4.66240722713257,
+              46.76483828054721
+            ],
+            [
+              4.693391475114865,
+              46.76362027187322
+            ],
+            [
+              4.696770302931333,
+              46.74719733471093
+            ],
+            [
+              4.693055584401075,
+              46.740677688849
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66292,
+      "code_cant" : "04",
+      "x_centroid" : 8278,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 6675,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        46.7507453414938,
+        4.674306623163631
+      ],
+      "code_comm" : "324",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.674306623163631,
+        46.7507453414938
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

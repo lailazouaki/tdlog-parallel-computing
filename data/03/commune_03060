@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8bca8b2b64062a26b2e95de08dfb40973799874c",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 312,
+      "insee_com" : "25373",
+      "z_moyen" : 995,
+      "code_dept" : "25",
+      "nom_comm" : "LE MEMONT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9788,
+      "y_centroid" : 66798,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.689208651264019,
+              47.1492163138589
+            ],
+            [
+              6.67188870568114,
+              47.15618447696109
+            ],
+            [
+              6.678348772968793,
+              47.16506400556428
+            ],
+            [
+              6.686818470586489,
+              47.16832739075623
+            ],
+            [
+              6.691331102230191,
+              47.16957146643815
+            ],
+            [
+              6.704267708923467,
+              47.16531857912398
+            ],
+            [
+              6.689208651264019,
+              47.1492163138589
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66793,
+      "code_cant" : "25",
+      "x_centroid" : 9792,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 27232,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.16013694377081,
+        6.687749879959063
+      ],
+      "code_comm" : "373",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.687749879959063,
+        47.16013694377081
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

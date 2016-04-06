@@ -1,0 +1,75 @@
+  {
+    "recordid" : "efed55af98cc5ee73929e3f13f2868786f58ae08",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 1019,
+      "insee_com" : "21501",
+      "z_moyen" : 443,
+      "code_dept" : "21",
+      "nom_comm" : "POUILLY-EN-AUXOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8176,
+      "y_centroid" : 66858,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.55486865118945,
+              47.23976918772529
+            ],
+            [
+              4.547300791669462,
+              47.24418352074148
+            ],
+            [
+              4.525914131354006,
+              47.27006601306422
+            ],
+            [
+              4.560152195377388,
+              47.27604860233325
+            ],
+            [
+              4.58664618858521,
+              47.28523381354272
+            ],
+            [
+              4.584516654458055,
+              47.2834710651024
+            ],
+            [
+              4.559807680423433,
+              47.24093643784678
+            ],
+            [
+              4.55486865118945,
+              47.23976918772529
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66858,
+      "code_cant" : "26",
+      "x_centroid" : 8176,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 18179,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.5,
+      "geom_x_y" : [
+        47.26277220673032,
+        4.555605198337421
+      ],
+      "code_comm" : "501",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.555605198337421,
+        47.26277220673032
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

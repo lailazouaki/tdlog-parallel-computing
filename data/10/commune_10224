@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ea9716690c6a0f6c21ab7169cad7b080c24177cc",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 419,
+      "insee_com" : "62365",
+      "z_moyen" : 79,
+      "code_dept" : "62",
+      "nom_comm" : "GALAMETZ",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6385,
+      "y_centroid" : 70256,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.121979467163425,
+              50.3148096659506
+            ],
+            [
+              2.117327177007941,
+              50.31543191193956
+            ],
+            [
+              2.110846074818149,
+              50.32355610769515
+            ],
+            [
+              2.113856436776225,
+              50.32944090650478
+            ],
+            [
+              2.145695232016139,
+              50.33615708708786
+            ],
+            [
+              2.151694300385853,
+              50.3272647250546
+            ],
+            [
+              2.121979467163425,
+              50.3148096659506
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70259,
+      "code_cant" : "39",
+      "x_centroid" : 6379,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 12380,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.3258571910589,
+        2.130075646834701
+      ],
+      "code_comm" : "365",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.130075646834701,
+        50.3258571910589
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

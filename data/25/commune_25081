@@ -1,0 +1,63 @@
+  {
+    "recordid" : "0b7731574cedc6d6cd093595ee71a490920a693c",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 140,
+      "insee_com" : "39548",
+      "z_moyen" : 465,
+      "code_dept" : "39",
+      "nom_comm" : "VAUX-SUR-POLIGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9075,
+      "y_centroid" : 66394,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.738932922191242,
+              46.81779166503969
+            ],
+            [
+              5.729645393798297,
+              46.81683231616404
+            ],
+            [
+              5.715480529828103,
+              46.8256453768776
+            ],
+            [
+              5.728201447407765,
+              46.82985790880289
+            ],
+            [
+              5.738932922191242,
+              46.81779166503969
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66399,
+      "code_cant" : "23",
+      "x_centroid" : 9079,
+      "nom_dept" : "JURA",
+      "id_geofla" : 21061,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.823022835562,
+        5.727694473345681
+      ],
+      "code_comm" : "548",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.727694473345681,
+        46.823022835562
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

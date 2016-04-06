@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b061ac45bc1acfaf9fcf010edcf63b93f57316ea",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 351,
+      "insee_com" : "08453",
+      "z_moyen" : 177,
+      "code_dept" : "08",
+      "nom_comm" : "TOGES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8289,
+      "y_centroid" : 69265,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.806294775553603,
+              49.42145701931904
+            ],
+            [
+              4.781316843306914,
+              49.4165228528164
+            ],
+            [
+              4.763769634090034,
+              49.43328622780302
+            ],
+            [
+              4.768582800224803,
+              49.43455555978641
+            ],
+            [
+              4.802869959828343,
+              49.42755868779687
+            ],
+            [
+              4.805335237745692,
+              49.42435729174156
+            ],
+            [
+              4.806294775553603,
+              49.42145701931904
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69265,
+      "code_cant" : "31",
+      "x_centroid" : 8295,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 22380,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.42552982642744,
+        4.785336935311272
+      ],
+      "code_comm" : "453",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.785336935311272,
+        49.42552982642744
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

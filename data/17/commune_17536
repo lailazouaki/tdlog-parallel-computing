@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3d91a9a8192e461aa67adff68a77c29877b9ebc0",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 181,
+      "insee_com" : "22264",
+      "z_moyen" : 30,
+      "code_dept" : "22",
+      "nom_comm" : "LA ROCHE-DERRIEN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 2402,
+      "y_centroid" : 68677,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.252231746310323,
+              48.75215667740086
+            ],
+            [
+              -3.248274061800479,
+              48.74577798426517
+            ],
+            [
+              -3.251681075827519,
+              48.73926555980479
+            ],
+            [
+              -3.266608682057413,
+              48.73873390232725
+            ],
+            [
+              -3.261941683002412,
+              48.74394166921648
+            ],
+            [
+              -3.267786581884613,
+              48.74864181458874
+            ],
+            [
+              -3.265905475070283,
+              48.75149259600009
+            ],
+            [
+              -3.252231746310323,
+              48.75215667740086
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68678,
+      "code_cant" : "42",
+      "x_centroid" : 2403,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 22969,
+      "statut" : "Chef-lieu canton",
+      "population" : 1,
+      "geom_x_y" : [
+        48.7456370261357,
+        -3.257628027728793
+      ],
+      "code_comm" : "264",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.257628027728793,
+        48.7456370261357
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

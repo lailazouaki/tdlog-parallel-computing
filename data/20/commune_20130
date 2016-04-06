@@ -1,0 +1,63 @@
+  {
+    "recordid" : "932d71094a587fe0c9a3c00f2edf8af8beb26cfe",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 79,
+      "insee_com" : "2B216",
+      "z_moyen" : 490,
+      "code_dept" : "2B",
+      "nom_comm" : "PIAZZALI",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12285,
+      "y_centroid" : 61569,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.402823178282887,
+              42.31563040250291
+            ],
+            [
+              9.399730119676152,
+              42.32156085064162
+            ],
+            [
+              9.40737166485822,
+              42.32465276985577
+            ],
+            [
+              9.412934639351185,
+              42.31776131916806
+            ],
+            [
+              9.402823178282887,
+              42.31563040250291
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61568,
+      "code_cant" : "37",
+      "x_centroid" : 12283,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 17034,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.31985768337985,
+        9.405939093182955
+      ],
+      "code_comm" : "216",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.405939093182955,
+        42.31985768337985
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

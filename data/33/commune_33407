@@ -1,0 +1,75 @@
+  {
+    "recordid" : "76337f1bcde855b3b620b0d216c7a31152c1a2c6",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 302,
+      "insee_com" : "34265",
+      "z_moyen" : 74,
+      "code_dept" : "34",
+      "nom_comm" : "SAINT-JEAN-DE-CORNIES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7806,
+      "y_centroid" : 62944,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.003297245760512,
+              43.73403113758501
+            ],
+            [
+              3.994545123847486,
+              43.74175172983875
+            ],
+            [
+              3.993021951783918,
+              43.74839805504387
+            ],
+            [
+              3.993539077725774,
+              43.7538738868852
+            ],
+            [
+              4.000202833004228,
+              43.756530688986
+            ],
+            [
+              4.01609759032358,
+              43.74198474205695
+            ],
+            [
+              4.020457634929143,
+              43.74146701608187
+            ],
+            [
+              4.003297245760512,
+              43.73403113758501
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62944,
+      "code_cant" : "07",
+      "x_centroid" : 7808,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 30606,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        43.74477640404512,
+        4.003340093235983
+      ],
+      "code_comm" : "265",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.003340093235983,
+        43.74477640404512
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

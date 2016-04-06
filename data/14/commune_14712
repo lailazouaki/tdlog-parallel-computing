@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1b2ce642f2aa8b4218ba7b05892cb6d7cf305706",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 253,
+      "insee_com" : "38309",
+      "z_moyen" : 421,
+      "code_dept" : "38",
+      "nom_comm" : "POISAT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9169,
+      "y_centroid" : 64543,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.775849633742643,
+              45.14683389969437
+            ],
+            [
+              5.772907653749531,
+              45.14476278450074
+            ],
+            [
+              5.765507719540758,
+              45.14727099328357
+            ],
+            [
+              5.755333211281787,
+              45.15729819497846
+            ],
+            [
+              5.756177668043832,
+              45.16047574278863
+            ],
+            [
+              5.786228444650019,
+              45.15913464796024
+            ],
+            [
+              5.775849633742643,
+              45.14683389969437
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64547,
+      "code_cant" : "55",
+      "x_centroid" : 9176,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 15966,
+      "statut" : "Commune simple",
+      "population" : 2.1,
+      "geom_x_y" : [
+        45.1541844702485,
+        5.770153272340406
+      ],
+      "code_comm" : "309",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.770153272340406,
+        45.1541844702485
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

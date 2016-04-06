@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fc5afa75d5b9be35ef74fdb915a18e099dcd8080",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 415,
+      "insee_com" : "80364",
+      "z_moyen" : 95,
+      "code_dept" : "80",
+      "nom_comm" : "FRIAUCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5908,
+      "y_centroid" : 69998,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.479180343294849,
+              50.07523541959845
+            ],
+            [
+              1.469843573643074,
+              50.07473305552652
+            ],
+            [
+              1.459241839939986,
+              50.08096923149538
+            ],
+            [
+              1.465787302759617,
+              50.09720222238153
+            ],
+            [
+              1.468573057414857,
+              50.09975214814316
+            ],
+            [
+              1.491195868856122,
+              50.09505596474571
+            ],
+            [
+              1.479180343294849,
+              50.07523541959845
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70000,
+      "code_cant" : "11",
+      "x_centroid" : 5906,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 32640,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        50.08731846543192,
+        1.474146747643962
+      ],
+      "code_comm" : "364",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.474146747643962,
+        50.08731846543192
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

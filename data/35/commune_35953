@@ -1,0 +1,71 @@
+  {
+    "recordid" : "40ab736c69d45f67f038dd8cf8ee1525733b882a",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 134,
+      "insee_com" : "59296",
+      "z_moyen" : 147,
+      "code_dept" : "59",
+      "nom_comm" : "HECQ",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7465,
+      "y_centroid" : 70092,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.645803131748677,
+              50.172446721505
+            ],
+            [
+              3.642107317143667,
+              50.18093451362974
+            ],
+            [
+              3.644244862507815,
+              50.1840664188746
+            ],
+            [
+              3.654828135712732,
+              50.1848367003513
+            ],
+            [
+              3.659810660070167,
+              50.18402878762899
+            ],
+            [
+              3.661348221893655,
+              50.17752778474861
+            ],
+            [
+              3.645803131748677,
+              50.172446721505
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70094,
+      "code_cant" : "49",
+      "x_centroid" : 7465,
+      "nom_dept" : "NORD",
+      "id_geofla" : 35021,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.17952728176106,
+        3.651407383950093
+      ],
+      "code_comm" : "296",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.651407383950093,
+        50.17952728176106
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

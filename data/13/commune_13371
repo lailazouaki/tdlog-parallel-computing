@@ -1,0 +1,63 @@
+  {
+    "recordid" : "2fe306df320493e8f30a079adc85e7546783312c",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 309,
+      "insee_com" : "11172",
+      "z_moyen" : 44,
+      "code_dept" : "11",
+      "nom_comm" : "HOMPS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6773,
+      "y_centroid" : 62409,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.711733498985198,
+              43.25987199428921
+            ],
+            [
+              2.708919277867132,
+              43.27365453548433
+            ],
+            [
+              2.71773697395208,
+              43.27555799505248
+            ],
+            [
+              2.740771741248519,
+              43.26457822433223
+            ],
+            [
+              2.711733498985198,
+              43.25987199428921
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62409,
+      "code_cant" : "19",
+      "x_centroid" : 6773,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 27849,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        43.26736218538159,
+        2.720982822020294
+      ],
+      "code_comm" : "172",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.720982822020294,
+        43.26736218538159
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

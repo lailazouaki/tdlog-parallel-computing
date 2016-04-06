@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bdbcd802478f56d22e4e16e0473109c88790faa4",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 380,
+      "insee_com" : "55422",
+      "z_moyen" : 201,
+      "code_dept" : "55",
+      "nom_comm" : "REGNEVILLE-SUR-MEUSE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8693,
+      "y_centroid" : 69082,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.30351725073305,
+              49.24276870708503
+            ],
+            [
+              5.300163954096371,
+              49.2476713162486
+            ],
+            [
+              5.316549837938236,
+              49.26506605625959
+            ],
+            [
+              5.323387635532074,
+              49.26340563742629
+            ],
+            [
+              5.330750289036811,
+              49.25206649861264
+            ],
+            [
+              5.327850336080128,
+              49.24960427677998
+            ],
+            [
+              5.323467307442685,
+              49.24256577511399
+            ],
+            [
+              5.30351725073305,
+              49.24276870708503
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69084,
+      "code_cant" : "12",
+      "x_centroid" : 8686,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 27801,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.25199644722277,
+        5.31620365222934
+      ],
+      "code_comm" : "422",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.31620365222934,
+        49.25199644722277
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

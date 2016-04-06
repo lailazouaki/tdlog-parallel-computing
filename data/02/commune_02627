@@ -1,0 +1,63 @@
+  {
+    "recordid" : "918dc161776ff3e74576cf43779ec59fd1fcb82b",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 269,
+      "insee_com" : "49218",
+      "z_moyen" : 56,
+      "code_dept" : "49",
+      "nom_comm" : "MONTREVAULT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3942,
+      "y_centroid" : 66917,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.043838055431086,
+              47.24671502194708
+            ],
+            [
+              -1.067868000947668,
+              47.24920015841171
+            ],
+            [
+              -1.047640000770672,
+              47.26906415512809
+            ],
+            [
+              -1.040770261930792,
+              47.25644039656033
+            ],
+            [
+              -1.043838055431086,
+              47.24671502194708
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66923,
+      "code_cant" : "21",
+      "x_centroid" : 3937,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 13426,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.3,
+      "geom_x_y" : [
+        47.25539540397708,
+        -1.051609710246213
+      ],
+      "code_comm" : "218",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.051609710246213,
+        47.25539540397708
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

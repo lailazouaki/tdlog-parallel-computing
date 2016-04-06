@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0482ee980d8545ecf14476509ab9205f599b56cd",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 543,
+      "insee_com" : "17106",
+      "z_moyen" : 33,
+      "code_dept" : "17",
+      "nom_comm" : "CIERZAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4416,
+      "y_centroid" : 65011,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.321403518578388,
+              45.54203709688269
+            ],
+            [
+              -0.322724914958342,
+              45.56173583331181
+            ],
+            [
+              -0.326933127422331,
+              45.56750562090307
+            ],
+            [
+              -0.319818774992171,
+              45.57983815787152
+            ],
+            [
+              -0.296574330471666,
+              45.56449800797097
+            ],
+            [
+              -0.312709327673957,
+              45.54399728242235
+            ],
+            [
+              -0.321403518578388,
+              45.54203709688269
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65020,
+      "code_cant" : "02",
+      "x_centroid" : 4415,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 20767,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.56120688896684,
+        -0.3136952293659886
+      ],
+      "code_comm" : "106",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3136952293659886,
+        45.56120688896684
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

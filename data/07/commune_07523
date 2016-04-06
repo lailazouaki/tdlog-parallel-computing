@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f37abbf6cdee219921ded128bf4768eb596e38ed",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 228,
+      "insee_com" : "14255",
+      "z_moyen" : 114,
+      "code_dept" : "14",
+      "nom_comm" : "ETOUVY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4149,
+      "y_centroid" : 68726,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.918193821040168,
+              48.88154472377776
+            ],
+            [
+              -0.906772797996154,
+              48.89362342163356
+            ],
+            [
+              -0.893814173899811,
+              48.89617972705269
+            ],
+            [
+              -0.888773918826512,
+              48.90127770211529
+            ],
+            [
+              -0.885052880844751,
+              48.88802792269465
+            ],
+            [
+              -0.918193821040168,
+              48.88154472377776
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68729,
+      "code_cant" : "04",
+      "x_centroid" : 4142,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 31519,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.89006834023232,
+        -0.8991701146216978
+      ],
+      "code_comm" : "255",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8991701146216978,
+        48.89006834023232
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

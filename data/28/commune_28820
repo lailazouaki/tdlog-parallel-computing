@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9439fd236d4564c5c2d08dab4d165bd8ec47d16c",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 920,
+      "insee_com" : "34192",
+      "z_moyen" : 0,
+      "code_dept" : "34",
+      "nom_comm" : "PALAVAS-LES-FLOTS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7752,
+      "y_centroid" : 62709,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.907955835862423,
+              43.51719681385986
+            ],
+            [
+              3.898917209064022,
+              43.52427230319328
+            ],
+            [
+              3.899762725777311,
+              43.54036235431365
+            ],
+            [
+              3.906737104096308,
+              43.54495621510175
+            ],
+            [
+              3.933308237587432,
+              43.53813554783493
+            ],
+            [
+              3.969997934049261,
+              43.54719871921842
+            ],
+            [
+              3.969385502664254,
+              43.54023076840173
+            ],
+            [
+              3.907955835862423,
+              43.51719681385986
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62704,
+      "code_cant" : "48",
+      "x_centroid" : 7748,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 25335,
+      "statut" : "Commune simple",
+      "population" : 6,
+      "geom_x_y" : [
+        43.53353645604872,
+        3.926208395660128
+      ],
+      "code_comm" : "192",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.926208395660128,
+        43.53353645604872
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

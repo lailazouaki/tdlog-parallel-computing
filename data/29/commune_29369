@@ -1,0 +1,63 @@
+  {
+    "recordid" : "8903c281b6bad033c320a2b7db663dee4a19c413",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 124,
+      "insee_com" : "14509",
+      "z_moyen" : 49,
+      "code_dept" : "14",
+      "nom_comm" : "PLUMETOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4557,
+      "y_centroid" : 69138,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.357313872664824,
+              49.27300671469417
+            ],
+            [
+              -0.375308326012159,
+              49.27628352386672
+            ],
+            [
+              -0.362852830669197,
+              49.28225499899361
+            ],
+            [
+              -0.349103087781565,
+              49.2789215171963
+            ],
+            [
+              -0.357313872664824,
+              49.27300671469417
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69140,
+      "code_cant" : "14",
+      "x_centroid" : 4554,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 23644,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.27755370710059,
+        -0.3614633629060188
+      ],
+      "code_comm" : "509",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3614633629060188,
+        49.27755370710059
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

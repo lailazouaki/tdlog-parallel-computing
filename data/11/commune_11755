@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b8f1075d79f1c6e780decefbbd805306098b3447",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 194,
+      "insee_com" : "89361",
+      "z_moyen" : 146,
+      "code_dept" : "89",
+      "nom_comm" : "SAINT-MAURICE-THIZOUAILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7270,
+      "y_centroid" : 67481,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.346255923351294,
+              47.82666353827068
+            ],
+            [
+              3.342744802871361,
+              47.83140791810294
+            ],
+            [
+              3.376899586852777,
+              47.83956521471086
+            ],
+            [
+              3.382084292331419,
+              47.83182634639987
+            ],
+            [
+              3.363211646432414,
+              47.83189531917741
+            ],
+            [
+              3.346255923351294,
+              47.82666353827068
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67482,
+      "code_cant" : "01",
+      "x_centroid" : 7271,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 11558,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.83326461823836,
+        3.363234561724592
+      ],
+      "code_comm" : "361",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.363234561724592,
+        47.83326461823836
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

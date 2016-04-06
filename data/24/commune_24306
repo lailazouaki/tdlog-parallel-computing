@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c4c7ad88adc2145ad4af7a8779834518638956c8",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 345,
+      "insee_com" : "78194",
+      "z_moyen" : 118,
+      "code_dept" : "78",
+      "nom_comm" : "DANNEMARIE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5976,
+      "y_centroid" : 68524,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.624960005496308,
+              48.74903124496883
+            ],
+            [
+              1.60522642722514,
+              48.76058635014334
+            ],
+            [
+              1.584907282262545,
+              48.76329779941845
+            ],
+            [
+              1.60685907399733,
+              48.77486298549531
+            ],
+            [
+              1.61495906324533,
+              48.77221362297344
+            ],
+            [
+              1.621476657302359,
+              48.76452608845727
+            ],
+            [
+              1.624960005496308,
+              48.74903124496883
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68521,
+      "code_cant" : "08",
+      "x_centroid" : 5977,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 16305,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.76397074349435,
+        1.608969657215297
+      ],
+      "code_comm" : "194",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.608969657215297,
+        48.76397074349435
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

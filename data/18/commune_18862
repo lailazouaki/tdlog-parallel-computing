@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dbdd90f7cf63e07d0da65be9376bf577ccca012f",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 678,
+      "insee_com" : "03164",
+      "z_moyen" : 299,
+      "code_dept" : "03",
+      "nom_comm" : "LE MAYET-D'ECOLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7186,
+      "y_centroid" : 65628,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.241369324550696,
+              46.15099120152323
+            ],
+            [
+              3.219241977992497,
+              46.15165739350381
+            ],
+            [
+              3.231372018923686,
+              46.17374936758809
+            ],
+            [
+              3.238928360472929,
+              46.17957790917405
+            ],
+            [
+              3.247985953744512,
+              46.18159361601543
+            ],
+            [
+              3.256998473482048,
+              46.17384739630769
+            ],
+            [
+              3.260491289690399,
+              46.16419519278874
+            ],
+            [
+              3.241369324550696,
+              46.15099120152323
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65632,
+      "code_cant" : "11",
+      "x_centroid" : 7185,
+      "nom_dept" : "ALLIER",
+      "id_geofla" : 30170,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.16495540352017,
+        3.24084567902441
+      ],
+      "code_comm" : "164",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.24084567902441,
+        46.16495540352017
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

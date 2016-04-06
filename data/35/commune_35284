@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d2568fd95211d87bd12fb66f23da61ad6b58ff24",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 158,
+      "insee_com" : "52327",
+      "z_moyen" : 140,
+      "code_dept" : "52",
+      "nom_comm" : "MOESLAINS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8396,
+      "y_centroid" : 68368,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.898519521109027,
+              48.61531734088386
+            ],
+            [
+              4.893997782361297,
+              48.61636110273844
+            ],
+            [
+              4.887792887953356,
+              48.61175386489604
+            ],
+            [
+              4.869007188925674,
+              48.61385877251196
+            ],
+            [
+              4.88453057183435,
+              48.62026332731814
+            ],
+            [
+              4.89301368321977,
+              48.62329593190749
+            ],
+            [
+              4.900020327066569,
+              48.61927936878737
+            ],
+            [
+              4.898519521109027,
+              48.61531734088386
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68372,
+      "code_cant" : "31",
+      "x_centroid" : 8390,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 34616,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.61694528217333,
+        4.886788296577835
+      ],
+      "code_comm" : "327",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.886788296577835,
+        48.61694528217333
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

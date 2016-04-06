@@ -1,0 +1,71 @@
+  {
+    "recordid" : "52453fcce1e5adf728e754899c450e1cee039715",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 542,
+      "insee_com" : "52159",
+      "z_moyen" : 411,
+      "code_dept" : "52",
+      "nom_comm" : "CUVES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8814,
+      "y_centroid" : 67799,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.448362101016701,
+              48.08202510561827
+            ],
+            [
+              5.422417560888825,
+              48.08612659177278
+            ],
+            [
+              5.411972225415351,
+              48.09338107721739
+            ],
+            [
+              5.436026468166995,
+              48.10970346520678
+            ],
+            [
+              5.44169069883079,
+              48.11009942138578
+            ],
+            [
+              5.450423088944906,
+              48.08823029935791
+            ],
+            [
+              5.448362101016701,
+              48.08202510561827
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67799,
+      "code_cant" : "09",
+      "x_centroid" : 8811,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 21523,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.09472330150114,
+        5.434006191274809
+      ],
+      "code_comm" : "159",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.434006191274809,
+        48.09472330150114
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

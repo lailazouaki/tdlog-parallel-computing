@@ -1,0 +1,63 @@
+  {
+    "recordid" : "548dd15ab01b48d1ad05edf62d8503a3581f7923",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 239,
+      "insee_com" : "65430",
+      "z_moyen" : 270,
+      "code_dept" : "65",
+      "nom_comm" : "SOREAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4694,
+      "y_centroid" : 62500,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.143518981596915,
+              43.30700697908961
+            ],
+            [
+              0.13906300235089,
+              43.31259615509416
+            ],
+            [
+              0.174746935470504,
+              43.31895367979334
+            ],
+            [
+              0.176934380949478,
+              43.3105403994142
+            ],
+            [
+              0.143518981596915,
+              43.30700697908961
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62501,
+      "code_cant" : "17",
+      "x_centroid" : 4694,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 30352,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.31246913157831,
+        0.1595012196864876
+      ],
+      "code_comm" : "430",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1595012196864876,
+        43.31246913157831
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

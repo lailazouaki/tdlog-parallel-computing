@@ -1,0 +1,67 @@
+  {
+    "recordid" : "73752b070f38ee9298605b5dd585cbb6dee0df5b",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 298,
+      "insee_com" : "80096",
+      "z_moyen" : 104,
+      "code_dept" : "80",
+      "nom_comm" : "BETHENCOURT-SUR-MER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5927,
+      "y_centroid" : 69984,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.505526001518363,
+              50.06598344670684
+            ],
+            [
+              1.48998922627096,
+              50.06847906036429
+            ],
+            [
+              1.481802941059287,
+              50.07295031934332
+            ],
+            [
+              1.506399684797481,
+              50.08896307993
+            ],
+            [
+              1.512022594133449,
+              50.07097606573893
+            ],
+            [
+              1.505526001518363,
+              50.06598344670684
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69987,
+      "code_cant" : "11",
+      "x_centroid" : 5924,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 36433,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        50.07538830226046,
+        1.499508619535845
+      ],
+      "code_comm" : "096",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.499508619535845,
+        50.07538830226046
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

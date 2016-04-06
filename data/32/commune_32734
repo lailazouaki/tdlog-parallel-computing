@@ -1,0 +1,63 @@
+  {
+    "recordid" : "b28eef929515853164d51a2c372ed84e45278e9d",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 210,
+      "insee_com" : "65120",
+      "z_moyen" : 364,
+      "code_dept" : "65",
+      "nom_comm" : "CALAVANTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4692,
+      "y_centroid" : 62380,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.183709204001339,
+              43.20922968335925
+            ],
+            [
+              0.17016354252409,
+              43.20064859309865
+            ],
+            [
+              0.147957309817867,
+              43.200621904683
+            ],
+            [
+              0.149224147696494,
+              43.20636192050709
+            ],
+            [
+              0.183709204001339,
+              43.20922968335925
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62380,
+      "code_cant" : "23",
+      "x_centroid" : 4693,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 28814,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.2044624837826,
+        0.1637493952766438
+      ],
+      "code_comm" : "120",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1637493952766438,
+        43.2044624837826
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

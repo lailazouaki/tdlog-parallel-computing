@@ -1,0 +1,79 @@
+  {
+    "recordid" : "735481add10efd427c6ce12df8ab77d252a6ec84",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 1680,
+      "insee_com" : "90089",
+      "z_moyen" : 615,
+      "code_dept" : "90",
+      "nom_comm" : "ROUGEMONT-LE-CHATEAU",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9972,
+      "y_centroid" : 67458,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.944385218006834,
+              47.72194027326477
+            ],
+            [
+              6.922592828148402,
+              47.74699579731149
+            ],
+            [
+              6.923451893165112,
+              47.77006350979338
+            ],
+            [
+              6.938436396595242,
+              47.77132645891412
+            ],
+            [
+              6.9743125685171,
+              47.75161240921559
+            ],
+            [
+              6.998425443186303,
+              47.74582513734917
+            ],
+            [
+              6.968100241714893,
+              47.72672523342704
+            ],
+            [
+              6.947508539001029,
+              47.72209620885937
+            ],
+            [
+              6.944385218006834,
+              47.72194027326477
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67447,
+      "code_cant" : "05",
+      "x_centroid" : 9960,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 27723,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.4,
+      "geom_x_y" : [
+        47.74601139408559,
+        6.952128897336959
+      ],
+      "code_comm" : "089",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.952128897336959,
+        47.74601139408559
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

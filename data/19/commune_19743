@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e7c60b3b99b50418b3399cc8933edadafce14de1",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 847,
+      "insee_com" : "79099",
+      "z_moyen" : 125,
+      "code_dept" : "79",
+      "nom_comm" : "LA COUDRE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4361,
+      "y_centroid" : 66554,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50046906839287,
+              46.93321284710984
+            ],
+            [
+              -0.501728013428153,
+              46.94371011138585
+            ],
+            [
+              -0.487114241784734,
+              46.96236719390528
+            ],
+            [
+              -0.448178624294325,
+              46.94962384892155
+            ],
+            [
+              -0.433377113821423,
+              46.94927273452717
+            ],
+            [
+              -0.439201551335254,
+              46.94360167726942
+            ],
+            [
+              -0.50046906839287,
+              46.93321284710984
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66553,
+      "code_cant" : "02",
+      "x_centroid" : 4357,
+      "nom_dept" : "DEUX-SEVRES",
+      "id_geofla" : 21631,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.94676738553608,
+        -0.4748832313802343
+      ],
+      "code_comm" : "099",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4748832313802343,
+        46.94676738553608
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

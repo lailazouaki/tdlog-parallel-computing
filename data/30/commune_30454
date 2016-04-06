@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dc840d98a8363462d7c3ad9be5989ce954f479eb",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 608,
+      "insee_com" : "70032",
+      "z_moyen" : 232,
+      "code_dept" : "70",
+      "nom_comm" : "ATTRICOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8799,
+      "y_centroid" : 67124,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.407642232895228,
+              47.47719029779279
+            ],
+            [
+              5.38729756674945,
+              47.48119351724421
+            ],
+            [
+              5.39114242879639,
+              47.48815715589578
+            ],
+            [
+              5.399202495527231,
+              47.4990144629987
+            ],
+            [
+              5.427780661205984,
+              47.49652208813993
+            ],
+            [
+              5.43643250770828,
+              47.49041554092976
+            ],
+            [
+              5.420662748945811,
+              47.47724454104934
+            ],
+            [
+              5.407642232895228,
+              47.47719029779279
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67119,
+      "code_cant" : "02",
+      "x_centroid" : 8815,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 28407,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.48786189099379,
+        5.411209634662444
+      ],
+      "code_comm" : "032",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.411209634662444,
+        47.48786189099379
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

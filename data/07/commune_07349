@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1aaac04256be293d941e1f3fa6dd97abe252ce55",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 626,
+      "insee_com" : "30197",
+      "z_moyen" : 178,
+      "code_dept" : "30",
+      "nom_comm" : "LES PLANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7968,
+      "y_centroid" : 63386,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.220986632637438,
+              44.12618683809742
+            ],
+            [
+              4.207541458442487,
+              44.12802807629792
+            ],
+            [
+              4.193633907186677,
+              44.13288822642891
+            ],
+            [
+              4.197332396554894,
+              44.14292971926906
+            ],
+            [
+              4.217767309788671,
+              44.15676535623427
+            ],
+            [
+              4.221980837027548,
+              44.15675449681614
+            ],
+            [
+              4.226660832411722,
+              44.15170627636186
+            ],
+            [
+              4.220986632637438,
+              44.12618683809742
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63388,
+      "code_cant" : "41",
+      "x_centroid" : 7969,
+      "nom_dept" : "GARD",
+      "id_geofla" : 20651,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.14050535430143,
+        4.212122559806505
+      ],
+      "code_comm" : "197",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.212122559806505,
+        44.14050535430143
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "abbc79eb82be539b93a48ee60dbfc18c76df513a",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 220,
+      "insee_com" : "78442",
+      "z_moyen" : 156,
+      "code_dept" : "78",
+      "nom_comm" : "NEAUPHLE-LE-CHATEAU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6193,
+      "y_centroid" : 68575,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.914910943479307,
+              48.80263144994785
+            ],
+            [
+              1.898492103808992,
+              48.80962289401545
+            ],
+            [
+              1.893691576263476,
+              48.80867012254765
+            ],
+            [
+              1.88895798200323,
+              48.80905795650232
+            ],
+            [
+              1.901268931614907,
+              48.82196179236266
+            ],
+            [
+              1.913066136329243,
+              48.81993795131864
+            ],
+            [
+              1.914910943479307,
+              48.80263144994785
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68577,
+      "code_cant" : "15",
+      "x_centroid" : 6195,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 20221,
+      "statut" : "Commune simple",
+      "population" : 3,
+      "geom_x_y" : [
+        48.81309974208725,
+        1.904704127176858
+      ],
+      "code_comm" : "442",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.904704127176858,
+        48.81309974208725
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

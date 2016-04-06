@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b6d504206bbe6dffb7f86b4d438886cd311dd6ee",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 414,
+      "insee_com" : "74202",
+      "z_moyen" : 545,
+      "code_dept" : "74",
+      "nom_comm" : "NONGLARD",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9339,
+      "y_centroid" : 65404,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.016907826057889,
+              45.91032002038417
+            ],
+            [
+              6.012682499842547,
+              45.92039938999248
+            ],
+            [
+              6.018845468406298,
+              45.92966107520822
+            ],
+            [
+              6.03527671473824,
+              45.93349280003764
+            ],
+            [
+              6.043447004183883,
+              45.93153401370067
+            ],
+            [
+              6.037150620183299,
+              45.91759110720464
+            ],
+            [
+              6.016907826057889,
+              45.91032002038417
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65398,
+      "code_cant" : "29",
+      "x_centroid" : 9345,
+      "nom_dept" : "HAUTE-SAVOIE",
+      "id_geofla" : 18810,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        45.92288034052504,
+        6.027308338279794
+      ],
+      "code_comm" : "202",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.027308338279794,
+        45.92288034052504
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "26ce1aae99d1aa4e092dd9c9bbf9335bd791c040",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 933,
+      "insee_com" : "32245",
+      "z_moyen" : 135,
+      "code_dept" : "32",
+      "nom_comm" : "MAUMUSSON-LAGUIAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4495,
+      "y_centroid" : 62837,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.097508852179084,
+              43.58942669164815
+            ],
+            [
+              -0.112167652592964,
+              43.618947999441
+            ],
+            [
+              -0.091449817001039,
+              43.63009305413537
+            ],
+            [
+              -0.079445724555382,
+              43.62078996186201
+            ],
+            [
+              -0.080530338860655,
+              43.61444698825671
+            ],
+            [
+              -0.074212592713273,
+              43.60617972501223
+            ],
+            [
+              -0.075589040371698,
+              43.59279613986509
+            ],
+            [
+              -0.097508852179084,
+              43.58942669164815
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62837,
+      "code_cant" : "24",
+      "x_centroid" : 4503,
+      "nom_dept" : "GERS",
+      "id_geofla" : 633,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.60895723904463,
+        -0.09174408194318656
+      ],
+      "code_comm" : "245",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.09174408194318656,
+        43.60895723904463
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

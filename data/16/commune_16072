@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2f94dae9dd515e65b291f21e77d827b987555610",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 160,
+      "insee_com" : "80459",
+      "z_moyen" : 44,
+      "code_dept" : "80",
+      "nom_comm" : "LALEU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6233,
+      "y_centroid" : 69831,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.928975111133351,
+              49.93393475413207
+            ],
+            [
+              1.926069938029561,
+              49.93970371718835
+            ],
+            [
+              1.932140077339583,
+              49.94828221931746
+            ],
+            [
+              1.94192319714766,
+              49.94847500687249
+            ],
+            [
+              1.948272430274026,
+              49.94371459877372
+            ],
+            [
+              1.928975111133351,
+              49.93393475413207
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69830,
+      "code_cant" : "26",
+      "x_centroid" : 6235,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 23674,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.94240562408223,
+        1.935791478101494
+      ],
+      "code_comm" : "459",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.935791478101494,
+        49.94240562408223
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

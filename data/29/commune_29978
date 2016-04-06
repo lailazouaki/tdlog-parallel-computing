@@ -1,0 +1,71 @@
+  {
+    "recordid" : "7d9dd54e5c936a371327176008321496fccc9205",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 413,
+      "insee_com" : "73200",
+      "z_moyen" : 300,
+      "code_dept" : "73",
+      "nom_comm" : "PLANAISE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9412,
+      "y_centroid" : 64944,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.082762222816467,
+              45.4934646805261
+            ],
+            [
+              6.073477858975873,
+              45.50350583614903
+            ],
+            [
+              6.085828710869471,
+              45.50967328216528
+            ],
+            [
+              6.107994981105083,
+              45.52099315623135
+            ],
+            [
+              6.11521144079583,
+              45.51663875281945
+            ],
+            [
+              6.090299048485667,
+              45.49627625002495
+            ],
+            [
+              6.082762222816467,
+              45.4934646805261
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64940,
+      "code_cant" : "18",
+      "x_centroid" : 9415,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 27975,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        45.50711480688929,
+        6.09359995038229
+      ],
+      "code_comm" : "200",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.09359995038229,
+        45.50711480688929
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

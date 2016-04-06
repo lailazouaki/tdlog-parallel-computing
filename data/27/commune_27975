@@ -1,0 +1,63 @@
+  {
+    "recordid" : "bb5756dc55f97af5f47650e3e267ffce24fc9d61",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 396,
+      "insee_com" : "14605",
+      "z_moyen" : 49,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-LAURENT-SUR-MER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4183,
+      "y_centroid" : 69244,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.867861695779218,
+              49.34394906389589
+            ],
+            [
+              -0.892900392232252,
+              49.35120829989968
+            ],
+            [
+              -0.881651369060602,
+              49.37159453728744
+            ],
+            [
+              -0.860978714627995,
+              49.36533633533225
+            ],
+            [
+              -0.867861695779218,
+              49.34394906389589
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69245,
+      "code_cant" : "33",
+      "x_centroid" : 4184,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 29890,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.3577049946045,
+        -0.8760121167289548
+      ],
+      "code_comm" : "605",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8760121167289548,
+        49.3577049946045
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

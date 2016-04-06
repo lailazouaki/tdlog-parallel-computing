@@ -1,0 +1,67 @@
+  {
+    "recordid" : "63fd54e347530787a6ff050e0d3798cc32762b12",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 143,
+      "insee_com" : "62605",
+      "z_moyen" : 94,
+      "code_dept" : "62",
+      "nom_comm" : "NEULETTE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6406,
+      "y_centroid" : 70318,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.16710040918742,
+              50.37543103884357
+            ],
+            [
+              2.155968122762073,
+              50.3812630101197
+            ],
+            [
+              2.161927569513821,
+              50.38766001205698
+            ],
+            [
+              2.176537667204556,
+              50.38213808699191
+            ],
+            [
+              2.17795592614915,
+              50.37954391338484
+            ],
+            [
+              2.16710040918742,
+              50.37543103884357
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70318,
+      "code_cant" : "39",
+      "x_centroid" : 6406,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 14144,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        50.38131942741432,
+        2.166643162209935
+      ],
+      "code_comm" : "605",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.166643162209935,
+        50.38131942741432
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

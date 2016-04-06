@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2cddef37ee824cae6bd19f1acd18456fdd1edd0a",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 441,
+      "insee_com" : "58167",
+      "z_moyen" : 243,
+      "code_dept" : "58",
+      "nom_comm" : "MICHAUGUES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7393,
+      "y_centroid" : 66855,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.540249337835037,
+              47.25966750918726
+            ],
+            [
+              3.507199464771393,
+              47.26216645459539
+            ],
+            [
+              3.508812266607977,
+              47.26489621763329
+            ],
+            [
+              3.501804980383779,
+              47.27220992353197
+            ],
+            [
+              3.506600794031581,
+              47.2800304075656
+            ],
+            [
+              3.535192233338711,
+              47.27372620635454
+            ],
+            [
+              3.539845503209349,
+              47.26817697985857
+            ],
+            [
+              3.540249337835037,
+              47.25966750918726
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66854,
+      "code_cant" : "01",
+      "x_centroid" : 7394,
+      "nom_dept" : "NIEVRE",
+      "id_geofla" : 32403,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.26901843869415,
+        3.521266588346081
+      ],
+      "code_comm" : "167",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.521266588346081,
+        47.26901843869415
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e68d08ed0c1a59e87a3e3bd10936376fd271a984",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 184,
+      "insee_com" : "73204",
+      "z_moyen" : 272,
+      "code_dept" : "73",
+      "nom_comm" : "LE PONT-DE-BEAUVOISIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9085,
+      "y_centroid" : 64964,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.691109114622086,
+              45.52789294523195
+            ],
+            [
+              5.677132642636137,
+              45.53099303962983
+            ],
+            [
+              5.671341300492345,
+              45.53664498123949
+            ],
+            [
+              5.673336552993889,
+              45.54346303505395
+            ],
+            [
+              5.681070503521026,
+              45.541386626944
+            ],
+            [
+              5.68964839127695,
+              45.53821728457118
+            ],
+            [
+              5.691109114622086,
+              45.52789294523195
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64965,
+      "code_cant" : "21",
+      "x_centroid" : 9092,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 25588,
+      "statut" : "Chef-lieu canton",
+      "population" : 2,
+      "geom_x_y" : [
+        45.53564356039187,
+        5.681423499254762
+      ],
+      "code_comm" : "204",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.681423499254762,
+        45.53564356039187
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fbf41349248b6319b215ef8f9f3033559cb33e0f",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 619,
+      "insee_com" : "45287",
+      "z_moyen" : 133,
+      "code_dept" : "45",
+      "nom_comm" : "SAINT-LOUP-DE-GONOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6940,
+      "y_centroid" : 67736,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.907159024816247,
+              48.04622992147162
+            ],
+            [
+              2.905582588040362,
+              48.04974721368684
+            ],
+            [
+              2.914590902547114,
+              48.07299788492568
+            ],
+            [
+              2.920786086777544,
+              48.07840141730462
+            ],
+            [
+              2.951960488148963,
+              48.07050841249035
+            ],
+            [
+              2.928822782571176,
+              48.05357904999278
+            ],
+            [
+              2.907159024816247,
+              48.04622992147162
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67731,
+      "code_cant" : "11",
+      "x_centroid" : 6944,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 15885,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.06363482554313,
+        2.925145685179611
+      ],
+      "code_comm" : "287",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.925145685179611,
+        48.06363482554313
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6929d0b64ff8d69f2522d64345c7c0e35a12c255",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 445,
+      "insee_com" : "78609",
+      "z_moyen" : 77,
+      "code_dept" : "78",
+      "nom_comm" : "TESSANCOURT-SUR-AUBETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6210,
+      "y_centroid" : 68811,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.907059474812613,
+              49.01225586064429
+            ],
+            [
+              1.905083694845436,
+              49.0255650674309
+            ],
+            [
+              1.912473689832882,
+              49.04161205283494
+            ],
+            [
+              1.937802165256433,
+              49.02177632637226
+            ],
+            [
+              1.931983412542174,
+              49.01748915466961
+            ],
+            [
+              1.919474002824033,
+              49.01482327633622
+            ],
+            [
+              1.914951705162497,
+              49.01598751052249
+            ],
+            [
+              1.907059474812613,
+              49.01225586064429
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68810,
+      "code_cant" : "14",
+      "x_centroid" : 6208,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 8730,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        49.0250430993482,
+        1.91835280056432
+      ],
+      "code_comm" : "609",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.91835280056432,
+        49.0250430993482
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

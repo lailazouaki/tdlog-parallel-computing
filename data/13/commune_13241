@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6f0cd52ddfef193c1d8bbaaee8d11f8251bf5cc7",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 765,
+      "insee_com" : "80023",
+      "z_moyen" : 95,
+      "code_dept" : "80",
+      "nom_comm" : "ANDECHY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6790,
+      "y_centroid" : 69573,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.710118587542898,
+              49.6980614283089
+            ],
+            [
+              2.697106625112021,
+              49.69877553990858
+            ],
+            [
+              2.690242777143626,
+              49.69987246254836
+            ],
+            [
+              2.685389462795291,
+              49.70965408234716
+            ],
+            [
+              2.702819307217156,
+              49.73367935400076
+            ],
+            [
+              2.710209619637377,
+              49.73093873861393
+            ],
+            [
+              2.731796732388812,
+              49.72213782476125
+            ],
+            [
+              2.710118587542898,
+              49.6980614283089
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69573,
+      "code_cant" : "27",
+      "x_centroid" : 6788,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 14095,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.71472469524715,
+        2.706626743774044
+      ],
+      "code_comm" : "023",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.706626743774044,
+        49.71472469524715
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

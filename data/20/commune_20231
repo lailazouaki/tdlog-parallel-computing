@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9c302702505ee185dca1975789b64097cd564e72",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 567,
+      "insee_com" : "90052",
+      "z_moyen" : 517,
+      "code_dept" : "90",
+      "nom_comm" : "GIROMAGNY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9865,
+      "y_centroid" : 67447,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.813005350464934,
+              47.72738861900576
+            ],
+            [
+              6.805164387643981,
+              47.74119652983764
+            ],
+            [
+              6.799576233729617,
+              47.7486229400392
+            ],
+            [
+              6.814461360960296,
+              47.74789525472906
+            ],
+            [
+              6.834526664322671,
+              47.7575028670577
+            ],
+            [
+              6.839853891893562,
+              47.7354041335328
+            ],
+            [
+              6.834528599210147,
+              47.73082997373258
+            ],
+            [
+              6.813005350464934,
+              47.72738861900576
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67449,
+      "code_cant" : "04",
+      "x_centroid" : 9863,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 25010,
+      "statut" : "Chef-lieu canton",
+      "population" : 3.2,
+      "geom_x_y" : [
+        47.7410484389646,
+        6.822643295309091
+      ],
+      "code_comm" : "052",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.822643295309091,
+        47.7410484389646
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

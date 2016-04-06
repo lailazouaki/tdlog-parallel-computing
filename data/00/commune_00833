@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9960afa1441ae6e7f065994e5c625f5f962ee0cf",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 511,
+      "insee_com" : "31448",
+      "z_moyen" : 235,
+      "code_dept" : "31",
+      "nom_comm" : "REBIGUE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5770,
+      "y_centroid" : 62668,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.471930013588906,
+              43.47779458420915
+            ],
+            [
+              1.460830956574959,
+              43.48296474831724
+            ],
+            [
+              1.463455511820518,
+              43.4989745781077
+            ],
+            [
+              1.484771536480972,
+              43.50066926465789
+            ],
+            [
+              1.499329264773121,
+              43.48947943597133
+            ],
+            [
+              1.494387336032422,
+              43.48421876706313
+            ],
+            [
+              1.481505938167635,
+              43.48296830891
+            ],
+            [
+              1.471930013588906,
+              43.47779458420915
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62667,
+      "code_cant" : "10",
+      "x_centroid" : 5768,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 13584,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.49008293815496,
+        1.477658298982126
+      ],
+      "code_comm" : "448",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.477658298982126,
+        43.49008293815496
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0dcd5c82d3dd04ca4c222c669c5dd2a2484d20a3",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 375,
+      "insee_com" : "65333",
+      "z_moyen" : 416,
+      "code_dept" : "65",
+      "nom_comm" : "OLEAC-DESSUS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4713,
+      "y_centroid" : 62331,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.197082535713478,
+              43.14996774992522
+            ],
+            [
+              0.183742828653905,
+              43.15733336415086
+            ],
+            [
+              0.182987811856728,
+              43.16046377190901
+            ],
+            [
+              0.184960523621422,
+              43.16968672062091
+            ],
+            [
+              0.189247840263149,
+              43.16926753083487
+            ],
+            [
+              0.213360945675969,
+              43.16774227205344
+            ],
+            [
+              0.204575852815547,
+              43.1523583810394
+            ],
+            [
+              0.197082535713478,
+              43.14996774992522
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62331,
+      "code_cant" : "23",
+      "x_centroid" : 4719,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 11930,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.16102834332382,
+        0.1968941729903976
+      ],
+      "code_comm" : "333",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1968941729903976,
+        43.16102834332382
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

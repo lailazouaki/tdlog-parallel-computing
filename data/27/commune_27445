@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8c9dd7322fa30a34b4bb5348d27264cad47383cc",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 419,
+      "insee_com" : "71099",
+      "z_moyen" : 221,
+      "code_dept" : "71",
+      "nom_comm" : "CHARBONNIERES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8408,
+      "y_centroid" : 65892,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.821616969341466,
+              46.37624118452128
+            ],
+            [
+              4.819014627417729,
+              46.38250658753069
+            ],
+            [
+              4.822406484923455,
+              46.39913350566686
+            ],
+            [
+              4.830083217398827,
+              46.40210907622341
+            ],
+            [
+              4.840313584742523,
+              46.3981525754225
+            ],
+            [
+              4.846743410034286,
+              46.39310379639159
+            ],
+            [
+              4.839460510983273,
+              46.37823362627319
+            ],
+            [
+              4.821616969341466,
+              46.37624118452128
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65895,
+      "code_cant" : "26",
+      "x_centroid" : 8407,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 26775,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.38877440814831,
+        4.831620319027789
+      ],
+      "code_comm" : "099",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.831620319027789,
+        46.38877440814831
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

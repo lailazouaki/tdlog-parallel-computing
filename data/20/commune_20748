@@ -1,0 +1,75 @@
+  {
+    "recordid" : "87d83c681c71d02bfaa17a962fa7bdad2deb2b17",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 571,
+      "insee_com" : "17087",
+      "z_moyen" : 20,
+      "code_dept" : "17",
+      "nom_comm" : "CHANTEMERLE-SUR-LA-SOIE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4180,
+      "y_centroid" : 65480,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.628165223996046,
+              45.97051658975992
+            ],
+            [
+              -0.628908498613839,
+              45.9670852967139
+            ],
+            [
+              -0.641066174532088,
+              45.96112377511236
+            ],
+            [
+              -0.671891881184889,
+              45.97193676807946
+            ],
+            [
+              -0.66622500653859,
+              45.97536577402367
+            ],
+            [
+              -0.630763471936145,
+              45.98579388379893
+            ],
+            [
+              -0.6254587947739501,
+              45.98025777978157
+            ],
+            [
+              -0.628165223996046,
+              45.97051658975992
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65487,
+      "code_cant" : "38",
+      "x_centroid" : 4179,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 26057,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.9732176097264,
+        -0.6442644933446968
+      ],
+      "code_comm" : "087",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6442644933446968,
+        45.9732176097264
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

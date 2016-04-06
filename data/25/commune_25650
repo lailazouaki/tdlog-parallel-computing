@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fa6e172ddc80ab6f3bef591c2837416547c488e7",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 488,
+      "insee_com" : "39035",
+      "z_moyen" : 268,
+      "code_dept" : "39",
+      "nom_comm" : "BALANOD",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8807,
+      "y_centroid" : 65977,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.367938717624164,
+              46.44787027746845
+            ],
+            [
+              5.348457336067555,
+              46.44763294420004
+            ],
+            [
+              5.323146620462134,
+              46.45648345650464
+            ],
+            [
+              5.323350959320725,
+              46.46250595830331
+            ],
+            [
+              5.373777433270152,
+              46.46045124160462
+            ],
+            [
+              5.375050595639429,
+              46.45047023130601
+            ],
+            [
+              5.367938717624164,
+              46.44787027746845
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65978,
+      "code_cant" : "25",
+      "x_centroid" : 8804,
+      "nom_dept" : "JURA",
+      "id_geofla" : 31610,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.45542390068561,
+        5.350904838708941
+      ],
+      "code_comm" : "035",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.350904838708941,
+        46.45542390068561
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

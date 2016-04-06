@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8a668cb2e6ad2f1cf079994cef5bfd5122b7dead",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 417,
+      "insee_com" : "39549",
+      "z_moyen" : 219,
+      "code_dept" : "39",
+      "nom_comm" : "VERCIA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8880,
+      "y_centroid" : 66136,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.459847754272506,
+              46.58516822011545
+            ],
+            [
+              5.43903777076188,
+              46.59343293882517
+            ],
+            [
+              5.438989561621801,
+              46.60635234005557
+            ],
+            [
+              5.460954463118738,
+              46.60415282860485
+            ],
+            [
+              5.471654285663134,
+              46.59857122458748
+            ],
+            [
+              5.469440041118238,
+              46.59240295904121
+            ],
+            [
+              5.459847754272506,
+              46.58516822011545
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66129,
+      "code_cant" : "03",
+      "x_centroid" : 8878,
+      "nom_dept" : "JURA",
+      "id_geofla" : 19067,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.59666160942466,
+        5.454231293756393
+      ],
+      "code_comm" : "549",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.454231293756393,
+        46.59666160942466
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

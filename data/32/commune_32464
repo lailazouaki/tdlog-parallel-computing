@@ -1,0 +1,71 @@
+  {
+    "recordid" : "acfe4f8b829e0dc88cda6af9b92352d3fcc210ff",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 269,
+      "insee_com" : "59368",
+      "z_moyen" : 26,
+      "code_dept" : "59",
+      "nom_comm" : "LA MADELEINE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7049,
+      "y_centroid" : 70619,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.083536132257642,
+              50.65155247065714
+            ],
+            [
+              3.075393906044724,
+              50.64380406908427
+            ],
+            [
+              3.05959546438902,
+              50.65104577111715
+            ],
+            [
+              3.056973432517185,
+              50.65408022035738
+            ],
+            [
+              3.061672273101566,
+              50.66403006908641
+            ],
+            [
+              3.068989348649585,
+              50.66648505681334
+            ],
+            [
+              3.083536132257642,
+              50.65155247065714
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70620,
+      "code_cant" : "36",
+      "x_centroid" : 7049,
+      "nom_dept" : "NORD",
+      "id_geofla" : 33843,
+      "statut" : "Commune simple",
+      "population" : 22.2,
+      "geom_x_y" : [
+        50.65488831383392,
+        3.069637225074473
+      ],
+      "code_comm" : "368",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.069637225074473,
+        50.65488831383392
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "729aae5bb0f69940b08f4cb26170e1eff3cf8365",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 294,
+      "insee_com" : "27155",
+      "z_moyen" : 208,
+      "code_dept" : "27",
+      "nom_comm" : "CHENNEBRUN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5367,
+      "y_centroid" : 68449,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.7641381856523231,
+              48.67572473550934
+            ],
+            [
+              0.76267456012958,
+              48.68770086338294
+            ],
+            [
+              0.767725396435613,
+              48.69322139595673
+            ],
+            [
+              0.782022677768338,
+              48.69036586662939
+            ],
+            [
+              0.789943844645897,
+              48.6820637612995
+            ],
+            [
+              0.787856187933292,
+              48.67905566124021
+            ],
+            [
+              0.7641381856523231,
+              48.67572473550934
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68444,
+      "code_cant" : "35",
+      "x_centroid" : 5361,
+      "nom_dept" : "EURE",
+      "id_geofla" : 12887,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.68411642582453,
+        0.774515882817994
+      ],
+      "code_comm" : "155",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.774515882817994,
+        48.68411642582453
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

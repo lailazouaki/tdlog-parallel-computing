@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0f9321f43ee33112a7355c77d2cbd83c2254925b",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 551,
+      "insee_com" : "70040",
+      "z_moyen" : 364,
+      "code_dept" : "70",
+      "nom_comm" : "AUTREY-LES-CERRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9514,
+      "y_centroid" : 67289,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.339711880632848,
+              47.59579875157863
+            ],
+            [
+              6.332349680986407,
+              47.60673018370428
+            ],
+            [
+              6.336283930434628,
+              47.62725765417675
+            ],
+            [
+              6.356255742904546,
+              47.62611757584801
+            ],
+            [
+              6.360706781685597,
+              47.61025039128052
+            ],
+            [
+              6.3586182794536,
+              47.60437340958055
+            ],
+            [
+              6.339711880632848,
+              47.59579875157863
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67285,
+      "code_cant" : "18",
+      "x_centroid" : 9512,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 29791,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.61279232761846,
+        6.346009363607928
+      ],
+      "code_comm" : "040",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.346009363607928,
+        47.61279232761846
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

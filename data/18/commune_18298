@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3fa93bd4300ff857e6e30c11be1c740948f00eb3",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 383,
+      "insee_com" : "65146",
+      "z_moyen" : 263,
+      "code_dept" : "65",
+      "nom_comm" : "CHIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4662,
+      "y_centroid" : 62486,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.125291768620166,
+              43.29310227410028
+            ],
+            [
+              0.106480747187862,
+              43.28412964381812
+            ],
+            [
+              0.106966325809151,
+              43.29065981741893
+            ],
+            [
+              0.102661928301587,
+              43.29171469481403
+            ],
+            [
+              0.107058433446286,
+              43.30724340715464
+            ],
+            [
+              0.123925249013139,
+              43.31036707084145
+            ],
+            [
+              0.125291768620166,
+              43.29310227410028
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62481,
+      "code_cant" : "21",
+      "x_centroid" : 4657,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 18307,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.29826281596831,
+        0.1145099828228992
+      ],
+      "code_comm" : "146",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1145099828228992,
+        43.29826281596831
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

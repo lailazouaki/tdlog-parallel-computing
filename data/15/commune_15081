@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3c7351f8945d3913e565cca0382519b171297ad",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 389,
+      "insee_com" : "62373",
+      "z_moyen" : 24,
+      "code_dept" : "62",
+      "nom_comm" : "GIVENCHY-LES-LA-BASSEE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6828,
+      "y_centroid" : 70483,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.756498537569767,
+              50.54822190916723
+            ],
+            [
+              2.776241524272397,
+              50.52751660977855
+            ],
+            [
+              2.77012842790124,
+              50.52178787453832
+            ],
+            [
+              2.764595197378607,
+              50.52180440906829
+            ],
+            [
+              2.748973282053812,
+              50.52340732272499
+            ],
+            [
+              2.749356523220183,
+              50.536925456399
+            ],
+            [
+              2.756498537569767,
+              50.54822190916723
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70479,
+      "code_cant" : "73",
+      "x_centroid" : 6829,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24742,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        50.53195689067085,
+        2.760314589795319
+      ],
+      "code_comm" : "373",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.760314589795319,
+        50.53195689067085
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

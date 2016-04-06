@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3b5b230a97c1faf9cf8a0ae7812587b650532daa",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 568,
+      "insee_com" : "30163",
+      "z_moyen" : 142,
+      "code_dept" : "30",
+      "nom_comm" : "MAURESSARGUES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7930,
+      "y_centroid" : 63180,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.176614021479591,
+              43.94095289721206
+            ],
+            [
+              4.167378236573257,
+              43.94128597086291
+            ],
+            [
+              4.158661794988737,
+              43.94879522897666
+            ],
+            [
+              4.141753120654837,
+              43.95423853638459
+            ],
+            [
+              4.144847172251203,
+              43.96810317803541
+            ],
+            [
+              4.154491236145256,
+              43.96801975928341
+            ],
+            [
+              4.183155760692513,
+              43.95547231198531
+            ],
+            [
+              4.176614021479591,
+              43.94095289721206
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63185,
+      "code_cant" : "14",
+      "x_centroid" : 7932,
+      "nom_dept" : "GARD",
+      "id_geofla" : 35142,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.95511038521248,
+        4.162240432595246
+      ],
+      "code_comm" : "163",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.162240432595246,
+        43.95511038521248
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

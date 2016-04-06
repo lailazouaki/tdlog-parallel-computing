@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a0f20000d7bdc522dca0771a571fe8ab32163552",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 124,
+      "insee_com" : "68231",
+      "z_moyen" : 196,
+      "code_dept" : "68",
+      "nom_comm" : "NEUF-BRISACH",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10374,
+      "y_centroid" : 67783,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.519923113846411,
+              48.02264336169262
+            ],
+            [
+              7.529716394822535,
+              48.0235644602168
+            ],
+            [
+              7.535462098419812,
+              48.01833126129454
+            ],
+            [
+              7.534602977058448,
+              48.01504729693055
+            ],
+            [
+              7.526155988606256,
+              48.01210079974387
+            ],
+            [
+              7.520264362119333,
+              48.02081847927422
+            ],
+            [
+              7.519923113846411,
+              48.02264336169262
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67783,
+      "code_cant" : "19",
+      "x_centroid" : 10373,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 14477,
+      "statut" : "Chef-lieu canton",
+      "population" : 2,
+      "geom_x_y" : [
+        48.0183924754697,
+        7.5278474167795
+      ],
+      "code_comm" : "231",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.5278474167795,
+        48.0183924754697
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

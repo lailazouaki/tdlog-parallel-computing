@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a350419f4909edb36200a760755a364a103593dd",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 366,
+      "insee_com" : "50006",
+      "z_moyen" : 31,
+      "code_dept" : "50",
+      "nom_comm" : "AMIGNY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 3952,
+      "y_centroid" : 69033,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.182089759825785,
+              49.14147641655254
+            ],
+            [
+              -1.190732404258384,
+              49.14381352080771
+            ],
+            [
+              -1.196141052553613,
+              49.15483416842113
+            ],
+            [
+              -1.192115782468312,
+              49.16766917897004
+            ],
+            [
+              -1.187772413336296,
+              49.1694770362131
+            ],
+            [
+              -1.172780551938127,
+              49.1669458802612
+            ],
+            [
+              -1.182089759825785,
+              49.14147641655254
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69031,
+      "code_cant" : "34",
+      "x_centroid" : 3948,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 17714,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.15684707691167,
+        -1.185256465118036
+      ],
+      "code_comm" : "006",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.185256465118036,
+        49.15684707691167
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

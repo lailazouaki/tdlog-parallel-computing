@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ee715ace3ab4afb12487f9d1888c3727c4fe8f5d",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 270,
+      "insee_com" : "82071",
+      "z_moyen" : 161,
+      "code_dept" : "82",
+      "nom_comm" : "GOAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5360,
+      "y_centroid" : 63039,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.982423632504506,
+              43.81841877679154
+            ],
+            [
+              0.947516074118791,
+              43.80691989281338
+            ],
+            [
+              0.94318759453273,
+              43.80803556250127
+            ],
+            [
+              0.939490749952824,
+              43.81438414006993
+            ],
+            [
+              0.948758457507996,
+              43.81455890553543
+            ],
+            [
+              0.978534176212382,
+              43.82399092176662
+            ],
+            [
+              0.982423632504506,
+              43.81841877679154
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63038,
+      "code_cant" : "02",
+      "x_centroid" : 5359,
+      "nom_dept" : "TARN-ET-GARONNE",
+      "id_geofla" : 2631,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.81507681129542,
+        0.9608542449960049
+      ],
+      "code_comm" : "071",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9608542449960049,
+        43.81507681129542
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d08f0a0337dc201e3a5478f62263fed3ae1ad2f3",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 145,
+      "insee_com" : "42124",
+      "z_moyen" : 342,
+      "code_dept" : "42",
+      "nom_comm" : "LUPE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8334,
+      "y_centroid" : 64763,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.71353652155369,
+              45.37720092120878
+            ],
+            [
+              4.697862584254555,
+              45.36568599434014
+            ],
+            [
+              4.69084918970053,
+              45.36992610344856
+            ],
+            [
+              4.691646138573656,
+              45.37596648175876
+            ],
+            [
+              4.711052181309864,
+              45.37911227223246
+            ],
+            [
+              4.71353652155369,
+              45.37720092120878
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64762,
+      "code_cant" : "13",
+      "x_centroid" : 8330,
+      "nom_dept" : "LOIRE",
+      "id_geofla" : 31531,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.37322962239806,
+        4.700555877062051
+      ],
+      "code_comm" : "124",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.700555877062051,
+        45.37322962239806
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

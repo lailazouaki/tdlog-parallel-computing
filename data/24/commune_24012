@@ -1,0 +1,67 @@
+  {
+    "recordid" : "84e567830da5d8e1cfa1af73520590f3854b0eb4",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 311,
+      "insee_com" : "59563",
+      "z_moyen" : 196,
+      "code_dept" : "59",
+      "nom_comm" : "SEMOUSIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7687,
+      "y_centroid" : 70077,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.954607290584631,
+              50.15563632454039
+            ],
+            [
+              3.954222629628394,
+              50.16937101543856
+            ],
+            [
+              3.985665584771016,
+              50.17135016454053
+            ],
+            [
+              3.980602923868329,
+              50.16190689733072
+            ],
+            [
+              3.973215315940609,
+              50.1572236983052
+            ],
+            [
+              3.954607290584631,
+              50.15563632454039
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70077,
+      "code_cant" : "03",
+      "x_centroid" : 7692,
+      "nom_dept" : "NORD",
+      "id_geofla" : 4758,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.16396372711645,
+        3.967920993010007
+      ],
+      "code_comm" : "563",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.967920993010007,
+        50.16396372711645
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

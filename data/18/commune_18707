@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f4ea6cf751051db48d0379935700289f9b6e6267",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 339,
+      "insee_com" : "31460",
+      "z_moyen" : 158,
+      "code_dept" : "31",
+      "nom_comm" : "ROQUETTES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5678,
+      "y_centroid" : 62675,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.372233310394441,
+              43.48563033773824
+            ],
+            [
+              1.356541581514834,
+              43.49629130061086
+            ],
+            [
+              1.370010717459787,
+              43.50473759172196
+            ],
+            [
+              1.388405593561302,
+              43.49596858522906
+            ],
+            [
+              1.392422491226525,
+              43.48714637125137
+            ],
+            [
+              1.38411401526241,
+              43.48989349897135
+            ],
+            [
+              1.372233310394441,
+              43.48563033773824
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62680,
+      "code_cant" : "52",
+      "x_centroid" : 5684,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 18364,
+      "statut" : "Commune simple",
+      "population" : 3.6,
+      "geom_x_y" : [
+        43.49473647979064,
+        1.374166163776592
+      ],
+      "code_comm" : "460",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.374166163776592,
+        43.49473647979064
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

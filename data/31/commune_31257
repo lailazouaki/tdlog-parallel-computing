@@ -1,0 +1,71 @@
+  {
+    "recordid" : "11e3940bcacc9695163753d2fa0cb2e31bff4607",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 469,
+      "insee_com" : "61381",
+      "z_moyen" : 169,
+      "code_dept" : "61",
+      "nom_comm" : "SAINT-DENIS-SUR-HUISNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5183,
+      "y_centroid" : 68217,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5235109470731319,
+              48.4591740469772
+            ],
+            [
+              0.514369599889682,
+              48.47418497436604
+            ],
+            [
+              0.520984242079837,
+              48.48230673302013
+            ],
+            [
+              0.5410094807886,
+              48.4802390271492
+            ],
+            [
+              0.547868668289988,
+              48.4716414743456
+            ],
+            [
+              0.54715064518856,
+              48.46180710266879
+            ],
+            [
+              0.5235109470731319,
+              48.4591740469772
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68215,
+      "code_cant" : "23",
+      "x_centroid" : 5175,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 27295,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.47076485836784,
+        0.5316478699383628
+      ],
+      "code_comm" : "381",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5316478699383628,
+        48.47076485836784
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "db1d29869148e7244dd7d642bfdedd9c3168d65d",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 521,
+      "insee_com" : "11391",
+      "z_moyen" : 647,
+      "code_dept" : "11",
+      "nom_comm" : "LA TOURETTE-CABARDES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6460,
+      "y_centroid" : 62539,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.32614994309785,
+              43.39717308280478
+            ],
+            [
+              2.337281321436361,
+              43.3862209355911
+            ],
+            [
+              2.341733944663978,
+              43.3765498358469
+            ],
+            [
+              2.324196363183563,
+              43.36599685143103
+            ],
+            [
+              2.313083378761818,
+              43.37138774954661
+            ],
+            [
+              2.318045513898638,
+              43.38454507020684
+            ],
+            [
+              2.309669802594428,
+              43.39690733344707
+            ],
+            [
+              2.32614994309785,
+              43.39717308280478
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62537,
+      "code_cant" : "21",
+      "x_centroid" : 6453,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 23799,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.38212974056508,
+        2.32541957731922
+      ],
+      "code_comm" : "391",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.32541957731922,
+        43.38212974056508
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

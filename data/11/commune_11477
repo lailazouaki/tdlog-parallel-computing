@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fdd969a486ff2773727e4f6afba3d65821b17cac",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 497,
+      "insee_com" : "65342",
+      "z_moyen" : 286,
+      "code_dept" : "65",
+      "nom_comm" : "OSMETS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4780,
+      "y_centroid" : 62492,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.264287157554254,
+              43.29272316318706
+            ],
+            [
+              0.245283552583335,
+              43.30773132741043
+            ],
+            [
+              0.268096780611545,
+              43.32310826181027
+            ],
+            [
+              0.279836619229807,
+              43.31390808707658
+            ],
+            [
+              0.276822853518532,
+              43.30646931713803
+            ],
+            [
+              0.272974199061401,
+              43.29819932998607
+            ],
+            [
+              0.264287157554254,
+              43.29272316318706
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62489,
+      "code_cant" : "24",
+      "x_centroid" : 4779,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 17360,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.30801636940599,
+        0.2644273821481304
+      ],
+      "code_comm" : "342",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2644273821481304,
+        43.30801636940599
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

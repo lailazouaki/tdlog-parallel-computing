@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3fe48a968cb21167c60d3b06c3577b1c2db1af06",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 607,
+      "insee_com" : "28163",
+      "z_moyen" : 160,
+      "code_dept" : "28",
+      "nom_comm" : "FRESNAY-LE-GILMERT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5831,
+      "y_centroid" : 68248,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.428314839113408,
+              48.50446516382306
+            ],
+            [
+              1.417027405913098,
+              48.49801690984243
+            ],
+            [
+              1.400378892322245,
+              48.50544198515171
+            ],
+            [
+              1.407941479033577,
+              48.52038069288465
+            ],
+            [
+              1.404183362404346,
+              48.52637666924264
+            ],
+            [
+              1.423345619585872,
+              48.52609254180663
+            ],
+            [
+              1.438753972112425,
+              48.51357341703222
+            ],
+            [
+              1.428314839113408,
+              48.50446516382306
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68249,
+      "code_cant" : "07",
+      "x_centroid" : 5831,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 23172,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.5129802184395,
+        1.41820257419758
+      ],
+      "code_comm" : "163",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.41820257419758,
+        48.5129802184395
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

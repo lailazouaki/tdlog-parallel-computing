@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2adc44b5462d1ab41b7c86e3757ed8e492244515",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 646,
+      "insee_com" : "27395",
+      "z_moyen" : 209,
+      "code_dept" : "27",
+      "nom_comm" : "MELICOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5171,
+      "y_centroid" : 68709,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.475483257639508,
+              48.90349475216026
+            ],
+            [
+              0.47769947133191,
+              48.9169025384161
+            ],
+            [
+              0.487741773328426,
+              48.92464429109821
+            ],
+            [
+              0.490204968801827,
+              48.91858681239038
+            ],
+            [
+              0.540471411757752,
+              48.91771318087952
+            ],
+            [
+              0.52187321483831,
+              48.905777429843
+            ],
+            [
+              0.475483257639508,
+              48.90349475216026
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68711,
+      "code_cant" : "10",
+      "x_centroid" : 5169,
+      "nom_dept" : "EURE",
+      "id_geofla" : 32034,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.9121607959997,
+        0.5024601093146964
+      ],
+      "code_comm" : "395",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5024601093146964,
+        48.9121607959997
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

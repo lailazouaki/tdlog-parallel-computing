@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a647873b19fbbe9ca43a7691a2c665a29cf7887b",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 201,
+      "insee_com" : "68202",
+      "z_moyen" : 365,
+      "code_dept" : "68",
+      "nom_comm" : "MERTZEN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10102,
+      "y_centroid" : 67288,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.135150243546307,
+              47.58009506333188
+            ],
+            [
+              7.125611289396394,
+              47.58680554902836
+            ],
+            [
+              7.108973626225692,
+              47.58199395399988
+            ],
+            [
+              7.112292058317678,
+              47.58771767618277
+            ],
+            [
+              7.132989408819803,
+              47.59468350525622
+            ],
+            [
+              7.146076413673332,
+              47.58150075606324
+            ],
+            [
+              7.135150243546307,
+              47.58009506333188
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67292,
+      "code_cant" : "10",
+      "x_centroid" : 10102,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 18195,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.58690728901925,
+        7.129197765594501
+      ],
+      "code_comm" : "202",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.129197765594501,
+        47.58690728901925
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

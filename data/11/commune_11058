@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f5acfa9e152f84bf10e3bab69dab1df34ecba606",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 626,
+      "insee_com" : "43089",
+      "z_moyen" : 703,
+      "code_dept" : "43",
+      "nom_comm" : "ESPALY-SAINT-MARCEL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7676,
+      "y_centroid" : 64389,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.858609790931133,
+              45.02863528634452
+            ],
+            [
+              3.834723153853263,
+              45.05914359170379
+            ],
+            [
+              3.838777752968838,
+              45.05926621321378
+            ],
+            [
+              3.846882331971977,
+              45.05668366577395
+            ],
+            [
+              3.864787273939259,
+              45.05782474034165
+            ],
+            [
+              3.875878044332771,
+              45.04807634179297
+            ],
+            [
+              3.872581349256424,
+              45.03867460753058
+            ],
+            [
+              3.858609790931133,
+              45.02863528634452
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64389,
+      "code_cant" : "32",
+      "x_centroid" : 7675,
+      "nom_dept" : "HAUTE-LOIRE",
+      "id_geofla" : 16220,
+      "statut" : "Commune simple",
+      "population" : 3.6,
+      "geom_x_y" : [
+        45.04638920715943,
+        3.857968062362408
+      ],
+      "code_comm" : "089",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.857968062362408,
+        45.04638920715943
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

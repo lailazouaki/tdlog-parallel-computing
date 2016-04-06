@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ad6891797077fe57a90082845dd44e497f5a023b",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 663,
+      "insee_com" : "88091",
+      "z_moyen" : 428,
+      "code_dept" : "88",
+      "nom_comm" : "CHARMOIS-DEVANT-BRUYERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9670,
+      "y_centroid" : 67917,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.575986384557437,
+              48.15214701966995
+            ],
+            [
+              6.583350888366772,
+              48.18013463432219
+            ],
+            [
+              6.579418265133142,
+              48.18966659385529
+            ],
+            [
+              6.599577617535199,
+              48.18997214635947
+            ],
+            [
+              6.605378368794725,
+              48.18004005452377
+            ],
+            [
+              6.605798957416641,
+              48.15879653630832
+            ],
+            [
+              6.575986384557437,
+              48.15214701966995
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67914,
+      "code_cant" : "03",
+      "x_centroid" : 9669,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 22150,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.17154596491554,
+        6.592036555931442
+      ],
+      "code_comm" : "091",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.592036555931442,
+        48.17154596491554
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

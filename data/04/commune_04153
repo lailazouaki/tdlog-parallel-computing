@@ -1,0 +1,75 @@
+  {
+    "recordid" : "eea9e072ffa3b991e0db27262de23aeddf8f8727",
+    "fields" : {
+      "nom_region" : "LIMOUSIN",
+      "superficie" : 755,
+      "insee_com" : "23228",
+      "z_moyen" : 588,
+      "code_dept" : "23",
+      "nom_comm" : "SAINT-PARDOUX-LE-NEUF",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6405,
+      "y_centroid" : 65377,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.230056030652391,
+              45.91992107034652
+            ],
+            [
+              2.209377357102158,
+              45.92858571034797
+            ],
+            [
+              2.206472291166614,
+              45.94571162268581
+            ],
+            [
+              2.216203864355037,
+              45.9476525473298
+            ],
+            [
+              2.25405896806244,
+              45.94539585873216
+            ],
+            [
+              2.253568660815928,
+              45.93871067147519
+            ],
+            [
+              2.245238981547411,
+              45.93526941906131
+            ],
+            [
+              2.230056030652391,
+              45.91992107034652
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65369,
+      "code_cant" : "02",
+      "x_centroid" : 6401,
+      "nom_dept" : "CREUSE",
+      "id_geofla" : 16492,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.9364998666944,
+        2.22787618622251
+      ],
+      "code_comm" : "228",
+      "code_reg" : "74"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.22787618622251,
+        45.9364998666944
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

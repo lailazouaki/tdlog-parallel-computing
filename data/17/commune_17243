@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bfa73789c57193989b4e3ba9a31ad479075b09ea",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 87,
+      "insee_com" : "65132",
+      "z_moyen" : 476,
+      "code_dept" : "65",
+      "nom_comm" : "CASTERA-LANUSSE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4797,
+      "y_centroid" : 62341,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.291071356323205,
+              43.16536643374523
+            ],
+            [
+              0.290179590213887,
+              43.17179704319435
+            ],
+            [
+              0.281972001048935,
+              43.17401151497143
+            ],
+            [
+              0.282746865038464,
+              43.17688407345384
+            ],
+            [
+              0.29851997167416,
+              43.17566930681755
+            ],
+            [
+              0.296585045706727,
+              43.16577480753394
+            ],
+            [
+              0.291071356323205,
+              43.16536643374523
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62341,
+      "code_cant" : "23",
+      "x_centroid" : 4796,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 19963,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.17214311191035,
+        0.2918463681957654
+      ],
+      "code_comm" : "132",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2918463681957654,
+        43.17214311191035
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

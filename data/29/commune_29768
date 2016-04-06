@@ -1,0 +1,71 @@
+  {
+    "recordid" : "69353e659be793bc40b708d303fbe96bfa261cda",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 454,
+      "insee_com" : "25525",
+      "z_moyen" : 892,
+      "code_dept" : "25",
+      "nom_comm" : "SAINT-POINT-LAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9517,
+      "y_centroid" : 66396,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.287098877598306,
+              46.79143820887317
+            ],
+            [
+              6.28645018865437,
+              46.80151385460126
+            ],
+            [
+              6.277544466000734,
+              46.80420133523088
+            ],
+            [
+              6.29416661575587,
+              46.82245247082442
+            ],
+            [
+              6.317396832158627,
+              46.81890072346922
+            ],
+            [
+              6.314149162797329,
+              46.81581322589686
+            ],
+            [
+              6.287098877598306,
+              46.79143820887317
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66400,
+      "code_cant" : "20",
+      "x_centroid" : 9512,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 23116,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.81011182479228,
+        6.296015100863569
+      ],
+      "code_comm" : "525",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.296015100863569,
+        46.81011182479228
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

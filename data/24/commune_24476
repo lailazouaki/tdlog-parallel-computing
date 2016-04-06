@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e4bf59de850863c5eb08d083b46a6e93fd9142c4",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 235,
+      "insee_com" : "45125",
+      "z_moyen" : 104,
+      "code_dept" : "45",
+      "nom_comm" : "DIMANCHEVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6577,
+      "y_centroid" : 67933,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.436987721278335,
+              48.23457320523276
+            ],
+            [
+              2.428245954993216,
+              48.2321557836384
+            ],
+            [
+              2.410414769297528,
+              48.23454261409003
+            ],
+            [
+              2.414602854521854,
+              48.24309345809782
+            ],
+            [
+              2.41216295973976,
+              48.24566374331555
+            ],
+            [
+              2.433932172339448,
+              48.24444730030326
+            ],
+            [
+              2.436987721278335,
+              48.23457320523276
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67929,
+      "code_cant" : "30",
+      "x_centroid" : 6572,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 25362,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.23885264425014,
+        2.424001065845641
+      ],
+      "code_comm" : "125",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.424001065845641,
+        48.23885264425014
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

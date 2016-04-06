@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0facc25abda78c467cc7bbd77b99ffb62712286a",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 424,
+      "insee_com" : "14516",
+      "z_moyen" : 174,
+      "code_dept" : "14",
+      "nom_comm" : "POTIGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4622,
+      "y_centroid" : 68794,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.224186408198178,
+              48.96981022760675
+            ],
+            [
+              -0.22399571386271,
+              48.96629643904481
+            ],
+            [
+              -0.233557353781681,
+              48.96311391716196
+            ],
+            [
+              -0.269958457453482,
+              48.96684232384094
+            ],
+            [
+              -0.264355460420339,
+              48.97970295445399
+            ],
+            [
+              -0.225344170728353,
+              48.9730459969379
+            ],
+            [
+              -0.224186408198178,
+              48.96981022760675
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68794,
+      "code_cant" : "17",
+      "x_centroid" : 4623,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 22975,
+      "statut" : "Commune simple",
+      "population" : 1.8,
+      "geom_x_y" : [
+        48.97063228342103,
+        -0.2473534673560142
+      ],
+      "code_comm" : "516",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2473534673560142,
+        48.97063228342103
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

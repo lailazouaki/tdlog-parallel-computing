@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d2421887b4536e9e77bd14d8a89655c6b2931adb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 132,
+      "insee_com" : "57743",
+      "z_moyen" : 328,
+      "code_dept" : "57",
+      "nom_comm" : "WALTEMBOURG",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10084,
+      "y_centroid" : 68580,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.194698998961379,
+              48.74176480037585
+            ],
+            [
+              7.185600318512471,
+              48.75175766041386
+            ],
+            [
+              7.18765551660203,
+              48.75479284685882
+            ],
+            [
+              7.197774323878469,
+              48.75459937292436
+            ],
+            [
+              7.207911278676616,
+              48.74804557507546
+            ],
+            [
+              7.194698998961379,
+              48.74176480037585
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68581,
+      "code_cant" : "24",
+      "x_centroid" : 10083,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 8614,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.74921941010611,
+        7.195866953430986
+      ],
+      "code_comm" : "743",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.195866953430986,
+        48.74921941010611
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ff2112f582cf04718dae884cd71e56eabde29abf",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 207,
+      "insee_com" : "67203",
+      "z_moyen" : 200,
+      "code_dept" : "67",
+      "nom_comm" : "HOCHSTETT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10434,
+      "y_centroid" : 68630,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.669235623989196,
+              48.76554562113057
+            ],
+            [
+              7.666894010850601,
+              48.76709680506469
+            ],
+            [
+              7.672814080587854,
+              48.78448792009719
+            ],
+            [
+              7.684978461531604,
+              48.78315512565845
+            ],
+            [
+              7.686831229521255,
+              48.77373932266705
+            ],
+            [
+              7.669235623989196,
+              48.76554562113057
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68632,
+      "code_cant" : "09",
+      "x_centroid" : 10434,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 17657,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.77576557410172,
+        7.676843966094656
+      ],
+      "code_comm" : "203",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.676843966094656,
+        48.77576557410172
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

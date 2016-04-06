@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4471798849f50a8a79791b8d2e67afc6ba517ce4",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 361,
+      "insee_com" : "80435",
+      "z_moyen" : 116,
+      "code_dept" : "80",
+      "nom_comm" : "HESBECOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7093,
+      "y_centroid" : 69831,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.137878611759826,
+              49.9358595023283
+            ],
+            [
+              3.123654812121675,
+              49.94720194787424
+            ],
+            [
+              3.126831683314833,
+              49.95400754054013
+            ],
+            [
+              3.161614234074087,
+              49.95111007525313
+            ],
+            [
+              3.166553489762885,
+              49.95023213547083
+            ],
+            [
+              3.16490206872385,
+              49.9475395705157
+            ],
+            [
+              3.137878611759826,
+              49.9358595023283
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69828,
+      "code_cant" : "36",
+      "x_centroid" : 7102,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 11031,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.94651034576062,
+        3.142515493196495
+      ],
+      "code_comm" : "435",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.142515493196495,
+        49.94651034576062
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

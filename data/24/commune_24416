@@ -1,0 +1,67 @@
+  {
+    "recordid" : "eaedc26b90b254496b8f4424e991781418c777a8",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 394,
+      "insee_com" : "2B106",
+      "z_moyen" : 669,
+      "code_dept" : "2B",
+      "nom_comm" : "ERONE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12167,
+      "y_centroid" : 61622,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.280518811730262,
+              42.36392391040525
+            ],
+            [
+              9.251389128091812,
+              42.37154740233685
+            ],
+            [
+              9.258858557569338,
+              42.38690456114266
+            ],
+            [
+              9.270528684757549,
+              42.38526097321056
+            ],
+            [
+              9.278968151586319,
+              42.37868551344896
+            ],
+            [
+              9.280518811730262,
+              42.36392391040525
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61618,
+      "code_cant" : "54",
+      "x_centroid" : 12164,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 25043,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.37562035543881,
+        9.267089933386863
+      ],
+      "code_comm" : "106",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.267089933386863,
+        42.37562035543881
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

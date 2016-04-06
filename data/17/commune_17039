@@ -1,0 +1,71 @@
+  {
+    "recordid" : "67f45f671948fb78f2b76dfaa12a3bc9e3a19b82",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 476,
+      "insee_com" : "95529",
+      "z_moyen" : 121,
+      "code_dept" : "95",
+      "nom_comm" : "RONQUEROLLES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6434,
+      "y_centroid" : 68967,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.216360148420951,
+              49.15437805303048
+            ],
+            [
+              2.196877147467336,
+              49.16701698318211
+            ],
+            [
+              2.187373724622712,
+              49.1732289449846
+            ],
+            [
+              2.207177701217283,
+              49.17485344689647
+            ],
+            [
+              2.220276995272206,
+              49.17920065784683
+            ],
+            [
+              2.233419757902008,
+              49.16594248277798
+            ],
+            [
+              2.216360148420951,
+              49.15437805303048
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68965,
+      "code_cant" : "03",
+      "x_centroid" : 6426,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 24461,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        49.16770390836466,
+        2.213416666375042
+      ],
+      "code_comm" : "529",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.213416666375042,
+        49.16770390836466
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

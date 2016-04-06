@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a92c67c9a1ca21b670b83651f4069faf3245809d",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 1709,
+      "insee_com" : "79072",
+      "z_moyen" : 142,
+      "code_dept" : "79",
+      "nom_comm" : "LA CHAPELLE-GAUDIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4426,
+      "y_centroid" : 66526,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.372079754641535,
+              46.90924088136011
+            ],
+            [
+              -0.407058574045048,
+              46.90839148595175
+            ],
+            [
+              -0.424221347171337,
+              46.91547959518394
+            ],
+            [
+              -0.414399224297475,
+              46.94176187371392
+            ],
+            [
+              -0.345998111927195,
+              46.93551379882861
+            ],
+            [
+              -0.348466370740384,
+              46.92205071191589
+            ],
+            [
+              -0.362466774198571,
+              46.91177493428815
+            ],
+            [
+              -0.372079754641535,
+              46.90924088136011
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66535,
+      "code_cant" : "27",
+      "x_centroid" : 4423,
+      "nom_dept" : "DEUX-SEVRES",
+      "id_geofla" : 6387,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.92458497720593,
+        -0.3865329108000878
+      ],
+      "code_comm" : "072",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3865329108000878,
+        46.92458497720593
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

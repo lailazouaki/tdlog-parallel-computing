@@ -1,0 +1,67 @@
+  {
+    "recordid" : "788a9e0cf829ef5a74c69bb9edfd5b24e434adc9",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 116,
+      "insee_com" : "75103",
+      "z_moyen" : 35,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-3E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6531,
+      "y_centroid" : 68627,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.3684017253737,
+              48.85573996195296
+            ],
+            [
+              2.350088493587214,
+              48.86195533215501
+            ],
+            [
+              2.350834505477619,
+              48.86334437459833
+            ],
+            [
+              2.354114163249875,
+              48.86927979700135
+            ],
+            [
+              2.363856758564782,
+              48.86743436510144
+            ],
+            [
+              2.3684017253737,
+              48.85573996195296
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68628,
+      "code_cant" : "17",
+      "x_centroid" : 6530,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 36582,
+      "statut" : "Chef-lieu canton",
+      "population" : 35.7,
+      "geom_x_y" : [
+        48.86305413181177,
+        2.359361058970589
+      ],
+      "code_comm" : "103",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.359361058970589,
+        48.86305413181177
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

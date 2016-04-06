@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4f1db1e0c289cac44b932daaae543aa5dfee2696",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 511,
+      "insee_com" : "27033",
+      "z_moyen" : 145,
+      "code_dept" : "27",
+      "nom_comm" : "BACQUEPUIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5573,
+      "y_centroid" : 68896,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.042939301732051,
+              49.07654985545862
+            ],
+            [
+              1.023459975502956,
+              49.09048671939328
+            ],
+            [
+              1.038171767865242,
+              49.09943388955821
+            ],
+            [
+              1.050605315820535,
+              49.10316173350945
+            ],
+            [
+              1.066732658381909,
+              49.09641591378984
+            ],
+            [
+              1.05451173668058,
+              49.08265585264985
+            ],
+            [
+              1.042939301732051,
+              49.07654985545862
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68897,
+      "code_cant" : "16",
+      "x_centroid" : 5572,
+      "nom_dept" : "EURE",
+      "id_geofla" : 34546,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.09084350683577,
+        1.045558637246883
+      ],
+      "code_comm" : "033",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.045558637246883,
+        49.09084350683577
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ad91b96def9060248846d1b2c1a6b842e51731c7",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 545,
+      "insee_com" : "25295",
+      "z_moyen" : 908,
+      "code_dept" : "25",
+      "nom_comm" : "LES GRANGETTES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9523,
+      "y_centroid" : 66421,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.317396832158627,
+              46.81890072346922
+            ],
+            [
+              6.29416661575587,
+              46.82245247082442
+            ],
+            [
+              6.303046874159101,
+              46.83847286249613
+            ],
+            [
+              6.314491132309189,
+              46.84543410406705
+            ],
+            [
+              6.338907489978665,
+              46.83648202353881
+            ],
+            [
+              6.317396832158627,
+              46.81890072346922
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66416,
+      "code_cant" : "20",
+      "x_centroid" : 9526,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 33872,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.83167166065457,
+        6.315126570259173
+      ],
+      "code_comm" : "295",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.315126570259173,
+        46.83167166065457
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

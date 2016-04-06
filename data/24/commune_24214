@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ad809f4a215bd4654b703e3fb26e1e1a19a771b2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 251,
+      "insee_com" : "50496",
+      "z_moyen" : 26,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-JEAN-LE-THOMAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3679,
+      "y_centroid" : 68569,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.518700784131945,
+              48.71665776854202
+            ],
+            [
+              -1.52939546978544,
+              48.72991864052306
+            ],
+            [
+              -1.533253441094581,
+              48.73137562923084
+            ],
+            [
+              -1.499450662299607,
+              48.73356588329489
+            ],
+            [
+              -1.503934726840898,
+              48.72461294721272
+            ],
+            [
+              -1.518700784131945,
+              48.71665776854202
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68572,
+      "code_cant" : "42",
+      "x_centroid" : 3680,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 30260,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.72690442954228,
+        -1.514935365586012
+      ],
+      "code_comm" : "496",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.514935365586012,
+        48.72690442954228
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

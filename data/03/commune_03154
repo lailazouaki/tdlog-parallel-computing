@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9441b660e7d325b6c391a9c76c4cb598d750ca01",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 140,
+      "insee_com" : "65038",
+      "z_moyen" : 664,
+      "code_dept" : "65",
+      "nom_comm" : "ARTIGUES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4557,
+      "y_centroid" : 62239,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.004596465694201,
+              43.06062081419444
+            ],
+            [
+              -0.006183191051852,
+              43.06068451476511
+            ],
+            [
+              -0.00647250993312,
+              43.08066658463858
+            ],
+            [
+              0.005565480915677,
+              43.0796249640962
+            ],
+            [
+              0.006506884666783,
+              43.07400782300952
+            ],
+            [
+              -0.000426416701561,
+              43.06991759944923
+            ],
+            [
+              -0.004596465694201,
+              43.06062081419444
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62241,
+      "code_cant" : "12",
+      "x_centroid" : 4554,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 15540,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.07327620217583,
+        -0.001533569956542952
+      ],
+      "code_comm" : "038",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.001533569956542952,
+        43.07327620217583
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

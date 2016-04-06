@@ -1,0 +1,67 @@
+  {
+    "recordid" : "19e84529f6a363706c6f2cb16d0802319d29899c",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 345,
+      "insee_com" : "60070",
+      "z_moyen" : 65,
+      "code_dept" : "60",
+      "nom_comm" : "BIENVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6876,
+      "y_centroid" : 69276,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.822600875000503,
+              49.43857868270943
+            ],
+            [
+              2.817988749722726,
+              49.43712476298408
+            ],
+            [
+              2.805040599831745,
+              49.44245248316646
+            ],
+            [
+              2.829038413368593,
+              49.45905346478277
+            ],
+            [
+              2.845702607319935,
+              49.45183161894786
+            ],
+            [
+              2.822600875000503,
+              49.43857868270943
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69277,
+      "code_cant" : "09",
+      "x_centroid" : 6873,
+      "nom_dept" : "OISE",
+      "id_geofla" : 10371,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.44779207586802,
+        2.825140331311118
+      ],
+      "code_comm" : "070",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.825140331311118,
+        49.44779207586802
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

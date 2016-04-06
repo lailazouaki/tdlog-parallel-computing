@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9139fe10ab4280cd3d5841d931c438f647bb8618",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 231,
+      "insee_com" : "27142",
+      "z_moyen" : 131,
+      "code_dept" : "27",
+      "nom_comm" : "CHAMPENARD",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5783,
+      "y_centroid" : 68909,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.324377363070833,
+              49.09835821962413
+            ],
+            [
+              1.313963476108076,
+              49.10904940526
+            ],
+            [
+              1.319538141783187,
+              49.11413658357961
+            ],
+            [
+              1.33378730621808,
+              49.1145146946054
+            ],
+            [
+              1.343302652403596,
+              49.10355770806647
+            ],
+            [
+              1.324377363070833,
+              49.09835821962413
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68908,
+      "code_cant" : "42",
+      "x_centroid" : 5779,
+      "nom_dept" : "EURE",
+      "id_geofla" : 30862,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.10713967664032,
+        1.328066184462452
+      ],
+      "code_comm" : "142",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.328066184462452,
+        49.10713967664032
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

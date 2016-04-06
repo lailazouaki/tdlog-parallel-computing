@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7f5fe14c92cabdf794dd7a940db66d2eeb2ed4ca",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 565,
+      "insee_com" : "71061",
+      "z_moyen" : 182,
+      "code_dept" : "71",
+      "nom_comm" : "BRIENNE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8548,
+      "y_centroid" : 66082,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.014403695444472,
+              46.53966491027867
+            ],
+            [
+              5.00745426956137,
+              46.56219729223853
+            ],
+            [
+              5.00898025951466,
+              46.56533208312789
+            ],
+            [
+              5.017756698155624,
+              46.56640270190225
+            ],
+            [
+              5.023648456422844,
+              46.56680310121357
+            ],
+            [
+              5.045426177382137,
+              46.56385790323954
+            ],
+            [
+              5.033834723584974,
+              46.54931035053853
+            ],
+            [
+              5.014403695444472,
+              46.53966491027867
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66083,
+      "code_cant" : "16",
+      "x_centroid" : 8550,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 34796,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        46.55609397840116,
+        5.023682619058026
+      ],
+      "code_comm" : "061",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.023682619058026,
+        46.55609397840116
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

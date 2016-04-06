@@ -1,0 +1,79 @@
+  {
+    "recordid" : "be7dcc249dcef978ee4a32a71fd522e1e0f4a663",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 493,
+      "insee_com" : "76603",
+      "z_moyen" : 125,
+      "code_dept" : "76",
+      "nom_comm" : "SAINT-MACLOU-LA-BRIERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5169,
+      "y_centroid" : 69529,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.4651530707139,
+              49.6333538969354
+            ],
+            [
+              0.449963259612151,
+              49.64541629171908
+            ],
+            [
+              0.460311877778192,
+              49.65367946753794
+            ],
+            [
+              0.465975526892747,
+              49.66096301810676
+            ],
+            [
+              0.484043231403454,
+              49.66165284676546
+            ],
+            [
+              0.482705477015393,
+              49.65899998106823
+            ],
+            [
+              0.48926564484882,
+              49.65541360775624
+            ],
+            [
+              0.479096104724698,
+              49.64228386936086
+            ],
+            [
+              0.4651530707139,
+              49.6333538969354
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69535,
+      "code_cant" : "24",
+      "x_centroid" : 5172,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 16771,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.64893750918995,
+        0.4699567505882006
+      ],
+      "code_comm" : "603",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4699567505882006,
+        49.64893750918995
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

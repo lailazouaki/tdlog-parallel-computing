@@ -1,0 +1,63 @@
+  {
+    "recordid" : "b6f152313706ca9c7b84cc0cdc8a5e07ce00a089",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 224,
+      "insee_com" : "89458",
+      "z_moyen" : 103,
+      "code_dept" : "89",
+      "nom_comm" : "VILLENAVOTTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7176,
+      "y_centroid" : 67937,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.232972126622344,
+              48.23465879832256
+            ],
+            [
+              3.213784660967483,
+              48.24578921914595
+            ],
+            [
+              3.24254211828106,
+              48.25095235614144
+            ],
+            [
+              3.247211997368858,
+              48.2441314557115
+            ],
+            [
+              3.232972126622344,
+              48.23465879832256
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67943,
+      "code_cant" : "22",
+      "x_centroid" : 7172,
+      "nom_dept" : "YONNE",
+      "id_geofla" : 34449,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.24366075891632,
+        3.232576486677377
+      ],
+      "code_comm" : "458",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.232576486677377,
+        48.24366075891632
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

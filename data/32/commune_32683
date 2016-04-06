@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0938df381e71ac07c70fa5edfe34bfa6e3dc5a4d",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 426,
+      "insee_com" : "14416",
+      "z_moyen" : 146,
+      "code_dept" : "14",
+      "nom_comm" : "LE MESNIL-CAUSSOIS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4053,
+      "y_centroid" : 68691,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.991318293410723,
+              48.85860567904139
+            ],
+            [
+              -1.012975404008244,
+              48.84337389821037
+            ],
+            [
+              -1.023141060109742,
+              48.84304117704373
+            ],
+            [
+              -1.027181618841284,
+              48.85224328514602
+            ],
+            [
+              -1.018415422262498,
+              48.86365925691427
+            ],
+            [
+              -0.999107537667109,
+              48.86602642630323
+            ],
+            [
+              -0.998619827337581,
+              48.86571856674856
+            ],
+            [
+              -0.991318293410723,
+              48.85860567904139
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68691,
+      "code_cant" : "30",
+      "x_centroid" : 4058,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 29054,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.85508443804928,
+        -1.01089419214806
+      ],
+      "code_comm" : "416",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.01089419214806,
+        48.85508443804928
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

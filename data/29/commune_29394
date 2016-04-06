@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f7237138f18210c3f4c6570b003327cabfd50f93",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 311,
+      "insee_com" : "57546",
+      "z_moyen" : 261,
+      "code_dept" : "57",
+      "nom_comm" : "PLESNOIS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9264,
+      "y_centroid" : 69012,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.123881600771072,
+              49.16581596192988
+            ],
+            [
+              6.104311806881277,
+              49.16483773499228
+            ],
+            [
+              6.088053882845492,
+              49.17221099851398
+            ],
+            [
+              6.123645663772223,
+              49.17827469677776
+            ],
+            [
+              6.131400067700215,
+              49.16966050888589
+            ],
+            [
+              6.123881600771072,
+              49.16581596192988
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69014,
+      "code_cant" : "48",
+      "x_centroid" : 9269,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 23773,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        49.17096005960769,
+        6.112337942174714
+      ],
+      "code_comm" : "546",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.112337942174714,
+        49.17096005960769
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

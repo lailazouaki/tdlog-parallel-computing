@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f97fe3358cc79bfaddfcc57bb31de0dc473b2837",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 750,
+      "insee_com" : "53250",
+      "z_moyen" : 88,
+      "code_dept" : "53",
+      "nom_comm" : "SAINT-POIX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3983,
+      "y_centroid" : 67706,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.060630966700387,
+              47.97526703025039
+            ],
+            [
+              -1.025065557664834,
+              47.97611233509826
+            ],
+            [
+              -1.018259619401155,
+              47.97130818449814
+            ],
+            [
+              -1.024696582945715,
+              47.95465175101447
+            ],
+            [
+              -1.029489930132873,
+              47.9532979284232
+            ],
+            [
+              -1.052903146351747,
+              47.95933179347079
+            ],
+            [
+              -1.078924013309011,
+              47.96482908393904
+            ],
+            [
+              -1.060630966700387,
+              47.97526703025039
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67704,
+      "code_cant" : "07",
+      "x_centroid" : 3983,
+      "nom_dept" : "MAYENNE",
+      "id_geofla" : 35511,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.96633693353674,
+        -1.043588765650849
+      ],
+      "code_comm" : "250",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.043588765650849,
+        47.96633693353674
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "98e66bef4104c6e2697da5837c051e248ef07811",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 284,
+      "insee_com" : "22141",
+      "z_moyen" : 71,
+      "code_dept" : "22",
+      "nom_comm" : "MANTALLOT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 2369,
+      "y_centroid" : 68640,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.295897967480021,
+              48.70486937773565
+            ],
+            [
+              -3.309066084584163,
+              48.70271950677807
+            ],
+            [
+              -3.309758703699959,
+              48.70878247419633
+            ],
+            [
+              -3.300023332738776,
+              48.71588485333726
+            ],
+            [
+              -3.270008079182057,
+              48.71449158071084
+            ],
+            [
+              -3.27177879366802,
+              48.70971549621522
+            ],
+            [
+              -3.295897967480021,
+              48.70486937773565
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68637,
+      "code_cant" : "42",
+      "x_centroid" : 2375,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 22273,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.71022287756387,
+        -3.291920421442998
+      ],
+      "code_comm" : "141",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.291920421442998,
+        48.71022287756387
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

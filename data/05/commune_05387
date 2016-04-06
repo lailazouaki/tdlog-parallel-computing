@@ -1,0 +1,75 @@
+  {
+    "recordid" : "73ee39dcbb3b714a5a80b37141daf2d7672ed368",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 298,
+      "insee_com" : "52157",
+      "z_moyen" : 296,
+      "code_dept" : "52",
+      "nom_comm" : "CURMONT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8450,
+      "y_centroid" : 67968,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.969037715980079,
+              48.24353116090577
+            ],
+            [
+              4.951603522397529,
+              48.2512276250244
+            ],
+            [
+              4.936260182839911,
+              48.2532350003212
+            ],
+            [
+              4.937363969915391,
+              48.26346820676351
+            ],
+            [
+              4.941977288919274,
+              48.26502156761698
+            ],
+            [
+              4.956786004407734,
+              48.26196033593464
+            ],
+            [
+              4.967958337680357,
+              48.25035345157175
+            ],
+            [
+              4.969037715980079,
+              48.24353116090577
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67972,
+      "code_cant" : "14",
+      "x_centroid" : 8448,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 22824,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.25569644380604,
+        4.951723660171485
+      ],
+      "code_comm" : "157",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.951723660171485,
+        48.25569644380604
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e046372f8b990a3396beabfc38f20cd3994d8820",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 465,
+      "insee_com" : "77259",
+      "z_moyen" : 118,
+      "code_dept" : "77",
+      "nom_comm" : "LONGPERRIER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6754,
+      "y_centroid" : 68835,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.658493032185593,
+              49.03659058734194
+            ],
+            [
+              2.64323345934904,
+              49.04409930881132
+            ],
+            [
+              2.644442463624521,
+              49.06329107144277
+            ],
+            [
+              2.646017484952161,
+              49.06508504129638
+            ],
+            [
+              2.660160512720128,
+              49.06181697804737
+            ],
+            [
+              2.668886535893483,
+              49.05381184103218
+            ],
+            [
+              2.668511876856352,
+              49.04392895338592
+            ],
+            [
+              2.658493032185593,
+              49.03659058734194
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68835,
+      "code_cant" : "09",
+      "x_centroid" : 6748,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 22263,
+      "statut" : "Commune simple",
+      "population" : 2.4,
+      "geom_x_y" : [
+        49.05096953594007,
+        2.655424710260998
+      ],
+      "code_comm" : "259",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.655424710260998,
+        49.05096953594007
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "9f78af9a76d151e1713f2aea91b182d4f85a6a37",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 163,
+      "insee_com" : "65371",
+      "z_moyen" : 462,
+      "code_dept" : "65",
+      "nom_comm" : "PRECHAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4492,
+      "y_centroid" : 62151,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.076205331266953,
+              42.98507331068275
+            ],
+            [
+              -0.07890192002256199,
+              42.99498635185793
+            ],
+            [
+              -0.075589045625235,
+              43.00071533526378
+            ],
+            [
+              -0.059425942234182,
+              42.9900072152796
+            ],
+            [
+              -0.076205331266953,
+              42.98507331068275
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62152,
+      "code_cant" : "01",
+      "x_centroid" : 4493,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 30741,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        42.99219241282032,
+        -0.07142556317643813
+      ],
+      "code_comm" : "371",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.07142556317643813,
+        42.99219241282032
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

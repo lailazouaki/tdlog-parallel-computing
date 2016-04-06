@@ -1,0 +1,67 @@
+  {
+    "recordid" : "97f402ad16522e4c384d45e3f81eacab9a0ba011",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 374,
+      "insee_com" : "95061",
+      "z_moyen" : 138,
+      "code_dept" : "95",
+      "nom_comm" : "BETHEMONT-LA-FORET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6453,
+      "y_centroid" : 68840,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.253149647049514,
+              49.04141702368324
+            ],
+            [
+              2.234868070986362,
+              49.04936782448961
+            ],
+            [
+              2.255355108617318,
+              49.07074442987062
+            ],
+            [
+              2.26241955631522,
+              49.0590086678624
+            ],
+            [
+              2.259498253469239,
+              49.04606924846017
+            ],
+            [
+              2.253149647049514,
+              49.04141702368324
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68841,
+      "code_cant" : "25",
+      "x_centroid" : 6452,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 34322,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.05431708784464,
+        2.251140285572013
+      ],
+      "code_comm" : "061",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.251140285572013,
+        49.05431708784464
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

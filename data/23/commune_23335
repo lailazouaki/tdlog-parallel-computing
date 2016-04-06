@@ -1,0 +1,67 @@
+  {
+    "recordid" : "cc51ce1c8671f30a0074cbfc0c082fbaf8ebd18f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 251,
+      "insee_com" : "52030",
+      "z_moyen" : 258,
+      "code_dept" : "52",
+      "nom_comm" : "AUTIGNY-LE-PETIT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8578,
+      "y_centroid" : 68223,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.171873582303165,
+              48.47734226970999
+            ],
+            [
+              5.148134057790378,
+              48.47672121133672
+            ],
+            [
+              5.130871552857516,
+              48.48092898981295
+            ],
+            [
+              5.133687604029927,
+              48.48527008989639
+            ],
+            [
+              5.166049200325741,
+              48.48675407667915
+            ],
+            [
+              5.171873582303165,
+              48.47734226970999
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68223,
+      "code_cant" : "13",
+      "x_centroid" : 8590,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 18911,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.48165923711436,
+        5.152350063085696
+      ],
+      "code_comm" : "030",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.152350063085696,
+        48.48165923711436
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

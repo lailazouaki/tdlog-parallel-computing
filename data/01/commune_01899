@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b0aea40557db68263e8d5ba7d70efea4b85ecd94",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 302,
+      "insee_com" : "14562",
+      "z_moyen" : 12,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-AUBIN-SUR-MER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4535,
+      "y_centroid" : 69189,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.401258706090515,
+              49.31156347323176
+            ],
+            [
+              -0.407260657895591,
+              49.31430041061618
+            ],
+            [
+              -0.397514550493685,
+              49.33307386860753
+            ],
+            [
+              -0.375834618521666,
+              49.32723986898769
+            ],
+            [
+              -0.383190102403179,
+              49.31849546983491
+            ],
+            [
+              -0.401258706090515,
+              49.31156347323176
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69195,
+      "code_cant" : "14",
+      "x_centroid" : 4533,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 11376,
+      "statut" : "Commune simple",
+      "population" : 2,
+      "geom_x_y" : [
+        49.32243288194832,
+        -0.3928276359199318
+      ],
+      "code_comm" : "562",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3928276359199318,
+        49.32243288194832
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

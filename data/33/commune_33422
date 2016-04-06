@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8308c40e8a653a0042622edfc9858be5404ee27c",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 303,
+      "insee_com" : "78416",
+      "z_moyen" : 112,
+      "code_dept" : "78",
+      "nom_comm" : "MONTALET-LE-BOIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6141,
+      "y_centroid" : 68838,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.83085914766171,
+              49.03583638387126
+            ],
+            [
+              1.821814506380063,
+              49.04384139843745
+            ],
+            [
+              1.818040623098634,
+              49.05578246092662
+            ],
+            [
+              1.837604110887073,
+              49.05834736172753
+            ],
+            [
+              1.841728787894149,
+              49.05194855876397
+            ],
+            [
+              1.831609418748064,
+              49.03592462015209
+            ],
+            [
+              1.83085914766171,
+              49.03583638387126
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68835,
+      "code_cant" : "10",
+      "x_centroid" : 6144,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 30670,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.04898973766757,
+        1.829961350128974
+      ],
+      "code_comm" : "416",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.829961350128974,
+        49.04898973766757
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

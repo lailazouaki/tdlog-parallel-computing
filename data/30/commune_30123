@@ -1,0 +1,75 @@
+  {
+    "recordid" : "642ba9fac9be3083b8a90cfcf05bea226544d327",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 243,
+      "insee_com" : "76083",
+      "z_moyen" : 97,
+      "code_dept" : "76",
+      "nom_comm" : "BERTHEAUVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5265,
+      "y_centroid" : 69644,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.596855060998606,
+              49.75037702107433
+            ],
+            [
+              0.58783121945065,
+              49.74462547523754
+            ],
+            [
+              0.584305315776272,
+              49.7461466728186
+            ],
+            [
+              0.576767390079071,
+              49.75533658931796
+            ],
+            [
+              0.594015524028128,
+              49.76207850586089
+            ],
+            [
+              0.603061497961788,
+              49.76477364428217
+            ],
+            [
+              0.606641924531555,
+              49.76239905619119
+            ],
+            [
+              0.596855060998606,
+              49.75037702107433
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69644,
+      "code_cant" : "09",
+      "x_centroid" : 5263,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 19054,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.75505234238518,
+        0.5916072134891525
+      ],
+      "code_comm" : "083",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5916072134891525,
+        49.75505234238518
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d5ac2b07e529e3996f8edeaabb83a2aff209f020",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 403,
+      "insee_com" : "71427",
+      "z_moyen" : 260,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-HURUGE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8200,
+      "y_centroid" : 66099,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.560741405669891,
+              46.56700739661724
+            ],
+            [
+              4.565729220670172,
+              46.58833787733568
+            ],
+            [
+              4.58057027450571,
+              46.58837717135344
+            ],
+            [
+              4.593624613649835,
+              46.58405340530641
+            ],
+            [
+              4.577129365615662,
+              46.56880918039653
+            ],
+            [
+              4.560741405669891,
+              46.56700739661724
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66100,
+      "code_cant" : "41",
+      "x_centroid" : 8205,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 26312,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.57872095385195,
+        4.574767602711678
+      ],
+      "code_comm" : "427",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.574767602711678,
+        46.57872095385195
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

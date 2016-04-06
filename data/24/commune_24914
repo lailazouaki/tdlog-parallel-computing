@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e48460e9bed3cbbbc9900eef522a9f58709efd59",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 319,
+      "insee_com" : "51210",
+      "z_moyen" : 113,
+      "code_dept" : "51",
+      "nom_comm" : "DIZY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7706,
+      "y_centroid" : 68860,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.973840275150612,
+              49.05893558444202
+            ],
+            [
+              3.960903841855648,
+              49.06082918396373
+            ],
+            [
+              3.9612288166071,
+              49.07763279829505
+            ],
+            [
+              3.965184807459749,
+              49.07984909854173
+            ],
+            [
+              3.985264546983257,
+              49.07905673988962
+            ],
+            [
+              3.973840275150612,
+              49.05893558444202
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68854,
+      "code_cant" : "03",
+      "x_centroid" : 7709,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 24073,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        49.07052111807016,
+        3.970842050340851
+      ],
+      "code_comm" : "210",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.970842050340851,
+        49.07052111807016
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b86160a01cf12cf04ad85082e8f659de28074205",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 302,
+      "insee_com" : "59079",
+      "z_moyen" : 24,
+      "code_dept" : "59",
+      "nom_comm" : "BEUVRAGES",
+      "code_arr" : "6",
+      "x_chf_lieu" : 7359,
+      "y_centroid" : 70324,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.518310300576594,
+              50.38860789299453
+            ],
+            [
+              3.511039808849683,
+              50.37646444225607
+            ],
+            [
+              3.498356325585284,
+              50.38151687795331
+            ],
+            [
+              3.494097140792439,
+              50.39392309919563
+            ],
+            [
+              3.505972217303031,
+              50.40032985255386
+            ],
+            [
+              3.511480371866268,
+              50.39501044441312
+            ],
+            [
+              3.518310300576594,
+              50.38860789299453
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70321,
+      "code_cant" : "71",
+      "x_centroid" : 7360,
+      "nom_dept" : "NORD",
+      "id_geofla" : 19115,
+      "statut" : "Commune simple",
+      "population" : 6.8,
+      "geom_x_y" : [
+        50.38838266332255,
+        3.505954105036206
+      ],
+      "code_comm" : "079",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.505954105036206,
+        50.38838266332255
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

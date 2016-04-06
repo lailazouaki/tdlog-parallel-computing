@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bc1450013822b7e0bf428dbc2f2001bea72acf66",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 475,
+      "insee_com" : "39119",
+      "z_moyen" : 220,
+      "code_dept" : "39",
+      "nom_comm" : "LE CHATELEY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8944,
+      "y_centroid" : 66452,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.545348670725865,
+              46.86664264231218
+            ],
+            [
+              5.537983152958266,
+              46.87203017449554
+            ],
+            [
+              5.523956331757166,
+              46.89236409239723
+            ],
+            [
+              5.551680632435199,
+              46.88812266225141
+            ],
+            [
+              5.563182659822463,
+              46.87074207962615
+            ],
+            [
+              5.545348670725865,
+              46.86664264231218
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66449,
+      "code_cant" : "23",
+      "x_centroid" : 8937,
+      "nom_dept" : "JURA",
+      "id_geofla" : 31134,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.87955601823695,
+        5.544438549394626
+      ],
+      "code_comm" : "119",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.544438549394626,
+        46.87955601823695
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

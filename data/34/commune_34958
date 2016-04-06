@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d9f8ce75d6a83173beb14fe85d0bd52dac8b87d9",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 700,
+      "insee_com" : "88343",
+      "z_moyen" : 381,
+      "code_dept" : "88",
+      "nom_comm" : "PAREY-SOUS-MONTFORT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9184,
+      "y_centroid" : 67985,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.92913461424363,
+              48.23524516373105
+            ],
+            [
+              5.925805084797309,
+              48.25223684034318
+            ],
+            [
+              5.942170128232931,
+              48.26620961105191
+            ],
+            [
+              5.96542021530789,
+              48.25951502794755
+            ],
+            [
+              5.964113328413685,
+              48.25018374074234
+            ],
+            [
+              5.967990866161551,
+              48.24458498925453
+            ],
+            [
+              5.940547997036026,
+              48.23859021650333
+            ],
+            [
+              5.92913461424363,
+              48.23524516373105
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67986,
+      "code_cant" : "04",
+      "x_centroid" : 9185,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 35995,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.25083240842241,
+        5.945589670918306
+      ],
+      "code_comm" : "343",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.945589670918306,
+        48.25083240842241
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

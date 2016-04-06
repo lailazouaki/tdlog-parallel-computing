@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6913507dba8ec14b973307a75e01ed0a56da91e6",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 724,
+      "insee_com" : "77103",
+      "z_moyen" : 101,
+      "code_dept" : "77",
+      "nom_comm" : "CHATILLON-LA-BORDE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6878,
+      "y_centroid" : 68264,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.854053028673465,
+              48.52894667789258
+            ],
+            [
+              2.845489212946237,
+              48.52576935605742
+            ],
+            [
+              2.801963302176831,
+              48.53267651013495
+            ],
+            [
+              2.800326044448944,
+              48.53935756800853
+            ],
+            [
+              2.790784965322905,
+              48.54724832985605
+            ],
+            [
+              2.818751496946226,
+              48.54260752270626
+            ],
+            [
+              2.838105040178044,
+              48.55316028941034
+            ],
+            [
+              2.854053028673465,
+              48.52894667789258
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68255,
+      "code_cant" : "05",
+      "x_centroid" : 6872,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 24683,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.53774235685835,
+        2.826851813176429
+      ],
+      "code_comm" : "103",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.826851813176429,
+        48.53774235685835
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

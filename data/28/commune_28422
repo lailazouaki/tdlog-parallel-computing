@@ -1,0 +1,71 @@
+  {
+    "recordid" : "70a15db3515e6819c7bfb099e99c5402a710263a",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 282,
+      "insee_com" : "78324",
+      "z_moyen" : 110,
+      "code_dept" : "78",
+      "nom_comm" : "JOUY-MAUVOISIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6010,
+      "y_centroid" : 68757,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.63711364445084,
+              48.96763869798369
+            ],
+            [
+              1.630097390540705,
+              48.97574294012811
+            ],
+            [
+              1.644697250627532,
+              48.98274387841224
+            ],
+            [
+              1.65126191741521,
+              48.98040761352229
+            ],
+            [
+              1.654335039261231,
+              48.98203397494992
+            ],
+            [
+              1.663794537455568,
+              48.96964773307784
+            ],
+            [
+              1.63711364445084,
+              48.96763869798369
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68758,
+      "code_cant" : "02",
+      "x_centroid" : 6009,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 29116,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.97446810091349,
+        1.646593776620133
+      ],
+      "code_comm" : "324",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.646593776620133,
+        48.97446810091349
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

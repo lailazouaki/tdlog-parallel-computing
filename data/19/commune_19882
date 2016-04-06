@@ -1,0 +1,63 @@
+  {
+    "recordid" : "bb8076108229b029cf48b9656808804dd833c133",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 135,
+      "insee_com" : "25020",
+      "z_moyen" : 322,
+      "code_dept" : "25",
+      "nom_comm" : "ARBOUANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9867,
+      "y_centroid" : 67167,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.814360129853225,
+              47.48346254905577
+            ],
+            [
+              6.796367082676452,
+              47.48600642869436
+            ],
+            [
+              6.797259607282408,
+              47.49277240961619
+            ],
+            [
+              6.822298393219268,
+              47.49129509276634
+            ],
+            [
+              6.814360129853225,
+              47.48346254905577
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67169,
+      "code_cant" : "03",
+      "x_centroid" : 9866,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 10311,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        47.48851791075303,
+        6.8080759557477
+      ],
+      "code_comm" : "020",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.8080759557477,
+        47.48851791075303
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

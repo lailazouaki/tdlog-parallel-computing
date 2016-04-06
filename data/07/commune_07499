@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bfba4e0f47a1fea25c8f9de5e4f08aa7f0f5491e",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 272,
+      "insee_com" : "46124",
+      "z_moyen" : 229,
+      "code_dept" : "46",
+      "nom_comm" : "GLANES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6115,
+      "y_centroid" : 64250,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.867695535556569,
+              44.91010115890696
+            ],
+            [
+              1.856006494184519,
+              44.9159874007638
+            ],
+            [
+              1.869342148290061,
+              44.92459708585207
+            ],
+            [
+              1.878135252511096,
+              44.92728848189815
+            ],
+            [
+              1.892048807585914,
+              44.9217102332999
+            ],
+            [
+              1.867695535556569,
+              44.91010115890696
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64253,
+      "code_cant" : "01",
+      "x_centroid" : 6110,
+      "nom_dept" : "LOT",
+      "id_geofla" : 15959,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        44.91905940450315,
+        1.873274540016942
+      ],
+      "code_comm" : "124",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.873274540016942,
+        44.91905940450315
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

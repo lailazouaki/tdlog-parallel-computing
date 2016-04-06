@@ -1,0 +1,79 @@
+  {
+    "recordid" : "7f088486cd6a56cc821b4fbdfb7fa0ca305101bc",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 690,
+      "insee_com" : "66169",
+      "z_moyen" : 355,
+      "code_dept" : "66",
+      "nom_comm" : "SAINT-ARNAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6614,
+      "y_centroid" : 61864,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.553695746479095,
+              42.75880266264566
+            ],
+            [
+              2.544733898225688,
+              42.75949328640954
+            ],
+            [
+              2.539712102276726,
+              42.76495676493179
+            ],
+            [
+              2.510029743051419,
+              42.77984146579
+            ],
+            [
+              2.511215203204554,
+              42.78838917661641
+            ],
+            [
+              2.547748987178216,
+              42.78604077938235
+            ],
+            [
+              2.558662710681394,
+              42.77963011568895
+            ],
+            [
+              2.549873882383916,
+              42.77175272256843
+            ],
+            [
+              2.553695746479095,
+              42.75880266264566
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61868,
+      "code_cant" : "15",
+      "x_centroid" : 6619,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 19012,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.77679670154086,
+        2.535651161518502
+      ],
+      "code_comm" : "169",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.535651161518502,
+        42.77679670154086
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

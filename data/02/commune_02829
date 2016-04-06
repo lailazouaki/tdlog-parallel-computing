@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2c1eab530f55be628cc6624cb7d040b76b5ed23b",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 539,
+      "insee_com" : "90027",
+      "z_moyen" : 435,
+      "code_dept" : "90",
+      "nom_comm" : "COURCELLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10067,
+      "y_centroid" : 67188,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.096725882699197,
+              47.49513764222635
+            ],
+            [
+              7.078799684356733,
+              47.48906098617569
+            ],
+            [
+              7.036238151835836,
+              47.49899923272552
+            ],
+            [
+              7.081745787484317,
+              47.50831901176007
+            ],
+            [
+              7.091598859805798,
+              47.50773883013448
+            ],
+            [
+              7.096725882699197,
+              47.49513764222635
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67188,
+      "code_cant" : "02",
+      "x_centroid" : 10064,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 11518,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.4989296387355,
+        7.072962972881346
+      ],
+      "code_comm" : "027",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.072962972881346,
+        47.4989296387355
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

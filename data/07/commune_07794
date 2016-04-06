@@ -1,0 +1,67 @@
+  {
+    "recordid" : "760b57a88a7b0d404a6ddb463dd9ea74f2e57097",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 104,
+      "insee_com" : "38340",
+      "z_moyen" : 160,
+      "code_dept" : "38",
+      "nom_comm" : "LES ROCHES-DE-CONDRIEU",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8381,
+      "y_centroid" : 64853,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.77591794920434,
+              45.45421052340818
+            ],
+            [
+              4.763935391201584,
+              45.44964396670504
+            ],
+            [
+              4.754932116479564,
+              45.45102813470351
+            ],
+            [
+              4.756935570818616,
+              45.45570734978024
+            ],
+            [
+              4.768791532602312,
+              45.45707922384249
+            ],
+            [
+              4.77591794920434,
+              45.45421052340818
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64852,
+      "code_cant" : "39",
+      "x_centroid" : 8378,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 8393,
+      "statut" : "Commune simple",
+      "population" : 1.9,
+      "geom_x_y" : [
+        45.45350228426779,
+        4.764338122771978
+      ],
+      "code_comm" : "340",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.764338122771978,
+        45.45350228426779
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

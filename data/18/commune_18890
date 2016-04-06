@@ -1,0 +1,71 @@
+  {
+    "recordid" : "76b058ccba8720e69393879646913482a2a2ad5c",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 283,
+      "insee_com" : "50211",
+      "z_moyen" : 11,
+      "code_dept" : "50",
+      "nom_comm" : "GOUBERVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3884,
+      "y_centroid" : 69629,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.325719696566855,
+              49.68119075914149
+            ],
+            [
+              -1.339984689409642,
+              49.677028681035
+            ],
+            [
+              -1.343884852673443,
+              49.6793551546413
+            ],
+            [
+              -1.330458027819901,
+              49.68539561416387
+            ],
+            [
+              -1.32480962882039,
+              49.6988161021732
+            ],
+            [
+              -1.299849919244908,
+              49.69351899650569
+            ],
+            [
+              -1.325719696566855,
+              49.68119075914149
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69627,
+      "code_cant" : "38",
+      "x_centroid" : 3881,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 30314,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.68875845085195,
+        -1.321706955093407
+      ],
+      "code_comm" : "211",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.321706955093407,
+        49.68875845085195
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

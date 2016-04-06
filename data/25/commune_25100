@@ -1,0 +1,75 @@
+  {
+    "recordid" : "79ed8ca956d313cf13dcb717ce63fb624114606c",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 1053,
+      "insee_com" : "31142",
+      "z_moyen" : 1168,
+      "code_dept" : "31",
+      "nom_comm" : "CIER-DE-LUCHON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5037,
+      "y_centroid" : 61981,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.569948820528105,
+              42.8408489194034
+            ],
+            [
+              0.562340743006233,
+              42.86075660378079
+            ],
+            [
+              0.575935146951877,
+              42.87082592303974
+            ],
+            [
+              0.594657499453047,
+              42.86973574895693
+            ],
+            [
+              0.610209966797911,
+              42.86213928147226
+            ],
+            [
+              0.611243460808948,
+              42.84504212877361
+            ],
+            [
+              0.598826838249867,
+              42.84256080960944
+            ],
+            [
+              0.569948820528105,
+              42.8408489194034
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61984,
+      "code_cant" : "04",
+      "x_centroid" : 5026,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 33322,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        42.85542103874391,
+        0.5872037904964744
+      ],
+      "code_comm" : "142",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5872037904964744,
+        42.85542103874391
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

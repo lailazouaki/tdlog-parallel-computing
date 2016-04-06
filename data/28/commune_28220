@@ -1,0 +1,75 @@
+  {
+    "recordid" : "08520ec1ae52279382e7ecabc625c2b90bfb02af",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 317,
+      "insee_com" : "65094",
+      "z_moyen" : 520,
+      "code_dept" : "65",
+      "nom_comm" : "BIZOUS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4915,
+      "y_centroid" : 62217,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.449552051973773,
+              43.05308115567039
+            ],
+            [
+              0.433627119308641,
+              43.05829078314726
+            ],
+            [
+              0.425623534660183,
+              43.06110523412094
+            ],
+            [
+              0.430084659361778,
+              43.07008456712119
+            ],
+            [
+              0.423070762512174,
+              43.07764689841543
+            ],
+            [
+              0.455635493159332,
+              43.06710095166126
+            ],
+            [
+              0.455226133532011,
+              43.06664134449561
+            ],
+            [
+              0.449552051973773,
+              43.05308115567039
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62221,
+      "code_cant" : "19",
+      "x_centroid" : 4913,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 21309,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.06454136893146,
+        0.4399867028143997
+      ],
+      "code_comm" : "094",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4399867028143997,
+        43.06454136893146
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

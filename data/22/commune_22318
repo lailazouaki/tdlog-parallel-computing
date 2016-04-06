@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b766faf7c9c7a6155d6169ca5e282ab2d67e9946",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 204,
+      "insee_com" : "31452",
+      "z_moyen" : 432,
+      "code_dept" : "31",
+      "nom_comm" : "RIEUCAZE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5173,
+      "y_centroid" : 62222,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.749306547545478,
+              43.06905138189864
+            ],
+            [
+              0.738761003700351,
+              43.07102586349236
+            ],
+            [
+              0.750129028913596,
+              43.08198924518833
+            ],
+            [
+              0.758716088896208,
+              43.08498458038354
+            ],
+            [
+              0.7624844189039101,
+              43.07229524386942
+            ],
+            [
+              0.749306547545478,
+              43.06905138189864
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62222,
+      "code_cant" : "29",
+      "x_centroid" : 5168,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 17252,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.07580693092435,
+        0.7522964392897726
+      ],
+      "code_comm" : "452",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7522964392897726,
+        43.07580693092435
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

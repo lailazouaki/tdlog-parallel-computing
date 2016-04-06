@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e0cc8482b9da7fbe6f84d8e6f87c55f678dd3ddb",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 334,
+      "insee_com" : "86047",
+      "z_moyen" : 86,
+      "code_dept" : "86",
+      "nom_comm" : "CERNAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4945,
+      "y_centroid" : 66408,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.309568297435051,
+              46.84430631234464
+            ],
+            [
+              0.311091537414006,
+              46.82737787846062
+            ],
+            [
+              0.291980394830666,
+              46.82710962204534
+            ],
+            [
+              0.294110550158921,
+              46.84385366423281
+            ],
+            [
+              0.300661402288286,
+              46.84914273580082
+            ],
+            [
+              0.309568297435051,
+              46.84430631234464
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66405,
+      "code_cant" : "11",
+      "x_centroid" : 4943,
+      "nom_dept" : "VIENNE",
+      "id_geofla" : 25614,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        46.8366061304831,
+        0.3016738837457988
+      ],
+      "code_comm" : "047",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3016738837457988,
+        46.8366061304831
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

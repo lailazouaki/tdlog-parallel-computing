@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1a80700e8084f44c57a5b5226bfb1833daa04a2c",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 325,
+      "insee_com" : "57470",
+      "z_moyen" : 245,
+      "code_dept" : "57",
+      "nom_comm" : "MOLRING",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9801,
+      "y_centroid" : 68723,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.82106821162416,
+              48.87754653452574
+            ],
+            [
+              6.807460978989949,
+              48.89100840065214
+            ],
+            [
+              6.834230767315,
+              48.90446011158871
+            ],
+            [
+              6.832048761693218,
+              48.89820057305364
+            ],
+            [
+              6.837383798199623,
+              48.8894402435774
+            ],
+            [
+              6.82106821162416,
+              48.87754653452574
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68719,
+      "code_cant" : "01",
+      "x_centroid" : 9802,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 31025,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.89038214609947,
+        6.823638128900132
+      ],
+      "code_comm" : "470",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.823638128900132,
+        48.89038214609947
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

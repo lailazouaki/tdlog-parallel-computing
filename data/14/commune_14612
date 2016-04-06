@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8f18164318eaa49cbec0ac1ff0b60b6be26e96c8",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 539,
+      "insee_com" : "14284",
+      "z_moyen" : 194,
+      "code_dept" : "14",
+      "nom_comm" : "FOURNEAUX-LE-VAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4603,
+      "y_centroid" : 68674,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.253712930817146,
+              48.84951386780106
+            ],
+            [
+              -0.268018235414962,
+              48.85318320182223
+            ],
+            [
+              -0.283326828339981,
+              48.85239483443154
+            ],
+            [
+              -0.287290967708247,
+              48.87349218378363
+            ],
+            [
+              -0.277364811967411,
+              48.87664477523654
+            ],
+            [
+              -0.270684165247159,
+              48.87174214495489
+            ],
+            [
+              -0.251623201325488,
+              48.86781537727466
+            ],
+            [
+              -0.253712930817146,
+              48.84951386780106
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68666,
+      "code_cant" : "17",
+      "x_centroid" : 4601,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 10791,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.86254658850042,
+        -0.2698299261371992
+      ],
+      "code_comm" : "284",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2698299261371992,
+        48.86254658850042
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

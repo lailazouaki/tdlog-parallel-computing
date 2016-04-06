@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bb3ef094db89114e8c43ca9ed9723e6ad430a07d",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 182,
+      "insee_com" : "39544",
+      "z_moyen" : 555,
+      "code_dept" : "39",
+      "nom_comm" : "VARESSIA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8945,
+      "y_centroid" : 66095,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.537224335238314,
+              46.54754250685746
+            ],
+            [
+              5.528380247927883,
+              46.54801757966209
+            ],
+            [
+              5.527118457342834,
+              46.551216637034
+            ],
+            [
+              5.543350476699496,
+              46.57051476451817
+            ],
+            [
+              5.549816023279728,
+              46.56519969521732
+            ],
+            [
+              5.537224335238314,
+              46.54754250685746
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66097,
+      "code_cant" : "21",
+      "x_centroid" : 8944,
+      "nom_dept" : "JURA",
+      "id_geofla" : 33870,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.55779779862404,
+        5.538555894583173
+      ],
+      "code_comm" : "544",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.538555894583173,
+        46.55779779862404
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

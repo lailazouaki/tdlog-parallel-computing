@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1f9b9669a8a7775559e3be9a8ae3f969ee2d7b40",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 191,
+      "insee_com" : "33127",
+      "z_moyen" : 6,
+      "code_dept" : "33",
+      "nom_comm" : "CIVRAC-SUR-DORDOGNE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4565,
+      "y_centroid" : 64193,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.068116486379851,
+              44.8381803667576
+            ],
+            [
+              -0.06849059314915,
+              44.8292680462248
+            ],
+            [
+              -0.07876444199900701,
+              44.82336100612225
+            ],
+            [
+              -0.083109269736902,
+              44.82409625774499
+            ],
+            [
+              -0.09150575460018,
+              44.83012457377334
+            ],
+            [
+              -0.082873231611387,
+              44.83363555099506
+            ],
+            [
+              -0.068116486379851,
+              44.8381803667576
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64192,
+      "code_cant" : "37",
+      "x_centroid" : 4567,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 13322,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.83035568304116,
+        -0.07797777297522096
+      ],
+      "code_comm" : "127",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.07797777297522096,
+        44.83035568304116
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

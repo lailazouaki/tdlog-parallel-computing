@@ -1,0 +1,71 @@
+  {
+    "recordid" : "83dcac816f14525fad219b421efbf3133d7c05c3",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 355,
+      "insee_com" : "80735",
+      "z_moyen" : 111,
+      "code_dept" : "80",
+      "nom_comm" : "SEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6357,
+      "y_centroid" : 69757,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.102054690187532,
+              49.8653620363436
+            ],
+            [
+              2.087450314330017,
+              49.87760696359437
+            ],
+            [
+              2.09417597005684,
+              49.88404463447765
+            ],
+            [
+              2.117953228702446,
+              49.88557514397553
+            ],
+            [
+              2.123144122151546,
+              49.87803004380458
+            ],
+            [
+              2.111014844748561,
+              49.86802398826528
+            ],
+            [
+              2.102054690187532,
+              49.8653620363436
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69753,
+      "code_cant" : "26",
+      "x_centroid" : 6356,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 26753,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.87682989227505,
+        2.105601744499388
+      ],
+      "code_comm" : "735",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.105601744499388,
+        49.87682989227505
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

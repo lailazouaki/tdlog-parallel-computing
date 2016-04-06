@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e8e41a2d81b29f46f1ece016492039ca976fe009",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 192,
+      "insee_com" : "90013",
+      "z_moyen" : 381,
+      "code_dept" : "90",
+      "nom_comm" : "BETHONVILLIERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9971,
+      "y_centroid" : 67386,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.973675199593161,
+              47.67365295082908
+            ],
+            [
+              6.965021572100334,
+              47.67122532905084
+            ],
+            [
+              6.962208167014111,
+              47.67376309188619
+            ],
+            [
+              6.957817014023651,
+              47.68919646171424
+            ],
+            [
+              6.967519151773596,
+              47.69025529459513
+            ],
+            [
+              6.976734500770128,
+              47.67817211266976
+            ],
+            [
+              6.973675199593161,
+              47.67365295082908
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67385,
+      "code_cant" : "03",
+      "x_centroid" : 9974,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 10100,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.68084686127754,
+        6.966783282334739
+      ],
+      "code_comm" : "013",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.966783282334739,
+        47.68084686127754
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

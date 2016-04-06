@@ -1,0 +1,79 @@
+  {
+    "recordid" : "bcb7dab45adffee03ce7e6ddea67692f1baf9cb0",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 459,
+      "insee_com" : "76296",
+      "z_moyen" : 90,
+      "code_dept" : "76",
+      "nom_comm" : "GAINNEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5009,
+      "y_centroid" : 69388,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.250067902180654,
+              49.50728268605786
+            ],
+            [
+              0.234062532024201,
+              49.51857316645675
+            ],
+            [
+              0.233609346983551,
+              49.52493865603071
+            ],
+            [
+              0.248130913654518,
+              49.52721150026837
+            ],
+            [
+              0.259835745963971,
+              49.52196411976494
+            ],
+            [
+              0.26874307839875,
+              49.52356793784647
+            ],
+            [
+              0.281267557932218,
+              49.51921826628516
+            ],
+            [
+              0.282038929613945,
+              49.51560256753854
+            ],
+            [
+              0.250067902180654,
+              49.50728268605786
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69388,
+      "code_cant" : "63",
+      "x_centroid" : 5012,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 26107,
+      "statut" : "Commune simple",
+      "population" : 2.7,
+      "geom_x_y" : [
+        49.51774334042296,
+        0.2554690729628005
+      ],
+      "code_comm" : "296",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2554690729628005,
+        49.51774334042296
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "68d0d53cfc5563a7f4dfaae5b03a33d15f2a91d9",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 329,
+      "insee_com" : "67416",
+      "z_moyen" : 241,
+      "code_dept" : "67",
+      "nom_comm" : "ROTT",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10587,
+      "y_centroid" : 68910,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.900344606178461,
+              49.00389821570245
+            ],
+            [
+              7.892667831525352,
+              49.01179758837696
+            ],
+            [
+              7.898423624141672,
+              49.01734647107758
+            ],
+            [
+              7.894937261033398,
+              49.02684934434961
+            ],
+            [
+              7.914921545400185,
+              49.02969871089985
+            ],
+            [
+              7.923585572159907,
+              49.0264333230616
+            ],
+            [
+              7.900344606178461,
+              49.00389821570245
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68915,
+      "code_cant" : "34",
+      "x_centroid" : 10586,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 31029,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.0192487800873,
+        7.906129972611552
+      ],
+      "code_comm" : "416",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.906129972611552,
+        49.0192487800873
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

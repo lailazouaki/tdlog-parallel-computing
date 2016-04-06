@@ -1,0 +1,63 @@
+  {
+    "recordid" : "c973efbfbd8d782763ed4a72ec08f4d3f084e5fb",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 135,
+      "insee_com" : "29219",
+      "z_moyen" : 119,
+      "code_dept" : "29",
+      "nom_comm" : "LE PONTHOU",
+      "code_arr" : "3",
+      "x_chf_lieu" : 2107,
+      "y_centroid" : 68491,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.644785318117048,
+              48.54729149650483
+            ],
+            [
+              -3.644971793772167,
+              48.55742794953384
+            ],
+            [
+              -3.63800054759017,
+              48.56978834921686
+            ],
+            [
+              -3.633015201687639,
+              48.55418801244626
+            ],
+            [
+              -3.644785318117048,
+              48.54729149650483
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68500,
+      "code_cant" : "30",
+      "x_centroid" : 2106,
+      "nom_dept" : "FINISTERE",
+      "id_geofla" : 15436,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.55736012203867,
+        -3.639599842911591
+      ],
+      "code_comm" : "219",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -3.639599842911591,
+        48.55736012203867
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

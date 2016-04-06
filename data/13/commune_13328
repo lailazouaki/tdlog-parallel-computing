@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5c0c92c348dad2178d4d8c63178765b6af0b183a",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 555,
+      "insee_com" : "81284",
+      "z_moyen" : 182,
+      "code_dept" : "81",
+      "nom_comm" : "LE SEQUESTRE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6286,
+      "y_centroid" : 63127,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.12376696626308,
+              43.90095209732588
+            ],
+            [
+              2.075425597205263,
+              43.90845552216447
+            ],
+            [
+              2.089819440941133,
+              43.9168474695179
+            ],
+            [
+              2.117867430004663,
+              43.9186525889202
+            ],
+            [
+              2.130133098814305,
+              43.91364794540296
+            ],
+            [
+              2.12376696626308,
+              43.90095209732588
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63126,
+      "code_cant" : "38",
+      "x_centroid" : 6282,
+      "nom_dept" : "TARN",
+      "id_geofla" : 27587,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        43.91054023353481,
+        2.106556642108543
+      ],
+      "code_comm" : "284",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.106556642108543,
+        43.91054023353481
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

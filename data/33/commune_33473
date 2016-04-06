@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7def41794f811d22d9acb4b724a3de8beb5ec75f",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 597,
+      "insee_com" : "88133",
+      "z_moyen" : 349,
+      "code_dept" : "88",
+      "nom_comm" : "DIGNONVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9601,
+      "y_centroid" : 67993,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.491111181916538,
+              48.22758200556934
+            ],
+            [
+              6.479787306566105,
+              48.24084044543213
+            ],
+            [
+              6.48327503230432,
+              48.24322342668287
+            ],
+            [
+              6.483501434869244,
+              48.25317780075696
+            ],
+            [
+              6.500329836442317,
+              48.25517525850631
+            ],
+            [
+              6.51456782275198,
+              48.25450945799249
+            ],
+            [
+              6.51805862064723,
+              48.23811270819916
+            ],
+            [
+              6.491111181916538,
+              48.22758200556934
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67994,
+      "code_cant" : "12",
+      "x_centroid" : 9596,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 30937,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.24311306715212,
+        6.499051820107901
+      ],
+      "code_comm" : "133",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.499051820107901,
+        48.24311306715212
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

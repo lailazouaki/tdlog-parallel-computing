@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c3f260e0ed42e98ccc467f70d845edab5d4615c4",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 722,
+      "insee_com" : "31231",
+      "z_moyen" : 240,
+      "code_dept" : "31",
+      "nom_comm" : "GRAZAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5746,
+      "y_centroid" : 62470,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.431480617141767,
+              43.29182185374709
+            ],
+            [
+              1.423941146855101,
+              43.29908106651612
+            ],
+            [
+              1.429270999761017,
+              43.30692345576448
+            ],
+            [
+              1.44241774822682,
+              43.31647105775396
+            ],
+            [
+              1.453141008759076,
+              43.33152494626254
+            ],
+            [
+              1.475082604613009,
+              43.31933897949244
+            ],
+            [
+              1.457130349533338,
+              43.30497630098426
+            ],
+            [
+              1.431480617141767,
+              43.29182185374709
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62470,
+      "code_cant" : "12",
+      "x_centroid" : 5740,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 21561,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.31141503586616,
+        1.448785745146725
+      ],
+      "code_comm" : "231",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.448785745146725,
+        43.31141503586616
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

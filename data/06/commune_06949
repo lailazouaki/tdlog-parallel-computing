@@ -1,0 +1,71 @@
+  {
+    "recordid" : "31382a6868fe5304d5d50adbe1413d2c5e02d1a0",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 304,
+      "insee_com" : "59457",
+      "z_moyen" : 26,
+      "code_dept" : "59",
+      "nom_comm" : "PERENCHIES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6980,
+      "y_centroid" : 70636,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.970720426800011,
+              50.65810120106095
+            ],
+            [
+              2.952253620349539,
+              50.67419454182065
+            ],
+            [
+              2.959902864471622,
+              50.68028140716969
+            ],
+            [
+              2.969407341306,
+              50.68153144621716
+            ],
+            [
+              2.979298530575368,
+              50.67095349242931
+            ],
+            [
+              2.983693340250039,
+              50.66122650679796
+            ],
+            [
+              2.970720426800011,
+              50.65810120106095
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70634,
+      "code_cant" : "51",
+      "x_centroid" : 6977,
+      "nom_dept" : "NORD",
+      "id_geofla" : 14192,
+      "statut" : "Commune simple",
+      "population" : 8,
+      "geom_x_y" : [
+        50.67008136869645,
+        2.968673961825626
+      ],
+      "code_comm" : "457",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.968673961825626,
+        50.67008136869645
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

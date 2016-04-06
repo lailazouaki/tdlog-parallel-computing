@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1ac4c69dcdcc5c708a4f52d6e1fef4c2c892fad9",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 274,
+      "insee_com" : "31530",
+      "z_moyen" : 313,
+      "code_dept" : "31",
+      "nom_comm" : "SANA",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5383,
+      "y_centroid" : 62385,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.023887504727518,
+              43.22078292718717
+            ],
+            [
+              1.005528520746173,
+              43.22013035554107
+            ],
+            [
+              0.998358051762756,
+              43.22822182002839
+            ],
+            [
+              1.001991736215171,
+              43.23380493672465
+            ],
+            [
+              1.003179615206258,
+              43.2357525007594
+            ],
+            [
+              1.02016946823109,
+              43.23305102258782
+            ],
+            [
+              1.023887504727518,
+              43.22078292718717
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62385,
+      "code_cant" : "11",
+      "x_centroid" : 5383,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 29905,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.22742295046908,
+        1.011177652554801
+      ],
+      "code_comm" : "530",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.011177652554801,
+        43.22742295046908
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

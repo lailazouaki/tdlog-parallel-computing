@@ -1,0 +1,67 @@
+  {
+    "recordid" : "22a4c8a9d97dc9af4b1d329fcf03835e51844044",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 473,
+      "insee_com" : "02061",
+      "z_moyen" : 152,
+      "code_dept" : "02",
+      "nom_comm" : "BECQUIGNY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7336,
+      "y_centroid" : 69909,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.488066750231548,
+              50.015617708714
+            ],
+            [
+              3.471316843452485,
+              50.00715027881136
+            ],
+            [
+              3.425452119845119,
+              50.01738702174027
+            ],
+            [
+              3.427791689788299,
+              50.02208543438017
+            ],
+            [
+              3.490106212787753,
+              50.01895987309744
+            ],
+            [
+              3.488066750231548,
+              50.015617708714
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69910,
+      "code_cant" : "03",
+      "x_centroid" : 7329,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 31133,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.01587038142452,
+        3.458986445376944
+      ],
+      "code_comm" : "061",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.458986445376944,
+        50.01587038142452
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

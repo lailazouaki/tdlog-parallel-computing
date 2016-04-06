@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b7aca367a673c0723fb11ca8efc7086d67148f8f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1165,
+      "insee_com" : "51351",
+      "z_moyen" : 92,
+      "code_dept" : "51",
+      "nom_comm" : "MARIGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7638,
+      "y_centroid" : 68405,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.839322034886942,
+              48.64001442665429
+            ],
+            [
+              3.815639172868933,
+              48.65583975687846
+            ],
+            [
+              3.839541009092585,
+              48.67904330886
+            ],
+            [
+              3.853416806665809,
+              48.68114860550098
+            ],
+            [
+              3.876398308391096,
+              48.67370481688615
+            ],
+            [
+              3.872525866755425,
+              48.65814445086531
+            ],
+            [
+              3.839322034886942,
+              48.64001442665429
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68407,
+      "code_cant" : "13",
+      "x_centroid" : 7624,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 31707,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.66204366286705,
+        3.847313153051519
+      ],
+      "code_comm" : "351",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.847313153051519,
+        48.66204366286705
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

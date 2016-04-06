@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f8fec34a9d7cc9dfc9385b46be10ecf1d42545af",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 213,
+      "insee_com" : "08011",
+      "z_moyen" : 196,
+      "code_dept" : "08",
+      "nom_comm" : "ANCHAMPS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8203,
+      "y_centroid" : 69819,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.673470261617894,
+              49.91848732754217
+            ],
+            [
+              4.646791053746647,
+              49.92184152680068
+            ],
+            [
+              4.644387998930122,
+              49.92500060469666
+            ],
+            [
+              4.649304962030372,
+              49.92383823483525
+            ],
+            [
+              4.666579746647615,
+              49.93118728233279
+            ],
+            [
+              4.676575098126455,
+              49.93123037415622
+            ],
+            [
+              4.673470261617894,
+              49.91848732754217
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69827,
+      "code_cant" : "35",
+      "x_centroid" : 8196,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 10805,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.92473593127652,
+        4.664267451682286
+      ],
+      "code_comm" : "011",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.664267451682286,
+        49.92473593127652
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

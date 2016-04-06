@@ -1,0 +1,75 @@
+  {
+    "recordid" : "46cc38e1cdc3bc9845d00a4353c174d3653c3e8b",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 259,
+      "insee_com" : "62445",
+      "z_moyen" : 45,
+      "code_dept" : "62",
+      "nom_comm" : "HESDIGNEUL-LES-BETHUNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6709,
+      "y_centroid" : 70444,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.599999093379664,
+              50.48569330755895
+            ],
+            [
+              2.588158517698536,
+              50.48842814967703
+            ],
+            [
+              2.584350354879295,
+              50.50148476986077
+            ],
+            [
+              2.601155711267456,
+              50.50664743639025
+            ],
+            [
+              2.610031284814323,
+              50.50376746639185
+            ],
+            [
+              2.604800590410043,
+              50.49775483545202
+            ],
+            [
+              2.605726757254279,
+              50.49089997364526
+            ],
+            [
+              2.599999093379664,
+              50.48569330755895
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70449,
+      "code_cant" : "64",
+      "x_centroid" : 6713,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 11957,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        50.49657509067134,
+        2.596660813104998
+      ],
+      "code_comm" : "445",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.596660813104998,
+        50.49657509067134
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

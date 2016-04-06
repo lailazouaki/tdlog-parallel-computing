@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3811076aa094201b87e32d5edadad22f002b7fae",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 593,
+      "insee_com" : "27137",
+      "z_moyen" : 205,
+      "code_dept" : "27",
+      "nom_comm" : "CHAISE-DIEU-DU-THEIL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5354,
+      "y_centroid" : 68529,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.775034283946373,
+              48.73735771051813
+            ],
+            [
+              0.751060551402306,
+              48.76052736424586
+            ],
+            [
+              0.7567798015414789,
+              48.76646538183499
+            ],
+            [
+              0.755764493421638,
+              48.77013529930662
+            ],
+            [
+              0.779170276528002,
+              48.77028492587731
+            ],
+            [
+              0.787381173449522,
+              48.74035853531471
+            ],
+            [
+              0.775034283946373,
+              48.73735771051813
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68543,
+      "code_cant" : "31",
+      "x_centroid" : 5361,
+      "nom_dept" : "EURE",
+      "id_geofla" : 12367,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.75574429064676,
+        0.7709323559052006
+      ],
+      "code_comm" : "137",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7709323559052006,
+        48.75574429064676
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

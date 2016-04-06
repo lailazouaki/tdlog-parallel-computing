@@ -1,0 +1,71 @@
+  {
+    "recordid" : "26ff1a01a2eee1ba1000e1527f982202d1c44279",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 630,
+      "insee_com" : "38045",
+      "z_moyen" : 596,
+      "code_dept" : "38",
+      "nom_comm" : "BIVIERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9199,
+      "y_centroid" : 64643,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.792812339201922,
+              45.22865195010782
+            ],
+            [
+              5.777563477460439,
+              45.24146575362204
+            ],
+            [
+              5.799075073421274,
+              45.2602011676864
+            ],
+            [
+              5.814120642302917,
+              45.24865991584258
+            ],
+            [
+              5.818014795658735,
+              45.23965086530351
+            ],
+            [
+              5.802439808590213,
+              45.2306993377264
+            ],
+            [
+              5.792812339201922,
+              45.22865195010782
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64639,
+      "code_cant" : "60",
+      "x_centroid" : 9195,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 23775,
+      "statut" : "Commune simple",
+      "population" : 2.4,
+      "geom_x_y" : [
+        45.24312083789536,
+        5.798508629412049
+      ],
+      "code_comm" : "045",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.798508629412049,
+        45.24312083789536
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

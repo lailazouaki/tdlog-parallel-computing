@@ -1,0 +1,63 @@
+  {
+    "recordid" : "65df0efbfa9bc6a2af50630a1a144350b54e1f21",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 92,
+      "insee_com" : "14144",
+      "z_moyen" : 82,
+      "code_dept" : "14",
+      "nom_comm" : "CAUMONT-SUR-ORNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4452,
+      "y_centroid" : 68779,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.464779270730824,
+              48.94214225424078
+            ],
+            [
+              -0.48303842886734,
+              48.95728384007322
+            ],
+            [
+              -0.481169073983331,
+              48.95814826218448
+            ],
+            [
+              -0.462703228704529,
+              48.95179747372842
+            ],
+            [
+              -0.464779270730824,
+              48.94214225424078
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68785,
+      "code_cant" : "31",
+      "x_centroid" : 4458,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24033,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.95103827506854,
+        -0.4708191781380728
+      ],
+      "code_comm" : "144",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4708191781380728,
+        48.95103827506854
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

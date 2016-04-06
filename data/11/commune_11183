@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8ec7a97ff2745c2c36aa490b486e53cd53b38eb1",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 326,
+      "insee_com" : "21694",
+      "z_moyen" : 445,
+      "code_dept" : "21",
+      "nom_comm" : "VILLEFERRY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8141,
+      "y_centroid" : 67066,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.538720999588046,
+              47.43827873971586
+            ],
+            [
+              4.526409799503345,
+              47.44260050739582
+            ],
+            [
+              4.507701036566556,
+              47.45641258511216
+            ],
+            [
+              4.529560731151552,
+              47.45906254069561
+            ],
+            [
+              4.537934174382618,
+              47.4561701452539
+            ],
+            [
+              4.546019547463636,
+              47.44470959050396
+            ],
+            [
+              4.538720999588046,
+              47.43827873971586
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67072,
+      "code_cant" : "37",
+      "x_centroid" : 8152,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 7724,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.44988667564123,
+        4.529445576667461
+      ],
+      "code_comm" : "694",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.529445576667461,
+        47.44988667564123
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

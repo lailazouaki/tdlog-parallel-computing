@@ -1,0 +1,71 @@
+  {
+    "recordid" : "911a03ac30c47970d2d016f7b2df547805e9a3d8",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 411,
+      "insee_com" : "57638",
+      "z_moyen" : 250,
+      "code_dept" : "57",
+      "nom_comm" : "SCHOENECK",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9857,
+      "y_centroid" : 69085,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.921955170862855,
+              49.20237848701697
+            ],
+            [
+              6.894287742459821,
+              49.21019838717747
+            ],
+            [
+              6.924295612833979,
+              49.22307713193413
+            ],
+            [
+              6.934805251789707,
+              49.22213119737312
+            ],
+            [
+              6.943566946225564,
+              49.21377047562891
+            ],
+            [
+              6.934049914971965,
+              49.21238948997297
+            ],
+            [
+              6.921955170862855,
+              49.20237848701697
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69093,
+      "code_cant" : "51",
+      "x_centroid" : 9855,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 19993,
+      "statut" : "Commune simple",
+      "population" : 2.8,
+      "geom_x_y" : [
+        49.21317432649133,
+        6.920437259405509
+      ],
+      "code_comm" : "638",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.920437259405509,
+        49.21317432649133
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

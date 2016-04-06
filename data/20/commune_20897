@@ -1,0 +1,67 @@
+  {
+    "recordid" : "21da5c8d169e478b8390a331fe92de7f10fdb9c0",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 373,
+      "insee_com" : "14013",
+      "z_moyen" : 211,
+      "code_dept" : "14",
+      "nom_comm" : "ANGOVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4525,
+      "y_centroid" : 68768,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.389727836329393,
+              48.92944698310691
+            ],
+            [
+              -0.387832354865461,
+              48.9332719836079
+            ],
+            [
+              -0.376738006793897,
+              48.95765315600253
+            ],
+            [
+              -0.367247442311337,
+              48.95778519784125
+            ],
+            [
+              -0.358281287373993,
+              48.93874853029526
+            ],
+            [
+              -0.389727836329393,
+              48.92944698310691
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68769,
+      "code_cant" : "31",
+      "x_centroid" : 4529,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 18238,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.94377610251748,
+        -0.37343311155082
+      ],
+      "code_comm" : "013",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.37343311155082,
+        48.94377610251748
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

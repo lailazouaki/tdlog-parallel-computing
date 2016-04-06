@@ -1,0 +1,71 @@
+  {
+    "recordid" : "277f10a24f974b392aa6d690d826c0567476dd7d",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 377,
+      "insee_com" : "15269",
+      "z_moyen" : 703,
+      "code_dept" : "15",
+      "nom_comm" : "BESSE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6488,
+      "y_centroid" : 64448,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.346525018804707,
+              45.08903263897856
+            ],
+            [
+              2.340573954593064,
+              45.09461626237354
+            ],
+            [
+              2.349061065084082,
+              45.11031560904378
+            ],
+            [
+              2.36273281559893,
+              45.1145905868349
+            ],
+            [
+              2.368383104415767,
+              45.10185464834733
+            ],
+            [
+              2.358547580113623,
+              45.09143457608488
+            ],
+            [
+              2.346525018804707,
+              45.08903263897856
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64442,
+      "code_cant" : "18",
+      "x_centroid" : 6492,
+      "nom_dept" : "CANTAL",
+      "id_geofla" : 34113,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.10121346422749,
+        2.35475637277607
+      ],
+      "code_comm" : "269",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.35475637277607,
+        45.10121346422749
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

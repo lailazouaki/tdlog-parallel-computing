@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7a30d8ca3ec1d25f23ae62d61af08d8bb06c4f5a",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 462,
+      "insee_com" : "67471",
+      "z_moyen" : 144,
+      "code_dept" : "67",
+      "nom_comm" : "SOUFFELWEYERSHEIM",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10491,
+      "y_centroid" : 68473,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.720892515041489,
+              48.62286638952412
+            ],
+            [
+              7.719107663253986,
+              48.62643351115996
+            ],
+            [
+              7.728862535213746,
+              48.63840040786511
+            ],
+            [
+              7.738005791609028,
+              48.64027147596091
+            ],
+            [
+              7.75570030933065,
+              48.6356908295239
+            ],
+            [
+              7.780014997123228,
+              48.63871763320635
+            ],
+            [
+              7.750445571227629,
+              48.62679033817005
+            ],
+            [
+              7.720892515041489,
+              48.62286638952412
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68476,
+      "code_cant" : "43",
+      "x_centroid" : 10492,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 17376,
+      "statut" : "Commune simple",
+      "population" : 7.3,
+      "geom_x_y" : [
+        48.63193116882277,
+        7.741947270651695
+      ],
+      "code_comm" : "471",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.741947270651695,
+        48.63193116882277
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

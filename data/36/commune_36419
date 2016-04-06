@@ -1,0 +1,75 @@
+  {
+    "recordid" : "46651b325cbbeadbc8fe86be1224ca44fb5062df",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 181,
+      "insee_com" : "75101",
+      "z_moyen" : 33,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-1ER-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6516,
+      "y_centroid" : 68627,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.344559180836944,
+              48.85399290271931
+            ],
+            [
+              2.332852282604382,
+              48.85930633356469
+            ],
+            [
+              2.320781393695372,
+              48.86307865626878
+            ],
+            [
+              2.325754809597834,
+              48.8695460950733
+            ],
+            [
+              2.327877416924118,
+              48.86986380974643
+            ],
+            [
+              2.350834505477619,
+              48.86334437459833
+            ],
+            [
+              2.350088493587214,
+              48.86195533215501
+            ],
+            [
+              2.344559180836944,
+              48.85399290271931
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68624,
+      "code_cant" : "15",
+      "x_centroid" : 6513,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 36588,
+      "statut" : "Capitale d'état",
+      "population" : 17.6,
+      "geom_x_y" : [
+        48.8626304851685,
+        2.33629344655054
+      ],
+      "code_comm" : "101",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.33629344655054,
+        48.8626304851685
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

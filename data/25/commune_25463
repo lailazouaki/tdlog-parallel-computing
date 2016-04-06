@@ -1,0 +1,67 @@
+  {
+    "recordid" : "95f977b3db194b1aa100d4694ae54d9358934760",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 219,
+      "insee_com" : "65345",
+      "z_moyen" : 617,
+      "code_dept" : "65",
+      "nom_comm" : "OSSUN-EZ-ANGLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4600,
+      "y_centroid" : 62244,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.057332337689399,
+              43.06825381665389
+            ],
+            [
+              0.047385435848377,
+              43.07265260085172
+            ],
+            [
+              0.04717598854492,
+              43.07555395755225
+            ],
+            [
+              0.057225758523482,
+              43.09207474026795
+            ],
+            [
+              0.066696763629879,
+              43.08379180603433
+            ],
+            [
+              0.057332337689399,
+              43.06825381665389
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62243,
+      "code_cant" : "12",
+      "x_centroid" : 4601,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 24927,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.07951084685551,
+        0.05668693359692886
+      ],
+      "code_comm" : "345",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.05668693359692886,
+        43.07951084685551
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

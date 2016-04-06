@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9fe36ba9288970a143fd86a5f9b66f0fdf0d7389",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 255,
+      "insee_com" : "27319",
+      "z_moyen" : 117,
+      "code_dept" : "27",
+      "nom_comm" : "LA HAYE-DE-ROUTOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5350,
+      "y_centroid" : 69249,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.7398586452342319,
+              49.39769963014794
+            ],
+            [
+              0.727423862885361,
+              49.39380682472885
+            ],
+            [
+              0.718911029495401,
+              49.40093920838986
+            ],
+            [
+              0.714515231650737,
+              49.40995623650883
+            ],
+            [
+              0.71550888731777,
+              49.41085622446264
+            ],
+            [
+              0.738287636389016,
+              49.40806506963342
+            ],
+            [
+              0.7398586452342319,
+              49.39769963014794
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69252,
+      "code_cant" : "30",
+      "x_centroid" : 5350,
+      "nom_dept" : "EURE",
+      "id_geofla" : 24781,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.40300667084837,
+        0.7280824675108574
+      ],
+      "code_comm" : "319",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7280824675108574,
+        49.40300667084837
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

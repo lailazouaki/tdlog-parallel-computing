@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f6dc4c75ac455ed9093e58eb37ebd9e69cee0c1b",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 397,
+      "insee_com" : "17103",
+      "z_moyen" : 22,
+      "code_dept" : "17",
+      "nom_comm" : "CHERVETTES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4134,
+      "y_centroid" : 65561,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.681573442229764,
+              46.03991770564091
+            ],
+            [
+              -0.689213968006271,
+              46.0355314105533
+            ],
+            [
+              -0.711543845860385,
+              46.04342028125508
+            ],
+            [
+              -0.7263203014726241,
+              46.04483744953984
+            ],
+            [
+              -0.723328721454538,
+              46.05341884055458
+            ],
+            [
+              -0.676160661583235,
+              46.04646683372992
+            ],
+            [
+              -0.681573442229764,
+              46.03991770564091
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65569,
+      "code_cant" : "38",
+      "x_centroid" : 4139,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 20540,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.04516447537484,
+        -0.7010848550259625
+      ],
+      "code_comm" : "103",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7010848550259625,
+        46.04516447537484
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

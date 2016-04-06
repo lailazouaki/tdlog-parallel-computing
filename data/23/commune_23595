@@ -1,0 +1,71 @@
+  {
+    "recordid" : "13eb713f02ec349cc87d16111351fd7fe1067b58",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 319,
+      "insee_com" : "2B299",
+      "z_moyen" : 355,
+      "code_dept" : "2B",
+      "nom_comm" : "SAN-GAVINO-D'AMPUGNANI",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12289,
+      "y_centroid" : 61679,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.438861140091435,
+              42.40767009501515
+            ],
+            [
+              9.425996153022551,
+              42.4074294029268
+            ],
+            [
+              9.414473220387165,
+              42.41685486730029
+            ],
+            [
+              9.417724412094447,
+              42.42794060625787
+            ],
+            [
+              9.43124616374911,
+              42.42625799403222
+            ],
+            [
+              9.433450544604669,
+              42.41334553065526
+            ],
+            [
+              9.438861140091435,
+              42.40767009501515
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61673,
+      "code_cant" : "39",
+      "x_centroid" : 12290,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 4659,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.41748667225743,
+        9.425427645928892
+      ],
+      "code_comm" : "299",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.425427645928892,
+        42.41748667225743
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

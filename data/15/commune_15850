@@ -1,0 +1,63 @@
+  {
+    "recordid" : "cf7bbdce889427a5287026e35f06a32eecd4f5c5",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 392,
+      "insee_com" : "54047",
+      "z_moyen" : 301,
+      "code_dept" : "54",
+      "nom_comm" : "BARISEY-LA-COTE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9097,
+      "y_centroid" : 68310,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.828692888833191,
+              48.5347471661204
+            ],
+            [
+              5.83320375190797,
+              48.55350664007902
+            ],
+            [
+              5.847357509051546,
+              48.55721912492447
+            ],
+            [
+              5.86392783904062,
+              48.54233776259173
+            ],
+            [
+              5.828692888833191,
+              48.5347471661204
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68307,
+      "code_cant" : "10",
+      "x_centroid" : 9098,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 30590,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.5457983543375,
+        5.843825094610267
+      ],
+      "code_comm" : "047",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.843825094610267,
+        48.5457983543375
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

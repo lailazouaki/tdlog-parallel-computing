@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b1688ef0b3aaf6fc9c59e572de5c062cd242e6b0",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 698,
+      "insee_com" : "14099",
+      "z_moyen" : 34,
+      "code_dept" : "14",
+      "nom_comm" : "BRETTEVILLE-SUR-DIVES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4792,
+      "y_centroid" : 68859,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.021553066907237,
+              49.02447086377091
+            ],
+            [
+              -0.025141294962908,
+              49.03166241195111
+            ],
+            [
+              -0.023808201049348,
+              49.04213403025748
+            ],
+            [
+              -0.023764468029361,
+              49.04490659030835
+            ],
+            [
+              -0.011359346692306,
+              49.04531735386942
+            ],
+            [
+              0.017301335298661,
+              49.04464708149865
+            ],
+            [
+              0.028405151512811,
+              49.03742705464621
+            ],
+            [
+              0.021553066907237,
+              49.02447086377091
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68862,
+      "code_cant" : "29",
+      "x_centroid" : 4808,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 36250,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.03616718036335,
+        0.001636837004705862
+      ],
+      "code_comm" : "099",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.001636837004705862,
+        49.03616718036335
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

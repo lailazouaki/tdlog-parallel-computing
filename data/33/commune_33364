@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b6e8eb0c8450e7b3a6183ddcbed306e4be7df805",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 431,
+      "insee_com" : "63019",
+      "z_moyen" : 324,
+      "code_dept" : "63",
+      "nom_comm" : "AULNAT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7130,
+      "y_centroid" : 65215,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.162589380932123,
+              45.77811102698831
+            ],
+            [
+              3.158472140331311,
+              45.78740094979266
+            ],
+            [
+              3.162364220030292,
+              45.80659390754246
+            ],
+            [
+              3.175643872060384,
+              45.80400762573024
+            ],
+            [
+              3.186991132132007,
+              45.79763192309017
+            ],
+            [
+              3.18466929561496,
+              45.78856778652804
+            ],
+            [
+              3.162589380932123,
+              45.77811102698831
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65221,
+      "code_cant" : "59",
+      "x_centroid" : 7132,
+      "nom_dept" : "PUY-DE-DOME",
+      "id_geofla" : 1923,
+      "statut" : "Commune simple",
+      "population" : 4.3,
+      "geom_x_y" : [
+        45.79318290009791,
+        3.171081690566332
+      ],
+      "code_comm" : "019",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.171081690566332,
+        45.79318290009791
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

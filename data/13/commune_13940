@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e1996a6e3e60fb88392cb04cfa1481e6319fc6ab",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 251,
+      "insee_com" : "59140",
+      "z_moyen" : 128,
+      "code_dept" : "59",
+      "nom_comm" : "CAULLERY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7267,
+      "y_centroid" : 69982,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.369718543817473,
+              50.07076624662537
+            ],
+            [
+              3.361989404543648,
+              50.08274338558105
+            ],
+            [
+              3.363678271517182,
+              50.09249193115574
+            ],
+            [
+              3.386940823014394,
+              50.08576576372742
+            ],
+            [
+              3.383543603570702,
+              50.07951651222773
+            ],
+            [
+              3.369718543817473,
+              50.07076624662537
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69985,
+      "code_cant" : "18",
+      "x_centroid" : 7267,
+      "nom_dept" : "NORD",
+      "id_geofla" : 20030,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.08245468042278,
+        3.372765727816926
+      ],
+      "code_comm" : "140",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.372765727816926,
+        50.08245468042278
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

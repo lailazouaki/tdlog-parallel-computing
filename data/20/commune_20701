@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e807e2de6abc375a897ae4db22bc15cddaf280c9",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 364,
+      "insee_com" : "54195",
+      "z_moyen" : 260,
+      "code_dept" : "54",
+      "nom_comm" : "FLAINVAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9504,
+      "y_centroid" : 68407,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.384533300693012,
+              48.6082526436436
+            ],
+            [
+              6.383843198964175,
+              48.62151619629147
+            ],
+            [
+              6.389728690711925,
+              48.62558029248824
+            ],
+            [
+              6.403620029534284,
+              48.62992868052361
+            ],
+            [
+              6.411106488270864,
+              48.62517669763307
+            ],
+            [
+              6.413840299887188,
+              48.61899399203816
+            ],
+            [
+              6.40115693660061,
+              48.60896713223099
+            ],
+            [
+              6.384533300693012,
+              48.6082526436436
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68408,
+      "code_cant" : "17",
+      "x_centroid" : 9503,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 25386,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.61853257513006,
+        6.397653530378732
+      ],
+      "code_comm" : "195",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.397653530378732,
+        48.61853257513006
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

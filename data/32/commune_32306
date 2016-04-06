@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dc79d066f1f0190b35233cf476a3419febb11838",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 421,
+      "insee_com" : "05074",
+      "z_moyen" : 721,
+      "code_dept" : "05",
+      "nom_comm" : "LETTRET",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9434,
+      "y_centroid" : 63805,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.076863993298784,
+              44.46929473300971
+            ],
+            [
+              6.069487160151142,
+              44.46527527919348
+            ],
+            [
+              6.060234682723552,
+              44.4670190381387
+            ],
+            [
+              6.070880964603345,
+              44.49694776365466
+            ],
+            [
+              6.081104134710503,
+              44.50160852860444
+            ],
+            [
+              6.079363651347688,
+              44.48399954451319
+            ],
+            [
+              6.082678297236985,
+              44.47740244888883
+            ],
+            [
+              6.076863993298784,
+              44.46929473300971
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63790,
+      "code_cant" : "23",
+      "x_centroid" : 9442,
+      "nom_dept" : "HAUTES-ALPES",
+      "id_geofla" : 3154,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.48116399978645,
+        6.072584527538142
+      ],
+      "code_comm" : "074",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.072584527538142,
+        44.48116399978645
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

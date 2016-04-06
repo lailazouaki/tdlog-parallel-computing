@@ -1,0 +1,63 @@
+  {
+    "recordid" : "6cabc10c717004b712e58fa56646a923461fd3cb",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 230,
+      "insee_com" : "67341",
+      "z_moyen" : 206,
+      "code_dept" : "67",
+      "nom_comm" : "OBERDORF-SPACHBACH",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10484,
+      "y_centroid" : 68802,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.754142054269479,
+              48.92332975416617
+            ],
+            [
+              7.752076641549126,
+              48.93094325554443
+            ],
+            [
+              7.77383325697807,
+              48.93320366403603
+            ],
+            [
+              7.789920356489866,
+              48.9233355972576
+            ],
+            [
+              7.754142054269479,
+              48.92332975416617
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68799,
+      "code_cant" : "35",
+      "x_centroid" : 10491,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 18991,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.92744806508215,
+        7.768527691662169
+      ],
+      "code_comm" : "341",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.768527691662169,
+        48.92744806508215
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

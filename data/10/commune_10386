@@ -1,0 +1,71 @@
+  {
+    "recordid" : "aca5eea8d9a2e0db6cb1229edd4e56c7ce3d2ae7",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 258,
+      "insee_com" : "57553",
+      "z_moyen" : 182,
+      "code_dept" : "57",
+      "nom_comm" : "POURNOY-LA-CHETIVE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9307,
+      "y_centroid" : 68844,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.14306894196348,
+              49.00842041357794
+            ],
+            [
+              6.139410368793992,
+              49.01962998678489
+            ],
+            [
+              6.156724487332274,
+              49.02624897304646
+            ],
+            [
+              6.167070154236792,
+              49.02580541419581
+            ],
+            [
+              6.170230373895507,
+              49.02310324638396
+            ],
+            [
+              6.172061653129256,
+              49.0214980111575
+            ],
+            [
+              6.14306894196348,
+              49.00842041357794
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68845,
+      "code_cant" : "33",
+      "x_centroid" : 9306,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 35046,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.01890619965417,
+        6.153887274315284
+      ],
+      "code_comm" : "553",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.153887274315284,
+        49.01890619965417
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

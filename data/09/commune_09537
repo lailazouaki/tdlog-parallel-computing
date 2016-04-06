@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e4065e9eb07a491f0e8a467e8cf7f59663f98949",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 1061,
+      "insee_com" : "14259",
+      "z_moyen" : 216,
+      "code_dept" : "14",
+      "nom_comm" : "FAMILLY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5063,
+      "y_centroid" : 68766,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.333231477282184,
+              48.94278154458396
+            ],
+            [
+              0.308721597459096,
+              48.95422746820642
+            ],
+            [
+              0.369522327345181,
+              48.98114754495126
+            ],
+            [
+              0.382329120342945,
+              48.97710015570982
+            ],
+            [
+              0.377446563464229,
+              48.97255785299057
+            ],
+            [
+              0.3566231655048,
+              48.94962509435425
+            ],
+            [
+              0.333231477282184,
+              48.94278154458396
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68773,
+      "code_cant" : "26",
+      "x_centroid" : 5057,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 17191,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.96077614255658,
+        0.3471845120570053
+      ],
+      "code_comm" : "259",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3471845120570053,
+        48.96077614255658
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

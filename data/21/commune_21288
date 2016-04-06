@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a803b3f00fb41a4960885b5f1eadd41e823b054f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 338,
+      "insee_com" : "02536",
+      "z_moyen" : 124,
+      "code_dept" : "02",
+      "nom_comm" : "NAMPTEUIL-SOUS-MURET",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7309,
+      "y_centroid" : 69118,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.431205072051049,
+              49.29123369178286
+            ],
+            [
+              3.422386200394935,
+              49.29347629604451
+            ],
+            [
+              3.421986986735249,
+              49.30349197247758
+            ],
+            [
+              3.434226155142615,
+              49.31872151814289
+            ],
+            [
+              3.448707814312755,
+              49.31418291483776
+            ],
+            [
+              3.442218665788122,
+              49.30143290460027
+            ],
+            [
+              3.431205072051049,
+              49.29123369178286
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69113,
+      "code_cant" : "24",
+      "x_centroid" : 7315,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 24735,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.30514039686664,
+        3.433980035157799
+      ],
+      "code_comm" : "536",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.433980035157799,
+        49.30514039686664
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

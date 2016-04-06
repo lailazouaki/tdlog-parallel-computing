@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f46fa313f5f123607d0f6fcf29fe10b352ca511e",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 251,
+      "insee_com" : "80624",
+      "z_moyen" : 122,
+      "code_dept" : "80",
+      "nom_comm" : "PIERREGOT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6554,
+      "y_centroid" : 69900,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.386666029554098,
+              49.99888667531521
+            ],
+            [
+              2.376835824220624,
+              49.99824422543258
+            ],
+            [
+              2.370131009661457,
+              50.00630301533884
+            ],
+            [
+              2.372992050216491,
+              50.01616221305801
+            ],
+            [
+              2.377941750454085,
+              50.01721140560768
+            ],
+            [
+              2.391684951306807,
+              50.01268152753403
+            ],
+            [
+              2.386666029554098,
+              49.99888667531521
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69894,
+      "code_cant" : "41",
+      "x_centroid" : 6555,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 30084,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.00778959587033,
+        2.380463562542003
+      ],
+      "code_comm" : "624",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.380463562542003,
+        50.00778959587033
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

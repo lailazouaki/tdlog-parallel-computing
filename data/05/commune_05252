@@ -1,0 +1,63 @@
+  {
+    "recordid" : "182700e41ef4802f307fa42d0d1663954590a5dd",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 112,
+      "insee_com" : "80707",
+      "z_moyen" : 96,
+      "code_dept" : "80",
+      "nom_comm" : "SAINT-LEGER-SUR-BRESLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6078,
+      "y_centroid" : 69754,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.718728415060922,
+              49.86570719985938
+            ],
+            [
+              1.711801110144029,
+              49.87416983001933
+            ],
+            [
+              1.725183011186366,
+              49.87552312636734
+            ],
+            [
+              1.731118614207413,
+              49.87108360559149
+            ],
+            [
+              1.718728415060922,
+              49.86570719985938
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69752,
+      "code_cant" : "32",
+      "x_centroid" : 6080,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 2306,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.87137332148399,
+        1.721241866400208
+      ],
+      "code_comm" : "707",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.721241866400208,
+        49.87137332148399
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

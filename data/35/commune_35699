@@ -1,0 +1,71 @@
+  {
+    "recordid" : "31414d9c8074573c87ff7021d6ae6c1ea3598f83",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 207,
+      "insee_com" : "65081",
+      "z_moyen" : 412,
+      "code_dept" : "65",
+      "nom_comm" : "BENQUE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4786,
+      "y_centroid" : 62257,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.281538326856161,
+              43.08549685002638
+            ],
+            [
+              0.278467350942422,
+              43.08761515113189
+            ],
+            [
+              0.267124591395447,
+              43.09951330326516
+            ],
+            [
+              0.275430106098611,
+              43.1046554839513
+            ],
+            [
+              0.287680738919444,
+              43.10375869567597
+            ],
+            [
+              0.289997191165242,
+              43.09547444868041
+            ],
+            [
+              0.281538326856161,
+              43.08549685002638
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62255,
+      "code_cant" : "11",
+      "x_centroid" : 4784,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 35420,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.09674553336762,
+        0.2797872562555804
+      ],
+      "code_comm" : "081",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2797872562555804,
+        43.09674553336762
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

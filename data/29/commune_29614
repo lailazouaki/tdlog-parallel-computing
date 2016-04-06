@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1ebd2cd311bba4693cd35fcdfdc310d4ddd06fa3",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 717,
+      "insee_com" : "28155",
+      "z_moyen" : 154,
+      "code_dept" : "28",
+      "nom_comm" : "FONTAINE-LES-RIBOUTS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5715,
+      "y_centroid" : 68408,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.270062893590423,
+              48.63892128586188
+            ],
+            [
+              1.241361572415328,
+              48.63859999305598
+            ],
+            [
+              1.240890044696322,
+              48.65141388644113
+            ],
+            [
+              1.227526686787979,
+              48.66108560407848
+            ],
+            [
+              1.227205271274736,
+              48.67096849142293
+            ],
+            [
+              1.236921049442061,
+              48.67651072263254
+            ],
+            [
+              1.266154052381088,
+              48.65241397432018
+            ],
+            [
+              1.270062893590423,
+              48.63892128586188
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68406,
+      "code_cant" : "10",
+      "x_centroid" : 5709,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 23875,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.6550452017988,
+        1.24758940202967
+      ],
+      "code_comm" : "155",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.24758940202967,
+        48.6550452017988
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

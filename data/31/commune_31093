@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e409eaf26471bdfcbe57cfede4af0e9b054ff771",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 396,
+      "insee_com" : "70280",
+      "z_moyen" : 200,
+      "code_dept" : "70",
+      "nom_comm" : "GRAY-LA-VILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8938,
+      "y_centroid" : 67075,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.589371891222902,
+              47.42973426548293
+            ],
+            [
+              5.558817928271423,
+              47.43723739045462
+            ],
+            [
+              5.553617258330869,
+              47.43173155260641
+            ],
+            [
+              5.55364507193698,
+              47.44428609587288
+            ],
+            [
+              5.560431719301071,
+              47.44794672650231
+            ],
+            [
+              5.573386721953431,
+              47.44814730302502
+            ],
+            [
+              5.586288057705011,
+              47.44338496553792
+            ],
+            [
+              5.589371891222902,
+              47.42973426548293
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67075,
+      "code_cant" : "09",
+      "x_centroid" : 8937,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 12635,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        47.44003130522128,
+        5.57140499870771
+      ],
+      "code_comm" : "280",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.57140499870771,
+        47.44003130522128
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

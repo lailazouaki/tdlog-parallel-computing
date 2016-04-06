@@ -1,0 +1,79 @@
+  {
+    "recordid" : "6c0eb7e5bdcd0f89ff99487cebd0efdd450da3fd",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 625,
+      "insee_com" : "06108",
+      "z_moyen" : 65,
+      "code_dept" : "06",
+      "nom_comm" : "LA ROQUETTE-SUR-SIAGNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10194,
+      "y_centroid" : 62841,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.941747735705212,
+              43.57084228328799
+            ],
+            [
+              6.931423265689886,
+              43.58218036943355
+            ],
+            [
+              6.943803231317256,
+              43.59659574173656
+            ],
+            [
+              6.954585252247775,
+              43.59979806279899
+            ],
+            [
+              6.963924884637926,
+              43.59789889475601
+            ],
+            [
+              6.96535183996835,
+              43.5945134619794
+            ],
+            [
+              6.963182667138541,
+              43.57371008430786
+            ],
+            [
+              6.944555753976008,
+              43.57113662597651
+            ],
+            [
+              6.941747735705212,
+              43.57084228328799
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62836,
+      "code_cant" : "46",
+      "x_centroid" : 10190,
+      "nom_dept" : "ALPES-MARITIMES",
+      "id_geofla" : 11452,
+      "statut" : "Commune simple",
+      "population" : 4.9,
+      "geom_x_y" : [
+        43.58490924560751,
+        6.95049794823638
+      ],
+      "code_comm" : "108",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.95049794823638,
+        43.58490924560751
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

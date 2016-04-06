@@ -1,0 +1,71 @@
+  {
+    "recordid" : "84deec26687bfd4df5aecab2b53148b95f4f638d",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 510,
+      "insee_com" : "29288",
+      "z_moyen" : 71,
+      "code_dept" : "29",
+      "nom_comm" : "TREGARANTEC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 1624,
+      "y_centroid" : 68524,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -4.269047939448264,
+              48.54147139010896
+            ],
+            [
+              -4.298913856536897,
+              48.53681805318474
+            ],
+            [
+              -4.308499190707521,
+              48.53853132661477
+            ],
+            [
+              -4.295009150971598,
+              48.56421481091194
+            ],
+            [
+              -4.290533780037815,
+              48.56598956815333
+            ],
+            [
+              -4.285497509390556,
+              48.56530523552512
+            ],
+            [
+              -4.269047939448264,
+              48.54147139010896
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68527,
+      "code_cant" : "21",
+      "x_centroid" : 1627,
+      "nom_dept" : "FINISTERE",
+      "id_geofla" : 19293,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.5492141839893,
+        -4.289526981651003
+      ],
+      "code_comm" : "288",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -4.289526981651003,
+        48.5492141839893
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

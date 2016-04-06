@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ca40aa3cb9184ef15872feae6865fcc1a7de4d8b",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 259,
+      "insee_com" : "76406",
+      "z_moyen" : 108,
+      "code_dept" : "76",
+      "nom_comm" : "MANIQUERVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5082,
+      "y_centroid" : 69582,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.349420987044516,
+              49.68196198578492
+            ],
+            [
+              0.335701399830572,
+              49.6881265459313
+            ],
+            [
+              0.3420924743327,
+              49.70382887978965
+            ],
+            [
+              0.349653363055559,
+              49.70692462682124
+            ],
+            [
+              0.356787658955348,
+              49.70245873244527
+            ],
+            [
+              0.351596999286193,
+              49.69347232369377
+            ],
+            [
+              0.354596694953862,
+              49.68772072120626
+            ],
+            [
+              0.349420987044516,
+              49.68196198578492
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69580,
+      "code_cant" : "21",
+      "x_centroid" : 5084,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 20682,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.69448111870005,
+        0.3465721216970907
+      ],
+      "code_comm" : "406",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3465721216970907,
+        49.69448111870005
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

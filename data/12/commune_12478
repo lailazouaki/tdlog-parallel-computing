@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a1a6f8ba510993ece74adc1ebba97a69794dd03a",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 553,
+      "insee_com" : "95058",
+      "z_moyen" : 40,
+      "code_dept" : "95",
+      "nom_comm" : "BERNES-SUR-OISE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6489,
+      "y_centroid" : 68964,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.311918280473377,
+              49.15016994668642
+            ],
+            [
+              2.294154781409917,
+              49.15115501405079
+            ],
+            [
+              2.286399268939692,
+              49.15992049534477
+            ],
+            [
+              2.288759926214986,
+              49.16970761782685
+            ],
+            [
+              2.299505244094919,
+              49.17715209391843
+            ],
+            [
+              2.301197118632785,
+              49.18388703161261
+            ],
+            [
+              2.310592807616049,
+              49.18487621002124
+            ],
+            [
+              2.311918280473377,
+              49.15016994668642
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68959,
+      "code_cant" : "03",
+      "x_centroid" : 6490,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 22287,
+      "statut" : "Commune simple",
+      "population" : 2.4,
+      "geom_x_y" : [
+        49.16541333199975,
+        2.301276336703179
+      ],
+      "code_comm" : "058",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.301276336703179,
+        49.16541333199975
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

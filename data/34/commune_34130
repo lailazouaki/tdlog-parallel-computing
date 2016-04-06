@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a9e7acbf22f82bb4b41ce5ea5ae7b2a4d756656c",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 332,
+      "insee_com" : "50325",
+      "z_moyen" : 14,
+      "code_dept" : "50",
+      "nom_comm" : "LE MESNIL-VIGOT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 3877,
+      "y_centroid" : 69042,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.265786675213104,
+              49.15443696849145
+            ],
+            [
+              -1.282997779048653,
+              49.14926028052284
+            ],
+            [
+              -1.288515447460115,
+              49.15406084203566
+            ],
+            [
+              -1.287960767545854,
+              49.16012224927551
+            ],
+            [
+              -1.287642699843741,
+              49.16522977637744
+            ],
+            [
+              -1.278995145681688,
+              49.17472150884972
+            ],
+            [
+              -1.270200982750173,
+              49.17316118077321
+            ],
+            [
+              -1.265786675213104,
+              49.15443696849145
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69035,
+      "code_cant" : "21",
+      "x_centroid" : 3881,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 34665,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.16153481733802,
+        -1.277545840932112
+      ],
+      "code_comm" : "325",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.277545840932112,
+        49.16153481733802
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

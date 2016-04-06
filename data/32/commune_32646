@@ -1,0 +1,75 @@
+  {
+    "recordid" : "cc3f61bddd2899fb55ab6fb196130b5a1913b562",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 354,
+      "insee_com" : "31463",
+      "z_moyen" : 206,
+      "code_dept" : "31",
+      "nom_comm" : "ROUMENS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6132,
+      "y_centroid" : 62634,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.960803347404706,
+              43.46981576672215
+            ],
+            [
+              1.933647557867512,
+              43.45591172293928
+            ],
+            [
+              1.921052864086407,
+              43.46099667482795
+            ],
+            [
+              1.916883173614417,
+              43.46727141865944
+            ],
+            [
+              1.929963487004066,
+              43.47070344795201
+            ],
+            [
+              1.943585839869959,
+              43.4675799090795
+            ],
+            [
+              1.956706452379969,
+              43.47160293092191
+            ],
+            [
+              1.960803347404706,
+              43.46981576672215
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62633,
+      "code_cant" : "25",
+      "x_centroid" : 6138,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 28346,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.46462750135924,
+        1.93578142821253
+      ],
+      "code_comm" : "463",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.93578142821253,
+        43.46462750135924
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5fa27ad471c0c309e181bdb023a00016ccdfd2d9",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 544,
+      "insee_com" : "11399",
+      "z_moyen" : 234,
+      "code_dept" : "11",
+      "nom_comm" : "TREVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6150,
+      "y_centroid" : 62543,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.966410026797933,
+              43.37233009334469
+            ],
+            [
+              1.947647102211324,
+              43.37256315262468
+            ],
+            [
+              1.937829937840616,
+              43.37791043896053
+            ],
+            [
+              1.939460943175836,
+              43.38981153367222
+            ],
+            [
+              1.968228382207334,
+              43.3947499824133
+            ],
+            [
+              1.970585350564059,
+              43.38506460626466
+            ],
+            [
+              1.966410026797933,
+              43.37233009334469
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62545,
+      "code_cant" : "09",
+      "x_centroid" : 6152,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 26373,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.38286917260213,
+        1.954970223330384
+      ],
+      "code_comm" : "399",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.954970223330384,
+        43.38286917260213
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

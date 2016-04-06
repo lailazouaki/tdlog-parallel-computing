@@ -1,0 +1,75 @@
+  {
+    "recordid" : "efc5e751a765020c004ec263321eaba6c4d9abdf",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 334,
+      "insee_com" : "54278",
+      "z_moyen" : 287,
+      "code_dept" : "54",
+      "nom_comm" : "JEVONCOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9343,
+      "y_centroid" : 68173,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.178926699444621,
+              48.41046081116039
+            ],
+            [
+              6.172830378880582,
+              48.40603219082551
+            ],
+            [
+              6.149421081461337,
+              48.40826815943861
+            ],
+            [
+              6.147948321506848,
+              48.41777014369072
+            ],
+            [
+              6.154168131562604,
+              48.4226918989053
+            ],
+            [
+              6.168056059503204,
+              48.42239367138266
+            ],
+            [
+              6.175862071609667,
+              48.41457666148998
+            ],
+            [
+              6.178926699444621,
+              48.41046081116039
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68173,
+      "code_cant" : "14",
+      "x_centroid" : 9339,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 18916,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.41418599777435,
+        6.162350977829196
+      ],
+      "code_comm" : "278",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.162350977829196,
+        48.41418599777435
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "88688ab6f3a169381c2cba20c6ae8df4a176c597",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 266,
+      "insee_com" : "60229",
+      "z_moyen" : 59,
+      "code_dept" : "60",
+      "nom_comm" : "LE FAYEL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6781,
+      "y_centroid" : 69192,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.695596275794857,
+              49.36313766272368
+            ],
+            [
+              2.685961860508331,
+              49.3722545976378
+            ],
+            [
+              2.682438440788156,
+              49.38111722603539
+            ],
+            [
+              2.707754912348131,
+              49.37663279260884
+            ],
+            [
+              2.709930988183502,
+              49.36666954213923
+            ],
+            [
+              2.695596275794857,
+              49.36313766272368
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69192,
+      "code_cant" : "14",
+      "x_centroid" : 6779,
+      "nom_dept" : "OISE",
+      "id_geofla" : 19909,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.37229151111259,
+        2.696917266099472
+      ],
+      "code_comm" : "229",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.696917266099472,
+        49.37229151111259
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1f12c9ba41d900603d63a32675fc0ad3c4f85e6e",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 682,
+      "insee_com" : "49005",
+      "z_moyen" : 44,
+      "code_dept" : "49",
+      "nom_comm" : "ANDIGNE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4163,
+      "y_centroid" : 67362,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.767191006467241,
+              47.66974365298248
+            ],
+            [
+              -0.785931007825144,
+              47.65016012535608
+            ],
+            [
+              -0.804450969814377,
+              47.65515424425091
+            ],
+            [
+              -0.810320010369698,
+              47.66038774094131
+            ],
+            [
+              -0.798178084176657,
+              47.67867959103089
+            ],
+            [
+              -0.779925230155595,
+              47.67868583544909
+            ],
+            [
+              -0.767191006467241,
+              47.66974365298248
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67362,
+      "code_cant" : "16",
+      "x_centroid" : 4157,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 19317,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.66558075641063,
+        -0.7894698374803485
+      ],
+      "code_comm" : "005",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.7894698374803485,
+        47.66558075641063
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1f88d05a5d3470e992dcaac7dfc2ae7c288ea73c",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 596,
+      "insee_com" : "21331",
+      "z_moyen" : 183,
+      "code_dept" : "21",
+      "nom_comm" : "LABERGEMENT-LES-AUXONNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8803,
+      "y_centroid" : 66759,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.370649046541994,
+              47.14464045538172
+            ],
+            [
+              5.357768342170031,
+              47.16433159648155
+            ],
+            [
+              5.389390266367745,
+              47.17428433475825
+            ],
+            [
+              5.394435583868566,
+              47.16863177968664
+            ],
+            [
+              5.394920075087235,
+              47.15844381999987
+            ],
+            [
+              5.392343439216384,
+              47.15365132518682
+            ],
+            [
+              5.384057332040745,
+              47.14632848290051
+            ],
+            [
+              5.370649046541994,
+              47.14464045538172
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66758,
+      "code_cant" : "03",
+      "x_centroid" : 8801,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 34778,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.15939530224257,
+        5.37863306844507
+      ],
+      "code_comm" : "331",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.37863306844507,
+        47.15939530224257
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

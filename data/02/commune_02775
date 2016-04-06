@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5512ddc5e7bedf2af658ef5f1db2e73b5a6abbd4",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 422,
+      "insee_com" : "17254",
+      "z_moyen" : 30,
+      "code_dept" : "17",
+      "nom_comm" : "NACHAMPS",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4197,
+      "y_centroid" : 65533,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.615038228432245,
+              46.01765817053542
+            ],
+            [
+              -0.631182988697103,
+              46.00919096030707
+            ],
+            [
+              -0.643949055966029,
+              46.01363970855609
+            ],
+            [
+              -0.63581072913957,
+              46.01656955908579
+            ],
+            [
+              -0.6333629918784101,
+              46.02925933924975
+            ],
+            [
+              -0.624792862254706,
+              46.03588904733381
+            ],
+            [
+              -0.6040506390158,
+              46.02274986424671
+            ],
+            [
+              -0.615038228432245,
+              46.01765817053542
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65528,
+      "code_cant" : "38",
+      "x_centroid" : 4197,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 4332,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.02203400854929,
+        -0.6243029573760163
+      ],
+      "code_comm" : "254",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6243029573760163,
+        46.02203400854929
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

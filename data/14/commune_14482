@@ -1,0 +1,71 @@
+  {
+    "recordid" : "95b05f5beadfd89923631cfcc6d45713f2281e87",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 694,
+      "insee_com" : "82046",
+      "z_moyen" : 154,
+      "code_dept" : "82",
+      "nom_comm" : "COUTURES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5383,
+      "y_centroid" : 63199,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.9843711610559061,
+              43.93771583615906
+            ],
+            [
+              0.980176066981551,
+              43.94149144334358
+            ],
+            [
+              0.974450426655435,
+              43.97361492624244
+            ],
+            [
+              0.999955897077259,
+              43.98215094857591
+            ],
+            [
+              0.99606922482555,
+              43.9494272436794
+            ],
+            [
+              0.997072781589223,
+              43.94001100689843
+            ],
+            [
+              0.9843711610559061,
+              43.93771583615906
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63190,
+      "code_cant" : "21",
+      "x_centroid" : 5385,
+      "nom_dept" : "TARN-ET-GARONNE",
+      "id_geofla" : 20724,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.96007582201371,
+        0.9878144491040945
+      ],
+      "code_comm" : "046",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9878144491040945,
+        43.96007582201371
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "24a15dd2f02444f21ee4dbcccc6f3fbc234f1cf5",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 189,
+      "insee_com" : "49288",
+      "z_moyen" : 17,
+      "code_dept" : "49",
+      "nom_comm" : "SAINT-JEAN-DE-LA-CROIX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4291,
+      "y_centroid" : 67073,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.588813790932319,
+              47.40452436933241
+            ],
+            [
+              -0.5999432945180661,
+              47.40442349177847
+            ],
+            [
+              -0.601884863213114,
+              47.41454616073153
+            ],
+            [
+              -0.586592672268833,
+              47.41575788698564
+            ],
+            [
+              -0.566544264229601,
+              47.41313967732048
+            ],
+            [
+              -0.578672949501896,
+              47.40809911593231
+            ],
+            [
+              -0.58638433939594,
+              47.41086219379245
+            ],
+            [
+              -0.588813790932319,
+              47.40452436933241
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67072,
+      "code_cant" : "23",
+      "x_centroid" : 4295,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 33288,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.41086138031319,
+        -0.5883516177494496
+      ],
+      "code_comm" : "288",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5883516177494496,
+        47.41086138031319
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

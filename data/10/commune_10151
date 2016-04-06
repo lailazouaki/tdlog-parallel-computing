@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dd32fc2f6659ce23e8c0b5f67c23c54ee55e8466",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 613,
+      "insee_com" : "31045",
+      "z_moyen" : 564,
+      "code_dept" : "31",
+      "nom_comm" : "BARBAZAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5061,
+      "y_centroid" : 62179,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.636555627443038,
+              43.01770533780734
+            ],
+            [
+              0.628375602858429,
+              43.02372471142668
+            ],
+            [
+              0.615650821562277,
+              43.0215269450679
+            ],
+            [
+              0.60804733280796,
+              43.03400906414646
+            ],
+            [
+              0.606149603116972,
+              43.05113488673954
+            ],
+            [
+              0.626235249723139,
+              43.04393151169991
+            ],
+            [
+              0.634916200307818,
+              43.0455442852138
+            ],
+            [
+              0.636555627443038,
+              43.01770533780734
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62176,
+      "code_cant" : "05",
+      "x_centroid" : 5060,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 6534,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.03491675616296,
+        0.6218432706646135
+      ],
+      "code_comm" : "045",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6218432706646135,
+        43.03491675616296
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

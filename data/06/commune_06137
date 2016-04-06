@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c5674a61fc0ae6c9966e23834d2b6cbb44ff29c6",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 690,
+      "insee_com" : "70418",
+      "z_moyen" : 234,
+      "code_dept" : "70",
+      "nom_comm" : "LE PONT-DE-PLANCHES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9197,
+      "y_centroid" : 67193,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.9382358951797,
+              47.55118485254361
+            ],
+            [
+              5.9324920089981,
+              47.51973963307721
+            ],
+            [
+              5.927793290921655,
+              47.5206234554749
+            ],
+            [
+              5.911258414082905,
+              47.52856813702306
+            ],
+            [
+              5.906365262793989,
+              47.52785257276538
+            ],
+            [
+              5.902195625362525,
+              47.53384742771794
+            ],
+            [
+              5.919980182155107,
+              47.55359815706085
+            ],
+            [
+              5.9382358951797,
+              47.55118485254361
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67190,
+      "code_cant" : "08",
+      "x_centroid" : 9198,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 2883,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.53747216760625,
+        5.922632448239122
+      ],
+      "code_comm" : "418",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.922632448239122,
+        47.53747216760625
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

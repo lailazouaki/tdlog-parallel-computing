@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b87878189234aefe072a7d2ce023cdae7e66c9b6",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 402,
+      "insee_com" : "27173",
+      "z_moyen" : 149,
+      "code_dept" : "27",
+      "nom_comm" : "CORNEVILLE-LA-FOUQUETIERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5323,
+      "y_centroid" : 68868,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.721338396822606,
+              49.05753266821857
+            ],
+            [
+              0.692481038798075,
+              49.0487059894426
+            ],
+            [
+              0.683262679816416,
+              49.05195578179011
+            ],
+            [
+              0.689223304615581,
+              49.05701808317954
+            ],
+            [
+              0.685266586489291,
+              49.06256400424209
+            ],
+            [
+              0.689785902146158,
+              49.06374843081196
+            ],
+            [
+              0.716063868968654,
+              49.07225662021499
+            ],
+            [
+              0.721338396822606,
+              49.05753266821857
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68875,
+      "code_cant" : "41",
+      "x_centroid" : 5321,
+      "nom_dept" : "EURE",
+      "id_geofla" : 32414,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.05987019978409,
+        0.7030484953880749
+      ],
+      "code_comm" : "173",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7030484953880749,
+        49.05987019978409
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

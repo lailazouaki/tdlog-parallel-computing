@@ -1,0 +1,71 @@
+  {
+    "recordid" : "41e573c9e69d75bc36dd35ddbe01fe2de3e3a8a8",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 276,
+      "insee_com" : "02107",
+      "z_moyen" : 60,
+      "code_dept" : "02",
+      "nom_comm" : "BOURGUIGNON-SOUS-COUCY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7114,
+      "y_centroid" : 69381,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.1486963495118,
+              49.53166562864816
+            ],
+            [
+              3.139161671910656,
+              49.54427677106811
+            ],
+            [
+              3.14602575399549,
+              49.5491036866932
+            ],
+            [
+              3.160357778576019,
+              49.55180863233712
+            ],
+            [
+              3.162949771989949,
+              49.54590974991549
+            ],
+            [
+              3.176307161474679,
+              49.54634941423461
+            ],
+            [
+              3.1486963495118,
+              49.53166562864816
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69383,
+      "code_cant" : "11",
+      "x_centroid" : 7111,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 25172,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.54276415750122,
+        3.154229576574753
+      ],
+      "code_comm" : "107",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.154229576574753,
+        49.54276415750122
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

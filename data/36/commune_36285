@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a32b0a695ebf25209a708da842ac5fda0c357274",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 391,
+      "insee_com" : "65259",
+      "z_moyen" : 326,
+      "code_dept" : "65",
+      "nom_comm" : "LANSAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4695,
+      "y_centroid" : 62399,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.151770129362801,
+              43.21411590984882
+            ],
+            [
+              0.149342655747927,
+              43.21991142361804
+            ],
+            [
+              0.158270694162409,
+              43.22680757990852
+            ],
+            [
+              0.185419949678901,
+              43.22537674067767
+            ],
+            [
+              0.193012381443086,
+              43.2289587742159
+            ],
+            [
+              0.19721028330442,
+              43.22768173159746
+            ],
+            [
+              0.192776714309614,
+              43.21861971463797
+            ],
+            [
+              0.151770129362801,
+              43.21411590984882
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62401,
+      "code_cant" : "17",
+      "x_centroid" : 4701,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 5688,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.22131706098804,
+        0.1721571394701261
+      ],
+      "code_comm" : "259",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1721571394701261,
+        43.22131706098804
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

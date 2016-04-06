@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ef87d0bd32cde412b989a9c5112eaac0f704e1f3",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 248,
+      "insee_com" : "25234",
+      "z_moyen" : 813,
+      "code_dept" : "25",
+      "nom_comm" : "FERRIERES-LE-LAC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9941,
+      "y_centroid" : 66925,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.885622366689034,
+              47.25984434271749
+            ],
+            [
+              6.872943323194312,
+              47.2687232794598
+            ],
+            [
+              6.893141018274504,
+              47.2766274733542
+            ],
+            [
+              6.905793737959931,
+              47.26922541538814
+            ],
+            [
+              6.904776104131558,
+              47.26633931525594
+            ],
+            [
+              6.885622366689034,
+              47.25984434271749
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66924,
+      "code_cant" : "12",
+      "x_centroid" : 9940,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 8415,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.26820732436411,
+        6.89003480191986
+      ],
+      "code_comm" : "234",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.89003480191986,
+        47.26820732436411
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

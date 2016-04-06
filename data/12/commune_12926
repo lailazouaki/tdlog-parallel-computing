@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4606e10f9f310140d49031d602a799632d2fd396",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 262,
+      "insee_com" : "68133",
+      "z_moyen" : 374,
+      "code_dept" : "68",
+      "nom_comm" : "HENFLINGEN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10222,
+      "y_centroid" : 67279,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.311387851694803,
+              47.57529728918191
+            ],
+            [
+              7.278603436071363,
+              47.5623343357025
+            ],
+            [
+              7.274454172857479,
+              47.56407314439549
+            ],
+            [
+              7.281631657367617,
+              47.57601537634054
+            ],
+            [
+              7.30375679363812,
+              47.58342199956455
+            ],
+            [
+              7.311387851694803,
+              47.57529728918191
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67280,
+      "code_cant" : "10",
+      "x_centroid" : 10225,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 21519,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.57323491511227,
+        7.292261483926039
+      ],
+      "code_comm" : "133",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.292261483926039,
+        47.57323491511227
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

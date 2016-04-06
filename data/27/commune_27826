@@ -1,0 +1,71 @@
+  {
+    "recordid" : "de78f4396156826af73d52df11c287834f19368e",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 382,
+      "insee_com" : "33096",
+      "z_moyen" : 29,
+      "code_dept" : "33",
+      "nom_comm" : "CARBON-BLANC",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4232,
+      "y_centroid" : 64287,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.503820820445639,
+              44.88781563144239
+            ],
+            [
+              -0.517048992541931,
+              44.88790198606448
+            ],
+            [
+              -0.516318776131628,
+              44.89465737651102
+            ],
+            [
+              -0.5037959185405509,
+              44.90466949649732
+            ],
+            [
+              -0.501665523562538,
+              44.91807501376646
+            ],
+            [
+              -0.484064827492304,
+              44.91570856031162
+            ],
+            [
+              -0.503820820445639,
+              44.88781563144239
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64278,
+      "code_cant" : "19",
+      "x_centroid" : 4237,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 24922,
+      "statut" : "Chef-lieu canton",
+      "population" : 6.9,
+      "geom_x_y" : [
+        44.90252990828038,
+        -0.5011766523557734
+      ],
+      "code_comm" : "096",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5011766523557734,
+        44.90252990828038
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

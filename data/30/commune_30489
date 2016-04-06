@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4e7cd98c38c47e52151de8622075e4cc0fb13d65",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 293,
+      "insee_com" : "70375",
+      "z_moyen" : 210,
+      "code_dept" : "70",
+      "nom_comm" : "MOTEY-SUR-SAONE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9062,
+      "y_centroid" : 67171,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.756098434665736,
+              47.50866151387932
+            ],
+            [
+              5.732000234369926,
+              47.52016356040556
+            ],
+            [
+              5.741490678385807,
+              47.53151453727347
+            ],
+            [
+              5.743866331200939,
+              47.52882861422555
+            ],
+            [
+              5.754184426578138,
+              47.53473695832222
+            ],
+            [
+              5.756993623991019,
+              47.52551046649434
+            ],
+            [
+              5.750878997037523,
+              47.51702629428416
+            ],
+            [
+              5.756098434665736,
+              47.50866151387932
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67174,
+      "code_cant" : "08",
+      "x_centroid" : 9066,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 32022,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.5226262077726,
+        5.746266311225151
+      ],
+      "code_comm" : "375",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.746266311225151,
+        47.5226262077726
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

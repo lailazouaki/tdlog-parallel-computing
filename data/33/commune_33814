@@ -1,0 +1,71 @@
+  {
+    "recordid" : "688a2590a3eebfd4a64c4927330d57f72e82f3fb",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 454,
+      "insee_com" : "02828",
+      "z_moyen" : 142,
+      "code_dept" : "02",
+      "nom_comm" : "VREGNY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7307,
+      "y_centroid" : 69239,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.416082026649384,
+              49.40150117113919
+            ],
+            [
+              3.40418038785758,
+              49.411824288504
+            ],
+            [
+              3.403549459961793,
+              49.4174531085045
+            ],
+            [
+              3.42229995778074,
+              49.42747400750238
+            ],
+            [
+              3.434077981413453,
+              49.42046642328683
+            ],
+            [
+              3.43046904990402,
+              49.40409345737682
+            ],
+            [
+              3.416082026649384,
+              49.40150117113919
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69232,
+      "code_cant" : "32",
+      "x_centroid" : 7304,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 2430,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.41406198526511,
+        3.419735635597332
+      ],
+      "code_comm" : "828",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.419735635597332,
+        49.41406198526511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

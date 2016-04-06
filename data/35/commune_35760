@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2aaf1d55221d94d253795f7b96b8787afaa73bb1",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 265,
+      "insee_com" : "14024",
+      "z_moyen" : 105,
+      "code_dept" : "14",
+      "nom_comm" : "AUBERVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4797,
+      "y_centroid" : 69166,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.020363439572382,
+              49.30505216890307
+            ],
+            [
+              -0.023342396332818,
+              49.30001184517427
+            ],
+            [
+              -0.038482229507006,
+              49.30786292136296
+            ],
+            [
+              -0.041452928944022,
+              49.31391431615189
+            ],
+            [
+              -0.013498127243605,
+              49.32106531296085
+            ],
+            [
+              -0.020363439572382,
+              49.30505216890307
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69160,
+      "code_cant" : "15",
+      "x_centroid" : 4798,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 36028,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.31109798803328,
+        -0.02689287398027524
+      ],
+      "code_comm" : "024",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.02689287398027524,
+        49.31109798803328
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "492e5b8d7e2d19e9d0fbc6fae96fb8c12b3581d7",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 536,
+      "insee_com" : "38170",
+      "z_moyen" : 329,
+      "code_dept" : "38",
+      "nom_comm" : "FONTANIL-CORNILLON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9090,
+      "y_centroid" : 64651,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.655237135592168,
+              45.24092615233734
+            ],
+            [
+              5.639765328195552,
+              45.25459954149149
+            ],
+            [
+              5.656959893687751,
+              45.25861567764759
+            ],
+            [
+              5.666357610663121,
+              45.26920320880962
+            ],
+            [
+              5.675542670558062,
+              45.26332577737745
+            ],
+            [
+              5.683781060626902,
+              45.26405624448239
+            ],
+            [
+              5.679285331987751,
+              45.24802810836732
+            ],
+            [
+              5.655237135592168,
+              45.24092615233734
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64653,
+      "code_cant" : "51",
+      "x_centroid" : 9089,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 33154,
+      "statut" : "Commune simple",
+      "population" : 2.8,
+      "geom_x_y" : [
+        45.25407184616117,
+        5.664233637391407
+      ],
+      "code_comm" : "170",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.664233637391407,
+        45.25407184616117
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

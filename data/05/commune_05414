@@ -1,0 +1,75 @@
+  {
+    "recordid" : "005177def431028c4de717407d120c8140a46e21",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 389,
+      "insee_com" : "14421",
+      "z_moyen" : 113,
+      "code_dept" : "14",
+      "nom_comm" : "LE MESNIL-GUILLAUME",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5019,
+      "y_centroid" : 68928,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.297125691967814,
+              49.10497274050591
+            ],
+            [
+              0.273731613054424,
+              49.09385558493261
+            ],
+            [
+              0.265336113592312,
+              49.09666971876582
+            ],
+            [
+              0.25881797988061,
+              49.10023683567167
+            ],
+            [
+              0.279380262906294,
+              49.1107350097544
+            ],
+            [
+              0.2983365606348,
+              49.1156516099779
+            ],
+            [
+              0.306036877727316,
+              49.11147017995351
+            ],
+            [
+              0.297125691967814,
+              49.10497274050591
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68928,
+      "code_cant" : "21",
+      "x_centroid" : 5016,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 13031,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.10488795789492,
+        0.2825666484667672
+      ],
+      "code_comm" : "421",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2825666484667672,
+        49.10488795789492
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

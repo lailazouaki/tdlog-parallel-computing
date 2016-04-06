@@ -1,0 +1,71 @@
+  {
+    "recordid" : "654194b60552b2a9ef1f03943ede61ca5bbaba6a",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 647,
+      "insee_com" : "51458",
+      "z_moyen" : 148,
+      "code_dept" : "51",
+      "nom_comm" : "REUVES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7589,
+      "y_centroid" : 68556,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.807591191687141,
+              48.77917696919251
+            ],
+            [
+              3.784724663396906,
+              48.78351167551298
+            ],
+            [
+              3.788678840062555,
+              48.79569076206287
+            ],
+            [
+              3.796405980096492,
+              48.81763001572817
+            ],
+            [
+              3.817798033926701,
+              48.81303357264846
+            ],
+            [
+              3.819201145104195,
+              48.81046066144715
+            ],
+            [
+              3.807591191687141,
+              48.77917696919251
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68552,
+      "code_cant" : "25",
+      "x_centroid" : 7589,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 19323,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.79829902318339,
+        3.80208051062462
+      ],
+      "code_comm" : "458",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.80208051062462,
+        48.79829902318339
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6e8c50bd7fff393f35ba4fb1c37248475e3ba8b2",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 469,
+      "insee_com" : "27235",
+      "z_moyen" : 148,
+      "code_dept" : "27",
+      "nom_comm" : "FAVEROLLES-LA-CAMPAGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5483,
+      "y_centroid" : 68820,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.928579931842185,
+              49.00347529190157
+            ],
+            [
+              0.920898931802399,
+              49.00579810984474
+            ],
+            [
+              0.918169908118466,
+              49.01828088833025
+            ],
+            [
+              0.9168855814185189,
+              49.04177125149402
+            ],
+            [
+              0.922461895439094,
+              49.04328902798608
+            ],
+            [
+              0.94330891854614,
+              49.00958440728461
+            ],
+            [
+              0.928579931842185,
+              49.00347529190157
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68809,
+      "code_cant" : "11",
+      "x_centroid" : 5483,
+      "nom_dept" : "EURE",
+      "id_geofla" : 3747,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.02063037757708,
+        0.9270549369843389
+      ],
+      "code_comm" : "235",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9270549369843389,
+        49.02063037757708
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

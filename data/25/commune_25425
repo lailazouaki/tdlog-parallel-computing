@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c3a6db703c335b3d58fe16f8d64ee6909e39c853",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 536,
+      "insee_com" : "27607",
+      "z_moyen" : 110,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-THURIEN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5226,
+      "y_centroid" : 69253,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.557634228832526,
+              49.38919305386685
+            ],
+            [
+              0.533880452412241,
+              49.4019303959019
+            ],
+            [
+              0.518422107569522,
+              49.41560694240094
+            ],
+            [
+              0.559787650354244,
+              49.40830103421661
+            ],
+            [
+              0.569452641251728,
+              49.41113042286875
+            ],
+            [
+              0.573821855969702,
+              49.39883533801803
+            ],
+            [
+              0.557634228832526,
+              49.38919305386685
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69258,
+      "code_cant" : "29",
+      "x_centroid" : 5221,
+      "nom_dept" : "EURE",
+      "id_geofla" : 24726,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.4031416313884,
+        0.5505720774750622
+      ],
+      "code_comm" : "607",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5505720774750622,
+        49.4031416313884
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

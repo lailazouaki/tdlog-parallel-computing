@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f101269bd5ccdd9e2eb25e8b25b8ad1d93655297",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 125,
+      "insee_com" : "21352",
+      "z_moyen" : 195,
+      "code_dept" : "21",
+      "nom_comm" : "LONGEAULT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8705,
+      "y_centroid" : 66825,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.243005903769181,
+              47.21562534289193
+            ],
+            [
+              5.242936115740775,
+              47.23011784743588
+            ],
+            [
+              5.248007142656186,
+              47.22585867799985
+            ],
+            [
+              5.256276293379035,
+              47.22631940586602
+            ],
+            [
+              5.262016537835265,
+              47.2188312787458
+            ],
+            [
+              5.243005903769181,
+              47.21562534289193
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66826,
+      "code_cant" : "14",
+      "x_centroid" : 8702,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 13166,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        47.22170351062024,
+        5.250440956237998
+      ],
+      "code_comm" : "352",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.250440956237998,
+        47.22170351062024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

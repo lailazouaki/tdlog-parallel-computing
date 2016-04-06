@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5b1ded158d290354abd8c50cbb80425baab174aa",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 235,
+      "insee_com" : "25557",
+      "z_moyen" : 430,
+      "code_dept" : "25",
+      "nom_comm" : "TALLENAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9283,
+      "y_centroid" : 66938,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.01087949504433,
+              47.29538277074542
+            ],
+            [
+              6.00424759125457,
+              47.29826639006336
+            ],
+            [
+              6.020106779610361,
+              47.31205276448397
+            ],
+            [
+              6.02933571942105,
+              47.31550589405955
+            ],
+            [
+              6.035962784663525,
+              47.30971109749688
+            ],
+            [
+              6.01087949504433,
+              47.29538277074542
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66937,
+      "code_cant" : "13",
+      "x_centroid" : 9281,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 35281,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.30569345653302,
+        6.020353722479691
+      ],
+      "code_comm" : "557",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.020353722479691,
+        47.30569345653302
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e5aacb6b371c0165118fae94ff9233f3545f3abb",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 351,
+      "insee_com" : "90101",
+      "z_moyen" : 375,
+      "code_dept" : "90",
+      "nom_comm" : "VELLESCOT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10016,
+      "y_centroid" : 67271,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.002019603311191,
+              47.5642451775078
+            ],
+            [
+              7.008935723492896,
+              47.58187106890718
+            ],
+            [
+              7.018850996127133,
+              47.58706366872818
+            ],
+            [
+              7.029336326022372,
+              47.58301554484902
+            ],
+            [
+              7.033121722634143,
+              47.57810778889043
+            ],
+            [
+              7.02161364922848,
+              47.56396737215779
+            ],
+            [
+              7.009341017857769,
+              47.56704896198553
+            ],
+            [
+              7.002019603311191,
+              47.5642451775078
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67268,
+      "code_cant" : "13",
+      "x_centroid" : 10019,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 14594,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.57520451879058,
+        7.017845196879498
+      ],
+      "code_comm" : "101",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.017845196879498,
+        47.57520451879058
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

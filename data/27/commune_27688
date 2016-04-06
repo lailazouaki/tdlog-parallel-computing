@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f6942ec4a7a7b2573e916244626405580e6a51e4",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 284,
+      "insee_com" : "65466",
+      "z_moyen" : 1257,
+      "code_dept" : "65",
+      "nom_comm" : "VIELLE-LOURON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4875,
+      "y_centroid" : 61962,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.40891229256034,
+              42.82666118382724
+            ],
+            [
+              0.396991885304991,
+              42.82863973166606
+            ],
+            [
+              0.384939353985577,
+              42.8267450370512
+            ],
+            [
+              0.384264421753371,
+              42.83847873210733
+            ],
+            [
+              0.389495961039705,
+              42.84285282173446
+            ],
+            [
+              0.408882691113075,
+              42.83746581726097
+            ],
+            [
+              0.40891229256034,
+              42.82666118382724
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61962,
+      "code_cant" : "06",
+      "x_centroid" : 4869,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 34031,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.83407641725915,
+        0.3961207290406961
+      ],
+      "code_comm" : "466",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3961207290406961,
+        42.83407641725915
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

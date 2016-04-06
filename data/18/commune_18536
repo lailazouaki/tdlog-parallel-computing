@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d394d514461fae7cdf885964efe0ff4884ea111b",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 885,
+      "insee_com" : "38071",
+      "z_moyen" : 420,
+      "code_dept" : "38",
+      "nom_comm" : "CHAMP-SUR-DRAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9150,
+      "y_centroid" : 64448,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.736505710407562,
+              45.04931546259394
+            ],
+            [
+              5.702652098654052,
+              45.06149384728065
+            ],
+            [
+              5.713384137778425,
+              45.07230523462047
+            ],
+            [
+              5.725547818254646,
+              45.09074763803543
+            ],
+            [
+              5.74356507628684,
+              45.08338626173447
+            ],
+            [
+              5.742736386871377,
+              45.0623427898656
+            ],
+            [
+              5.736505710407562,
+              45.04931546259394
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64448,
+      "code_cant" : "44",
+      "x_centroid" : 9146,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 22467,
+      "statut" : "Commune simple",
+      "population" : 3.1,
+      "geom_x_y" : [
+        45.0692413972998,
+        5.727563031852478
+      ],
+      "code_comm" : "071",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.727563031852478,
+        45.0692413972998
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

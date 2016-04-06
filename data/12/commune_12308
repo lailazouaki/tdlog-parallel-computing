@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8ec2b91ff78c9291d53cf69c3ea2fc76437abcbd",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 396,
+      "insee_com" : "65083",
+      "z_moyen" : 393,
+      "code_dept" : "65",
+      "nom_comm" : "BERNAC-DEBAT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4647,
+      "y_centroid" : 62343,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.128297434299537,
+              43.16151412222302
+            ],
+            [
+              0.105229474462501,
+              43.16425451279461
+            ],
+            [
+              0.094285500523744,
+              43.16426616334457
+            ],
+            [
+              0.09103382378297201,
+              43.16999301368378
+            ],
+            [
+              0.095210488402378,
+              43.17839539285938
+            ],
+            [
+              0.102656566837179,
+              43.17706554595456
+            ],
+            [
+              0.130616952176981,
+              43.17249367033708
+            ],
+            [
+              0.128297434299537,
+              43.16151412222302
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62340,
+      "code_cant" : "22",
+      "x_centroid" : 4649,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 28535,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        43.1695672175589,
+        0.1104965421044816
+      ],
+      "code_comm" : "083",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1104965421044816,
+        43.1695672175589
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

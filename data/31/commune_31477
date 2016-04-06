@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7fd39a9726281f97b08a937c488ff4bddcd876de",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 802,
+      "insee_com" : "51516",
+      "z_moyen" : 85,
+      "code_dept" : "51",
+      "nom_comm" : "SAINT-SATURNIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7665,
+      "y_centroid" : 68355,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.908410893346244,
+              48.60175299575138
+            ],
+            [
+              3.87152483608118,
+              48.60783996292929
+            ],
+            [
+              3.872033512516363,
+              48.614762895704
+            ],
+            [
+              3.863231300453253,
+              48.62314795001065
+            ],
+            [
+              3.901835349682569,
+              48.63183948334046
+            ],
+            [
+              3.907641346979693,
+              48.63091382208812
+            ],
+            [
+              3.911396485267137,
+              48.60184712203454
+            ],
+            [
+              3.908410893346244,
+              48.60175299575138
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68351,
+      "code_cant" : "01",
+      "x_centroid" : 7656,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 32879,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.61679028320467,
+        3.891324449031114
+      ],
+      "code_comm" : "516",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.891324449031114,
+        48.61679028320467
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

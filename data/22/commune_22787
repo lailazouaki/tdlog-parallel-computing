@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a407f75d59e830bcdb245129a66b078a56fbd6c9",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 140,
+      "insee_com" : "58248",
+      "z_moyen" : 179,
+      "code_dept" : "58",
+      "nom_comm" : "SAINT-LAURENT-L'ABBAYE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6993,
+      "y_centroid" : 66929,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.997113621665548,
+              47.32652630084691
+            ],
+            [
+              2.990478183242653,
+              47.33816588930839
+            ],
+            [
+              2.986147391184549,
+              47.33927273054371
+            ],
+            [
+              2.987934080052328,
+              47.34448522658732
+            ],
+            [
+              2.996225324335881,
+              47.34358556872802
+            ],
+            [
+              2.995232252538091,
+              47.34061479346288
+            ],
+            [
+              3.002396910036575,
+              47.33596970389538
+            ],
+            [
+              2.997113621665548,
+              47.32652630084691
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66935,
+      "code_cant" : "18",
+      "x_centroid" : 6995,
+      "nom_dept" : "NIEVRE",
+      "id_geofla" : 25520,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.33703947474689,
+        2.994581059576841
+      ],
+      "code_comm" : "248",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.994581059576841,
+        47.33703947474689
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

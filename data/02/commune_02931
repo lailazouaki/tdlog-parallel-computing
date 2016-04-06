@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cc7e44ce370df333b9316beae4e814135c130161",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 161,
+      "insee_com" : "39076",
+      "z_moyen" : 241,
+      "code_dept" : "39",
+      "nom_comm" : "LA BRETENIERE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9016,
+      "y_centroid" : 66733,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.662602946787119,
+              47.13500149681126
+            ],
+            [
+              5.667441644768053,
+              47.13488100539205
+            ],
+            [
+              5.675743199363817,
+              47.12714042729173
+            ],
+            [
+              5.667332275611784,
+              47.12387558920577
+            ],
+            [
+              5.657725101925243,
+              47.12443007664562
+            ],
+            [
+              5.656657825967714,
+              47.13490398446198
+            ],
+            [
+              5.662602946787119,
+              47.13500149681126
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66732,
+      "code_cant" : "12",
+      "x_centroid" : 9019,
+      "nom_dept" : "JURA",
+      "id_geofla" : 11865,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.1293532557712,
+        5.66464601093364
+      ],
+      "code_comm" : "076",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.66464601093364,
+        47.1293532557712
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

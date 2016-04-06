@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6290edaaa20318c03f9a9fe1075cca7f98bee9b3",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 58,
+      "insee_com" : "10147",
+      "z_moyen" : 167,
+      "code_dept" : "10",
+      "nom_comm" : "FAYS-LA-CHAPELLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7758,
+      "y_centroid" : 67816,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.025873479037422,
+              48.12611285820689
+            ],
+            [
+              4.013639290304189,
+              48.13089817274196
+            ],
+            [
+              4.013175298281653,
+              48.13404283520203
+            ],
+            [
+              4.017812127831112,
+              48.13467784586218
+            ],
+            [
+              4.024623514077523,
+              48.13305303562671
+            ],
+            [
+              4.025873479037422,
+              48.12611285820689
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67815,
+      "code_cant" : "05",
+      "x_centroid" : 7758,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 36411,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.13113146959793,
+        4.019921120704996
+      ],
+      "code_comm" : "147",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.019921120704996,
+        48.13113146959793
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

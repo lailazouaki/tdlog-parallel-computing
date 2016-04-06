@@ -1,0 +1,75 @@
+  {
+    "recordid" : "723eb98e29f9c0a26544a88eec6daff19db71851",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 835,
+      "insee_com" : "71444",
+      "z_moyen" : 191,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-LOUP-DE-VARENNES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8420,
+      "y_centroid" : 66265,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.885482861127135,
+              46.73173509912485
+            ],
+            [
+              4.848147447423059,
+              46.71354544048251
+            ],
+            [
+              4.840309910297504,
+              46.70483592949065
+            ],
+            [
+              4.820515992738199,
+              46.70800670046157
+            ],
+            [
+              4.827257757678344,
+              46.72081491045645
+            ],
+            [
+              4.85498736196463,
+              46.73744661735378
+            ],
+            [
+              4.882908433911997,
+              46.74097310645089
+            ],
+            [
+              4.885482861127135,
+              46.73173509912485
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66269,
+      "code_cant" : "07",
+      "x_centroid" : 8414,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 13214,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        46.72399079979876,
+        4.8521089942978
+      ],
+      "code_comm" : "444",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.8521089942978,
+        46.72399079979876
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

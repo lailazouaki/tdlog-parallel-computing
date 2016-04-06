@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6caf507b7c223eb6285b422c2d46f2a81eb2cf8d",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 622,
+      "insee_com" : "62145",
+      "z_moyen" : 73,
+      "code_dept" : "62",
+      "nom_comm" : "BOIRY-NOTRE-DAME",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6959,
+      "y_centroid" : 70195,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.944477418254264,
+              50.26115985198198
+            ],
+            [
+              2.942036807914108,
+              50.26416668706735
+            ],
+            [
+              2.931658524280818,
+              50.26320061650813
+            ],
+            [
+              2.917633203070919,
+              50.27428997170125
+            ],
+            [
+              2.93801555550725,
+              50.28793166718351
+            ],
+            [
+              2.96453722942487,
+              50.27800269337532
+            ],
+            [
+              2.96279380378186,
+              50.26712877829713
+            ],
+            [
+              2.944477418254264,
+              50.26115985198198
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70194,
+      "code_cant" : "46",
+      "x_centroid" : 6958,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29405,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.27392964307715,
+        2.94252395945675
+      ],
+      "code_comm" : "145",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.94252395945675,
+        50.27392964307715
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

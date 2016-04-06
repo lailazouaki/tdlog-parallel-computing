@@ -1,0 +1,75 @@
+  {
+    "recordid" : "14ea82a306cbd0544baf8bc2403652cf2cfdcee8",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 350,
+      "insee_com" : "27570",
+      "z_moyen" : 142,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-MARTIN-LA-CAMPAGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5590,
+      "y_centroid" : 68867,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.066902225818458,
+              49.0577082533641
+            ],
+            [
+              1.054268893442379,
+              49.06431291937115
+            ],
+            [
+              1.076287926604958,
+              49.07291508744213
+            ],
+            [
+              1.086325451465936,
+              49.07246376491801
+            ],
+            [
+              1.09434658227968,
+              49.06839102633364
+            ],
+            [
+              1.096946610138599,
+              49.06318869566445
+            ],
+            [
+              1.093404231423799,
+              49.06088400469189
+            ],
+            [
+              1.066902225818458,
+              49.0577082533641
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68868,
+      "code_cant" : "16",
+      "x_centroid" : 5594,
+      "nom_dept" : "EURE",
+      "id_geofla" : 23193,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.06512996460906,
+        1.077186381816229
+      ],
+      "code_comm" : "570",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.077186381816229,
+        49.06512996460906
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

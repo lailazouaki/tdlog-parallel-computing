@@ -1,0 +1,71 @@
+  {
+    "recordid" : "8bae12b91f0323cb446184890ba350411f6acdc3",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 329,
+      "insee_com" : "80497",
+      "z_moyen" : 38,
+      "code_dept" : "80",
+      "nom_comm" : "MACHY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6144,
+      "y_centroid" : 70203,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.807684897409074,
+              50.26315992420605
+            ],
+            [
+              1.786754785230569,
+              50.27312985301701
+            ],
+            [
+              1.792580013162489,
+              50.28443881342628
+            ],
+            [
+              1.807548582315899,
+              50.28440497543754
+            ],
+            [
+              1.816341704977703,
+              50.2811582658621
+            ],
+            [
+              1.814715807730294,
+              50.27518902680205
+            ],
+            [
+              1.807684897409074,
+              50.26315992420605
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70198,
+      "code_cant" : "39",
+      "x_centroid" : 6145,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 16991,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.27562437487291,
+        1.802195548472182
+      ],
+      "code_comm" : "497",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.802195548472182,
+        50.27562437487291
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "190432963c17c190e5abd6c7d2cdb637cefcde1e",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 662,
+      "insee_com" : "77197",
+      "z_moyen" : 149,
+      "code_dept" : "77",
+      "nom_comm" : "FRETOY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7145,
+      "y_centroid" : 68451,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.212320353639203,
+              48.69176676691215
+            ],
+            [
+              3.182278877402068,
+              48.69869725696687
+            ],
+            [
+              3.183398899337572,
+              48.70810372516518
+            ],
+            [
+              3.191691627411387,
+              48.71625758256187
+            ],
+            [
+              3.197988265515741,
+              48.72074446569697
+            ],
+            [
+              3.217625315292628,
+              48.71942408322737
+            ],
+            [
+              3.218452860673954,
+              48.69302392178584
+            ],
+            [
+              3.212320353639203,
+              48.69176676691215
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68449,
+      "code_cant" : "23",
+      "x_centroid" : 7149,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 26039,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.70635772327029,
+        3.202607504719354
+      ],
+      "code_comm" : "197",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.202607504719354,
+        48.70635772327029
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

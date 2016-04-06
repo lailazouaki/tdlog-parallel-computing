@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9d8c9ed737a084c289892a22602f877924148b2a",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 155,
+      "insee_com" : "94043",
+      "z_moyen" : 81,
+      "code_dept" : "94",
+      "nom_comm" : "LE KREMLIN-BICETRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6528,
+      "y_centroid" : 68567,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.347778462376922,
+              48.80149599950683
+            ],
+            [
+              2.344856549104409,
+              48.80541037414988
+            ],
+            [
+              2.356354375206668,
+              48.81595969590764
+            ],
+            [
+              2.364207015719044,
+              48.81639743914582
+            ],
+            [
+              2.367222958711972,
+              48.8080311661678
+            ],
+            [
+              2.347778462376922,
+              48.80149599950683
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68568,
+      "code_cant" : "16",
+      "x_centroid" : 6527,
+      "nom_dept" : "VAL-DE-MARNE",
+      "id_geofla" : 28830,
+      "statut" : "Chef-lieu canton",
+      "population" : 26.4,
+      "geom_x_y" : [
+        48.80922010197916,
+        2.356579652432156
+      ],
+      "code_comm" : "043",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.356579652432156,
+        48.80922010197916
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

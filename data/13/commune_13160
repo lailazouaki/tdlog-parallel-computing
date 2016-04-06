@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d4aefc473b963b6a385f6256042907ce6be458de",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 840,
+      "insee_com" : "29248",
+      "z_moyen" : 46,
+      "code_dept" : "29",
+      "nom_comm" : "SAINT-FREGANT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 1575,
+      "y_centroid" : 68585,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -4.374923195010357,
+              48.57811077244552
+            ],
+            [
+              -4.398034410082005,
+              48.5865110756693
+            ],
+            [
+              -4.383109230160675,
+              48.61127400528576
+            ],
+            [
+              -4.348861983641353,
+              48.6160456143202
+            ],
+            [
+              -4.344342997329964,
+              48.614915871082
+            ],
+            [
+              -4.36869894466066,
+              48.58842652807754
+            ],
+            [
+              -4.374923195010357,
+              48.57811077244552
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68589,
+      "code_cant" : "21",
+      "x_centroid" : 1570,
+      "nom_dept" : "FINISTERE",
+      "id_geofla" : 11491,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.59882351930269,
+        -4.373687964666241
+      ],
+      "code_comm" : "248",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -4.373687964666241,
+        48.59882351930269
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

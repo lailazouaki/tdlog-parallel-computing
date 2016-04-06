@@ -1,0 +1,71 @@
+  {
+    "recordid" : "76443a0a14f53564185206b8537b1433a5e4f6b4",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 363,
+      "insee_com" : "65260",
+      "z_moyen" : 317,
+      "code_dept" : "65",
+      "nom_comm" : "LAPEYRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4840,
+      "y_centroid" : 62509,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.348696352208648,
+              43.31598797258697
+            ],
+            [
+              0.316128296788866,
+              43.32022483809993
+            ],
+            [
+              0.31244841466632,
+              43.32696520734759
+            ],
+            [
+              0.313062875123893,
+              43.33256114875457
+            ],
+            [
+              0.339140583584671,
+              43.33099176518753
+            ],
+            [
+              0.350915311417968,
+              43.32215395632102
+            ],
+            [
+              0.348696352208648,
+              43.31598797258697
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62507,
+      "code_cant" : "24",
+      "x_centroid" : 4834,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 25046,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.32457089128871,
+        0.3310172376366352
+      ],
+      "code_comm" : "260",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3310172376366352,
+        43.32457089128871
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "77fd35cfe653f2b0742e4252f9c62aeddecd2cf4",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 412,
+      "insee_com" : "30262",
+      "z_moyen" : 168,
+      "code_dept" : "30",
+      "nom_comm" : "SAINT-HIPPOLYTE-DE-MONTAIGU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8196,
+      "y_centroid" : 63271,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.488157003456803,
+              44.026429948534
+            ],
+            [
+              4.475108592045029,
+              44.02551742998322
+            ],
+            [
+              4.471486661762403,
+              44.02729450454708
+            ],
+            [
+              4.472631966696143,
+              44.03347221828368
+            ],
+            [
+              4.505267184902323,
+              44.04222797706015
+            ],
+            [
+              4.516765451706155,
+              44.03865757073576
+            ],
+            [
+              4.515716474824582,
+              44.03253291029318
+            ],
+            [
+              4.488157003456803,
+              44.026429948534
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63270,
+      "code_cant" : "35",
+      "x_centroid" : 8197,
+      "nom_dept" : "GARD",
+      "id_geofla" : 33057,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.03343957904317,
+        4.494319490447483
+      ],
+      "code_comm" : "262",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.494319490447483,
+        44.03343957904317
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

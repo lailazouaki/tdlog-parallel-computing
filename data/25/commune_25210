@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0a6537e5635d91f1bdf9de35f725581b5a2a6044",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 227,
+      "insee_com" : "67068",
+      "z_moyen" : 225,
+      "code_dept" : "67",
+      "nom_comm" : "BUSWILLER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10345,
+      "y_centroid" : 68676,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.569846737203725,
+              48.8148701595818
+            ],
+            [
+              7.54752657564586,
+              48.81966781509909
+            ],
+            [
+              7.544987555980772,
+              48.82574603255155
+            ],
+            [
+              7.550585819660866,
+              48.82517256881534
+            ],
+            [
+              7.571736472669246,
+              48.82894131235886
+            ],
+            [
+              7.576201524068948,
+              48.81966266850869
+            ],
+            [
+              7.569846737203725,
+              48.8148701595818
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68673,
+      "code_cant" : "04",
+      "x_centroid" : 10347,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 33728,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.82196805966058,
+        7.562288140343558
+      ],
+      "code_comm" : "068",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.562288140343558,
+        48.82196805966058
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

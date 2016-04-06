@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c94ce49eb49272262ae4c80fa5008973c4663f8a",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 426,
+      "insee_com" : "55089",
+      "z_moyen" : 318,
+      "code_dept" : "55",
+      "nom_comm" : "BUREY-LA-COTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8993,
+      "y_centroid" : 68255,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.701024153628437,
+              48.49539411719813
+            ],
+            [
+              5.672712454167485,
+              48.4920651624598
+            ],
+            [
+              5.660103574848272,
+              48.49737986969531
+            ],
+            [
+              5.667804843766452,
+              48.50154563496593
+            ],
+            [
+              5.689559357720478,
+              48.50977707098124
+            ],
+            [
+              5.707520454367073,
+              48.50370732645099
+            ],
+            [
+              5.701024153628437,
+              48.49539411719813
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68258,
+      "code_cant" : "24",
+      "x_centroid" : 8983,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 35655,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.50015004824601,
+        5.685205750387442
+      ],
+      "code_comm" : "089",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.685205750387442,
+        48.50015004824601
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

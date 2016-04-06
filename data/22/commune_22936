@@ -1,0 +1,71 @@
+  {
+    "recordid" : "43ce19828dd0963e4a8026a47401a7d3982ade5f",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 434,
+      "insee_com" : "67289",
+      "z_moyen" : 199,
+      "code_dept" : "67",
+      "nom_comm" : "MENCHHOFFEN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10298,
+      "y_centroid" : 68720,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.504337938957549,
+              48.85169733709999
+            ],
+            [
+              7.48450674096489,
+              48.85615423419105
+            ],
+            [
+              7.483305046332974,
+              48.86217141856626
+            ],
+            [
+              7.488742682575367,
+              48.87139841185087
+            ],
+            [
+              7.505413380322103,
+              48.87847302106969
+            ],
+            [
+              7.51145742657756,
+              48.85635615633677
+            ],
+            [
+              7.504337938957549,
+              48.85169733709999
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68715,
+      "code_cant" : "04",
+      "x_centroid" : 10298,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 7856,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.86365889208429,
+        7.498037160079474
+      ],
+      "code_comm" : "289",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.498037160079474,
+        48.86365889208429
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

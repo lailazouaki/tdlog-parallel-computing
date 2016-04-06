@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d2279957060e57c0cb481d014a2e31a9ac0c1b4c",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 453,
+      "insee_com" : "59259",
+      "z_moyen" : 117,
+      "code_dept" : "59",
+      "nom_comm" : "GHISSIGNIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7440,
+      "y_centroid" : 70145,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.610446704811287,
+              50.21473495622909
+            ],
+            [
+              3.602998571946925,
+              50.2191717791814
+            ],
+            [
+              3.598605559890757,
+              50.22522760313442
+            ],
+            [
+              3.602138975607668,
+              50.23163082199593
+            ],
+            [
+              3.61902872973576,
+              50.23793153811912
+            ],
+            [
+              3.640381090555468,
+              50.23360191123518
+            ],
+            [
+              3.610446704811287,
+              50.21473495622909
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70144,
+      "code_cant" : "49",
+      "x_centroid" : 7440,
+      "nom_dept" : "NORD",
+      "id_geofla" : 32596,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.22775898531837,
+        3.616339629694043
+      ],
+      "code_comm" : "259",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.616339629694043,
+        50.22775898531837
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "80a7dd0c7eb9eb24ffd53b05e59aca043c3664f4",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 646,
+      "insee_com" : "76178",
+      "z_moyen" : 10,
+      "code_dept" : "76",
+      "nom_comm" : "CLEON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5571,
+      "y_centroid" : 69147,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.042024980830059,
+              49.30745054133119
+            ],
+            [
+              1.023380724008546,
+              49.30340603430926
+            ],
+            [
+              1.013282801690498,
+              49.31817613114266
+            ],
+            [
+              1.026312664255703,
+              49.32418959147687
+            ],
+            [
+              1.06082595894739,
+              49.32826444453136
+            ],
+            [
+              1.063152610611955,
+              49.30989543201218
+            ],
+            [
+              1.042024980830059,
+              49.30745054133119
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69146,
+      "code_cant" : "61",
+      "x_centroid" : 5574,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 23737,
+      "statut" : "Commune simple",
+      "population" : 5.6,
+      "geom_x_y" : [
+        49.31625408899945,
+        1.039786789091314
+      ],
+      "code_comm" : "178",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.039786789091314,
+        49.31625408899945
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

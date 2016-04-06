@@ -1,0 +1,67 @@
+  {
+    "recordid" : "85d23c5d31c414ffdd1c2b7451b8c3b4c8084938",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 351,
+      "insee_com" : "02244",
+      "z_moyen" : 171,
+      "code_dept" : "02",
+      "nom_comm" : "CRUPILLY",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7542,
+      "y_centroid" : 69816,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.750030147857918,
+              49.91900416897943
+            ],
+            [
+              3.740118731159623,
+              49.92727532286161
+            ],
+            [
+              3.740633466311932,
+              49.93780055306916
+            ],
+            [
+              3.76173842876757,
+              49.93997065993522
+            ],
+            [
+              3.769223904963743,
+              49.93516272648418
+            ],
+            [
+              3.750030147857918,
+              49.91900416897943
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69810,
+      "code_cant" : "05",
+      "x_centroid" : 7540,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 6825,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.93138287961068,
+        3.752491982536849
+      ],
+      "code_comm" : "244",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.752491982536849,
+        49.93138287961068
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "074d5f4a47f7ac7bd083ba1e5be9dd4383ce64d8",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 205,
+      "insee_com" : "25429",
+      "z_moyen" : 277,
+      "code_dept" : "25",
+      "nom_comm" : "NOVILLARS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9364,
+      "y_centroid" : 66922,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.12470484189258,
+              47.27931784076136
+            ],
+            [
+              6.118791568612175,
+              47.29581118668872
+            ],
+            [
+              6.140691417300213,
+              47.29302201821992
+            ],
+            [
+              6.135879206172643,
+              47.28794469603148
+            ],
+            [
+              6.141778105320686,
+              47.28398301975045
+            ],
+            [
+              6.12470484189258,
+              47.27931784076136
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66919,
+      "code_cant" : "13",
+      "x_centroid" : 9364,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 34241,
+      "statut" : "Commune simple",
+      "population" : 1.6,
+      "geom_x_y" : [
+        47.2881176745566,
+        6.129519862031098
+      ],
+      "code_comm" : "429",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.129519862031098,
+        47.2881176745566
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

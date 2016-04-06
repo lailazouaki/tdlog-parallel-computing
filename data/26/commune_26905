@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c57da2ec41e43bf8f55405933fe747e962eb9558",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 187,
+      "insee_com" : "59021",
+      "z_moyen" : 139,
+      "code_dept" : "59",
+      "nom_comm" : "ASSEVENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7724,
+      "y_centroid" : 70216,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.023414639469517,
+              50.28056398150712
+            ],
+            [
+              4.009891742758828,
+              50.28477019321986
+            ],
+            [
+              4.009414914879915,
+              50.29528895468881
+            ],
+            [
+              4.024882156287973,
+              50.29628373338124
+            ],
+            [
+              4.03163142240039,
+              50.28080974590912
+            ],
+            [
+              4.023414639469517,
+              50.28056398150712
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70215,
+      "code_cant" : "44",
+      "x_centroid" : 7727,
+      "nom_dept" : "NORD",
+      "id_geofla" : 27121,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        50.28844117839899,
+        4.019732850768962
+      ],
+      "code_comm" : "021",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.019732850768962,
+        50.28844117839899
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

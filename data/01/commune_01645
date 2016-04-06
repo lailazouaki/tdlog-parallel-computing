@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3abcf6d2e738e8dddc998308c431a0956379e4c3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 676,
+      "insee_com" : "50513",
+      "z_moyen" : 111,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-MARTIN-DE-CENILLY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3867,
+      "y_centroid" : 68837,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.29408178561992,
+              48.96258172261415
+            ],
+            [
+              -1.30313937883675,
+              48.97318959736767
+            ],
+            [
+              -1.305723899509527,
+              48.98241754369847
+            ],
+            [
+              -1.298144141022135,
+              48.99084856921948
+            ],
+            [
+              -1.300615032770416,
+              48.99374975074595
+            ],
+            [
+              -1.266628457565169,
+              48.98484228892115
+            ],
+            [
+              -1.268055910914567,
+              48.96742010282986
+            ],
+            [
+              -1.29408178561992,
+              48.96258172261415
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68842,
+      "code_cant" : "10",
+      "x_centroid" : 3863,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 14569,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.9774951640216,
+        -1.286138658582262
+      ],
+      "code_comm" : "513",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.286138658582262,
+        48.9774951640216
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

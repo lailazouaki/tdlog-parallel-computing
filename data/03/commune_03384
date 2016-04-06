@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ceeff4f434b8f6a289887877fe03c200320dcc90",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 488,
+      "insee_com" : "33043",
+      "z_moyen" : 80,
+      "code_dept" : "33",
+      "nom_comm" : "BELLEBAT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4454,
+      "y_centroid" : 64095,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.219979642906453,
+              44.723955165474
+            ],
+            [
+              -0.226971699517199,
+              44.72929300483845
+            ],
+            [
+              -0.239899317605695,
+              44.73911538712115
+            ],
+            [
+              -0.238616021666848,
+              44.74888437002128
+            ],
+            [
+              -0.203663159835771,
+              44.74371082767809
+            ],
+            [
+              -0.202487827364478,
+              44.73883414777718
+            ],
+            [
+              -0.219979642906453,
+              44.723955165474
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64096,
+      "code_cant" : "48",
+      "x_centroid" : 4449,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 14357,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.73823661955399,
+        -0.2219851635609351
+      ],
+      "code_comm" : "043",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2219851635609351,
+        44.73823661955399
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c62f0ce5016cd6bf56557ebeecb5bf834fe42b87",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 233,
+      "insee_com" : "57636",
+      "z_moyen" : 333,
+      "code_dept" : "57",
+      "nom_comm" : "SCHMITTVILLER",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10059,
+      "y_centroid" : 68866,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.186213163197916,
+              48.99376498219051
+            ],
+            [
+              7.17424027072314,
+              49.00636568133819
+            ],
+            [
+              7.176977407706847,
+              49.01707578666162
+            ],
+            [
+              7.183214945210968,
+              49.01344568420382
+            ],
+            [
+              7.201543680915127,
+              49.01529024825803
+            ],
+            [
+              7.186213163197916,
+              48.99376498219051
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68864,
+      "code_cant" : "26",
+      "x_centroid" : 10061,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 2363,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.00715609382831,
+        7.1860555453149
+      ],
+      "code_comm" : "636",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.1860555453149,
+        49.00715609382831
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

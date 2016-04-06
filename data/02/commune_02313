@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d1238f3d63774783ff05af3198cfc609cbf4a61e",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 246,
+      "insee_com" : "71487",
+      "z_moyen" : 302,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-VERAND",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8336,
+      "y_centroid" : 65740,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.709626519687651,
+              46.24902363776994
+            ],
+            [
+              4.71550230884665,
+              46.25838347136091
+            ],
+            [
+              4.734564030631026,
+              46.25795947191262
+            ],
+            [
+              4.742598874400013,
+              46.25460323318543
+            ],
+            [
+              4.747803138596718,
+              46.25127190398375
+            ],
+            [
+              4.743919051662362,
+              46.24916981083737
+            ],
+            [
+              4.709626519687651,
+              46.24902363776994
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65741,
+      "code_cant" : "08",
+      "x_centroid" : 8330,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 11439,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.25318436747943,
+        4.727697158067754
+      ],
+      "code_comm" : "487",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.727697158067754,
+        46.25318436747943
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

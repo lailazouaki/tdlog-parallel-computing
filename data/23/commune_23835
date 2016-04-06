@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9c575ceb7497fe7e0e3f91bbd78470977c4b2a93",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 389,
+      "insee_com" : "02146",
+      "z_moyen" : 122,
+      "code_dept" : "02",
+      "nom_comm" : "CELLES-LES-CONDE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7417,
+      "y_centroid" : 68795,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.574311113885706,
+              49.00247716096971
+            ],
+            [
+              3.552922952949783,
+              49.01416850851189
+            ],
+            [
+              3.564814174490915,
+              49.02779907769656
+            ],
+            [
+              3.57005924300144,
+              49.0272707383812
+            ],
+            [
+              3.587695925456196,
+              49.01010969877876
+            ],
+            [
+              3.574311113885706,
+              49.00247716096971
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68793,
+      "code_cant" : "10",
+      "x_centroid" : 7417,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 15462,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.01481610407947,
+        3.570074238467705
+      ],
+      "code_comm" : "146",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.570074238467705,
+        49.01481610407947
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

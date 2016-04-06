@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e7ce97eba83860049b38beedacad8e2974bf3961",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 607,
+      "insee_com" : "01293",
+      "z_moyen" : 693,
+      "code_dept" : "01",
+      "nom_comm" : "PEYRIAT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8937,
+      "y_centroid" : 65641,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.518186253092805,
+              46.13635672089611
+            ],
+            [
+              5.483527730284546,
+              46.14628255349824
+            ],
+            [
+              5.487703946501946,
+              46.16034481595926
+            ],
+            [
+              5.507202720084631,
+              46.16032155074323
+            ],
+            [
+              5.528478282030076,
+              46.15299376238011
+            ],
+            [
+              5.525310465487592,
+              46.14641524718033
+            ],
+            [
+              5.518186253092805,
+              46.13635672089611
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65646,
+      "code_cant" : "16",
+      "x_centroid" : 8933,
+      "nom_dept" : "AIN",
+      "id_geofla" : 17812,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.14981840669107,
+        5.505723122841666
+      ],
+      "code_comm" : "293",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.505723122841666,
+        46.14981840669107
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

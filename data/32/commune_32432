@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c367355ac25b7aebbddbf00f839157de1f5184c5",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 394,
+      "insee_com" : "80786",
+      "z_moyen" : 128,
+      "code_dept" : "80",
+      "nom_comm" : "VELENNES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6346,
+      "y_centroid" : 69635,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.114240007117847,
+              49.76948576014696
+            ],
+            [
+              2.090738137135857,
+              49.75316614336887
+            ],
+            [
+              2.080698510220194,
+              49.75387255441188
+            ],
+            [
+              2.091969392007841,
+              49.77208935763431
+            ],
+            [
+              2.101896287187182,
+              49.77957562431949
+            ],
+            [
+              2.111337784194998,
+              49.78162151443085
+            ],
+            [
+              2.114240007117847,
+              49.76948576014696
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69630,
+      "code_cant" : "17",
+      "x_centroid" : 6350,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 33717,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.76722461854109,
+        2.09877654820722
+      ],
+      "code_comm" : "786",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.09877654820722,
+        49.76722461854109
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cb138ebd5d38340d41da0c4f5439b8211b183199",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 397,
+      "insee_com" : "76637",
+      "z_moyen" : 76,
+      "code_dept" : "76",
+      "nom_comm" : "SAINT-PIERRE-EN-PORT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5196,
+      "y_centroid" : 69704,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5115961819707699,
+              49.79755679329941
+            ],
+            [
+              0.493596324422414,
+              49.79789828189309
+            ],
+            [
+              0.484124384936812,
+              49.80215271810891
+            ],
+            [
+              0.48354570589186,
+              49.80826215282968
+            ],
+            [
+              0.507322093166931,
+              49.81969850522873
+            ],
+            [
+              0.512590011598876,
+              49.81964422838932
+            ],
+            [
+              0.5115961819707699,
+              49.79755679329941
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69703,
+      "code_cant" : "53",
+      "x_centroid" : 5199,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 15884,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        49.80720861020745,
+        0.5003143010447861
+      ],
+      "code_comm" : "637",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5003143010447861,
+        49.80720861020745
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

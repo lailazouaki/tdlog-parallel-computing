@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3301148609deb75c8d5a35aa323a7dc521d66c0",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 157,
+      "insee_com" : "65438",
+      "z_moyen" : 263,
+      "code_dept" : "65",
+      "nom_comm" : "TALAZAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4597,
+      "y_centroid" : 62528,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.053408566407734,
+              43.33241309746499
+            ],
+            [
+              0.04105812177243,
+              43.32916809766671
+            ],
+            [
+              0.02838227662416,
+              43.33273641156993
+            ],
+            [
+              0.024181555912789,
+              43.33861640849636
+            ],
+            [
+              0.025541309896433,
+              43.34022922737956
+            ],
+            [
+              0.049001425089525,
+              43.33466947618508
+            ],
+            [
+              0.053408566407734,
+              43.33241309746499
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62526,
+      "code_cant" : "25",
+      "x_centroid" : 4596,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 26189,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.33428407960395,
+        0.03733994350176671
+      ],
+      "code_comm" : "438",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.03733994350176671,
+        43.33428407960395
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

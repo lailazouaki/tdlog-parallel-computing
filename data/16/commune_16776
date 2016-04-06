@@ -1,0 +1,63 @@
+  {
+    "recordid" : "c2d7aef9bf5531b3922b24fcefdcb71207483e21",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 244,
+      "insee_com" : "67181",
+      "z_moyen" : 191,
+      "code_dept" : "67",
+      "nom_comm" : "HANDSCHUHEIM",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10372,
+      "y_centroid" : 68430,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.586549623819296,
+              48.58873711588626
+            ],
+            [
+              7.572444077785391,
+              48.59284853674878
+            ],
+            [
+              7.565143771479003,
+              48.60180593565462
+            ],
+            [
+              7.581702247238726,
+              48.61108949555835
+            ],
+            [
+              7.586549623819296,
+              48.58873711588626
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68434,
+      "code_cant" : "31",
+      "x_centroid" : 10373,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 19596,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.59939893613695,
+        7.577217279621283
+      ],
+      "code_comm" : "181",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.577217279621283,
+        48.59939893613695
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

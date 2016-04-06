@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6f79948d6c187658888d4c6649bf3938acbd1345",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1126,
+      "insee_com" : "51236",
+      "z_moyen" : 187,
+      "code_dept" : "51",
+      "nom_comm" : "LES ESSARTS-LE-VICOMTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7408,
+      "y_centroid" : 68406,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.568928683540816,
+              48.64821479456645
+            ],
+            [
+              3.539601866974872,
+              48.6490438194163
+            ],
+            [
+              3.521809826288427,
+              48.67131357540291
+            ],
+            [
+              3.563912848257528,
+              48.68286013593911
+            ],
+            [
+              3.57226474845583,
+              48.68265844105839
+            ],
+            [
+              3.571804137412872,
+              48.67780344297207
+            ],
+            [
+              3.576967689967346,
+              48.65707223908771
+            ],
+            [
+              3.568928683540816,
+              48.64821479456645
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68401,
+      "code_cant" : "12",
+      "x_centroid" : 7407,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 29377,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.66465007156302,
+        3.55311169061976
+      ],
+      "code_comm" : "236",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.55311169061976,
+        48.66465007156302
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

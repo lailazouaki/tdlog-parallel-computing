@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4c15dfb13740fb74f0592302de42a76d44365180",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 309,
+      "insee_com" : "61322",
+      "z_moyen" : 191,
+      "code_dept" : "61",
+      "nom_comm" : "PARFONDEVAL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5157,
+      "y_centroid" : 68228,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.502869061563046,
+              48.46923629855859
+            ],
+            [
+              0.490707533560325,
+              48.48127470472199
+            ],
+            [
+              0.500800589802908,
+              48.48851699779478
+            ],
+            [
+              0.5157251320566369,
+              48.4873000846549
+            ],
+            [
+              0.520984242079837,
+              48.48230673302013
+            ],
+            [
+              0.514369599889682,
+              48.47418497436604
+            ],
+            [
+              0.502869061563046,
+              48.46923629855859
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68230,
+      "code_cant" : "28",
+      "x_centroid" : 5157,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 33118,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.48008751718905,
+        0.5060508581582722
+      ],
+      "code_comm" : "322",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5060508581582722,
+        48.48008751718905
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

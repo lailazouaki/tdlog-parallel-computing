@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2fc16a0d3d26325d1999e203553fd511a6aee355",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 734,
+      "insee_com" : "76346",
+      "z_moyen" : 121,
+      "code_dept" : "76",
+      "nom_comm" : "HAUTOT-L'AUVRAY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5378,
+      "y_centroid" : 69652,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.751779941936503,
+              49.74832775049228
+            ],
+            [
+              0.734758340910713,
+              49.75648860582355
+            ],
+            [
+              0.743484373595799,
+              49.77663155444411
+            ],
+            [
+              0.753089413755629,
+              49.77820214233425
+            ],
+            [
+              0.769599167119923,
+              49.7831431770144
+            ],
+            [
+              0.773756175751786,
+              49.76642032805644
+            ],
+            [
+              0.762285763781861,
+              49.75138848187266
+            ],
+            [
+              0.751779941936503,
+              49.74832775049228
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69647,
+      "code_cant" : "40",
+      "x_centroid" : 5381,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 30990,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.76530278597166,
+        0.7552907221750315
+      ],
+      "code_comm" : "346",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7552907221750315,
+        49.76530278597166
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

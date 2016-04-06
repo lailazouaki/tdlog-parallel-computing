@@ -1,0 +1,71 @@
+  {
+    "recordid" : "de51ae74539c5c52fac37941de9393bac33d4d44",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 130,
+      "insee_com" : "67161",
+      "z_moyen" : 210,
+      "code_dept" : "67",
+      "nom_comm" : "GOTTENHOUSE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10206,
+      "y_centroid" : 68552,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.361011359123084,
+              48.70737015795295
+            ],
+            [
+              7.359606088638651,
+              48.7076557793695
+            ],
+            [
+              7.349275043545337,
+              48.72268020254763
+            ],
+            [
+              7.355009163845523,
+              48.72646140463834
+            ],
+            [
+              7.361444355040243,
+              48.72363188020795
+            ],
+            [
+              7.366315782826093,
+              48.71822890544139
+            ],
+            [
+              7.361011359123084,
+              48.70737015795295
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68555,
+      "code_cant" : "13",
+      "x_centroid" : 10204,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 34713,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.71801358508343,
+        7.358341975282753
+      ],
+      "code_comm" : "161",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.358341975282753,
+        48.71801358508343
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

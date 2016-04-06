@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c83ca85198968c6598a0157314c778e80d88fd8b",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 156,
+      "insee_com" : "13057",
+      "z_moyen" : 25,
+      "code_dept" : "13",
+      "nom_comm" : "MAS-BLANC-DES-ALPILLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8414,
+      "y_centroid" : 63003,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.772856247736804,
+              43.7823744100214
+            ],
+            [
+              4.759004188451603,
+              43.78157278360983
+            ],
+            [
+              4.755481681408834,
+              43.78783125166897
+            ],
+            [
+              4.755436482058172,
+              43.79121635200188
+            ],
+            [
+              4.767544787522753,
+              43.79623225468882
+            ],
+            [
+              4.772856247736804,
+              43.7823744100214
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63004,
+      "code_cant" : "33",
+      "x_centroid" : 8419,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 6607,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.78789021748386,
+        4.763851533580508
+      ],
+      "code_comm" : "057",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.763851533580508,
+        43.78789021748386
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

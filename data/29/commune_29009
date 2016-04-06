@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a50212fadbda55cb2611cceb599905f0e1cd08dc",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 421,
+      "insee_com" : "68010",
+      "z_moyen" : 325,
+      "code_dept" : "68",
+      "nom_comm" : "ASPACH",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10177,
+      "y_centroid" : 67354,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.231316784820868,
+              47.63282022607699
+            ],
+            [
+              7.219110185419398,
+              47.63849018222233
+            ],
+            [
+              7.211464237832444,
+              47.64704996895562
+            ],
+            [
+              7.244877300367928,
+              47.65105884294388
+            ],
+            [
+              7.24871115164519,
+              47.64794477165712
+            ],
+            [
+              7.250199626937596,
+              47.63733518089284
+            ],
+            [
+              7.231316784820868,
+              47.63282022607699
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67354,
+      "code_cant" : "01",
+      "x_centroid" : 10176,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 19238,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        47.64245835609714,
+        7.233287779648556
+      ],
+      "code_comm" : "010",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.233287779648556,
+        47.64245835609714
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

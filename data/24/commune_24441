@@ -1,0 +1,67 @@
+  {
+    "recordid" : "40650b03f723a43a864612097dd9bfa23c06d6c2",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 354,
+      "insee_com" : "57214",
+      "z_moyen" : 165,
+      "code_dept" : "57",
+      "nom_comm" : "FIXEM",
+      "code_arr" : "7",
+      "x_chf_lieu" : 9375,
+      "y_centroid" : 69319,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.268860672186407,
+              49.43099564928995
+            ],
+            [
+              6.252567346476151,
+              49.43703903598211
+            ],
+            [
+              6.278465062593217,
+              49.45510520710189
+            ],
+            [
+              6.28965970625451,
+              49.45170700554864
+            ],
+            [
+              6.286829893227302,
+              49.44218544137342
+            ],
+            [
+              6.268860672186407,
+              49.43099564928995
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69319,
+      "code_cant" : "05",
+      "x_centroid" : 9373,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 25184,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.44279437521464,
+        6.273186880306111
+      ],
+      "code_comm" : "214",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.273186880306111,
+        49.44279437521464
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

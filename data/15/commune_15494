@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dc1f0776306576f8f6c0c680aa0c439c83ce7771",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 350,
+      "insee_com" : "34231",
+      "z_moyen" : 741,
+      "code_dept" : "34",
+      "nom_comm" : "ROMIGUIERES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7185,
+      "y_centroid" : 63020,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.243916399346758,
+              43.80356627699516
+            ],
+            [
+              3.235925139356959,
+              43.80611255137241
+            ],
+            [
+              3.229882799527553,
+              43.81452145285834
+            ],
+            [
+              3.222687539772784,
+              43.81777600689075
+            ],
+            [
+              3.236248291190568,
+              43.82718741555194
+            ],
+            [
+              3.249036994979992,
+              43.82957970414176
+            ],
+            [
+              3.246805954166464,
+              43.81380954238634
+            ],
+            [
+              3.243916399346758,
+              43.80356627699516
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63021,
+      "code_cant" : "16",
+      "x_centroid" : 7192,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 22875,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.81746069385837,
+        3.238636310347654
+      ],
+      "code_comm" : "231",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.238636310347654,
+        43.81746069385837
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

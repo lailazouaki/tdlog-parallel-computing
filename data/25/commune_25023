@@ -1,0 +1,71 @@
+  {
+    "recordid" : "7ebba373bd36983261cacb69c8bb54dde965761b",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 474,
+      "insee_com" : "59582",
+      "z_moyen" : 28,
+      "code_dept" : "59",
+      "nom_comm" : "STRAZEELE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6738,
+      "y_centroid" : 70697,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.633117498349073,
+              50.70792332611405
+            ],
+            [
+              2.603955635253383,
+              50.71791988397135
+            ],
+            [
+              2.607682787516898,
+              50.73472941261767
+            ],
+            [
+              2.622117684268449,
+              50.73864144858449
+            ],
+            [
+              2.63085238794016,
+              50.72958697030793
+            ],
+            [
+              2.63260885381794,
+              50.72719635258046
+            ],
+            [
+              2.633117498349073,
+              50.70792332611405
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70700,
+      "code_cant" : "30",
+      "x_centroid" : 6730,
+      "nom_dept" : "NORD",
+      "id_geofla" : 10819,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        50.72371366930975,
+        2.619718589589718
+      ],
+      "code_comm" : "582",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.619718589589718,
+        50.72371366930975
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

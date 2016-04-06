@@ -1,0 +1,75 @@
+  {
+    "recordid" : "682ace79a44318fc24af24ccf5add87352bf5db5",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 794,
+      "insee_com" : "52199",
+      "z_moyen" : 327,
+      "code_dept" : "52",
+      "nom_comm" : "FERRIERE-ET-LAFOLIE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8545,
+      "y_centroid" : 68129,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.100482764714935,
+              48.39772088061315
+            ],
+            [
+              5.087101540641998,
+              48.38780544286755
+            ],
+            [
+              5.077082214564352,
+              48.38592049287092
+            ],
+            [
+              5.068361302171063,
+              48.38954692258246
+            ],
+            [
+              5.037260320219081,
+              48.39524236189246
+            ],
+            [
+              5.075229540711882,
+              48.41155717089934
+            ],
+            [
+              5.101565669743697,
+              48.40858241838395
+            ],
+            [
+              5.100482764714935,
+              48.39772088061315
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68121,
+      "code_cant" : "13",
+      "x_centroid" : 8536,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 17237,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.39906646945995,
+        5.075425426980129
+      ],
+      "code_comm" : "199",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.075425426980129,
+        48.39906646945995
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

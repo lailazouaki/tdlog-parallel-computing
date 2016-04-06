@@ -1,0 +1,67 @@
+  {
+    "recordid" : "09457036c0bbf31cce34ebe9c5121038bdfe9195",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 557,
+      "insee_com" : "65170",
+      "z_moyen" : 260,
+      "code_dept" : "65",
+      "nom_comm" : "ESTAMPURES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4796,
+      "y_centroid" : 62567,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.269840661797628,
+              43.36436947240893
+            ],
+            [
+              0.271196512506826,
+              43.38262280258488
+            ],
+            [
+              0.298759493839522,
+              43.38858019658174
+            ],
+            [
+              0.300981162205835,
+              43.37146981916722
+            ],
+            [
+              0.300557217903518,
+              43.36866880774524
+            ],
+            [
+              0.269840661797628,
+              43.36436947240893
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62562,
+      "code_cant" : "24",
+      "x_centroid" : 4799,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 11421,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.37594267380855,
+        0.285547480034439
+      ],
+      "code_comm" : "170",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.285547480034439,
+        43.37594267380855
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

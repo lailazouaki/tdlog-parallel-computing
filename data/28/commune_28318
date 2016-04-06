@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b6ed42fc3076fd3c468d1a05ecd3ec661875dbe7",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 462,
+      "insee_com" : "78677",
+      "z_moyen" : 96,
+      "code_dept" : "78",
+      "nom_comm" : "VILLETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6041,
+      "y_centroid" : 68703,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.702290092689364,
+              48.91216884312589
+            ],
+            [
+              1.691617179314128,
+              48.91985949863172
+            ],
+            [
+              1.676444670242689,
+              48.92294864779188
+            ],
+            [
+              1.673836359984268,
+              48.9331818359824
+            ],
+            [
+              1.70282080179191,
+              48.93631413346998
+            ],
+            [
+              1.709403633348746,
+              48.92794902827263
+            ],
+            [
+              1.708153110665664,
+              48.91784443129221
+            ],
+            [
+              1.702290092689364,
+              48.91216884312589
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68704,
+      "code_cant" : "07",
+      "x_centroid" : 6042,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 24364,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.92627887061507,
+        1.693741724566267
+      ],
+      "code_comm" : "677",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.693741724566267,
+        48.92627887061507
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

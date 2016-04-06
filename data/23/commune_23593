@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bed1195f9a2778c5b597526c8ea5c26a911c1eb3",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 284,
+      "insee_com" : "51059",
+      "z_moyen" : 104,
+      "code_dept" : "51",
+      "nom_comm" : "BIGNICOURT-SUR-MARNE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8184,
+      "y_centroid" : 68435,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.606637904128291,
+              48.67221717298931
+            ],
+            [
+              4.588418914829146,
+              48.68328403700048
+            ],
+            [
+              4.611296268954905,
+              48.68761922762025
+            ],
+            [
+              4.620810794667784,
+              48.68728336332271
+            ],
+            [
+              4.62780137931044,
+              48.68313073161374
+            ],
+            [
+              4.606637904128291,
+              48.67221717298931
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68436,
+      "code_cant" : "33",
+      "x_centroid" : 8184,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 4645,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.68130498331903,
+        4.608751397623081
+      ],
+      "code_comm" : "059",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.608751397623081,
+        48.68130498331903
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

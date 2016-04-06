@@ -1,0 +1,67 @@
+  {
+    "recordid" : "aa0c6bd27c73283ff9b614c2e2dd3d8cb3ed625f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 372,
+      "insee_com" : "51081",
+      "z_moyen" : 123,
+      "code_dept" : "51",
+      "nom_comm" : "BRANSCOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7597,
+      "y_centroid" : 69082,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.825461927797968,
+              49.25839057794553
+            ],
+            [
+              3.803254067889786,
+              49.26738679627365
+            ],
+            [
+              3.811604918247633,
+              49.27776838290001
+            ],
+            [
+              3.829680070328502,
+              49.28157411410262
+            ],
+            [
+              3.838968023676022,
+              49.27979281414252
+            ],
+            [
+              3.825461927797968,
+              49.25839057794553
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69081,
+      "code_cant" : "31",
+      "x_centroid" : 7597,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 11820,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.27118725259454,
+        3.821540361923724
+      ],
+      "code_comm" : "081",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.821540361923724,
+        49.27118725259454
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

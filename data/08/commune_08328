@@ -1,0 +1,67 @@
+  {
+    "recordid" : "babb1d213c4ba44ff38774bd88f643098283461b",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 585,
+      "insee_com" : "67308",
+      "z_moyen" : 112,
+      "code_dept" : "67",
+      "nom_comm" : "MUNCHHAUSEN",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10768,
+      "y_centroid" : 68806,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.141554734261391,
+              48.89607115758935
+            ],
+            [
+              8.126376627322619,
+              48.91042069314254
+            ],
+            [
+              8.136036001293183,
+              48.92543450462134
+            ],
+            [
+              8.139004504271318,
+              48.92862336451246
+            ],
+            [
+              8.168506064771417,
+              48.92450502637048
+            ],
+            [
+              8.141554734261391,
+              48.89607115758935
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68812,
+      "code_cant" : "25",
+      "x_centroid" : 10768,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 19632,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.91493781376781,
+        8.145013721745185
+      ],
+      "code_comm" : "308",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        8.145013721745185,
+        48.91493781376781
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

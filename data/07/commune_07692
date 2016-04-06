@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6cb4dedb947094c288abb5cedfb404139c44a4b8",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 200,
+      "insee_com" : "64101",
+      "z_moyen" : 242,
+      "code_dept" : "64",
+      "nom_comm" : "BAUDREIX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4351,
+      "y_centroid" : 62395,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.264481064206842,
+              43.1980034105806
+            ],
+            [
+              -0.269388668464439,
+              43.20404861827699
+            ],
+            [
+              -0.270623186802023,
+              43.20628888388013
+            ],
+            [
+              -0.255033663003127,
+              43.21290019097279
+            ],
+            [
+              -0.247323482451982,
+              43.21127797090663
+            ],
+            [
+              -0.250158829462747,
+              43.20720442560754
+            ],
+            [
+              -0.251812284634733,
+              43.20159998680058
+            ],
+            [
+              -0.264481064206842,
+              43.1980034105806
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62395,
+      "code_cant" : "25",
+      "x_centroid" : 4350,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 2403,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.20566418644457,
+        -0.2588615244535983
+      ],
+      "code_comm" : "101",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2588615244535983,
+        43.20566418644457
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

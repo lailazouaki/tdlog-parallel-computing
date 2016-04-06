@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d9af2b1881fbee8f2a6a51a64dfbe52cae07cbfc",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 324,
+      "insee_com" : "95452",
+      "z_moyen" : 89,
+      "code_dept" : "95",
+      "nom_comm" : "NOINTEL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6482,
+      "y_centroid" : 68923,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.313569645517369,
+              49.12278327956245
+            ],
+            [
+              2.303789071227166,
+              49.12068604935344
+            ],
+            [
+              2.279458785568809,
+              49.12569481179165
+            ],
+            [
+              2.278230001736186,
+              49.13522717295466
+            ],
+            [
+              2.298787408133634,
+              49.1370030974599
+            ],
+            [
+              2.313569645517369,
+              49.12278327956245
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68922,
+      "code_cant" : "03",
+      "x_centroid" : 6484,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 27533,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.1288691945745,
+        2.294343759983661
+      ],
+      "code_comm" : "452",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.294343759983661,
+        49.1288691945745
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

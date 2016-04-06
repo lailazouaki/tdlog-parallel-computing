@@ -1,0 +1,71 @@
+  {
+    "recordid" : "604b59f77bc6456308b00e2c918e853247cde663",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 501,
+      "insee_com" : "62691",
+      "z_moyen" : 47,
+      "code_dept" : "62",
+      "nom_comm" : "REBECQUES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6508,
+      "y_centroid" : 70615,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.289157229688348,
+              50.63758332470935
+            ],
+            [
+              2.284663626404034,
+              50.64295122135433
+            ],
+            [
+              2.284117530787945,
+              50.6545250986164
+            ],
+            [
+              2.303471508218663,
+              50.65964280180471
+            ],
+            [
+              2.319600188801648,
+              50.65507453590542
+            ],
+            [
+              2.324837680027264,
+              50.64352615381676
+            ],
+            [
+              2.289157229688348,
+              50.63758332470935
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70611,
+      "code_cant" : "01",
+      "x_centroid" : 6505,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 15815,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.64861423579029,
+        2.302565001721411
+      ],
+      "code_comm" : "691",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.302565001721411,
+        50.64861423579029
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "799a5a37d635a075de9d41d0c3191983a581fb67",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 283,
+      "insee_com" : "90070",
+      "z_moyen" : 534,
+      "code_dept" : "90",
+      "nom_comm" : "MONTBOUTON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9950,
+      "y_centroid" : 67149,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.932316190341477,
+              47.45582400106042
+            ],
+            [
+              6.919362822827295,
+              47.46820319147098
+            ],
+            [
+              6.907343809874688,
+              47.47288848335796
+            ],
+            [
+              6.915711209669506,
+              47.47824020650935
+            ],
+            [
+              6.938335476034307,
+              47.47315056616352
+            ],
+            [
+              6.935966149924353,
+              47.45576365019399
+            ],
+            [
+              6.932316190341477,
+              47.45582400106042
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67153,
+      "code_cant" : "12",
+      "x_centroid" : 9956,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 23001,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.46877770024538,
+        6.92638107494549
+      ],
+      "code_comm" : "070",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.92638107494549,
+        47.46877770024538
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

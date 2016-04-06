@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e6b48dbd37ef30bc7066a90be6f71501e943f534",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 133,
+      "insee_com" : "78451",
+      "z_moyen" : 42,
+      "code_dept" : "78",
+      "nom_comm" : "NEZEL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6147,
+      "y_centroid" : 68719,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.849714322666723,
+              48.93548469204862
+            ],
+            [
+              1.841945470334209,
+              48.93371009620142
+            ],
+            [
+              1.837116496938948,
+              48.93783633546073
+            ],
+            [
+              1.830224630775783,
+              48.95048604269816
+            ],
+            [
+              1.834715377805065,
+              48.95239141329193
+            ],
+            [
+              1.849714322666723,
+              48.93548469204862
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68722,
+      "code_cant" : "01",
+      "x_centroid" : 6149,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 25417,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        48.94223973238946,
+        1.839278929434234
+      ],
+      "code_comm" : "451",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.839278929434234,
+        48.94223973238946
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

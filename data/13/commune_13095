@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9a826b1a14a0f53bf55446216768bcd053f0c6af",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 275,
+      "insee_com" : "35203",
+      "z_moyen" : 58,
+      "code_dept" : "35",
+      "nom_comm" : "LA NOUAYE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3300,
+      "y_centroid" : 67967,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.977334212191589,
+              48.15824773925125
+            ],
+            [
+              -1.989274922027461,
+              48.16681310446493
+            ],
+            [
+              -1.979514057745372,
+              48.17434848113311
+            ],
+            [
+              -1.965162329169496,
+              48.17252848249453
+            ],
+            [
+              -1.96291089563531,
+              48.15948707408104
+            ],
+            [
+              -1.977334212191589,
+              48.15824773925125
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67963,
+      "code_cant" : "23",
+      "x_centroid" : 3304,
+      "nom_dept" : "ILLE-ET-VILAINE",
+      "id_geofla" : 6270,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.16621740342026,
+        -1.974576096237538
+      ],
+      "code_comm" : "203",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.974576096237538,
+        48.16621740342026
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

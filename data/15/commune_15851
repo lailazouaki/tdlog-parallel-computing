@@ -1,0 +1,75 @@
+  {
+    "recordid" : "89c35c845b6aaee8172d2fcdce07a8e0c0cad769",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 397,
+      "insee_com" : "54246",
+      "z_moyen" : 300,
+      "code_dept" : "54",
+      "nom_comm" : "HALLOVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9848,
+      "y_centroid" : 68348,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.866307084026928,
+              48.53428320800212
+            ],
+            [
+              6.851656961374161,
+              48.54253156165701
+            ],
+            [
+              6.841649634798611,
+              48.55643690726701
+            ],
+            [
+              6.869859418564858,
+              48.56420381791446
+            ],
+            [
+              6.875948584829316,
+              48.5590249325331
+            ],
+            [
+              6.866361904999755,
+              48.5491780304022
+            ],
+            [
+              6.867845696469183,
+              48.5431855289999
+            ],
+            [
+              6.866307084026928,
+              48.53428320800212
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68351,
+      "code_cant" : "06",
+      "x_centroid" : 9847,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 30593,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.5513232103163,
+        6.859534521449127
+      ],
+      "code_comm" : "246",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.859534521449127,
+        48.5513232103163
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

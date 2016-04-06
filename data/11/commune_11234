@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f5c89e63b2956d70eaec916ef2efdc6e8793be34",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 265,
+      "insee_com" : "14496",
+      "z_moyen" : 191,
+      "code_dept" : "14",
+      "nom_comm" : "PERIGNY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4358,
+      "y_centroid" : 68747,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.600202164481221,
+              48.90628145244487
+            ],
+            [
+              -0.618545037956386,
+              48.91417243659163
+            ],
+            [
+              -0.610589783042902,
+              48.9268715185564
+            ],
+            [
+              -0.606852137294087,
+              48.92931567484039
+            ],
+            [
+              -0.596430872349788,
+              48.928962945972
+            ],
+            [
+              -0.593953450655775,
+              48.92593164766134
+            ],
+            [
+              -0.600202164481221,
+              48.90628145244487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68751,
+      "code_cant" : "12",
+      "x_centroid" : 4358,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 11397,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.91889490469409,
+        -0.6050579280064134
+      ],
+      "code_comm" : "496",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6050579280064134,
+        48.91889490469409
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

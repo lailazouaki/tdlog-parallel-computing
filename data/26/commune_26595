@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3514ba0bcf0661ec0bab765b4fb48dcf0265b69",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 530,
+      "insee_com" : "39143",
+      "z_moyen" : 693,
+      "code_dept" : "39",
+      "nom_comm" : "CHEVROTAINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9181,
+      "y_centroid" : 66209,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.865708681177312,
+              46.64225914486146
+            ],
+            [
+              5.834091297316693,
+              46.65484857000649
+            ],
+            [
+              5.837652351826135,
+              46.66140086867572
+            ],
+            [
+              5.86123036499803,
+              46.66181494548271
+            ],
+            [
+              5.881413513578064,
+              46.65347954483455
+            ],
+            [
+              5.883019966014126,
+              46.6447893144993
+            ],
+            [
+              5.865708681177312,
+              46.64225914486146
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66213,
+      "code_cant" : "10",
+      "x_centroid" : 9186,
+      "nom_dept" : "JURA",
+      "id_geofla" : 20039,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.6528649108678,
+        5.860006592069373
+      ],
+      "code_comm" : "143",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.860006592069373,
+        46.6528649108678
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

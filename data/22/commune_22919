@@ -1,0 +1,75 @@
+  {
+    "recordid" : "865c2d2b7d79fb3873608caf5090942c2416c28d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 645,
+      "insee_com" : "77200",
+      "z_moyen" : 114,
+      "code_dept" : "77",
+      "nom_comm" : "GARENTREVILLE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6665,
+      "y_centroid" : 67927,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.542288072207186,
+              48.22319567919938
+            ],
+            [
+              2.53206265059803,
+              48.22985007188617
+            ],
+            [
+              2.546726372671747,
+              48.24262116421036
+            ],
+            [
+              2.57272376594561,
+              48.24433758956495
+            ],
+            [
+              2.586584971201524,
+              48.23233882602536
+            ],
+            [
+              2.585043807300659,
+              48.22623287890698
+            ],
+            [
+              2.560504942606642,
+              48.2282676656454
+            ],
+            [
+              2.542288072207186,
+              48.22319567919938
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67929,
+      "code_cant" : "24",
+      "x_centroid" : 6673,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 7783,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.2339884396186,
+        2.559801211311511
+      ],
+      "code_comm" : "200",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.559801211311511,
+        48.2339884396186
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

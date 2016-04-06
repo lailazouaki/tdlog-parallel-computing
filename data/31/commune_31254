@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4583aa5d447c527f5931cfc631df2c0f475e7b54",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 208,
+      "insee_com" : "73266",
+      "z_moyen" : 736,
+      "code_dept" : "73",
+      "nom_comm" : "SAINT-OYEN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9719,
+      "y_centroid" : 64958,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.478747735209807,
+              45.49691088249211
+            ],
+            [
+              6.469797869271606,
+              45.51447565510499
+            ],
+            [
+              6.478555564178552,
+              45.52124407404695
+            ],
+            [
+              6.48259513738705,
+              45.51226761153411
+            ],
+            [
+              6.487021908833829,
+              45.49968257251009
+            ],
+            [
+              6.478747735209807,
+              45.49691088249211
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64953,
+      "code_cant" : "20",
+      "x_centroid" : 9715,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 27278,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.50855258760579,
+        6.478594755757901
+      ],
+      "code_comm" : "266",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.478594755757901,
+        45.50855258760579
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

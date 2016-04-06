@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c29f63bb9a260ddaac4ce126625d97ebab8ae591",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 715,
+      "insee_com" : "80377",
+      "z_moyen" : 95,
+      "code_dept" : "80",
+      "nom_comm" : "GEZAINCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6512,
+      "y_centroid" : 70047,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.289999526632463,
+              50.12170185734377
+            ],
+            [
+              2.286363114724261,
+              50.13096711190792
+            ],
+            [
+              2.29350121703063,
+              50.13707944919113
+            ],
+            [
+              2.317964654476667,
+              50.15915751938751
+            ],
+            [
+              2.327688563530307,
+              50.1564091573314
+            ],
+            [
+              2.332595828741762,
+              50.13402903453553
+            ],
+            [
+              2.289999526632463,
+              50.12170185734377
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70049,
+      "code_cant" : "21",
+      "x_centroid" : 6507,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 19917,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.13934117227583,
+        2.311667460710862
+      ],
+      "code_comm" : "377",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.311667460710862,
+        50.13934117227583
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

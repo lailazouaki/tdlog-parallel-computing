@@ -1,0 +1,75 @@
+  {
+    "recordid" : "088ca1dde3c8839daf567717ece71fc1f2417b9e",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 327,
+      "insee_com" : "70579",
+      "z_moyen" : 396,
+      "code_dept" : "70",
+      "nom_comm" : "VYANS-LE-VAL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9832,
+      "y_centroid" : 67233,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.769299785401183,
+              47.53771267076824
+            ],
+            [
+              6.758113225450631,
+              47.54157052789692
+            ],
+            [
+              6.748853225808593,
+              47.54862747214323
+            ],
+            [
+              6.753363779360199,
+              47.56129669620584
+            ],
+            [
+              6.766913168369058,
+              47.55973318941736
+            ],
+            [
+              6.76977154190638,
+              47.55703642842703
+            ],
+            [
+              6.772762319282783,
+              47.54736027403806
+            ],
+            [
+              6.769299785401183,
+              47.53771267076824
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67233,
+      "code_cant" : "11",
+      "x_centroid" : 9828,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 11170,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.55028492725221,
+        6.761524409535503
+      ],
+      "code_comm" : "579",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.761524409535503,
+        47.55028492725221
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

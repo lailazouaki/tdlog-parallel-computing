@@ -1,0 +1,71 @@
+  {
+    "recordid" : "134c23580543530e5f0dfd0dbebfaaaf4dc47ba5",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 502,
+      "insee_com" : "51302",
+      "z_moyen" : 89,
+      "code_dept" : "51",
+      "nom_comm" : "LES ISTRES-ET-BURY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7797,
+      "y_centroid" : 68769,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.077007079028386,
+              48.97435087637093
+            ],
+            [
+              4.066353419484088,
+              48.9930885065418
+            ],
+            [
+              4.098036801419179,
+              49.00047370097683
+            ],
+            [
+              4.106078420582399,
+              48.98786367777249
+            ],
+            [
+              4.103241639469805,
+              48.98168461018505
+            ],
+            [
+              4.088101462803345,
+              48.97573460031788
+            ],
+            [
+              4.077007079028386,
+              48.97435087637093
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68766,
+      "code_cant" : "02",
+      "x_centroid" : 7795,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 16121,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.98742900836668,
+        4.087073288892977
+      ],
+      "code_comm" : "302",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.087073288892977,
+        48.98742900836668
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "55702462e128494ffb8dc9ceb357c9ba728e27aa",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 548,
+      "insee_com" : "59131",
+      "z_moyen" : 2,
+      "code_dept" : "59",
+      "nom_comm" : "CAPPELLE-LA-GRANDE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6552,
+      "y_centroid" : 71002,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.37579142368992,
+              50.98151217287835
+            ],
+            [
+              2.370411589164847,
+              50.98107260105826
+            ],
+            [
+              2.354812658467626,
+              50.99072525992802
+            ],
+            [
+              2.350803434531636,
+              51.00065178775203
+            ],
+            [
+              2.368180556462098,
+              51.01135155299412
+            ],
+            [
+              2.384134832811412,
+              51.00201320653271
+            ],
+            [
+              2.391248394846476,
+              50.99803865343033
+            ],
+            [
+              2.37579142368992,
+              50.98151217287835
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 71004,
+      "code_cant" : "26",
+      "x_centroid" : 6556,
+      "nom_dept" : "NORD",
+      "id_geofla" : 19497,
+      "statut" : "Commune simple",
+      "population" : 8.1,
+      "geom_x_y" : [
+        50.99607407765346,
+        2.370033674582162
+      ],
+      "code_comm" : "131",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.370033674582162,
+        50.99607407765346
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

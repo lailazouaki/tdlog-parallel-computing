@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9d906b4ca4abb437ad7693cb248c7ca1141e66ae",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 489,
+      "insee_com" : "62685",
+      "z_moyen" : 127,
+      "code_dept" : "62",
+      "nom_comm" : "RADINGHEM",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6374,
+      "y_centroid" : 70502,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.117695840773939,
+              50.5361377325733
+            ],
+            [
+              2.102733701285422,
+              50.53956686045186
+            ],
+            [
+              2.09622124567963,
+              50.55240009742211
+            ],
+            [
+              2.131253789789607,
+              50.55682438467252
+            ],
+            [
+              2.137932735123781,
+              50.54776050806596
+            ],
+            [
+              2.136672824246719,
+              50.5448345529752
+            ],
+            [
+              2.127035857071134,
+              50.53763109333103
+            ],
+            [
+              2.117695840773939,
+              50.5361377325733
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70503,
+      "code_cant" : "24",
+      "x_centroid" : 6373,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 28283,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.54669483635674,
+        2.117869818235162
+      ],
+      "code_comm" : "685",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.117869818235162,
+        50.54669483635674
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

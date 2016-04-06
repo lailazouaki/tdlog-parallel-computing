@@ -1,0 +1,67 @@
+  {
+    "recordid" : "18abe1c289c0c092bd051f2213c1c6bc03b2d943",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 501,
+      "insee_com" : "91286",
+      "z_moyen" : 62,
+      "code_dept" : "91",
+      "nom_comm" : "GRIGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6549,
+      "y_centroid" : 68398,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.391422956309321,
+              48.64319751872618
+            ],
+            [
+              2.365772869587406,
+              48.64621205122028
+            ],
+            [
+              2.378054057839069,
+              48.66137051578436
+            ],
+            [
+              2.396339541081234,
+              48.67353575082402
+            ],
+            [
+              2.407056815698759,
+              48.66741901766303
+            ],
+            [
+              2.391422956309321,
+              48.64319751872618
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68397,
+      "code_cant" : "40",
+      "x_centroid" : 6549,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 27515,
+      "statut" : "Chef-lieu canton",
+      "population" : 26.9,
+      "geom_x_y" : [
+        48.6568896115566,
+        2.387896478580818
+      ],
+      "code_comm" : "286",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.387896478580818,
+        48.6568896115566
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

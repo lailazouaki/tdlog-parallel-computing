@@ -1,0 +1,71 @@
+  {
+    "recordid" : "91d5f705eac9a5aba1ed58333e8041c5c01aca53",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 278,
+      "insee_com" : "85045",
+      "z_moyen" : 27,
+      "code_dept" : "85",
+      "nom_comm" : "LA CHAIZE-GIRAUD",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3318,
+      "y_centroid" : 66276,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.80378878685944,
+              46.65464220038067
+            ],
+            [
+              -1.802492514193262,
+              46.6487247159389
+            ],
+            [
+              -1.815566216826834,
+              46.6407514156533
+            ],
+            [
+              -1.820151625080943,
+              46.64120799543931
+            ],
+            [
+              -1.837131122951753,
+              46.64361328942426
+            ],
+            [
+              -1.830036396860552,
+              46.65147246174454
+            ],
+            [
+              -1.80378878685944,
+              46.65464220038067
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66276,
+      "code_cant" : "26",
+      "x_centroid" : 3316,
+      "nom_dept" : "VENDEE",
+      "id_geofla" : 16562,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        46.64763750580666,
+        -1.818650761614467
+      ],
+      "code_comm" : "045",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.818650761614467,
+        46.64763750580666
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

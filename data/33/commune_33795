@@ -1,0 +1,83 @@
+  {
+    "recordid" : "8d3f7d65a4ae04dd168bded6b26f32feebb4caec",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1291,
+      "insee_com" : "66188",
+      "z_moyen" : 1875,
+      "code_dept" : "66",
+      "nom_comm" : "SAINT-PIERRE-DELS-FORCATS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6274,
+      "y_centroid" : 61537,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.131414433568873,
+              42.45083312089136
+            ],
+            [
+              2.112286528411165,
+              42.46106735494626
+            ],
+            [
+              2.101990223476145,
+              42.48089305707415
+            ],
+            [
+              2.089071867094823,
+              42.49156221048437
+            ],
+            [
+              2.104756208707101,
+              42.49932730829592
+            ],
+            [
+              2.131459266096134,
+              42.50420473189602
+            ],
+            [
+              2.136023196602667,
+              42.50367542114019
+            ],
+            [
+              2.127438324915089,
+              42.48708238050686
+            ],
+            [
+              2.138894986982323,
+              42.46380258531691
+            ],
+            [
+              2.131414433568873,
+              42.45083312089136
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61553,
+      "code_cant" : "06",
+      "x_centroid" : 6273,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 35662,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        42.48024645482701,
+        2.118156401267545
+      ],
+      "code_comm" : "188",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.118156401267545,
+        42.48024645482701
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "fbf0eebeeab3bf95e88ff79d647156ea3e771da3",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 88,
+      "insee_com" : "38056",
+      "z_moyen" : 461,
+      "code_dept" : "38",
+      "nom_comm" : "BRESSIEUX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8783,
+      "y_centroid" : 64717,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.271124397861724,
+              45.31920602747757
+            ],
+            [
+              5.271472418687718,
+              45.3252344200307
+            ],
+            [
+              5.275476703921713,
+              45.32635115442707
+            ],
+            [
+              5.286250270727412,
+              45.32188870964531
+            ],
+            [
+              5.283950821668175,
+              45.31906205684223
+            ],
+            [
+              5.271124397861724,
+              45.31920602747757
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64718,
+      "code_cant" : "26",
+      "x_centroid" : 8784,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 11637,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.32208379996994,
+        5.277530050104886
+      ],
+      "code_comm" : "056",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.277530050104886,
+        45.32208379996994
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

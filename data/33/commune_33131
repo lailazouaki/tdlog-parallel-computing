@@ -1,0 +1,75 @@
+  {
+    "recordid" : "69f6fe80090c9253cd3556c2048294ce8de5bf43",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 655,
+      "insee_com" : "17094",
+      "z_moyen" : 4,
+      "code_dept" : "17",
+      "nom_comm" : "CHATELAILLON-PLAGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3841,
+      "y_centroid" : 65607,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.084520174888952,
+              46.05313812923905
+            ],
+            [
+              -1.089026641628253,
+              46.05469784101531
+            ],
+            [
+              -1.094781187870924,
+              46.07872780421307
+            ],
+            [
+              -1.103199841851806,
+              46.09497873984506
+            ],
+            [
+              -1.089214268730149,
+              46.09392399685172
+            ],
+            [
+              -1.079073169989229,
+              46.08076385759023
+            ],
+            [
+              -1.05731500697969,
+              46.0649446999307
+            ],
+            [
+              -1.084520174888952,
+              46.05313812923905
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65607,
+      "code_cant" : "46",
+      "x_centroid" : 3845,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 29340,
+      "statut" : "Commune simple",
+      "population" : 6.1,
+      "geom_x_y" : [
+        46.07273424808729,
+        -1.082621019835982
+      ],
+      "code_comm" : "094",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.082621019835982,
+        46.07273424808729
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

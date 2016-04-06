@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fbfdcd3fd51e20d5bac7135f0ebcefe0d6c2a50d",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 463,
+      "insee_com" : "88386",
+      "z_moyen" : 372,
+      "code_dept" : "88",
+      "nom_comm" : "REMOMEIX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9967,
+      "y_centroid" : 68034,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.008135277425742,
+              48.25639822141153
+            ],
+            [
+              6.988216693759519,
+              48.25756779087131
+            ],
+            [
+              6.991025281497055,
+              48.2691756658916
+            ],
+            [
+              7.00398773522636,
+              48.27247593248435
+            ],
+            [
+              7.026207042260065,
+              48.26937865511378
+            ],
+            [
+              7.033768301803056,
+              48.25780515692573
+            ],
+            [
+              7.008135277425742,
+              48.25639822141153
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68040,
+      "code_cant" : "24",
+      "x_centroid" : 9974,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 30029,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.26364898388657,
+        7.009585459871876
+      ],
+      "code_comm" : "386",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.009585459871876,
+        48.26364898388657
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

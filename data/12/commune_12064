@@ -1,0 +1,75 @@
+  {
+    "recordid" : "179daccbd0380005292474a21e3aa515562facbc",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 553,
+      "insee_com" : "62188",
+      "z_moyen" : 65,
+      "code_dept" : "62",
+      "nom_comm" : "BURBURE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6621,
+      "y_centroid" : 70484,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.472983271912256,
+              50.51908475964778
+            ],
+            [
+              2.458720385063697,
+              50.52049530488368
+            ],
+            [
+              2.447062715840935,
+              50.52563189974396
+            ],
+            [
+              2.441507583828052,
+              50.53390964200283
+            ],
+            [
+              2.461380686390179,
+              50.5455583478167
+            ],
+            [
+              2.484109037267,
+              50.53659859764863
+            ],
+            [
+              2.474811224159718,
+              50.52875059635422
+            ],
+            [
+              2.472983271912256,
+              50.51908475964778
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70491,
+      "code_cant" : "63",
+      "x_centroid" : 6618,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 16738,
+      "statut" : "Commune simple",
+      "population" : 3,
+      "geom_x_y" : [
+        50.53208226179272,
+        2.462311354164704
+      ],
+      "code_comm" : "188",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.462311354164704,
+        50.53208226179272
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

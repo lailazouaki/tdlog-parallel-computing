@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f2c40113476687c44735878441efae3f714acae3",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 254,
+      "insee_com" : "25344",
+      "z_moyen" : 702,
+      "code_dept" : "25",
+      "nom_comm" : "LONGEVELLE-LES-RUSSEY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9761,
+      "y_centroid" : 66866,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.652084413448319,
+              47.2128688334036
+            ],
+            [
+              6.643249723598003,
+              47.22888254957873
+            ],
+            [
+              6.662528913699446,
+              47.23086112592705
+            ],
+            [
+              6.666586348494839,
+              47.22148606910734
+            ],
+            [
+              6.661257198436571,
+              47.21568845959703
+            ],
+            [
+              6.652084413448319,
+              47.2128688334036
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66869,
+      "code_cant" : "25",
+      "x_centroid" : 9765,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 19527,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.22288069475115,
+        6.655629109305936
+      ],
+      "code_comm" : "344",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.655629109305936,
+        47.22288069475115
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

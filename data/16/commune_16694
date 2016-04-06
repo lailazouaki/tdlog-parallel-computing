@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b275f8e519a896d13b1a184e83d072b29ede513a",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 185,
+      "insee_com" : "02488",
+      "z_moyen" : 137,
+      "code_dept" : "02",
+      "nom_comm" : "MOLAIN",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7383,
+      "y_centroid" : 69929,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.547449078168698,
+              50.03250449280437
+            ],
+            [
+              3.550839401973597,
+              50.02753126934078
+            ],
+            [
+              3.543028467433986,
+              50.02855413918777
+            ],
+            [
+              3.506455010474948,
+              50.03404595866531
+            ],
+            [
+              3.507141600307539,
+              50.03577661902001
+            ],
+            [
+              3.529876344703577,
+              50.03888698175505
+            ],
+            [
+              3.547449078168698,
+              50.03250449280437
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69926,
+      "code_cant" : "37",
+      "x_centroid" : 7379,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 20228,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.03359226995107,
+        3.529856581683589
+      ],
+      "code_comm" : "488",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.529856581683589,
+        50.03359226995107
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

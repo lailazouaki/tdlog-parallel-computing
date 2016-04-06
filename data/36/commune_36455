@@ -1,0 +1,79 @@
+  {
+    "recordid" : "c0a39cd7ecfaadaf4fba2b1f5af8aeaa69246888",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 577,
+      "insee_com" : "17049",
+      "z_moyen" : 36,
+      "code_dept" : "17",
+      "nom_comm" : "BLANZAY-SUR-BOUTONNE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4349,
+      "y_centroid" : 65562,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.430304100391241,
+              46.03936614912005
+            ],
+            [
+              -0.439969218437944,
+              46.04696893845418
+            ],
+            [
+              -0.441472050438807,
+              46.05091627852863
+            ],
+            [
+              -0.441991393902743,
+              46.06065308262388
+            ],
+            [
+              -0.437726339501731,
+              46.06636183196249
+            ],
+            [
+              -0.4196651876757,
+              46.06390662115467
+            ],
+            [
+              -0.398152597182583,
+              46.0543955758415
+            ],
+            [
+              -0.407698703759529,
+              46.05218012718078
+            ],
+            [
+              -0.430304100391241,
+              46.03936614912005
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65557,
+      "code_cant" : "04",
+      "x_centroid" : 4352,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 35110,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.05423101730039,
+        -0.4255931650295608
+      ],
+      "code_comm" : "049",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4255931650295608,
+        46.05423101730039
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

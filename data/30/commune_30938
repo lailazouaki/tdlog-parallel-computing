@@ -1,0 +1,75 @@
+  {
+    "recordid" : "38806ec4ac24037604333cbcc7aab6d911ac239f",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 393,
+      "insee_com" : "64554",
+      "z_moyen" : 175,
+      "code_dept" : "64",
+      "nom_comm" : "VIELLENAVE-D'ARTHEZ",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4179,
+      "y_centroid" : 62632,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.459716438042763,
+              43.41140680653206
+            ],
+            [
+              -0.483601263391519,
+              43.40113131213647
+            ],
+            [
+              -0.492098364553809,
+              43.40398225975054
+            ],
+            [
+              -0.488854197181176,
+              43.41627092734544
+            ],
+            [
+              -0.474478656390149,
+              43.42328906599479
+            ],
+            [
+              -0.469256350235735,
+              43.41966535532471
+            ],
+            [
+              -0.461323406564955,
+              43.41943300712993
+            ],
+            [
+              -0.459716438042763,
+              43.41140680653206
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62629,
+      "code_cant" : "03",
+      "x_centroid" : 4183,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 32247,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.41220281299474,
+        -0.4767361280299439
+      ],
+      "code_comm" : "554",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4767361280299439,
+        43.41220281299474
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

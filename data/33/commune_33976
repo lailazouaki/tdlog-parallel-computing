@@ -1,0 +1,71 @@
+  {
+    "recordid" : "84e154f3cf91c8d521b1b215f93565b24f0c25ec",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 636,
+      "insee_com" : "62185",
+      "z_moyen" : 90,
+      "code_dept" : "62",
+      "nom_comm" : "BULLECOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6948,
+      "y_centroid" : 70105,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.932247710778165,
+              50.17882070188071
+            ],
+            [
+              2.905653428725567,
+              50.19212038960305
+            ],
+            [
+              2.908908781671315,
+              50.20200059939554
+            ],
+            [
+              2.925088646544091,
+              50.20672585213553
+            ],
+            [
+              2.949472103701155,
+              50.19671691675345
+            ],
+            [
+              2.945336335052388,
+              50.17915947669793
+            ],
+            [
+              2.932247710778165,
+              50.17882070188071
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70104,
+      "code_cant" : "20",
+      "x_centroid" : 6949,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 31010,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.19274003679231,
+        2.928761435605126
+      ],
+      "code_comm" : "185",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.928761435605126,
+        50.19274003679231
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

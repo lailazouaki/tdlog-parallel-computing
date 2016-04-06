@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2e9d8e30c23e0d6a1b3ae269e94c3872285dd9af",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 219,
+      "insee_com" : "31068",
+      "z_moyen" : 1302,
+      "code_dept" : "31",
+      "nom_comm" : "BILLIERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4975,
+      "y_centroid" : 61939,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.52217844497167,
+              42.80632517097635
+            ],
+            [
+              0.522892972971336,
+              42.83370886600076
+            ],
+            [
+              0.532126530048456,
+              42.81863673674011
+            ],
+            [
+              0.542174019007353,
+              42.81222821564248
+            ],
+            [
+              0.532917472606953,
+              42.80892987585255
+            ],
+            [
+              0.52217844497167,
+              42.80632517097635
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61933,
+      "code_cant" : "04",
+      "x_centroid" : 4976,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 16641,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.81639982678469,
+        0.528501869101367
+      ],
+      "code_comm" : "068",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.528501869101367,
+        42.81639982678469
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

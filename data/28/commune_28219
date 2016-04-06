@@ -1,0 +1,67 @@
+  {
+    "recordid" : "48e770b3f79690534fb5f2ca079a543c697c2e07",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 155,
+      "insee_com" : "65364",
+      "z_moyen" : 329,
+      "code_dept" : "65",
+      "nom_comm" : "PINTAC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4556,
+      "y_centroid" : 62475,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.001200437276916,
+              43.27776207509525
+            ],
+            [
+              -0.014416562263407,
+              43.28121995717498
+            ],
+            [
+              -0.010110498544114,
+              43.29054918170096
+            ],
+            [
+              0.002917796031513,
+              43.29216265466703
+            ],
+            [
+              0.00042261125982,
+              43.28161500904952
+            ],
+            [
+              -0.001200437276916,
+              43.27776207509525
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62475,
+      "code_cant" : "33",
+      "x_centroid" : 4560,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 21308,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.28521320145801,
+        -0.005161328776178194
+      ],
+      "code_comm" : "364",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.005161328776178194,
+        43.28521320145801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

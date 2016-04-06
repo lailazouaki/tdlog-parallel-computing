@@ -1,0 +1,79 @@
+  {
+    "recordid" : "c22e8c39bfab1655cfdbeda30a4923f181d27167",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 480,
+      "insee_com" : "62709",
+      "z_moyen" : 91,
+      "code_dept" : "62",
+      "nom_comm" : "RIENCOURT-LES-CAGNICOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6969,
+      "y_centroid" : 70106,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.945336335052388,
+              50.17915947669793
+            ],
+            [
+              2.949472103701155,
+              50.19671691675345
+            ],
+            [
+              2.95114479022179,
+              50.20292259331986
+            ],
+            [
+              2.971847189285407,
+              50.2095919821876
+            ],
+            [
+              2.97925275412291,
+              50.20090112902429
+            ],
+            [
+              2.974065285151092,
+              50.19535065323208
+            ],
+            [
+              2.976234911678325,
+              50.19235183471803
+            ],
+            [
+              2.957529953129831,
+              50.17973003175802
+            ],
+            [
+              2.945336335052388,
+              50.17915947669793
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70112,
+      "code_cant" : "46",
+      "x_centroid" : 6972,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24739,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.19429843793138,
+        2.961397237144276
+      ],
+      "code_comm" : "709",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.961397237144276,
+        50.19429843793138
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

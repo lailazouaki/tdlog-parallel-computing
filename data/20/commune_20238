@@ -1,0 +1,71 @@
+  {
+    "recordid" : "49ce95270544ee1141081fe04a930650f20e145a",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 382,
+      "insee_com" : "65066",
+      "z_moyen" : 1159,
+      "code_dept" : "65",
+      "nom_comm" : "BARRANCOUEU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4821,
+      "y_centroid" : 62048,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.336712079815124,
+              42.90182983139154
+            ],
+            [
+              0.306660853064685,
+              42.90692883448614
+            ],
+            [
+              0.312947200248769,
+              42.91629125670226
+            ],
+            [
+              0.321727551838709,
+              42.91782429704164
+            ],
+            [
+              0.339978389216816,
+              42.91387792393088
+            ],
+            [
+              0.34237921634465,
+              42.9074319226515
+            ],
+            [
+              0.336712079815124,
+              42.90182983139154
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62047,
+      "code_cant" : "02",
+      "x_centroid" : 4814,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 25047,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.90995587330674,
+        0.3255305555085354
+      ],
+      "code_comm" : "066",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3255305555085354,
+        42.90995587330674
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

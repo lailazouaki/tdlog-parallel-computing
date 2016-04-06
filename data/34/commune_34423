@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0300a9208d8c9047c7784a05652fb1e83bc4988f",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 318,
+      "insee_com" : "32223",
+      "z_moyen" : 164,
+      "code_dept" : "32",
+      "nom_comm" : "MAGNAS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5176,
+      "y_centroid" : 63130,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.728167630958924,
+              43.88014586191657
+            ],
+            [
+              0.7084500741426349,
+              43.89166273078236
+            ],
+            [
+              0.716648982147398,
+              43.90019844235141
+            ],
+            [
+              0.730009578158472,
+              43.90425836504758
+            ],
+            [
+              0.735145848212295,
+              43.89186876659607
+            ],
+            [
+              0.728167630958924,
+              43.88014586191657
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63132,
+      "code_cant" : "25",
+      "x_centroid" : 5170,
+      "nom_dept" : "GERS",
+      "id_geofla" : 31358,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.89278170852707,
+        0.7235833757596809
+      ],
+      "code_comm" : "223",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7235833757596809,
+        43.89278170852707
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

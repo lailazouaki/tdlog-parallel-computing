@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e0d91f43deb0320ede79fbab691ac138ffea2db4",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 2128,
+      "insee_com" : "88044",
+      "z_moyen" : 344,
+      "code_dept" : "88",
+      "nom_comm" : "BAZOILLES-SUR-MEUSE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8971,
+      "y_centroid" : 68033,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.653809196504187,
+              48.26852380977061
+            ],
+            [
+              5.611652001252657,
+              48.29181533437578
+            ],
+            [
+              5.623352738052326,
+              48.308975749213
+            ],
+            [
+              5.645961861118077,
+              48.32546851026423
+            ],
+            [
+              5.654928649858425,
+              48.32848149971677
+            ],
+            [
+              5.686333337372142,
+              48.32062508951581
+            ],
+            [
+              5.681573320003658,
+              48.30587910996834
+            ],
+            [
+              5.653809196504187,
+              48.26852380977061
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68038,
+      "code_cant" : "18",
+      "x_centroid" : 8965,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 31219,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.30117357759174,
+        5.650352601463858
+      ],
+      "code_comm" : "044",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.650352601463858,
+        48.30117357759174
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,79 @@
+  {
+    "recordid" : "e3617a01682cb138f4cee9d20b6d39c88155dd55",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 758,
+      "insee_com" : "04164",
+      "z_moyen" : 701,
+      "code_dept" : "04",
+      "nom_comm" : "REVEST-SAINT-MARTIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9266,
+      "y_centroid" : 63285,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.846206708465211,
+              44.01323006436727
+            ],
+            [
+              5.836460850173117,
+              44.00621560487632
+            ],
+            [
+              5.809007908525442,
+              44.00792386347308
+            ],
+            [
+              5.805659288475514,
+              44.01365636751019
+            ],
+            [
+              5.810786964538709,
+              44.02248538274253
+            ],
+            [
+              5.808710944302597,
+              44.02847348882847
+            ],
+            [
+              5.807132487024486,
+              44.04000537099554
+            ],
+            [
+              5.827504219340362,
+              44.03215005520747
+            ],
+            [
+              5.846206708465211,
+              44.01323006436727
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63276,
+      "code_cant" : "23",
+      "x_centroid" : 9262,
+      "nom_dept" : "ALPES-DE-HAUTE-PROVENCE",
+      "id_geofla" : 35108,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.01984827754739,
+        5.822986212967409
+      ],
+      "code_comm" : "164",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.822986212967409,
+        44.01984827754739
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

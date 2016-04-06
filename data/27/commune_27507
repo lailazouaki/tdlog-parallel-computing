@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9a96b530cdb04827d0b069722b6b275a3f2194f5",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 343,
+      "insee_com" : "14169",
+      "z_moyen" : 38,
+      "code_dept" : "14",
+      "nom_comm" : "COLOMBIERS-SUR-SEULLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4445,
+      "y_centroid" : 69167,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.483230474905067,
+              49.29716818030109
+            ],
+            [
+              -0.504036871889621,
+              49.29113978402911
+            ],
+            [
+              -0.517904365823233,
+              49.29235590847883
+            ],
+            [
+              -0.51980126369303,
+              49.30847047593223
+            ],
+            [
+              -0.512317504628236,
+              49.30891346287932
+            ],
+            [
+              -0.483230474905067,
+              49.29716818030109
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69160,
+      "code_cant" : "28",
+      "x_centroid" : 4450,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 18588,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.29923780713329,
+        -0.5060013654281056
+      ],
+      "code_comm" : "169",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5060013654281056,
+        49.29923780713329
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

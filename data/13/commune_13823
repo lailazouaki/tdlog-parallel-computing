@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b3c8378294df02c0952c04dc03bdf1e1ab5b02f7",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 300,
+      "insee_com" : "57247",
+      "z_moyen" : 265,
+      "code_dept" : "57",
+      "nom_comm" : "GERBECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9578,
+      "y_centroid" : 68669,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.530394623721063,
+              48.83627196925821
+            ],
+            [
+              6.498667106124614,
+              48.85828774489424
+            ],
+            [
+              6.506207991941022,
+              48.86836521479933
+            ],
+            [
+              6.511048858494413,
+              48.85961726068673
+            ],
+            [
+              6.536282229301086,
+              48.83983392830145
+            ],
+            [
+              6.530394623721063,
+              48.83627196925821
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68670,
+      "code_cant" : "06",
+      "x_centroid" : 9579,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 27102,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.85132662311518,
+        6.515984243831046
+      ],
+      "code_comm" : "247",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.515984243831046,
+        48.85132662311518
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

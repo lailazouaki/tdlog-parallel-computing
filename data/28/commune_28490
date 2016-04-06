@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3374e57fc6d7c3aa7434b061e45860829df8dfea",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 47,
+      "insee_com" : "56195",
+      "z_moyen" : 17,
+      "code_dept" : "56",
+      "nom_comm" : "LA ROCHE-BERNARD",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3015,
+      "y_centroid" : 67266,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.298099260844231,
+              47.51547608333877
+            ],
+            [
+              -2.309125286930553,
+              47.51828464960987
+            ],
+            [
+              -2.306247031176161,
+              47.52363055016411
+            ],
+            [
+              -2.299309219570172,
+              47.52096039732389
+            ],
+            [
+              -2.297057496066814,
+              47.51584828949287
+            ],
+            [
+              -2.298099260844231,
+              47.51547608333877
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67264,
+      "code_cant" : "31",
+      "x_centroid" : 3012,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 29420,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.8,
+      "geom_x_y" : [
+        47.51932081162871,
+        -2.303074222133087
+      ],
+      "code_comm" : "195",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.303074222133087,
+        47.51932081162871
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a7714cf8ab47d59b497d9ba5eaf81a9b2d2b48b4",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 197,
+      "insee_com" : "27459",
+      "z_moyen" : 164,
+      "code_dept" : "27",
+      "nom_comm" : "LES PLACES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5113,
+      "y_centroid" : 68979,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.426731080992811,
+              49.14691191464416
+            ],
+            [
+              0.408782612672643,
+              49.14688655282338
+            ],
+            [
+              0.406566877593846,
+              49.14951050270587
+            ],
+            [
+              0.409950263040365,
+              49.15918158391777
+            ],
+            [
+              0.418140288414145,
+              49.16217312183696
+            ],
+            [
+              0.426982531159473,
+              49.15371787655247
+            ],
+            [
+              0.426731080992811,
+              49.14691191464416
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68977,
+      "code_cant" : "34",
+      "x_centroid" : 5115,
+      "nom_dept" : "EURE",
+      "id_geofla" : 20268,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.15314466430947,
+        0.4169100535801261
+      ],
+      "code_comm" : "459",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4169100535801261,
+        49.15314466430947
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "32b4fe23258c6d46b0ccfb21c2b035f879dff929",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 789,
+      "insee_com" : "11118",
+      "z_moyen" : 457,
+      "code_dept" : "11",
+      "nom_comm" : "DERNACUEILLETTE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6671,
+      "y_centroid" : 62033,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.593434258715499,
+              42.91307923908312
+            ],
+            [
+              2.586396787885667,
+              42.92888897128793
+            ],
+            [
+              2.56944861742381,
+              42.93364267291054
+            ],
+            [
+              2.581749006428854,
+              42.94549920082487
+            ],
+            [
+              2.601695723711992,
+              42.93758908642834
+            ],
+            [
+              2.616954075164103,
+              42.93088178449014
+            ],
+            [
+              2.62394529921436,
+              42.91907173322283
+            ],
+            [
+              2.593434258715499,
+              42.91307923908312
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62032,
+      "code_cant" : "23",
+      "x_centroid" : 6671,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 23213,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.92871902853652,
+        2.597695884410598
+      ],
+      "code_comm" : "118",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.597695884410598,
+        42.92871902853652
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

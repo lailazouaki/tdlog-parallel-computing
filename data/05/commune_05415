@@ -1,0 +1,79 @@
+  {
+    "recordid" : "6f42e300d9c309f8cf7d002d8a1db26acbcc8f70",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 628,
+      "insee_com" : "66143",
+      "z_moyen" : 245,
+      "code_dept" : "66",
+      "nom_comm" : "PLANEZES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6687,
+      "y_centroid" : 61861,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.62177853579814,
+              42.75589955397243
+            ],
+            [
+              2.610614347477839,
+              42.75768486034696
+            ],
+            [
+              2.613867208472874,
+              42.76028621780497
+            ],
+            [
+              2.608931136047148,
+              42.77392669421246
+            ],
+            [
+              2.610422690093293,
+              42.78448848712912
+            ],
+            [
+              2.626905107667211,
+              42.79175858617395
+            ],
+            [
+              2.635914700304118,
+              42.78017211312891
+            ],
+            [
+              2.63334165790989,
+              42.77008359866273
+            ],
+            [
+              2.62177853579814,
+              42.75589955397243
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61852,
+      "code_cant" : "04",
+      "x_centroid" : 6690,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 13034,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.77423109665877,
+        2.621672775241926
+      ],
+      "code_comm" : "143",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.621672775241926,
+        42.77423109665877
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

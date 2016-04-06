@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0525cf198f8e348a3efb7e5fa5ea7132d647e8a0",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 249,
+      "insee_com" : "27501",
+      "z_moyen" : 115,
+      "code_dept" : "27",
+      "nom_comm" : "ROUVRAY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5785,
+      "y_centroid" : 68864,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.343980317711532,
+              49.07334078960412
+            ],
+            [
+              1.35703708129311,
+              49.06347440821594
+            ],
+            [
+              1.342918995517801,
+              49.06028569484921
+            ],
+            [
+              1.328119916027738,
+              49.06299455478158
+            ],
+            [
+              1.324167080438199,
+              49.06800281376115
+            ],
+            [
+              1.334933088501595,
+              49.07416007855624
+            ],
+            [
+              1.343980317711532,
+              49.07334078960412
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68863,
+      "code_cant" : "40",
+      "x_centroid" : 5786,
+      "nom_dept" : "EURE",
+      "id_geofla" : 25299,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.06686561077317,
+        1.339647984837222
+      ],
+      "code_comm" : "501",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.339647984837222,
+        49.06686561077317
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

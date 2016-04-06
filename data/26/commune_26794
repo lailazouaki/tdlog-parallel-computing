@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a7e27b05d62947afdc221d8693208e3720e8c53b",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 463,
+      "insee_com" : "11097",
+      "z_moyen" : 474,
+      "code_dept" : "11",
+      "nom_comm" : "CONILHAC-DE-LA-MONTAGNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6341,
+      "y_centroid" : 62091,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.193180747675558,
+              42.97047232766487
+            ],
+            [
+              2.184379431936415,
+              42.98495782934631
+            ],
+            [
+              2.184485430439894,
+              42.98787263342337
+            ],
+            [
+              2.207023319610815,
+              42.98367017588544
+            ],
+            [
+              2.225272790349153,
+              42.98572785216973
+            ],
+            [
+              2.229142570671104,
+              42.98122280580657
+            ],
+            [
+              2.215302257089108,
+              42.97205704377278
+            ],
+            [
+              2.193180747675558,
+              42.97047232766487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62091,
+      "code_cant" : "13",
+      "x_centroid" : 6351,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 32215,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.97908677052883,
+        2.2052498528574
+      ],
+      "code_comm" : "097",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.2052498528574,
+        42.97908677052883
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

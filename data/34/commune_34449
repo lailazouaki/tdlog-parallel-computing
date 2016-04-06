@@ -1,0 +1,63 @@
+  {
+    "recordid" : "60743f38e6dea18756da9eb4eea47dcd415cc58f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 247,
+      "insee_com" : "02396",
+      "z_moyen" : 91,
+      "code_dept" : "02",
+      "nom_comm" : "JUMIGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7520,
+      "y_centroid" : 69234,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.730624039468449,
+              49.39867128253754
+            ],
+            [
+              3.711911373922492,
+              49.40796931167359
+            ],
+            [
+              3.715629874851823,
+              49.41683713813986
+            ],
+            [
+              3.739720250060667,
+              49.4106159708061
+            ],
+            [
+              3.730624039468449,
+              49.39867128253754
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69237,
+      "code_cant" : "12",
+      "x_centroid" : 7526,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 31482,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.40838346033224,
+        3.725246692817658
+      ],
+      "code_comm" : "396",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.725246692817658,
+        49.40838346033224
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

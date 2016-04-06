@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ac98de77ef83755a38a09ebf6c5ef021233309fa",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 221,
+      "insee_com" : "80018",
+      "z_moyen" : 92,
+      "code_dept" : "80",
+      "nom_comm" : "ALLENAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5919,
+      "y_centroid" : 69997,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.481802941059287,
+              50.07295031934332
+            ],
+            [
+              1.479180343294849,
+              50.07523541959845
+            ],
+            [
+              1.491195868856122,
+              50.09505596474571
+            ],
+            [
+              1.49786116181969,
+              50.09820078448233
+            ],
+            [
+              1.507016885967793,
+              50.08981495942704
+            ],
+            [
+              1.506399684797481,
+              50.08896307993
+            ],
+            [
+              1.481802941059287,
+              50.07295031934332
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69997,
+      "code_cant" : "11",
+      "x_centroid" : 5920,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 14143,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.08647033187886,
+        1.492942017091558
+      ],
+      "code_comm" : "018",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.492942017091558,
+        50.08647033187886
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

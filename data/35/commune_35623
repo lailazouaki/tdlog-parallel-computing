@@ -1,0 +1,71 @@
+  {
+    "recordid" : "db1c1deda0cc054d32155eaab67034a61cdf1157",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 379,
+      "insee_com" : "62187",
+      "z_moyen" : 150,
+      "code_dept" : "62",
+      "nom_comm" : "BUNEVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6542,
+      "y_centroid" : 70253,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.345459593094457,
+              50.31420512151767
+            ],
+            [
+              2.335250462259831,
+              50.31536262811665
+            ],
+            [
+              2.330111959587678,
+              50.32113501207341
+            ],
+            [
+              2.342761102900075,
+              50.33410516735315
+            ],
+            [
+              2.350275699299116,
+              50.33442330412718
+            ],
+            [
+              2.371119915158781,
+              50.32770771885953
+            ],
+            [
+              2.345459593094457,
+              50.31420512151767
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70253,
+      "code_cant" : "43",
+      "x_centroid" : 6535,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 35018,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.32460780762811,
+        2.348150518560811
+      ],
+      "code_comm" : "187",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.348150518560811,
+        50.32460780762811
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c2207ac2ed3d73bc1aa10a0929942b9ff3800699",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 365,
+      "insee_com" : "31527",
+      "z_moyen" : 204,
+      "code_dept" : "31",
+      "nom_comm" : "LA SALVETAT-LAURAGAIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6026,
+      "y_centroid" : 62728,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.815340103018631,
+              43.55403059286321
+            ],
+            [
+              1.802479784329561,
+              43.53708061335222
+            ],
+            [
+              1.790436929971648,
+              43.53980852783037
+            ],
+            [
+              1.786532057014195,
+              43.54430910076086
+            ],
+            [
+              1.794832701065521,
+              43.55550557191271
+            ],
+            [
+              1.807699644921329,
+              43.557330342833
+            ],
+            [
+              1.815340103018631,
+              43.55403059286321
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62721,
+      "code_cant" : "08",
+      "x_centroid" : 6030,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 8531,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.5477924749676,
+        1.80042409337997
+      ],
+      "code_comm" : "527",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.80042409337997,
+        43.5477924749676
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

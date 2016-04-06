@@ -1,0 +1,75 @@
+  {
+    "recordid" : "cccb03f3d4d04d140e3e035d975eb075f287e0dc",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 585,
+      "insee_com" : "27264",
+      "z_moyen" : 112,
+      "code_dept" : "27",
+      "nom_comm" : "FOURS-EN-VEXIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5981,
+      "y_centroid" : 68995,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.621432040657145,
+              49.17056161131033
+            ],
+            [
+              1.606024899620617,
+              49.17743388190718
+            ],
+            [
+              1.584969437887128,
+              49.1905592041684
+            ],
+            [
+              1.597775027735555,
+              49.20097748497552
+            ],
+            [
+              1.607905388325205,
+              49.19981814034568
+            ],
+            [
+              1.618493551961554,
+              49.19280062648844
+            ],
+            [
+              1.628628212538101,
+              49.19295238912915
+            ],
+            [
+              1.621432040657145,
+              49.17056161131033
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68996,
+      "code_cant" : "14",
+      "x_centroid" : 5985,
+      "nom_dept" : "EURE",
+      "id_geofla" : 33630,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.18740637888914,
+        1.608655579375337
+      ],
+      "code_comm" : "264",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.608655579375337,
+        49.18740637888914
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

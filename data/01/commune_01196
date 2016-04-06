@@ -1,0 +1,67 @@
+  {
+    "recordid" : "9dbb55e11b9bccd30fae76302f85618f01bc3336",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 305,
+      "insee_com" : "67366",
+      "z_moyen" : 317,
+      "code_dept" : "67",
+      "nom_comm" : "OTTERSTHAL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10196,
+      "y_centroid" : 68597,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.362856443068805,
+              48.75681027922061
+            ],
+            [
+              7.357152209864482,
+              48.75180326542289
+            ],
+            [
+              7.341564539881373,
+              48.75110150343296
+            ],
+            [
+              7.319833023025052,
+              48.76551871830173
+            ],
+            [
+              7.335613130694735,
+              48.76734239935033
+            ],
+            [
+              7.362856443068805,
+              48.75681027922061
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68593,
+      "code_cant" : "21",
+      "x_centroid" : 10190,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 16766,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.75896166868053,
+        7.342101580352407
+      ],
+      "code_comm" : "366",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.342101580352407,
+        48.75896166868053
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

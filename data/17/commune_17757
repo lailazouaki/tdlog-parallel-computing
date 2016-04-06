@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bee1392c3c5dae759491396de7965e294e3927b5",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 569,
+      "insee_com" : "10150",
+      "z_moyen" : 214,
+      "code_dept" : "10",
+      "nom_comm" : "FONTAINE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8273,
+      "y_centroid" : 67912,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.699862078644004,
+              48.19489757062702
+            ],
+            [
+              4.699508853576505,
+              48.20650364908916
+            ],
+            [
+              4.70778834658213,
+              48.21895714157554
+            ],
+            [
+              4.733096912981694,
+              48.22152256164005
+            ],
+            [
+              4.739591767620273,
+              48.20610008584423
+            ],
+            [
+              4.699862078644004,
+              48.19489757062702
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67917,
+      "code_cant" : "03",
+      "x_centroid" : 8276,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 17537,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.20928916421889,
+        4.718050686227492
+      ],
+      "code_comm" : "150",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.718050686227492,
+        48.20928916421889
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

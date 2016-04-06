@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c812ee4dbc12006d62b7f3c51c23455139acdcaf",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 275,
+      "insee_com" : "27639",
+      "z_moyen" : 130,
+      "code_dept" : "27",
+      "nom_comm" : "LE THUIT-SIMER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5481,
+      "y_centroid" : 69095,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.921933362727259,
+              49.26251257171064
+            ],
+            [
+              0.91817410844009,
+              49.26032544381069
+            ],
+            [
+              0.898825102064326,
+              49.26377593383094
+            ],
+            [
+              0.895067133741805,
+              49.26899820880992
+            ],
+            [
+              0.904131974839083,
+              49.26980351395646
+            ],
+            [
+              0.911712539766356,
+              49.27367595262488
+            ],
+            [
+              0.933839327779534,
+              49.2740299252864
+            ],
+            [
+              0.921933362727259,
+              49.26251257171064
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69092,
+      "code_cant" : "01",
+      "x_centroid" : 5482,
+      "nom_dept" : "EURE",
+      "id_geofla" : 24412,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.26779702739398,
+        0.9145217484340972
+      ],
+      "code_comm" : "639",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9145217484340972,
+        49.26779702739398
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "20da23f7849fe850ec7c7def78f862a2970ba2e9",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 268,
+      "insee_com" : "14690",
+      "z_moyen" : 39,
+      "code_dept" : "14",
+      "nom_comm" : "TIERCEVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4431,
+      "y_centroid" : 69167,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.525791410339604,
+              49.28496293365939
+            ],
+            [
+              -0.537032747602326,
+              49.29444215768078
+            ],
+            [
+              -0.53712241975442,
+              49.30699223664674
+            ],
+            [
+              -0.523423484661834,
+              49.3093185886517
+            ],
+            [
+              -0.51980126369303,
+              49.30847047593223
+            ],
+            [
+              -0.517904365823233,
+              49.29235590847883
+            ],
+            [
+              -0.525791410339604,
+              49.28496293365939
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69161,
+      "code_cant" : "28",
+      "x_centroid" : 4434,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 35053,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.29845336191721,
+        -0.527408226218557
+      ],
+      "code_comm" : "690",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.527408226218557,
+        49.29845336191721
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

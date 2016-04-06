@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ae75ed65c872c8a1c53e60da99eaedc1ad63e879",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 430,
+      "insee_com" : "14565",
+      "z_moyen" : 21,
+      "code_dept" : "14",
+      "nom_comm" : "SAINT-COME-DE-FRESNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4379,
+      "y_centroid" : 69200,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.6026645809003111,
+              49.30534130000891
+            ],
+            [
+              -0.614257208306545,
+              49.32997475298136
+            ],
+            [
+              -0.6114329703475609,
+              49.34017348562597
+            ],
+            [
+              -0.593495523604347,
+              49.34085256213615
+            ],
+            [
+              -0.593087003803993,
+              49.32570251815077
+            ],
+            [
+              -0.58932755690352,
+              49.32390669094887
+            ],
+            [
+              -0.6026645809003111,
+              49.30534130000891
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69209,
+      "code_cant" : "28",
+      "x_centroid" : 4381,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 28344,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.32653455461886,
+        -0.6022100664745103
+      ],
+      "code_comm" : "565",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6022100664745103,
+        49.32653455461886
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

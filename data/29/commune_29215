@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f70d884db7c702ebebb918679ffb33eeea0d174f",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 450,
+      "insee_com" : "65223",
+      "z_moyen" : 356,
+      "code_dept" : "65",
+      "nom_comm" : "HORGUES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4631,
+      "y_centroid" : 62366,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.070899802952598,
+              43.17442549766638
+            ],
+            [
+              0.06612512116354199,
+              43.19385498219307
+            ],
+            [
+              0.069789151171845,
+              43.19583580405587
+            ],
+            [
+              0.083981458332665,
+              43.2012969752972
+            ],
+            [
+              0.096262804006084,
+              43.19636261634451
+            ],
+            [
+              0.091374505893823,
+              43.18447563878882
+            ],
+            [
+              0.070899802952598,
+              43.17442549766638
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62364,
+      "code_cant" : "34",
+      "x_centroid" : 4625,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 20292,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        43.18930861261787,
+        0.08019418936972866
+      ],
+      "code_comm" : "223",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.08019418936972866,
+        43.18930861261787
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

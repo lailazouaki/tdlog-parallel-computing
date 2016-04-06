@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ddb8cf7606f28a275445a8e8166c9e8043d68b22",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 471,
+      "insee_com" : "08209",
+      "z_moyen" : 184,
+      "code_dept" : "08",
+      "nom_comm" : "HANNOGNE-SAINT-MARTIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8322,
+      "y_centroid" : 69541,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.833171512079001,
+              49.65341219088659
+            ],
+            [
+              4.822190281947457,
+              49.66385073481385
+            ],
+            [
+              4.804655271311757,
+              49.67040380874366
+            ],
+            [
+              4.845002102344728,
+              49.69054290099773
+            ],
+            [
+              4.844406733889316,
+              49.67708792955277
+            ],
+            [
+              4.838523073526625,
+              49.67137968256792
+            ],
+            [
+              4.833171512079001,
+              49.65341219088659
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69541,
+      "code_cant" : "09",
+      "x_centroid" : 8320,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 19339,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.67277982003016,
+        4.829118929020526
+      ],
+      "code_comm" : "209",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.829118929020526,
+        49.67277982003016
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

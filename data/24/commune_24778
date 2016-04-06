@@ -1,0 +1,75 @@
+  {
+    "recordid" : "048f6bf7fa59abfdc56a4788c02eabdce339b5bd",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 553,
+      "insee_com" : "52232",
+      "z_moyen" : 317,
+      "code_dept" : "52",
+      "nom_comm" : "GUINDRECOURT-SUR-BLAISE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8463,
+      "y_centroid" : 68015,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.997553855042438,
+              48.28987258749009
+            ],
+            [
+              4.988118242817173,
+              48.28750248191397
+            ],
+            [
+              4.957485122951531,
+              48.29058738880305
+            ],
+            [
+              4.968964115133707,
+              48.30651604389698
+            ],
+            [
+              4.982641060342451,
+              48.31146271978963
+            ],
+            [
+              4.993814408274494,
+              48.30581195439295
+            ],
+            [
+              5.000556014336352,
+              48.29434896466413
+            ],
+            [
+              4.997553855042438,
+              48.28987258749009
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68013,
+      "code_cant" : "27",
+      "x_centroid" : 8468,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 33588,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.29793288263514,
+        4.980511001726934
+      ],
+      "code_comm" : "232",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.980511001726934,
+        48.29793288263514
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

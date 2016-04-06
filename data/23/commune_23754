@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a6b0ab3594f131dd6835d6ff19776883cec2b396",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 187,
+      "insee_com" : "65214",
+      "z_moyen" : 287,
+      "code_dept" : "65",
+      "nom_comm" : "HACHAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4934,
+      "y_centroid" : 62461,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.4660692852218,
+              43.28741874471192
+            ],
+            [
+              0.456373672634236,
+              43.2767957019445
+            ],
+            [
+              0.447747193860222,
+              43.27799628105555
+            ],
+            [
+              0.447732285666213,
+              43.28779719438385
+            ],
+            [
+              0.452559915488096,
+              43.29341928874726
+            ],
+            [
+              0.4660692852218,
+              43.28741874471192
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62463,
+      "code_cant" : "08",
+      "x_centroid" : 4933,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 30012,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.28481820425715,
+        0.4550503977960372
+      ],
+      "code_comm" : "214",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4550503977960372,
+        43.28481820425715
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c149a521ec7f3e9e033d161341730decabcae16b",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1095,
+      "insee_com" : "10338",
+      "z_moyen" : 114,
+      "code_dept" : "10",
+      "nom_comm" : "SAINT-ETIENNE-SOUS-BARBUISE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7819,
+      "y_centroid" : 68219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.073181372673125,
+              48.46672058044744
+            ],
+            [
+              4.066519403744205,
+              48.46976760097172
+            ],
+            [
+              4.104185904715651,
+              48.50256785757426
+            ],
+            [
+              4.129063289405201,
+              48.50669750633377
+            ],
+            [
+              4.155944701422211,
+              48.509416984886
+            ],
+            [
+              4.158065899619952,
+              48.49510030803413
+            ],
+            [
+              4.113628315039138,
+              48.48755396172211
+            ],
+            [
+              4.073181372673125,
+              48.46672058044744
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68227,
+      "code_cant" : "02",
+      "x_centroid" : 7824,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 20208,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.49255228567909,
+        4.115361924051935
+      ],
+      "code_comm" : "338",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.115361924051935,
+        48.49255228567909
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

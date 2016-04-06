@@ -1,0 +1,67 @@
+  {
+    "recordid" : "95d00489dffbb95240d9b5b4479515c360e49825",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 723,
+      "insee_com" : "17115",
+      "z_moyen" : 19,
+      "code_dept" : "17",
+      "nom_comm" : "COLOMBIERS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4235,
+      "y_centroid" : 65110,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.53825933771167,
+              45.63145560812906
+            ],
+            [
+              -0.571651816062123,
+              45.62847116650553
+            ],
+            [
+              -0.57602674640923,
+              45.63454282153615
+            ],
+            [
+              -0.552140152996515,
+              45.66697466706488
+            ],
+            [
+              -0.536466905068202,
+              45.63819123807077
+            ],
+            [
+              -0.53825933771167,
+              45.63145560812906
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65111,
+      "code_cant" : "51",
+      "x_centroid" : 4231,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 20803,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.64278174292579,
+        -0.5550752739859535
+      ],
+      "code_comm" : "115",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5550752739859535,
+        45.64278174292579
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

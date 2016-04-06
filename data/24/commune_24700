@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fb5ed10c52a6788d33636a64bccb40bbd200bfec",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 277,
+      "insee_com" : "67402",
+      "z_moyen" : 244,
+      "code_dept" : "67",
+      "nom_comm" : "RINGELDORF",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10381,
+      "y_centroid" : 68686,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.599003501538107,
+              48.82019223272017
+            ],
+            [
+              7.591931739532626,
+              48.82756316982292
+            ],
+            [
+              7.591773804345246,
+              48.83319964548217
+            ],
+            [
+              7.613165718719141,
+              48.83730334315188
+            ],
+            [
+              7.61981478213399,
+              48.83487532032285
+            ],
+            [
+              7.619320957742307,
+              48.82515586441777
+            ],
+            [
+              7.599003501538107,
+              48.82019223272017
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68682,
+      "code_cant" : "10",
+      "x_centroid" : 10379,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 30732,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.82918270051173,
+        7.606147589610064
+      ],
+      "code_comm" : "402",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.606147589610064,
+        48.82918270051173
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

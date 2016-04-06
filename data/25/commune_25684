@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d384975d95f2c8f98caa842fb19bba600070e370",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 314,
+      "insee_com" : "76176",
+      "z_moyen" : 85,
+      "code_dept" : "76",
+      "nom_comm" : "CLASVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5284,
+      "y_centroid" : 69686,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.612358622577732,
+              49.78439865440006
+            ],
+            [
+              0.6050097990423851,
+              49.79161614022435
+            ],
+            [
+              0.611948755551508,
+              49.79941039539817
+            ],
+            [
+              0.615931373422864,
+              49.80214887672989
+            ],
+            [
+              0.625981168608203,
+              49.79985514144806
+            ],
+            [
+              0.636364502765042,
+              49.80173763678908
+            ],
+            [
+              0.6320013351814,
+              49.78681315564697
+            ],
+            [
+              0.612358622577732,
+              49.78439865440006
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69683,
+      "code_cant" : "09",
+      "x_centroid" : 5286,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 31757,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.79328224256768,
+        0.6209811871921893
+      ],
+      "code_comm" : "176",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6209811871921893,
+        49.79328224256768
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

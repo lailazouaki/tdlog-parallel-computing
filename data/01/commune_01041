@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e03d8d44e7592af2ec9f78f3d021b57f3771b3b0",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 457,
+      "insee_com" : "64334",
+      "z_moyen" : 28,
+      "code_dept" : "64",
+      "nom_comm" : "LEREN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3728,
+      "y_centroid" : 62755,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.026913713894988,
+              43.50403976142377
+            ],
+            [
+              -1.059245436786691,
+              43.49341938996677
+            ],
+            [
+              -1.063336674445122,
+              43.49475252648747
+            ],
+            [
+              -1.068997088412834,
+              43.50844999156768
+            ],
+            [
+              -1.046070174255937,
+              43.51156044783986
+            ],
+            [
+              -1.032678780411201,
+              43.5092937534282
+            ],
+            [
+              -1.026913713894988,
+              43.50403976142377
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62753,
+      "code_cant" : "37",
+      "x_centroid" : 3724,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 28095,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.50371171595582,
+        -1.050235611204639
+      ],
+      "code_comm" : "334",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.050235611204639,
+        43.50371171595582
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a2a740db174fc3d81daa5ec099cf334af8494cdd",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 641,
+      "insee_com" : "04110",
+      "z_moyen" : 521,
+      "code_dept" : "04",
+      "nom_comm" : "MALLEMOISSON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9504,
+      "y_centroid" : 63319,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.100711989733623,
+              44.0292055267966
+            ],
+            [
+              6.097102115248184,
+              44.03559468033762
+            ],
+            [
+              6.111162805899061,
+              44.05688489212121
+            ],
+            [
+              6.134566464933946,
+              44.04844377905565
+            ],
+            [
+              6.143760886809027,
+              44.04126241607118
+            ],
+            [
+              6.132361753764067,
+              44.03515823248132
+            ],
+            [
+              6.100711989733623,
+              44.0292055267966
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63319,
+      "code_cant" : "31",
+      "x_centroid" : 9498,
+      "nom_dept" : "ALPES-DE-HAUTE-PROVENCE",
+      "id_geofla" : 12169,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        44.04200719658381,
+        6.118071471919798
+      ],
+      "code_comm" : "110",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.118071471919798,
+        44.04200719658381
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

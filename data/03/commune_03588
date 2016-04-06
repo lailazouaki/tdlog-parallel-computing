@@ -1,0 +1,75 @@
+  {
+    "recordid" : "65f4bb5a7bd357075bab8aa48f755581ae20c842",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 638,
+      "insee_com" : "52340",
+      "z_moyen" : 291,
+      "code_dept" : "52",
+      "nom_comm" : "MONTSAUGEON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8732,
+      "y_centroid" : 67320,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.303260020802088,
+              47.65555926378757
+            ],
+            [
+              5.282432753649634,
+              47.66779106135796
+            ],
+            [
+              5.285992278417988,
+              47.67339438508112
+            ],
+            [
+              5.305224535036112,
+              47.67202612616068
+            ],
+            [
+              5.313732720021472,
+              47.67945793882936
+            ],
+            [
+              5.333306307198012,
+              47.67335985711767
+            ],
+            [
+              5.328147226605068,
+              47.65627263914476
+            ],
+            [
+              5.303260020802088,
+              47.65555926378757
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67320,
+      "code_cant" : "23",
+      "x_centroid" : 8733,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 25664,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.666428408374,
+        5.310804161954041
+      ],
+      "code_comm" : "340",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.310804161954041,
+        47.666428408374
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

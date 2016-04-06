@@ -1,0 +1,75 @@
+  {
+    "recordid" : "076ea11315bce846cfe12be026ba87e5e5aad8fc",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 637,
+      "insee_com" : "25425",
+      "z_moyen" : 936,
+      "code_dept" : "25",
+      "nom_comm" : "NOEL-CERNEUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9777,
+      "y_centroid" : 66735,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.671598608005721,
+              47.09150014644863
+            ],
+            [
+              6.630385764024173,
+              47.09894908389575
+            ],
+            [
+              6.657414167132293,
+              47.11641963253582
+            ],
+            [
+              6.656853010806635,
+              47.11962788042108
+            ],
+            [
+              6.67110030231181,
+              47.11963594583345
+            ],
+            [
+              6.673753894363443,
+              47.10433803153008
+            ],
+            [
+              6.681848370113072,
+              47.09665380799419
+            ],
+            [
+              6.671598608005721,
+              47.09150014644863
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66732,
+      "code_cant" : "25",
+      "x_centroid" : 9774,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 32397,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.10425238764707,
+        6.659388349925575
+      ],
+      "code_comm" : "425",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.659388349925575,
+        47.10425238764707
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

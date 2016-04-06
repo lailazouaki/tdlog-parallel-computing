@@ -1,0 +1,75 @@
+  {
+    "recordid" : "61befe0337125e171117a06def18ea30f2ff70c5",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 603,
+      "insee_com" : "16166",
+      "z_moyen" : 69,
+      "code_dept" : "16",
+      "nom_comm" : "L'ISLE-D'ESPAGNAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4819,
+      "y_centroid" : 65110,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.216410768892989,
+              45.65752326976882
+            ],
+            [
+              0.207542743369037,
+              45.65756491097599
+            ],
+            [
+              0.193652637254871,
+              45.65047057451377
+            ],
+            [
+              0.189930900994948,
+              45.65216179044478
+            ],
+            [
+              0.175851971558132,
+              45.66419893228353
+            ],
+            [
+              0.192460577556568,
+              45.67448091139873
+            ],
+            [
+              0.222044949149026,
+              45.67122312114895
+            ],
+            [
+              0.216410768892989,
+              45.65752326976882
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65107,
+      "code_cant" : "31",
+      "x_centroid" : 4819,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 11955,
+      "statut" : "Commune simple",
+      "population" : 5.3,
+      "geom_x_y" : [
+        45.66386409767895,
+        0.199231746573225
+      ],
+      "code_comm" : "166",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.199231746573225,
+        45.66386409767895
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

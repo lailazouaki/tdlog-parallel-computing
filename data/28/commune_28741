@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8568c4aef4e1e4a5a883a698f30d3ada5ba5c7b8",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 282,
+      "insee_com" : "65012",
+      "z_moyen" : 541,
+      "code_dept" : "65",
+      "nom_comm" : "ANLA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5026,
+      "y_centroid" : 62147,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.585922836099087,
+              42.99716397027941
+            ],
+            [
+              0.578678565902123,
+              42.99979938287744
+            ],
+            [
+              0.577989358192085,
+              43.0063162008942
+            ],
+            [
+              0.579016456987783,
+              43.01136906742554
+            ],
+            [
+              0.587622955836076,
+              43.01285810412998
+            ],
+            [
+              0.608486386722799,
+              43.00823129048018
+            ],
+            [
+              0.609709661666427,
+              43.00384064893912
+            ],
+            [
+              0.585922836099087,
+              42.99716397027941
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62145,
+      "code_cant" : "15",
+      "x_centroid" : 5034,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 22951,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.0053698793093,
+        0.591471549126466
+      ],
+      "code_comm" : "012",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.591471549126466,
+        43.0053698793093
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

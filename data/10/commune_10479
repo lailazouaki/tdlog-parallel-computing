@@ -1,0 +1,63 @@
+  {
+    "recordid" : "500c789027cbac7a215c2c06bc48177c8ca79426",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 53,
+      "insee_com" : "24280",
+      "z_moyen" : 183,
+      "code_dept" : "24",
+      "nom_comm" : "MONPAZIER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5331,
+      "y_centroid" : 64001,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.89210576439225,
+              44.67450626940787
+            ],
+            [
+              0.890528616172368,
+              44.6819061704078
+            ],
+            [
+              0.896318398167299,
+              44.6874290119995
+            ],
+            [
+              0.897286054221192,
+              44.67875660441544
+            ],
+            [
+              0.89210576439225,
+              44.67450626940787
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64001,
+      "code_cant" : "20",
+      "x_centroid" : 5331,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 18219,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.5,
+      "geom_x_y" : [
+        44.68076868411494,
+        0.8940823332829544
+      ],
+      "code_comm" : "280",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.8940823332829544,
+        44.68076868411494
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

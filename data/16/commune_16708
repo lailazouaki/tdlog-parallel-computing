@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ad247a488c418398707fbc63812e4573316ae6ee",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 479,
+      "insee_com" : "73302",
+      "z_moyen" : 421,
+      "code_dept" : "73",
+      "nom_comm" : "LA TRINITE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9457,
+      "y_centroid" : 64942,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.15017508205731,
+              45.48989819836254
+            ],
+            [
+              6.131600490798582,
+              45.4963208340463
+            ],
+            [
+              6.134418100403615,
+              45.49901779392804
+            ],
+            [
+              6.15387526624675,
+              45.51555916264308
+            ],
+            [
+              6.161085889233663,
+              45.51792474106206
+            ],
+            [
+              6.170998232391763,
+              45.51214789681529
+            ],
+            [
+              6.15017508205731,
+              45.48989819836254
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64936,
+      "code_cant" : "22",
+      "x_centroid" : 9460,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 16257,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.50387025505021,
+        6.15205404986065
+      ],
+      "code_comm" : "302",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.15205404986065,
+        45.50387025505021
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

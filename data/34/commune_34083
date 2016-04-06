@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0d4647d3de92098156cb79753bc1230f6bd3fe84",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 640,
+      "insee_com" : "62303",
+      "z_moyen" : 87,
+      "code_dept" : "62",
+      "nom_comm" : "ERIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6437,
+      "y_centroid" : 70372,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.213390787264031,
+              50.41486880026272
+            ],
+            [
+              2.205638697310067,
+              50.42267452535118
+            ],
+            [
+              2.199170123937393,
+              50.44154803824213
+            ],
+            [
+              2.213252916079545,
+              50.44623476231973
+            ],
+            [
+              2.238829491177335,
+              50.43295597588335
+            ],
+            [
+              2.240330358093669,
+              50.42289262456999
+            ],
+            [
+              2.213390787264031,
+              50.41486880026272
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70382,
+      "code_cant" : "27",
+      "x_centroid" : 6444,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 34686,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.43048115291212,
+        2.21886321070995
+      ],
+      "code_comm" : "303",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.21886321070995,
+        50.43048115291212
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

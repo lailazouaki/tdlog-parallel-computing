@@ -1,0 +1,67 @@
+  {
+    "recordid" : "28dee7e02f36f2881338b9fb4a44a57bc0e8c211",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 188,
+      "insee_com" : "67560",
+      "z_moyen" : 206,
+      "code_dept" : "67",
+      "nom_comm" : "ZOEBERSDORF",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10321,
+      "y_centroid" : 68644,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.511400901001079,
+              48.79113012002694
+            ],
+            [
+              7.506459259294678,
+              48.79657765970571
+            ],
+            [
+              7.520675097425821,
+              48.79823828525818
+            ],
+            [
+              7.536174045930257,
+              48.79833507709527
+            ],
+            [
+              7.540295312650253,
+              48.79273723739072
+            ],
+            [
+              7.511400901001079,
+              48.79113012002694
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68643,
+      "code_cant" : "10",
+      "x_centroid" : 10321,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 24030,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.79491321538604,
+        7.523445925851727
+      ],
+      "code_comm" : "560",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.523445925851727,
+        48.79491321538604
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

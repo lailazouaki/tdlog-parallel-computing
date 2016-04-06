@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3daa878a1ea840f7ed34f5a2f8c233c2b125f088",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 186,
+      "insee_com" : "80057",
+      "z_moyen" : 146,
+      "code_dept" : "80",
+      "nom_comm" : "BAYENCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6694,
+      "y_centroid" : 70037,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.569629202899526,
+              50.12260492247978
+            ],
+            [
+              2.559419801887449,
+              50.12884627260142
+            ],
+            [
+              2.568370188944762,
+              50.13596380147069
+            ],
+            [
+              2.57643251633072,
+              50.13927876561078
+            ],
+            [
+              2.580650593076793,
+              50.13781143733331
+            ],
+            [
+              2.586634612692781,
+              50.13736472581751
+            ],
+            [
+              2.569629202899526,
+              50.12260492247978
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70038,
+      "code_cant" : "03",
+      "x_centroid" : 6693,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 28142,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.13165668848024,
+        2.572242302939812
+      ],
+      "code_comm" : "057",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.572242302939812,
+        50.13165668848024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

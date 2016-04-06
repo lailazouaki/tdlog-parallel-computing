@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fb0d551fcac2ac059dd87024d0802c7a3be533e2",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 297,
+      "insee_com" : "70497",
+      "z_moyen" : 386,
+      "code_dept" : "70",
+      "nom_comm" : "TAVEY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9813,
+      "y_centroid" : 67246,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.748853225808593,
+              47.54862747214323
+            ],
+            [
+              6.740108418951413,
+              47.55680249153755
+            ],
+            [
+              6.725942365850082,
+              47.56040114535254
+            ],
+            [
+              6.725743443052623,
+              47.56842759999288
+            ],
+            [
+              6.748280434334398,
+              47.57024643367411
+            ],
+            [
+              6.753363779360199,
+              47.56129669620584
+            ],
+            [
+              6.748853225808593,
+              47.54862747214323
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67250,
+      "code_cant" : "11",
+      "x_centroid" : 9811,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 17152,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.56208432335954,
+        6.740722758369011
+      ],
+      "code_comm" : "497",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.740722758369011,
+        47.56208432335954
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

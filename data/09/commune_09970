@@ -1,0 +1,71 @@
+  {
+    "recordid" : "21e9858665d81e5554d1f40a3cd954ba681e1a8f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 209,
+      "insee_com" : "50073",
+      "z_moyen" : 143,
+      "code_dept" : "50",
+      "nom_comm" : "BRANVILLE-HAGUE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3544,
+      "y_centroid" : 69611,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.765912323710312,
+              49.65609335446173
+            ],
+            [
+              -1.782535105784566,
+              49.64982260176812
+            ],
+            [
+              -1.801406331853596,
+              49.65101363957663
+            ],
+            [
+              -1.801421169316635,
+              49.65442499751867
+            ],
+            [
+              -1.791394219845312,
+              49.66078047224261
+            ],
+            [
+              -1.782451991466526,
+              49.66140287112804
+            ],
+            [
+              -1.765912323710312,
+              49.65609335446173
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69611,
+      "code_cant" : "04",
+      "x_centroid" : 3544,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 16119,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.65534737623815,
+        -1.785540012594455
+      ],
+      "code_comm" : "073",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.785540012594455,
+        49.65534737623815
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

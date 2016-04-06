@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f8ca845a9e5e0914dfa0c9cfea451a582b8ac8a2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 492,
+      "insee_com" : "65293",
+      "z_moyen" : 313,
+      "code_dept" : "65",
+      "nom_comm" : "LUSTAR",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4835,
+      "y_centroid" : 62447,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.354633091297659,
+              43.26721485772154
+            ],
+            [
+              0.339578426529273,
+              43.25955468792264
+            ],
+            [
+              0.321243856398043,
+              43.2597675231459
+            ],
+            [
+              0.327056547324177,
+              43.26827306742404
+            ],
+            [
+              0.332087629891421,
+              43.27986423697918
+            ],
+            [
+              0.362252468382677,
+              43.27539362384574
+            ],
+            [
+              0.354633091297659,
+              43.26721485772154
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62447,
+      "code_cant" : "24",
+      "x_centroid" : 4839,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 29670,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.26943499533173,
+        0.3404551468191935
+      ],
+      "code_comm" : "293",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3404551468191935,
+        43.26943499533173
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

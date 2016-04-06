@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a7fe347f203ae4ebb541ed112708ccdb9ed5ee14",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 301,
+      "insee_com" : "09018",
+      "z_moyen" : 677,
+      "code_dept" : "09",
+      "nom_comm" : "ARROUT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5389,
+      "y_centroid" : 62073,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.028184528045407,
+              42.9382881666682
+            ],
+            [
+              1.010130341019052,
+              42.94598863151526
+            ],
+            [
+              1.006161434283996,
+              42.94496150111215
+            ],
+            [
+              1.003913657195291,
+              42.95227843948383
+            ],
+            [
+              1.011255422458838,
+              42.95603091835553
+            ],
+            [
+              1.03214613949161,
+              42.94963254291905
+            ],
+            [
+              1.036434183897263,
+              42.9445113904733
+            ],
+            [
+              1.028184528045407,
+              42.9382881666682
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62070,
+      "code_cant" : "04",
+      "x_centroid" : 5382,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 25149,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.94756066353145,
+        1.019964134944201
+      ],
+      "code_comm" : "018",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.019964134944201,
+        42.94756066353145
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

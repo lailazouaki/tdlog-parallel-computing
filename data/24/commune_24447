@@ -1,0 +1,75 @@
+  {
+    "recordid" : "618d8daf60d7b9bd2d5153d19469b8a3b08e4ef0",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 542,
+      "insee_com" : "80080",
+      "z_moyen" : 77,
+      "code_dept" : "80",
+      "nom_comm" : "BELLOY-EN-SANTERRE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6895,
+      "y_centroid" : 69762,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.841864708620264,
+              49.87531549010914
+            ],
+            [
+              2.838039554587886,
+              49.88484190662305
+            ],
+            [
+              2.856933945181666,
+              49.89487291035777
+            ],
+            [
+              2.866636515201238,
+              49.89636611921006
+            ],
+            [
+              2.88056263380047,
+              49.88799910553418
+            ],
+            [
+              2.881160463761185,
+              49.88205269474816
+            ],
+            [
+              2.867135201382007,
+              49.87575882298056
+            ],
+            [
+              2.841864708620264,
+              49.87531549010914
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69760,
+      "code_cant" : "15",
+      "x_centroid" : 6899,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 25222,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.88464722081057,
+        2.85995670032954
+      ],
+      "code_comm" : "080",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.85995670032954,
+        49.88464722081057
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

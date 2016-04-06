@@ -1,0 +1,71 @@
+  {
+    "recordid" : "398889b2c063ae096343c4813a82966d5632fdc2",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 496,
+      "insee_com" : "68085",
+      "z_moyen" : 385,
+      "code_dept" : "68",
+      "nom_comm" : "ETEIMBES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10035,
+      "y_centroid" : 67417,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.038652418760988,
+              47.69258590273875
+            ],
+            [
+              7.027565261265177,
+              47.70536964874257
+            ],
+            [
+              7.037417877506477,
+              47.72155846074157
+            ],
+            [
+              7.046917387817081,
+              47.72107682036573
+            ],
+            [
+              7.05830319267622,
+              47.69751090953942
+            ],
+            [
+              7.0520221534247,
+              47.69321356724613
+            ],
+            [
+              7.038652418760988,
+              47.69258590273875
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67414,
+      "code_cant" : "05",
+      "x_centroid" : 10030,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 16030,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.7059397364931,
+        7.042824204210142
+      ],
+      "code_comm" : "085",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.042824204210142,
+        47.7059397364931
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

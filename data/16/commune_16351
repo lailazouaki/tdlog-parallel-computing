@@ -1,0 +1,71 @@
+  {
+    "recordid" : "89e6a94dfa330d5f22311db5a7e929030a19d15c",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 421,
+      "insee_com" : "21658",
+      "z_moyen" : 491,
+      "code_dept" : "21",
+      "nom_comm" : "VAUCHIGNON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8249,
+      "y_centroid" : 66547,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.666063019189104,
+              46.9696571907023
+            ],
+            [
+              4.637495043653004,
+              46.97290302642361
+            ],
+            [
+              4.648237984862845,
+              46.98780705839259
+            ],
+            [
+              4.647407518341482,
+              46.99725655062879
+            ],
+            [
+              4.655072865361434,
+              46.99827253699519
+            ],
+            [
+              4.665567139554111,
+              46.97960638940965
+            ],
+            [
+              4.666063019189104,
+              46.9696571907023
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66541,
+      "code_cant" : "23",
+      "x_centroid" : 8256,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 32551,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.98154066686174,
+        4.653685630981985
+      ],
+      "code_comm" : "658",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.653685630981985,
+        46.98154066686174
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "32eeb92546648c29857f5a48ab4c2dbf6257bd8b",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 590,
+      "insee_com" : "62367",
+      "z_moyen" : 108,
+      "code_dept" : "62",
+      "nom_comm" : "GAUCHIN-VERLOINGT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6510,
+      "y_centroid" : 70326,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.321352998267944,
+              50.377102428863
+            ],
+            [
+              2.299466862405386,
+              50.37802163741834
+            ],
+            [
+              2.295226645845355,
+              50.39010861604324
+            ],
+            [
+              2.320540669933026,
+              50.40512642622603
+            ],
+            [
+              2.329840695974469,
+              50.40295078769889
+            ],
+            [
+              2.332492960116976,
+              50.39677059820326
+            ],
+            [
+              2.328963299910708,
+              50.38125588557963
+            ],
+            [
+              2.321352998267944,
+              50.377102428863
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70332,
+      "code_cant" : "43",
+      "x_centroid" : 6512,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24198,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        50.38964714448385,
+        2.315518457082169
+      ],
+      "code_comm" : "367",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.315518457082169,
+        50.38964714448385
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

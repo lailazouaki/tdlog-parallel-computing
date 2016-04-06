@@ -1,0 +1,71 @@
+  {
+    "recordid" : "594bc38ac0daf3b93a37f36041a79c7d6c4a2d5c",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 301,
+      "insee_com" : "09216",
+      "z_moyen" : 498,
+      "code_dept" : "09",
+      "nom_comm" : "NESCUS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5720,
+      "y_centroid" : 62115,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.451179690042934,
+              42.9995559756382
+            ],
+            [
+              1.448234464118355,
+              42.98963685405042
+            ],
+            [
+              1.437206502394528,
+              42.98373828871389
+            ],
+            [
+              1.420277993883337,
+              42.98810544870737
+            ],
+            [
+              1.417431771716895,
+              42.99317286935023
+            ],
+            [
+              1.423960819701936,
+              42.99550854650971
+            ],
+            [
+              1.451179690042934,
+              42.9995559756382
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62115,
+      "code_cant" : "02",
+      "x_centroid" : 5722,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 11477,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.99178069705111,
+        1.435311539380095
+      ],
+      "code_comm" : "216",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.435311539380095,
+        42.99178069705111
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

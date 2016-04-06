@@ -1,0 +1,75 @@
+  {
+    "recordid" : "487b4c10e683454fd644cceb712a69df543c7b94",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 434,
+      "insee_com" : "10217",
+      "z_moyen" : 234,
+      "code_dept" : "10",
+      "nom_comm" : "MAISON-DES-CHAMPS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8163,
+      "y_centroid" : 67948,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.577066614081213,
+              48.22896403431024
+            ],
+            [
+              4.559589179156637,
+              48.23508165187137
+            ],
+            [
+              4.5619966622592,
+              48.25724234005143
+            ],
+            [
+              4.564450905520745,
+              48.26092660495474
+            ],
+            [
+              4.579725238723748,
+              48.25162516643695
+            ],
+            [
+              4.584386248363915,
+              48.23498579558188
+            ],
+            [
+              4.580071074482004,
+              48.23438660529748
+            ],
+            [
+              4.577066614081213,
+              48.22896403431024
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67946,
+      "code_cant" : "25",
+      "x_centroid" : 8166,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 29489,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.24379810246651,
+        4.570905910159007
+      ],
+      "code_comm" : "217",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.570905910159007,
+        48.24379810246651
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

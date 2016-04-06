@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c61cb2e3937cf0118119f63210d3f65474167579",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 175,
+      "insee_com" : "39213",
+      "z_moyen" : 788,
+      "code_dept" : "39",
+      "nom_comm" : "ESSERVAL-COMBE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9317,
+      "y_centroid" : 66376,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.056553130877202,
+              46.79520663643567
+            ],
+            [
+              6.037859121439705,
+              46.79267476406798
+            ],
+            [
+              6.035110067169008,
+              46.79536047475454
+            ],
+            [
+              6.035713259651716,
+              46.80894149255018
+            ],
+            [
+              6.040726138902309,
+              46.80402437818297
+            ],
+            [
+              6.053738057140846,
+              46.80299459750127
+            ],
+            [
+              6.056553130877202,
+              46.79520663643567
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66378,
+      "code_cant" : "20",
+      "x_centroid" : 9321,
+      "nom_dept" : "JURA",
+      "id_geofla" : 26547,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        46.7990669749905,
+        6.0442823766106
+      ],
+      "code_comm" : "213",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.0442823766106,
+        46.7990669749905
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

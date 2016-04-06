@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bd3adf86110d1eaaa42063445997102fc2e89077",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 645,
+      "insee_com" : "24375",
+      "z_moyen" : 186,
+      "code_dept" : "24",
+      "nom_comm" : "SAINT-AUBIN-DE-NABIRAT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 5645,
+      "y_centroid" : 64051,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.287021436289563,
+              44.7144631591753
+            ],
+            [
+              1.270040944184354,
+              44.72208761514787
+            ],
+            [
+              1.264720916053112,
+              44.72626380132935
+            ],
+            [
+              1.273036189891984,
+              44.73438132752855
+            ],
+            [
+              1.276335212138977,
+              44.74752620536552
+            ],
+            [
+              1.300189773591275,
+              44.7442837258663
+            ],
+            [
+              1.298521206918456,
+              44.72842717835243
+            ],
+            [
+              1.287021436289563,
+              44.7144631591753
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64050,
+      "code_cant" : "10",
+      "x_centroid" : 5641,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 32270,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.7319085420327,
+        1.284376088083484
+      ],
+      "code_comm" : "375",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.284376088083484,
+        44.7319085420327
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4dcba59f0afb8612c8d51ef032efe938d9c09030",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 756,
+      "insee_com" : "64360",
+      "z_moyen" : 486,
+      "code_dept" : "64",
+      "nom_comm" : "LURBE-SAINT-CHRISTAU",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4062,
+      "y_centroid" : 62298,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.577987856921563,
+              43.09695850923711
+            ],
+            [
+              -0.60093001736795,
+              43.09307849367639
+            ],
+            [
+              -0.618295890697641,
+              43.09671900038244
+            ],
+            [
+              -0.62279941548076,
+              43.10918177095484
+            ],
+            [
+              -0.601641415630416,
+              43.12679139127913
+            ],
+            [
+              -0.592800024451648,
+              43.12476365384337
+            ],
+            [
+              -0.585669136888444,
+              43.09957510594958
+            ],
+            [
+              -0.577987856921563,
+              43.09695850923711
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62305,
+      "code_cant" : "27",
+      "x_centroid" : 4066,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 10459,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.10778152577993,
+        -0.6025613541500191
+      ],
+      "code_comm" : "360",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6025613541500191,
+        43.10778152577993
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

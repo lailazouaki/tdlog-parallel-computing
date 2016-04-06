@@ -1,0 +1,67 @@
+  {
+    "recordid" : "66d3e46d139577fa2905b323b871748717169ff4",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 401,
+      "insee_com" : "28100",
+      "z_moyen" : 157,
+      "code_dept" : "28",
+      "nom_comm" : "CINTRAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5791,
+      "y_centroid" : 68174,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.375721794086178,
+              48.43414896328751
+            ],
+            [
+              1.350962385634953,
+              48.44148297482515
+            ],
+            [
+              1.346492819417615,
+              48.44212264369744
+            ],
+            [
+              1.355949376659632,
+              48.45369079246977
+            ],
+            [
+              1.380653137191342,
+              48.45534413585402
+            ],
+            [
+              1.375721794086178,
+              48.43414896328751
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68177,
+      "code_cant" : "29",
+      "x_centroid" : 5791,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 12569,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.44588715431904,
+        1.365854251796107
+      ],
+      "code_comm" : "100",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.365854251796107,
+        48.44588715431904
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

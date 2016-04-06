@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e938f30a380799ae18520fa7a3391575b09b701d",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 684,
+      "insee_com" : "52320",
+      "z_moyen" : 363,
+      "code_dept" : "52",
+      "nom_comm" : "MERREY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8930,
+      "y_centroid" : 67756,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.582384782491992,
+              48.03271371173236
+            ],
+            [
+              5.576210809854689,
+              48.05673568624798
+            ],
+            [
+              5.596599030323064,
+              48.07263836033405
+            ],
+            [
+              5.61191340019155,
+              48.05140219945484
+            ],
+            [
+              5.609355839118842,
+              48.04474211896468
+            ],
+            [
+              5.591168295323251,
+              48.04047995710775
+            ],
+            [
+              5.582384782491992,
+              48.03271371173236
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67758,
+      "code_cant" : "09",
+      "x_centroid" : 8931,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 34935,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.05290090604679,
+        5.593028774239674
+      ],
+      "code_comm" : "320",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.593028774239674,
+        48.05290090604679
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

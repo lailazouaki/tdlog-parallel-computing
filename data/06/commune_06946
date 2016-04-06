@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b3e6b10bccf0c595fc3ed4ef4f2752c5638e70b0",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 817,
+      "insee_com" : "68169",
+      "z_moyen" : 475,
+      "code_dept" : "68",
+      "nom_comm" : "KOESTLACH",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10213,
+      "y_centroid" : 67210,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.267687065648186,
+              47.49190654285012
+            ],
+            [
+              7.258354772642792,
+              47.51117020271261
+            ],
+            [
+              7.242492272760368,
+              47.52437861669416
+            ],
+            [
+              7.27374294688411,
+              47.52706725324759
+            ],
+            [
+              7.290140256338749,
+              47.518116690588
+            ],
+            [
+              7.286949961481287,
+              47.49676081798352
+            ],
+            [
+              7.267687065648186,
+              47.49190654285012
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67204,
+      "code_cant" : "07",
+      "x_centroid" : 10213,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 14184,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.51176444258819,
+        7.271159624098756
+      ],
+      "code_comm" : "169",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.271159624098756,
+        47.51176444258819
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

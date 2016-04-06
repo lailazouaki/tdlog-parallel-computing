@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a6fc2e839f06e39a3050b26845a1e95c317ba765",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 765,
+      "insee_com" : "68110",
+      "z_moyen" : 180,
+      "code_dept" : "68",
+      "nom_comm" : "GRUSSENHEIM",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10335,
+      "y_centroid" : 67923,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.515351423025962,
+              48.13313386527722
+            ],
+            [
+              7.485649753131574,
+              48.1370983257753
+            ],
+            [
+              7.467023840119542,
+              48.14278085508877
+            ],
+            [
+              7.463835154290588,
+              48.15842139766615
+            ],
+            [
+              7.470139531012144,
+              48.16017430624495
+            ],
+            [
+              7.520334052075322,
+              48.14949977932142
+            ],
+            [
+              7.515351423025962,
+              48.13313386527722
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67923,
+      "code_cant" : "02",
+      "x_centroid" : 10338,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 33212,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.14644657778926,
+        7.491497364813132
+      ],
+      "code_comm" : "110",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.491497364813132,
+        48.14644657778926
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

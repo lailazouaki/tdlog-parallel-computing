@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b3c109b9f3d18da255d0d83e2e830fd1b572e126",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 277,
+      "insee_com" : "50107",
+      "z_moyen" : 18,
+      "code_dept" : "50",
+      "nom_comm" : "CATZ",
+      "code_arr" : "4",
+      "x_chf_lieu" : 3961,
+      "y_centroid" : 69206,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.178018225138748,
+              49.30420575471415
+            ],
+            [
+              -1.186369673466503,
+              49.30279099508138
+            ],
+            [
+              -1.198587050313358,
+              49.306597353539
+            ],
+            [
+              -1.199416862544548,
+              49.32034143801574
+            ],
+            [
+              -1.172109300617451,
+              49.32067646484236
+            ],
+            [
+              -1.178018225138748,
+              49.30420575471415
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69203,
+      "code_cant" : "09",
+      "x_centroid" : 3956,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 25452,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.3127149417066,
+        -1.186650236593365
+      ],
+      "code_comm" : "107",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.186650236593365,
+        49.3127149417066
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

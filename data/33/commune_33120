@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3f5e34c09e259a0fc082b9884eb21fe4b285cfc2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 77,
+      "insee_com" : "65291",
+      "z_moyen" : 432,
+      "code_dept" : "65",
+      "nom_comm" : "LUGAGNAN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4523,
+      "y_centroid" : 62230,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.032661291489926,
+              43.05954570736328
+            ],
+            [
+              -0.04346257743745,
+              43.06047390662506
+            ],
+            [
+              -0.043585859622032,
+              43.06561877666363
+            ],
+            [
+              -0.040991287976811,
+              43.06857231228957
+            ],
+            [
+              -0.035533053706288,
+              43.06608918421005
+            ],
+            [
+              -0.032661291489926,
+              43.05954570736328
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62228,
+      "code_cant" : "12",
+      "x_centroid" : 4523,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 29289,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.06347930761317,
+        -0.03884439631735338
+      ],
+      "code_comm" : "291",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.03884439631735338,
+        43.06347930761317
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "30e004f0c34e00d3bc049b545ec9f03f815e5586",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 408,
+      "insee_com" : "14109",
+      "z_moyen" : 67,
+      "code_dept" : "14",
+      "nom_comm" : "BROUAY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4403,
+      "y_centroid" : 69069,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5530314254152,
+              49.19708036594925
+            ],
+            [
+              -0.570932845391765,
+              49.20594622244525
+            ],
+            [
+              -0.58678591626763,
+              49.21984719449277
+            ],
+            [
+              -0.563425573508144,
+              49.21918158581992
+            ],
+            [
+              -0.541819160635713,
+              49.20380019917826
+            ],
+            [
+              -0.5530314254152,
+              49.19708036594925
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69072,
+      "code_cant" : "32",
+      "x_centroid" : 4404,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 22958,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.20970894933563,
+        -0.5629468797249977
+      ],
+      "code_comm" : "109",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5629468797249977,
+        49.20970894933563
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

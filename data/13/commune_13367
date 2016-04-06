@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ad4c9f4ba9b4c7b24a3aa5edcb4500bba15b78a3",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 471,
+      "insee_com" : "14541",
+      "z_moyen" : 119,
+      "code_dept" : "14",
+      "nom_comm" : "LA ROQUE-BAIGNARD",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4885,
+      "y_centroid" : 69014,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.09190965065399501,
+              49.17046744707199
+            ],
+            [
+              0.060953990195263,
+              49.1709751353129
+            ],
+            [
+              0.071676257691665,
+              49.18080890536269
+            ],
+            [
+              0.123001693975182,
+              49.18698530855875
+            ],
+            [
+              0.11962952057427,
+              49.1809940626428
+            ],
+            [
+              0.09190965065399501,
+              49.17046744707199
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69015,
+      "code_cant" : "10",
+      "x_centroid" : 4879,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 27828,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.17791939132933,
+        0.09158701581803307
+      ],
+      "code_comm" : "541",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.09158701581803307,
+        49.17791939132933
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

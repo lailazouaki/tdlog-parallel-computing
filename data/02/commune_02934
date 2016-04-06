@@ -1,0 +1,71 @@
+  {
+    "recordid" : "85acad240bba3d8c45104c0ee9084edd08d2a622",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 414,
+      "insee_com" : "31408",
+      "z_moyen" : 501,
+      "code_dept" : "31",
+      "nom_comm" : "PAYSSOUS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5134,
+      "y_centroid" : 62176,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.723860910244658,
+              43.02205318277645
+            ],
+            [
+              0.713970255185337,
+              43.02223036976893
+            ],
+            [
+              0.707518608662385,
+              43.03125249800737
+            ],
+            [
+              0.705376863608556,
+              43.04785232774253
+            ],
+            [
+              0.725066452445647,
+              43.04318667249909
+            ],
+            [
+              0.729519845665792,
+              43.02596963904915
+            ],
+            [
+              0.723860910244658,
+              43.02205318277645
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62176,
+      "code_cant" : "05",
+      "x_centroid" : 5138,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 11886,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.034340591427,
+        0.7171770027021309
+      ],
+      "code_comm" : "408",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7171770027021309,
+        43.034340591427
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

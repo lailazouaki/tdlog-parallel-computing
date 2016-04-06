@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fa917f7c348b1eda5ad5ddee64213277cc955401",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 324,
+      "insee_com" : "51633",
+      "z_moyen" : 105,
+      "code_dept" : "51",
+      "nom_comm" : "VILLERS-FRANQUEUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7686,
+      "y_centroid" : 69148,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.936255063541803,
+              49.31988279815778
+            ],
+            [
+              3.938108719615291,
+              49.3333440079301
+            ],
+            [
+              3.953054681699816,
+              49.34192900489546
+            ],
+            [
+              3.968688612082337,
+              49.32606373696374
+            ],
+            [
+              3.969226697276238,
+              49.3254211471283
+            ],
+            [
+              3.95039415177987,
+              49.32222658727877
+            ],
+            [
+              3.936255063541803,
+              49.31988279815778
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69146,
+      "code_cant" : "05",
+      "x_centroid" : 7691,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 21325,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.32966871569378,
+        3.950525321687737
+      ],
+      "code_comm" : "633",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.950525321687737,
+        49.32966871569378
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

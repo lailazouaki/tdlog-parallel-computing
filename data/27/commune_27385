@@ -1,0 +1,63 @@
+  {
+    "recordid" : "9190b0acbcd83d3bdae4bb32c65a5ebd003a3b12",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 169,
+      "insee_com" : "27537",
+      "z_moyen" : 26,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-ETIENNE-DU-VAUVRAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5703,
+      "y_centroid" : 69061,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.211816705824364,
+              49.23084774147085
+            ],
+            [
+              1.206973314183633,
+              49.25251893358772
+            ],
+            [
+              1.214274219800845,
+              49.25153021941613
+            ],
+            [
+              1.227035291959828,
+              49.2399208465106
+            ],
+            [
+              1.211816705824364,
+              49.23084774147085
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69062,
+      "code_cant" : "21",
+      "x_centroid" : 5700,
+      "nom_dept" : "EURE",
+      "id_geofla" : 24731,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.24221126380306,
+        1.215407639767026
+      ],
+      "code_comm" : "537",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.215407639767026,
+        49.24221126380306
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

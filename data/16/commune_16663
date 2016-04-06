@@ -1,0 +1,75 @@
+  {
+    "recordid" : "07a7a2aa92193fbd9411a6a81de666d606c4407c",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 705,
+      "insee_com" : "24048",
+      "z_moyen" : 59,
+      "code_dept" : "24",
+      "nom_comm" : "BONNEVILLE-ET-SAINT-AVIT-DE-FUMADIERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4694,
+      "y_centroid" : 64247,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.094281462586442,
+              44.86763539905387
+            ],
+            [
+              0.079868288415371,
+              44.86974374932911
+            ],
+            [
+              0.058333732249092,
+              44.89335706671547
+            ],
+            [
+              0.084072230226633,
+              44.90295549132609
+            ],
+            [
+              0.086222672793517,
+              44.88986692064685
+            ],
+            [
+              0.096060789620339,
+              44.88295307770826
+            ],
+            [
+              0.102663794140768,
+              44.8701789780033
+            ],
+            [
+              0.094281462586442,
+              44.86763539905387
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64245,
+      "code_cant" : "42",
+      "x_centroid" : 4695,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 20066,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        44.88389607821704,
+        0.08120943594855691
+      ],
+      "code_comm" : "048",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.08120943594855691,
+        44.88389607821704
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

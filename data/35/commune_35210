@@ -1,0 +1,63 @@
+  {
+    "recordid" : "a7150a17fc2d75a9332ea4e53f553ab93ec8a0bc",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 54,
+      "insee_com" : "65443",
+      "z_moyen" : 253,
+      "code_dept" : "65",
+      "nom_comm" : "THUY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4761,
+      "y_centroid" : 62437,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.24454473046182,
+              43.25279737121777
+            ],
+            [
+              0.234478378244477,
+              43.25908367040758
+            ],
+            [
+              0.237623509368425,
+              43.26027127330061
+            ],
+            [
+              0.244875201895309,
+              43.25851232895207
+            ],
+            [
+              0.24454473046182,
+              43.25279737121777
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62438,
+      "code_cant" : "17",
+      "x_centroid" : 4758,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 35263,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.25727558461365,
+        0.240856974444032
+      ],
+      "code_comm" : "443",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.240856974444032,
+        43.25727558461365
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

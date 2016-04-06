@@ -1,0 +1,71 @@
+  {
+    "recordid" : "77c0e6602a085020962e803e33e2d6a167b9b083",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 494,
+      "insee_com" : "68351",
+      "z_moyen" : 193,
+      "code_dept" : "68",
+      "nom_comm" : "VOGELGRUN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10406,
+      "y_centroid" : 67777,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.608582759609915,
+              48.00032528329039
+            ],
+            [
+              7.595064536996881,
+              47.99623024996145
+            ],
+            [
+              7.585976647927993,
+              47.99922645761498
+            ],
+            [
+              7.568639064616942,
+              48.01325170510903
+            ],
+            [
+              7.56597352740989,
+              48.02829155857766
+            ],
+            [
+              7.578458485322479,
+              48.0248855205191
+            ],
+            [
+              7.608582759609915,
+              48.00032528329039
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67778,
+      "code_cant" : "19",
+      "x_centroid" : 10416,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 24662,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.01086615394367,
+        7.58453738137184
+      ],
+      "code_comm" : "351",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.58453738137184,
+        48.01086615394367
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

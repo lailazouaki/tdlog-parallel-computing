@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d111e82a2659b13a7d4de434f742dde57ea9cc07",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 184,
+      "insee_com" : "31580",
+      "z_moyen" : 166,
+      "code_dept" : "31",
+      "nom_comm" : "VILLATE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5688,
+      "y_centroid" : 62645,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.380948999879012,
+              43.45789180909426
+            ],
+            [
+              1.372282914196018,
+              43.45943575315361
+            ],
+            [
+              1.374407282123941,
+              43.46556873342085
+            ],
+            [
+              1.376983167361193,
+              43.47104254818728
+            ],
+            [
+              1.381260544117652,
+              43.47666771677958
+            ],
+            [
+              1.393485147237105,
+              43.47432991259321
+            ],
+            [
+              1.380948999879012,
+              43.45789180909426
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62647,
+      "code_cant" : "52",
+      "x_centroid" : 5690,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 23284,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        43.46763005996464,
+        1.381922466918797
+      ],
+      "code_comm" : "580",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.381922466918797,
+        43.46763005996464
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3e24dd9b748250f81661e40ab47101a577eaf1d0",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 626,
+      "insee_com" : "30162",
+      "z_moyen" : 138,
+      "code_dept" : "30",
+      "nom_comm" : "MASSILLARGUES-ATTUECH",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7821,
+      "y_centroid" : 63245,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.023055304867365,
+              43.99796858872114
+            ],
+            [
+              4.011955402103306,
+              44.00061002743248
+            ],
+            [
+              4.008267221471383,
+              44.01697133290612
+            ],
+            [
+              4.021079106087303,
+              44.03451207461611
+            ],
+            [
+              4.036087324666742,
+              44.02897052037044
+            ],
+            [
+              4.030742381009595,
+              44.01556481256615
+            ],
+            [
+              4.031250940356199,
+              44.00162690558259
+            ],
+            [
+              4.023055304867365,
+              43.99796858872114
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63245,
+      "code_cant" : "05",
+      "x_centroid" : 7819,
+      "nom_dept" : "GARD",
+      "id_geofla" : 7039,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        44.0156314122103,
+        4.021832338844672
+      ],
+      "code_comm" : "162",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.021832338844672,
+        44.0156314122103
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

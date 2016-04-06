@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d6f9d933c454daf2fc070ab31e9c88286522d9a2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 481,
+      "insee_com" : "65303",
+      "z_moyen" : 350,
+      "code_dept" : "65",
+      "nom_comm" : "MASCARAS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4698,
+      "y_centroid" : 62366,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.181326719899864,
+              43.18266954273145
+            ],
+            [
+              0.153730880311089,
+              43.18358295751368
+            ],
+            [
+              0.156052013332801,
+              43.19289690868594
+            ],
+            [
+              0.194119664872413,
+              43.20744873198579
+            ],
+            [
+              0.188373311158087,
+              43.19405917675049
+            ],
+            [
+              0.181326719899864,
+              43.18266954273145
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62364,
+      "code_cant" : "23",
+      "x_centroid" : 4701,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 17816,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.19237663369586,
+        0.1741259778437042
+      ],
+      "code_comm" : "303",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1741259778437042,
+        43.19237663369586
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

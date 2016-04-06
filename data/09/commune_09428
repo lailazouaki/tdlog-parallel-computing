@@ -1,0 +1,75 @@
+  {
+    "recordid" : "94ea58eb27bcdd1fbd5d0eba4605e2f5d7f4f149",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 168,
+      "insee_com" : "2B010",
+      "z_moyen" : 78,
+      "code_dept" : "2B",
+      "nom_comm" : "ALGAJOLA",
+      "code_arr" : "5",
+      "x_chf_lieu" : 11812,
+      "y_centroid" : 61851,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.855768729419703,
+              42.59764934667557
+            ],
+            [
+              8.84720947263644,
+              42.6037891681943
+            ],
+            [
+              8.847486307598784,
+              42.60921900378005
+            ],
+            [
+              8.850831754989882,
+              42.61129837195483
+            ],
+            [
+              8.867394996672523,
+              42.6084055610382
+            ],
+            [
+              8.869843413836048,
+              42.60557537717841
+            ],
+            [
+              8.867316689658544,
+              42.60278446110575
+            ],
+            [
+              8.855768729419703,
+              42.59764934667557
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61854,
+      "code_cant" : "05",
+      "x_centroid" : 11808,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 18921,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        42.60507908940428,
+        8.857359314637856
+      ],
+      "code_comm" : "010",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        8.857359314637856,
+        42.60507908940428
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

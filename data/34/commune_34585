@@ -1,0 +1,75 @@
+  {
+    "recordid" : "64a8fb2fb89a4d762b3df8b27ba89eeca7a14769",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 393,
+      "insee_com" : "17398",
+      "z_moyen" : 24,
+      "code_dept" : "17",
+      "nom_comm" : "SAINT-SEURIN-DE-PALENNE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4262,
+      "y_centroid" : 65086,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.498267084796992,
+              45.61991620263497
+            ],
+            [
+              -0.502330891609609,
+              45.61410209384958
+            ],
+            [
+              -0.529340473492744,
+              45.61690812780351
+            ],
+            [
+              -0.532805513728453,
+              45.62652522129923
+            ],
+            [
+              -0.514114805085138,
+              45.62816538948312
+            ],
+            [
+              -0.512266770608777,
+              45.6312336971837
+            ],
+            [
+              -0.494331679087308,
+              45.62614979214573
+            ],
+            [
+              -0.498267084796992,
+              45.61991620263497
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65089,
+      "code_cant" : "20",
+      "x_centroid" : 4263,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 32715,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.62220772469842,
+        -0.513310420638796
+      ],
+      "code_comm" : "398",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.513310420638796,
+        45.62220772469842
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

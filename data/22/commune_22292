@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ab6331c3953a76fdea6a7a6c2511710d784335ee",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 199,
+      "insee_com" : "76184",
+      "z_moyen" : 83,
+      "code_dept" : "76",
+      "nom_comm" : "COLMESNIL-MANNEVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5584,
+      "y_centroid" : 69738,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.021846358427398,
+              49.83924355063787
+            ],
+            [
+              1.014164345708799,
+              49.85062172649342
+            ],
+            [
+              1.037881110411878,
+              49.85407854509373
+            ],
+            [
+              1.04300594359387,
+              49.84838247246108
+            ],
+            [
+              1.043899862922526,
+              49.84681516804935
+            ],
+            [
+              1.021846358427398,
+              49.83924355063787
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69739,
+      "code_cant" : "39",
+      "x_centroid" : 5581,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 24346,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.84747475246761,
+        1.028766961827607
+      ],
+      "code_comm" : "184",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.028766961827607,
+        49.84747475246761
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0c8d7532d9ae14c81b441443c90cef136326437f",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 326,
+      "insee_com" : "25188",
+      "z_moyen" : 359,
+      "code_dept" : "25",
+      "nom_comm" : "DAMBENOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9908,
+      "y_centroid" : 67231,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.85643597461359,
+              47.53377063606784
+            ],
+            [
+              6.859866901560332,
+              47.54755380729996
+            ],
+            [
+              6.883473648745607,
+              47.55533115808764
+            ],
+            [
+              6.88982706909425,
+              47.55007239915415
+            ],
+            [
+              6.874717171021358,
+              47.53666083207425
+            ],
+            [
+              6.85643597461359,
+              47.53377063606784
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67231,
+      "code_cant" : "34",
+      "x_centroid" : 9911,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 32943,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        47.54446055291431,
+        6.871996822551911
+      ],
+      "code_comm" : "188",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.871996822551911,
+        47.54446055291431
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f122cbb64ae43e0b42c38c9e09b63a678353cd1d",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 411,
+      "insee_com" : "68268",
+      "z_moyen" : 335,
+      "code_dept" : "68",
+      "nom_comm" : "RETZWILLER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10072,
+      "y_centroid" : 67333,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.078602043165633,
+              47.61775198709709
+            ],
+            [
+              7.075119834657095,
+              47.61910844693819
+            ],
+            [
+              7.069534202847216,
+              47.63395852484753
+            ],
+            [
+              7.088002808375286,
+              47.63953213470656
+            ],
+            [
+              7.108880039625359,
+              47.63286843348472
+            ],
+            [
+              7.10547321369098,
+              47.62620138237266
+            ],
+            [
+              7.078602043165633,
+              47.61775198709709
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67336,
+      "code_cant" : "05",
+      "x_centroid" : 10068,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 15740,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        47.62927336263341,
+        7.087607611124551
+      ],
+      "code_comm" : "268",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.087607611124551,
+        47.62927336263341
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

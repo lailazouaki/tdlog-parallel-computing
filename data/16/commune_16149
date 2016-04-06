@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d1e13be56231a81d4814fdc75bb70234802f4725",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 380,
+      "insee_com" : "34047",
+      "z_moyen" : 45,
+      "code_dept" : "34",
+      "nom_comm" : "CAMPAGNAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7402,
+      "y_centroid" : 62714,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.503827940490888,
+              43.54707009359129
+            ],
+            [
+              3.509272841829975,
+              43.54173617516182
+            ],
+            [
+              3.50232257735562,
+              43.53335596594817
+            ],
+            [
+              3.489013413098243,
+              43.53161727190984
+            ],
+            [
+              3.477382772064727,
+              43.5353399875086
+            ],
+            [
+              3.482360498621325,
+              43.55079359154641
+            ],
+            [
+              3.503827940490888,
+              43.54707009359129
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62710,
+      "code_cant" : "14",
+      "x_centroid" : 7398,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 9647,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.54077441205501,
+        3.492392348482703
+      ],
+      "code_comm" : "047",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.492392348482703,
+        43.54077441205501
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

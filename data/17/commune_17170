@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5b06dd7d7c95ac86906b2f1e403454e05ac7ed8b",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 183,
+      "insee_com" : "01397",
+      "z_moyen" : 484,
+      "code_dept" : "01",
+      "nom_comm" : "SAUVERNY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9396,
+      "y_centroid" : 65839,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.119098605887547,
+              46.30771134411592
+            ],
+            [
+              6.105918872619246,
+              46.30667474004466
+            ],
+            [
+              6.095917605971827,
+              46.31284970902919
+            ],
+            [
+              6.109947693085024,
+              46.32012743486286
+            ],
+            [
+              6.115935645969641,
+              46.31564716675915
+            ],
+            [
+              6.124377686284977,
+              46.3172633211093
+            ],
+            [
+              6.119098605887547,
+              46.30771134411592
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65842,
+      "code_cant" : "13",
+      "x_centroid" : 9392,
+      "nom_dept" : "AIN",
+      "id_geofla" : 18523,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        46.3126908232981,
+        6.110438364331481
+      ],
+      "code_comm" : "397",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.110438364331481,
+        46.3126908232981
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

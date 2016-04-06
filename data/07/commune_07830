@@ -1,0 +1,71 @@
+  {
+    "recordid" : "52dc9dfd11409b3f0b8afdcbaca88d6d7b5ca702",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 452,
+      "insee_com" : "79139",
+      "z_moyen" : 138,
+      "code_dept" : "79",
+      "nom_comm" : "LES GROSEILLERS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4392,
+      "y_centroid" : 66091,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.422319733696812,
+              46.51573036250724
+            ],
+            [
+              -0.409672667223543,
+              46.5452017906719
+            ],
+            [
+              -0.404584256992895,
+              46.5490576348854
+            ],
+            [
+              -0.395390440623971,
+              46.54156192702759
+            ],
+            [
+              -0.39460219601257,
+              46.52849878400127
+            ],
+            [
+              -0.408293786223935,
+              46.51858290084733
+            ],
+            [
+              -0.422319733696812,
+              46.51573036250724
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66084,
+      "code_cant" : "15",
+      "x_centroid" : 4389,
+      "nom_dept" : "DEUX-SEVRES",
+      "id_geofla" : 21576,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.53161955253334,
+        -0.4067806725792474
+      ],
+      "code_comm" : "139",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4067806725792474,
+        46.53161955253334
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

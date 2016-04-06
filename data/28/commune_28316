@@ -1,0 +1,71 @@
+  {
+    "recordid" : "45e4ac7163729524b0746ad11c6f51f2898f31ae",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 138,
+      "insee_com" : "54544",
+      "z_moyen" : 294,
+      "code_dept" : "54",
+      "nom_comm" : "VANDELAINVILLE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9176,
+      "y_centroid" : 68852,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.980916683890797,
+              49.01553726147811
+            ],
+            [
+              5.976199361137418,
+              49.01438560227466
+            ],
+            [
+              5.97357648384586,
+              49.02065942257668
+            ],
+            [
+              5.985410087014278,
+              49.04205123113805
+            ],
+            [
+              5.994968290972393,
+              49.03809693155268
+            ],
+            [
+              5.980395512284533,
+              49.02838169735264
+            ],
+            [
+              5.980916683890797,
+              49.01553726147811
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68837,
+      "code_cant" : "26",
+      "x_centroid" : 9179,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 24348,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.02922380769751,
+        5.982349790938973
+      ],
+      "code_comm" : "544",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.982349790938973,
+        49.02922380769751
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

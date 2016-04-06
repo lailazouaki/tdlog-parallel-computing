@@ -1,0 +1,71 @@
+  {
+    "recordid" : "16a91250d4ab4db8d7f62252c127f0fb35b5a60b",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 346,
+      "insee_com" : "45322",
+      "z_moyen" : 138,
+      "code_dept" : "45",
+      "nom_comm" : "THORAILLES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6924,
+      "y_centroid" : 67695,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.911965775246033,
+              48.02062268284335
+            ],
+            [
+              2.880918523110812,
+              48.01816563414045
+            ],
+            [
+              2.877585800450195,
+              48.02087991495584
+            ],
+            [
+              2.883843828734399,
+              48.02983123546453
+            ],
+            [
+              2.900748971225637,
+              48.03650590612784
+            ],
+            [
+              2.911418814015136,
+              48.02684956476691
+            ],
+            [
+              2.911965775246033,
+              48.02062268284335
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67692,
+      "code_cant" : "11",
+      "x_centroid" : 6922,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 18774,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.02586980052756,
+        2.895590687457004
+      ],
+      "code_comm" : "322",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.895590687457004,
+        48.02586980052756
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

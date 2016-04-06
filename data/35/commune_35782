@@ -1,0 +1,63 @@
+  {
+    "recordid" : "db23844b79ac3815ce95709508b8ac36659a0de6",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 219,
+      "insee_com" : "76350",
+      "z_moyen" : 23,
+      "code_dept" : "76",
+      "nom_comm" : "HAUTOT-SUR-SEINE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5531,
+      "y_centroid" : 69200,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.977167633272472,
+              49.3538231361754
+            ],
+            [
+              0.9669918756090859,
+              49.36054907532254
+            ],
+            [
+              0.969995285167527,
+              49.37272932912476
+            ],
+            [
+              0.993269034271844,
+              49.36275056929185
+            ],
+            [
+              0.977167633272472,
+              49.3538231361754
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69198,
+      "code_cant" : "26",
+      "x_centroid" : 5530,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 36127,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.36289465315744,
+        0.9776808788233259
+      ],
+      "code_comm" : "350",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9776808788233259,
+        49.36289465315744
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

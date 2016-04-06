@@ -1,0 +1,67 @@
+  {
+    "recordid" : "f05948067558e5fb05bb2cf9c32bb8df150ca83f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 248,
+      "insee_com" : "80511",
+      "z_moyen" : 80,
+      "code_dept" : "80",
+      "nom_comm" : "MARESTMONTIERS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6660,
+      "y_centroid" : 69538,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.515044149144025,
+              49.67307142694847
+            ],
+            [
+              2.509473544301271,
+              49.68221457938098
+            ],
+            [
+              2.515054670501739,
+              49.69098000478277
+            ],
+            [
+              2.534977357139326,
+              49.68738262852003
+            ],
+            [
+              2.527575237324007,
+              49.67604110877986
+            ],
+            [
+              2.515044149144025,
+              49.67307142694847
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69542,
+      "code_cant" : "27",
+      "x_centroid" : 6654,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 23408,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.68247597753882,
+        2.521089598135454
+      ],
+      "code_comm" : "511",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.521089598135454,
+        49.68247597753882
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

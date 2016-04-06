@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b5c39dfd4dfadf54df08b3f2bc60fb732b102ce3",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 411,
+      "insee_com" : "57100",
+      "z_moyen" : 302,
+      "code_dept" : "57",
+      "nom_comm" : "BOURSCHEID",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10078,
+      "y_centroid" : 68603,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.21352080634201,
+              48.76286196348564
+            ],
+            [
+              7.194010337934267,
+              48.75911801193052
+            ],
+            [
+              7.184515047867088,
+              48.76658461503528
+            ],
+            [
+              7.180410361771925,
+              48.77163703009283
+            ],
+            [
+              7.18865376520775,
+              48.77960698816965
+            ],
+            [
+              7.197046883983451,
+              48.7790780039856
+            ],
+            [
+              7.213857105202684,
+              48.77393737783004
+            ],
+            [
+              7.21352080634201,
+              48.76286196348564
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68605,
+      "code_cant" : "24",
+      "x_centroid" : 10083,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 22329,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.7696199163634,
+        7.19805131396849
+      ],
+      "code_comm" : "100",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.19805131396849,
+        48.7696199163634
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

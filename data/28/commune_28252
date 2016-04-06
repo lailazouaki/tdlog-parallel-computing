@@ -1,0 +1,75 @@
+  {
+    "recordid" : "677ccf7026a2fbba5edb531c8bba129f69dbe518",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 727,
+      "insee_com" : "79341",
+      "z_moyen" : 189,
+      "code_dept" : "79",
+      "nom_comm" : "VAUTEBIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4584,
+      "y_centroid" : 66084,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.122783645515379,
+              46.53258625989373
+            ],
+            [
+              -0.153659078945536,
+              46.51759967588045
+            ],
+            [
+              -0.165182377498946,
+              46.52270626519931
+            ],
+            [
+              -0.173513351582119,
+              46.53057687720228
+            ],
+            [
+              -0.168686936264781,
+              46.53627094027627
+            ],
+            [
+              -0.175157393913131,
+              46.541083970769
+            ],
+            [
+              -0.1649577310507,
+              46.54760274676271
+            ],
+            [
+              -0.122783645515379,
+              46.53258625989373
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66086,
+      "code_cant" : "17",
+      "x_centroid" : 4584,
+      "nom_dept" : "DEUX-SEVRES",
+      "id_geofla" : 21461,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.53254056218884,
+        -0.1530271260454496
+      ],
+      "code_comm" : "341",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1530271260454496,
+        46.53254056218884
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

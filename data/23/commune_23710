@@ -1,0 +1,75 @@
+  {
+    "recordid" : "49f2e4aca0b77fb8c96124f98af9909d85bea3d4",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 763,
+      "insee_com" : "10184",
+      "z_moyen" : 136,
+      "code_dept" : "10",
+      "nom_comm" : "JUZANVIGNY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8175,
+      "y_centroid" : 68141,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.643442141236245,
+              48.41133504920403
+            ],
+            [
+              4.602121141740409,
+              48.40728430220937
+            ],
+            [
+              4.582225907379712,
+              48.40994499495891
+            ],
+            [
+              4.581628266938083,
+              48.41658473320162
+            ],
+            [
+              4.574039106542724,
+              48.42496409094635
+            ],
+            [
+              4.642740857676612,
+              48.42219688878527
+            ],
+            [
+              4.644126853216436,
+              48.4189652493091
+            ],
+            [
+              4.643442141236245,
+              48.41133504920403
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68139,
+      "code_cant" : "21",
+      "x_centroid" : 8191,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 31339,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.41643162489978,
+        4.609879817663368
+      ],
+      "code_comm" : "184",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.609879817663368,
+        48.41643162489978
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

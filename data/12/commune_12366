@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6a2972a9abacdbef3b25043ac49422d36bc483a2",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 308,
+      "insee_com" : "70512",
+      "z_moyen" : 331,
+      "code_dept" : "70",
+      "nom_comm" : "LA VAIVRE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9514,
+      "y_centroid" : 67623,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.366981504112098,
+              47.90077674714951
+            ],
+            [
+              6.353409964771654,
+              47.91601008690592
+            ],
+            [
+              6.364618119262835,
+              47.92329189796335
+            ],
+            [
+              6.374195331576,
+              47.92090021748445
+            ],
+            [
+              6.379264279817208,
+              47.91127819238183
+            ],
+            [
+              6.366981504112098,
+              47.90077674714951
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67625,
+      "code_cant" : "22",
+      "x_centroid" : 9514,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 28781,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.91326009915205,
+        6.367014823176182
+      ],
+      "code_comm" : "512",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.367014823176182,
+        47.91326009915205
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

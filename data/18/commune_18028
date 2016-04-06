@@ -1,0 +1,71 @@
+  {
+    "recordid" : "14df35ab636ca77add8556ec4f59991792542318",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 534,
+      "insee_com" : "33247",
+      "z_moyen" : 89,
+      "code_dept" : "33",
+      "nom_comm" : "LISTRAC-DE-DUREZE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4662,
+      "y_centroid" : 64112,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.027087955478227,
+              44.74843378373716
+            ],
+            [
+              0.020507094286854,
+              44.75023000903558
+            ],
+            [
+              0.01978595696312,
+              44.76646370335329
+            ],
+            [
+              0.026926058204457,
+              44.77493525909594
+            ],
+            [
+              0.051773230320421,
+              44.76422031481725
+            ],
+            [
+              0.049511321006764,
+              44.75454711819953
+            ],
+            [
+              0.027087955478227,
+              44.74843378373716
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64113,
+      "code_cant" : "34",
+      "x_centroid" : 4653,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 23477,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.76077559040276,
+        0.03365818084266666
+      ],
+      "code_comm" : "247",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.03365818084266666,
+        44.76077559040276
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

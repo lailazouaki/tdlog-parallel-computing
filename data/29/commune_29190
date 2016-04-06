@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7ed7c6fd22a9747a2c5e8674c23b322322163e9c",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 125,
+      "insee_com" : "56196",
+      "z_moyen" : 50,
+      "code_dept" : "56",
+      "nom_comm" : "ROCHEFORT-EN-TERRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3000,
+      "y_centroid" : 67466,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.349937617723954,
+              47.69198055848813
+            ],
+            [
+              -2.352996195095027,
+              47.69449269282494
+            ],
+            [
+              -2.351414003848106,
+              47.70387529108759
+            ],
+            [
+              -2.337290536259122,
+              47.70190535906586
+            ],
+            [
+              -2.329882845080025,
+              47.6986622092566
+            ],
+            [
+              -2.349937617723954,
+              47.69198055848813
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67467,
+      "code_cant" : "32",
+      "x_centroid" : 2994,
+      "nom_dept" : "MORBIHAN",
+      "id_geofla" : 23735,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.7,
+      "geom_x_y" : [
+        47.69835792240645,
+        -2.344129525071473
+      ],
+      "code_comm" : "196",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.344129525071473,
+        47.69835792240645
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

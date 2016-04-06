@@ -1,0 +1,67 @@
+  {
+    "recordid" : "23d7c55c8cf79a729d5cbcce31b210bbf325b8d2",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 243,
+      "insee_com" : "31515",
+      "z_moyen" : 144,
+      "code_dept" : "31",
+      "nom_comm" : "SAINT-RUSTICE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5654,
+      "y_centroid" : 63018,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.343356442489878,
+              43.81053041115486
+            ],
+            [
+              1.341521093478684,
+              43.80395888779876
+            ],
+            [
+              1.322444806215705,
+              43.79462113764539
+            ],
+            [
+              1.311637167689505,
+              43.80083587409155
+            ],
+            [
+              1.326312700195816,
+              43.80851491713697
+            ],
+            [
+              1.343356442489878,
+              43.81053041115486
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63021,
+      "code_cant" : "14",
+      "x_centroid" : 5654,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 32486,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.80313343578872,
+        1.328176087573376
+      ],
+      "code_comm" : "515",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.328176087573376,
+        43.80313343578872
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

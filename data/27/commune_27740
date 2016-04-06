@@ -1,0 +1,71 @@
+  {
+    "recordid" : "45d14a357d3bc852c4802ce110a4285fba7f607f",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 432,
+      "insee_com" : "02081",
+      "z_moyen" : 105,
+      "code_dept" : "02",
+      "nom_comm" : "BETHANCOURT-EN-VAUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7106,
+      "y_centroid" : 69477,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.150624138867149,
+              49.61465530102176
+            ],
+            [
+              3.116794933296401,
+              49.63260194771654
+            ],
+            [
+              3.134150209554313,
+              49.64025811008985
+            ],
+            [
+              3.157772761194356,
+              49.63213332758051
+            ],
+            [
+              3.158868720117217,
+              49.62417019222565
+            ],
+            [
+              3.151609639804155,
+              49.62054005853656
+            ],
+            [
+              3.150624138867149,
+              49.61465530102176
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69477,
+      "code_cant" : "09",
+      "x_centroid" : 7101,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 20941,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.62905477721562,
+        3.140646579347503
+      ],
+      "code_comm" : "081",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.140646579347503,
+        49.62905477721562
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

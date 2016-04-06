@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ae0de4c0a4dbc8204a0b9a41840df31d5129afd5",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 378,
+      "insee_com" : "76041",
+      "z_moyen" : 143,
+      "code_dept" : "76",
+      "nom_comm" : "AUTRETOT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5360,
+      "y_centroid" : 69530,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.7250348206206531,
+              49.6425864161771
+            ],
+            [
+              0.723150124909731,
+              49.64917651158289
+            ],
+            [
+              0.711206596995605,
+              49.65557761444147
+            ],
+            [
+              0.723022887798686,
+              49.66887017971329
+            ],
+            [
+              0.739633482743398,
+              49.65967819525662
+            ],
+            [
+              0.741689780471306,
+              49.64946835725218
+            ],
+            [
+              0.734983234277203,
+              49.64457910583617
+            ],
+            [
+              0.7250348206206531,
+              49.6425864161771
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69526,
+      "code_cant" : "55",
+      "x_centroid" : 5358,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 14967,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        49.65536100448185,
+        0.7278467274003905
+      ],
+      "code_comm" : "041",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7278467274003905,
+        49.65536100448185
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

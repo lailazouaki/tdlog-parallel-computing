@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c9075b8db4ca4f390cdf6d23c5784cd36fa47d63",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 304,
+      "insee_com" : "25379",
+      "z_moyen" : 305,
+      "code_dept" : "25",
+      "nom_comm" : "MESMAY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9164,
+      "y_centroid" : 66658,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.856151178195651,
+              47.04919472777287
+            ],
+            [
+              5.857040173521665,
+              47.0458213331934
+            ],
+            [
+              5.842240325920435,
+              47.04709649360578
+            ],
+            [
+              5.841720533095614,
+              47.06525352989385
+            ],
+            [
+              5.847866190744673,
+              47.06977787182866
+            ],
+            [
+              5.86149028172535,
+              47.0673510890576
+            ],
+            [
+              5.856151178195651,
+              47.04919472777287
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66662,
+      "code_cant" : "22",
+      "x_centroid" : 9163,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 27248,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.05807779627978,
+        5.85050213365021
+      ],
+      "code_comm" : "379",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.85050213365021,
+        47.05807779627978
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

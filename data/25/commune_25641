@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3e90938ae718d01dd5ccb4e8eff44ee8b3008f54",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 176,
+      "insee_com" : "25030",
+      "z_moyen" : 252,
+      "code_dept" : "25",
+      "nom_comm" : "AUDEUX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9170,
+      "y_centroid" : 66881,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.856542225516132,
+              47.25322562876198
+            ],
+            [
+              5.862396111995592,
+              47.26277434498831
+            ],
+            [
+              5.870542122414453,
+              47.2644016732518
+            ],
+            [
+              5.882315295325386,
+              47.26085751952592
+            ],
+            [
+              5.875590393683179,
+              47.25413298680264
+            ],
+            [
+              5.856542225516132,
+              47.25322562876198
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66885,
+      "code_cant" : "02",
+      "x_centroid" : 9169,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 31540,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.25848821336983,
+        5.869132382504914
+      ],
+      "code_comm" : "030",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.869132382504914,
+        47.25848821336983
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

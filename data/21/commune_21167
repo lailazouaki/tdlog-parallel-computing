@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bae79acf528c7704885b4ebc88d703e24e54d045",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 434,
+      "insee_com" : "76405",
+      "z_moyen" : 85,
+      "code_dept" : "76",
+      "nom_comm" : "MANEHOUVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5618,
+      "y_centroid" : 69720,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.062937204529453,
+              49.81793008227921
+            ],
+            [
+              1.054405226795842,
+              49.82022077236778
+            ],
+            [
+              1.056242248398863,
+              49.83472765204856
+            ],
+            [
+              1.057634939100479,
+              49.84377235458497
+            ],
+            [
+              1.0665278087613,
+              49.84305980287343
+            ],
+            [
+              1.07471861385202,
+              49.84621769711956
+            ],
+            [
+              1.084166703330544,
+              49.83034335827164
+            ],
+            [
+              1.062937204529453,
+              49.81793008227921
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69723,
+      "code_cant" : "35",
+      "x_centroid" : 5608,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 25110,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.83216928900686,
+        1.067428726386795
+      ],
+      "code_comm" : "405",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.067428726386795,
+        49.83216928900686
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c4c0255811d52c84ff6a1e09fdb7fb79a9aa020a",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 197,
+      "insee_com" : "51305",
+      "z_moyen" : 150,
+      "code_dept" : "51",
+      "nom_comm" : "JANVRY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7637,
+      "y_centroid" : 69053,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.881990492462494,
+              49.23785207739878
+            ],
+            [
+              3.87371323780778,
+              49.23634799292803
+            ],
+            [
+              3.865524863959054,
+              49.23848384173689
+            ],
+            [
+              3.878882665405895,
+              49.25291570985875
+            ],
+            [
+              3.883035911982634,
+              49.25645453437745
+            ],
+            [
+              3.885442199547885,
+              49.24698803685455
+            ],
+            [
+              3.881990492462494,
+              49.23785207739878
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69053,
+      "code_cant" : "31",
+      "x_centroid" : 7639,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 28558,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.24430682647454,
+        3.877485013014681
+      ],
+      "code_comm" : "305",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.877485013014681,
+        49.24430682647454
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "069da677df36cd6a769c795060b56c3b01a24c51",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 371,
+      "insee_com" : "92051",
+      "z_moyen" : 32,
+      "code_dept" : "92",
+      "nom_comm" : "NEUILLY-SUR-SEINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6462,
+      "y_centroid" : 68652,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.279946531161416,
+              48.87857850316618
+            ],
+            [
+              2.259975318376052,
+              48.88019244458198
+            ],
+            [
+              2.255286342223301,
+              48.87435360532045
+            ],
+            [
+              2.245698308986428,
+              48.87646099663309
+            ],
+            [
+              2.253756950262125,
+              48.88688989505178
+            ],
+            [
+              2.271065300760704,
+              48.89840002027096
+            ],
+            [
+              2.284458220522186,
+              48.88563837078377
+            ],
+            [
+              2.279946531161416,
+              48.87857850316618
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68655,
+      "code_cant" : "98",
+      "x_centroid" : 6462,
+      "nom_dept" : "HAUTS-DE-SEINE",
+      "id_geofla" : 10891,
+      "statut" : "Chef-lieu canton",
+      "population" : 60.5,
+      "geom_x_y" : [
+        48.8853719688028,
+        2.266425847459068
+      ],
+      "code_comm" : "051",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.266425847459068,
+        48.8853719688028
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

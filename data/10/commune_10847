@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9970f8da570a269ab3bd4a5fc06d339c88dfa882",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 318,
+      "insee_com" : "92062",
+      "z_moyen" : 45,
+      "code_dept" : "92",
+      "nom_comm" : "PUTEAUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6441,
+      "y_centroid" : 68651,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.231736346483731,
+              48.86906948087001
+            ],
+            [
+              2.234147783142018,
+              48.87752083453298
+            ],
+            [
+              2.223611532056816,
+              48.88276809552511
+            ],
+            [
+              2.233785235553238,
+              48.89567616526661
+            ],
+            [
+              2.253756950262125,
+              48.88688989505178
+            ],
+            [
+              2.245698308986428,
+              48.87646099663309
+            ],
+            [
+              2.231736346483731,
+              48.86906948087001
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68651,
+      "code_cant" : "33",
+      "x_centroid" : 6441,
+      "nom_dept" : "HAUTS-DE-SEINE",
+      "id_geofla" : 35357,
+      "statut" : "Chef-lieu canton",
+      "population" : 44.9,
+      "geom_x_y" : [
+        48.88370949689582,
+        2.238341783143102
+      ],
+      "code_comm" : "062",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.238341783143102,
+        48.88370949689582
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

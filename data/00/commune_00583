@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c94f8d249ac516b27e2adab0ee52c1277bbd40cd",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 230,
+      "insee_com" : "76552",
+      "z_moyen" : 64,
+      "code_dept" : "76",
+      "nom_comm" : "SAINTE-ADRESSE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4887,
+      "y_centroid" : 69384,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.066916060387353,
+              49.51867338835675
+            ],
+            [
+              0.086062109770533,
+              49.51477331955274
+            ],
+            [
+              0.090466392396404,
+              49.50504931169047
+            ],
+            [
+              0.08854563119894,
+              49.50190043327128
+            ],
+            [
+              0.08335180799615,
+              49.5021712599262
+            ],
+            [
+              0.06978911893860799,
+              49.50632287990415
+            ],
+            [
+              0.06570604597786101,
+              49.51228572990133
+            ],
+            [
+              0.066916060387353,
+              49.51867338835675
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69380,
+      "code_cant" : "56",
+      "x_centroid" : 4883,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 27827,
+      "statut" : "Commune simple",
+      "population" : 7.6,
+      "geom_x_y" : [
+        49.51012913167691,
+        0.07797709484094689
+      ],
+      "code_comm" : "552",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.07797709484094689,
+        49.51012913167691
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

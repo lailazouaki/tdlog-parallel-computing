@@ -1,0 +1,75 @@
+  {
+    "recordid" : "59e3017285591d4ecaab2d9059c7c3ea9ed30d18",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 367,
+      "insee_com" : "76696",
+      "z_moyen" : 84,
+      "code_dept" : "76",
+      "nom_comm" : "TOCQUEVILLE-SUR-EU",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5768,
+      "y_centroid" : 69904,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.271888929828166,
+              49.98684708826629
+            ],
+            [
+              1.259654965971447,
+              50.0043549355129
+            ],
+            [
+              1.270733314042023,
+              50.01142961613853
+            ],
+            [
+              1.278122164369974,
+              50.00731115916957
+            ],
+            [
+              1.288069741178916,
+              50.00665099198719
+            ],
+            [
+              1.293632330675315,
+              50.00123031722651
+            ],
+            [
+              1.290895237987132,
+              49.99847893383198
+            ],
+            [
+              1.271888929828166,
+              49.98684708826629
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69907,
+      "code_cant" : "19",
+      "x_centroid" : 5762,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 14347,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.00021753990267,
+        1.275713159336808
+      ],
+      "code_comm" : "696",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.275713159336808,
+        50.00021753990267
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

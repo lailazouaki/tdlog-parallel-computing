@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c6bf264c6e4771602bf68bb2c59105a883212837",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 772,
+      "insee_com" : "33009",
+      "z_moyen" : 14,
+      "code_dept" : "33",
+      "nom_comm" : "ARCACHON",
+      "code_arr" : "6",
+      "x_chf_lieu" : 3696,
+      "y_centroid" : 64036,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.20434582830634,
+              44.63870220653616
+            ],
+            [
+              -1.193836882775073,
+              44.65816016685923
+            ],
+            [
+              -1.186043041670238,
+              44.66223307153225
+            ],
+            [
+              -1.162026772206002,
+              44.66322109071982
+            ],
+            [
+              -1.143974987239093,
+              44.65875164217701
+            ],
+            [
+              -1.141915757116313,
+              44.65187816768098
+            ],
+            [
+              -1.20434582830634,
+              44.63870220653616
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64042,
+      "code_cant" : "01",
+      "x_centroid" : 3691,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 18798,
+      "statut" : "Sous-préfecture",
+      "population" : 11.4,
+      "geom_x_y" : [
+        44.65290028381908,
+        -1.174297909333309
+      ],
+      "code_comm" : "009",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.174297909333309,
+        44.65290028381908
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

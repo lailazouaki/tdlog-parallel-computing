@@ -1,0 +1,67 @@
+  {
+    "recordid" : "86f7cf51c73b27253e81cfc00e7bfd2330b4c822",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 251,
+      "insee_com" : "73308",
+      "z_moyen" : 699,
+      "code_dept" : "73",
+      "nom_comm" : "VENTHON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9656,
+      "y_centroid" : 65154,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.440348852824974,
+              45.68337248346732
+            ],
+            [
+              6.421205666457315,
+              45.68032347020829
+            ],
+            [
+              6.400024615687404,
+              45.68822077499669
+            ],
+            [
+              6.40307009599233,
+              45.6938251217062
+            ],
+            [
+              6.419490031963383,
+              45.69250748650656
+            ],
+            [
+              6.440348852824974,
+              45.68337248346732
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65155,
+      "code_cant" : "05",
+      "x_centroid" : 9659,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 16300,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        45.68709810414244,
+        6.418106619469998
+      ],
+      "code_comm" : "308",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.418106619469998,
+        45.68709810414244
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

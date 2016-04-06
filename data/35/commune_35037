@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f2bc5e9245c68533524d0dfcebef9983ec6d304c",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 200,
+      "insee_com" : "67502",
+      "z_moyen" : 192,
+      "code_dept" : "67",
+      "nom_comm" : "UTTENHOFFEN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10411,
+      "y_centroid" : 68759,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.663282997121464,
+              48.88504175855314
+            ],
+            [
+              7.649060361764295,
+              48.88669453341153
+            ],
+            [
+              7.629154592632137,
+              48.89510577356128
+            ],
+            [
+              7.628777995038527,
+              48.89594010806083
+            ],
+            [
+              7.635711996130159,
+              48.90077034271549
+            ],
+            [
+              7.645568058804287,
+              48.89944213168828
+            ],
+            [
+              7.663282997121464,
+              48.88504175855314
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68758,
+      "code_cant" : "15",
+      "x_centroid" : 10403,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 32939,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.89319831621781,
+        7.644721038157339
+      ],
+      "code_comm" : "502",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.644721038157339,
+        48.89319831621781
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "de9814403656303dcab4a3650b366c49d6d1e945",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 544,
+      "insee_com" : "34280",
+      "z_moyen" : 2,
+      "code_dept" : "34",
+      "nom_comm" : "SAINT-NAZAIRE-DE-PEZAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7903,
+      "y_centroid" : 62824,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.110780980813169,
+              43.61589302038713
+            ],
+            [
+              4.101811495754857,
+              43.64156760709466
+            ],
+            [
+              4.106424205863629,
+              43.64237564745443
+            ],
+            [
+              4.112730244963706,
+              43.65061719950424
+            ],
+            [
+              4.133414277576719,
+              43.64308750494912
+            ],
+            [
+              4.133486650837655,
+              43.6411070092134
+            ],
+            [
+              4.127394429190242,
+              43.62808614422505
+            ],
+            [
+              4.110780980813169,
+              43.61589302038713
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62833,
+      "code_cant" : "17",
+      "x_centroid" : 7901,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 15690,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        43.63512019406055,
+        4.117061982919591
+      ],
+      "code_comm" : "280",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.117061982919591,
+        43.63512019406055
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

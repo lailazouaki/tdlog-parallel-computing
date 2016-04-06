@@ -1,0 +1,71 @@
+  {
+    "recordid" : "43f21050cd13dcbf0eb8be163a7b34f272eb7311",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 218,
+      "insee_com" : "02715",
+      "z_moyen" : 138,
+      "code_dept" : "02",
+      "nom_comm" : "SERVAL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7498,
+      "y_centroid" : 69171,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.690155980581991,
+              49.34285344078701
+            ],
+            [
+              3.674776968515286,
+              49.34512467967372
+            ],
+            [
+              3.668870011042732,
+              49.3500746148012
+            ],
+            [
+              3.686769845926168,
+              49.36236127434846
+            ],
+            [
+              3.694972717425642,
+              49.36032780541471
+            ],
+            [
+              3.688572988568697,
+              49.35206744351193
+            ],
+            [
+              3.690155980581991,
+              49.34285344078701
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69172,
+      "code_cant" : "04",
+      "x_centroid" : 7496,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 24685,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.35206998404063,
+        3.68270184220877
+      ],
+      "code_comm" : "715",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.68270184220877,
+        49.35206998404063
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

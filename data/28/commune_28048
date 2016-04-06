@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8190d2c2861507beb2f6361c94bcdc5d52bba796",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 275,
+      "insee_com" : "31340",
+      "z_moyen" : 242,
+      "code_dept" : "31",
+      "nom_comm" : "MERVILLA",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5764,
+      "y_centroid" : 62686,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.463455511820518,
+              43.4989745781077
+            ],
+            [
+              1.459000588222219,
+              43.49961327216398
+            ],
+            [
+              1.465127604622997,
+              43.51181246046441
+            ],
+            [
+              1.468619338979594,
+              43.5144084635664
+            ],
+            [
+              1.479741887146584,
+              43.51462789044793
+            ],
+            [
+              1.485966383177303,
+              43.50693103727471
+            ],
+            [
+              1.484771536480972,
+              43.50066926465789
+            ],
+            [
+              1.463455511820518,
+              43.4989745781077
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62687,
+      "code_cant" : "10",
+      "x_centroid" : 5764,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 20889,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.50633055702875,
+        1.473173103480591
+      ],
+      "code_comm" : "340",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.473173103480591,
+        43.50633055702875
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

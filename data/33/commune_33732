@@ -1,0 +1,79 @@
+  {
+    "recordid" : "346af4f7b012215506f6dfce3fd011fe9ca99e2b",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1264,
+      "insee_com" : "66058",
+      "z_moyen" : 146,
+      "code_dept" : "66",
+      "nom_comm" : "CORNEILLA-LA-RIVIERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6778,
+      "y_centroid" : 61789,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.74599258832427,
+              42.6854600158956
+            ],
+            [
+              2.729750898760865,
+              42.69001461913479
+            ],
+            [
+              2.712023628506957,
+              42.69376259663905
+            ],
+            [
+              2.70794142204059,
+              42.71788371476299
+            ],
+            [
+              2.70050612511735,
+              42.72682747216325
+            ],
+            [
+              2.723788918643189,
+              42.73417302399788
+            ],
+            [
+              2.747808072326842,
+              42.70524455262154
+            ],
+            [
+              2.74374910978349,
+              42.68848461808017
+            ],
+            [
+              2.74599258832427,
+              42.6854600158956
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61775,
+      "code_cant" : "05",
+      "x_centroid" : 6774,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 28181,
+      "statut" : "Commune simple",
+      "population" : 1.8,
+      "geom_x_y" : [
+        42.70956714503762,
+        2.725485617164189
+      ],
+      "code_comm" : "058",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.725485617164189,
+        42.70956714503762
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

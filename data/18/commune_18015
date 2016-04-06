@@ -1,0 +1,75 @@
+  {
+    "recordid" : "03f2a41dc9d6588dd2b758d6371915b9c1f6d7f2",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 581,
+      "insee_com" : "76605",
+      "z_moyen" : 57,
+      "code_dept" : "76",
+      "nom_comm" : "SAINTE-MARGUERITE-SUR-MER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5524,
+      "y_centroid" : 69805,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.972153662865005,
+              49.89563635032442
+            ],
+            [
+              0.940983545299102,
+              49.8965619515332
+            ],
+            [
+              0.937592671868038,
+              49.89922761954679
+            ],
+            [
+              0.92978896593459,
+              49.90674298521443
+            ],
+            [
+              0.956272601556592,
+              49.9187626928073
+            ],
+            [
+              0.9670487401746271,
+              49.91935569685035
+            ],
+            [
+              0.97225826343338,
+              49.91924451268531
+            ],
+            [
+              0.972153662865005,
+              49.89563635032442
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69806,
+      "code_cant" : "39",
+      "x_centroid" : 5530,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 23406,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.90659528492564,
+        0.955245965886645
+      ],
+      "code_comm" : "605",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.955245965886645,
+        49.90659528492564
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

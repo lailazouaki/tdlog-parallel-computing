@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c054560068589e0c376b466f96663ecdc4aff45c",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 858,
+      "insee_com" : "30300",
+      "z_moyen" : 141,
+      "code_dept" : "30",
+      "nom_comm" : "SAINT-THEODORIT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7869,
+      "y_centroid" : 63166,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.102054361159848,
+              43.93533096404172
+            ],
+            [
+              4.084786596258025,
+              43.92653937283857
+            ],
+            [
+              4.066982123155864,
+              43.92871279311883
+            ],
+            [
+              4.069078599328741,
+              43.96018484748101
+            ],
+            [
+              4.093194238180304,
+              43.95784019659921
+            ],
+            [
+              4.100281578501865,
+              43.95384484279776
+            ],
+            [
+              4.100599962900567,
+              43.94710024453968
+            ],
+            [
+              4.102054361159848,
+              43.93533096404172
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63164,
+      "code_cant" : "21",
+      "x_centroid" : 7869,
+      "nom_dept" : "GARD",
+      "id_geofla" : 14946,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.94339008705951,
+        4.083437040081174
+      ],
+      "code_comm" : "300",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.083437040081174,
+        43.94339008705951
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

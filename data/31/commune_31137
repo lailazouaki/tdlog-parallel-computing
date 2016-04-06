@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c341e8058efce66e1fa44ec8abc8f2b4b91bd8a9",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 409,
+      "insee_com" : "31156",
+      "z_moyen" : 258,
+      "code_dept" : "31",
+      "nom_comm" : "COX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5423,
+      "y_centroid" : 62976,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.047658513100353,
+              43.75426449600364
+            ],
+            [
+              1.031568774058523,
+              43.74872710554597
+            ],
+            [
+              1.018571147743301,
+              43.75222696671458
+            ],
+            [
+              1.02746046759214,
+              43.75336047758777
+            ],
+            [
+              1.040916575206596,
+              43.77273129696688
+            ],
+            [
+              1.065504386987642,
+              43.76415130539039
+            ],
+            [
+              1.049495764893274,
+              43.76011227101825
+            ],
+            [
+              1.047658513100353,
+              43.75426449600364
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62976,
+      "code_cant" : "07",
+      "x_centroid" : 5423,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 22114,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.76048066339082,
+        1.042036192622775
+      ],
+      "code_comm" : "156",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.042036192622775,
+        43.76048066339082
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

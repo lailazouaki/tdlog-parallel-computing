@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0cbfa8eb93485243fbb26e0ec05e5cc84a013646",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 559,
+      "insee_com" : "77365",
+      "z_moyen" : 113,
+      "code_dept" : "77",
+      "nom_comm" : "LE PLESSIS-FEU-AUSSOUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7024,
+      "y_centroid" : 68458,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.055310862938012,
+              48.70720650256161
+            ],
+            [
+              3.038224614764704,
+              48.70207739337427
+            ],
+            [
+              3.023740107359124,
+              48.70405093303545
+            ],
+            [
+              3.019555346700496,
+              48.70585057335116
+            ],
+            [
+              3.018131852753545,
+              48.71567263946955
+            ],
+            [
+              3.029240281696784,
+              48.72226325446333
+            ],
+            [
+              3.062055596844271,
+              48.72214277148325
+            ],
+            [
+              3.055310862938012,
+              48.70720650256161
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68463,
+      "code_cant" : "27",
+      "x_centroid" : 7028,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 21540,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.71308402746032,
+        3.038987034427197
+      ],
+      "code_comm" : "365",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.038987034427197,
+        48.71308402746032
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

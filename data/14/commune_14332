@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d0c1585f506ee8043faa86a925cb22c6c3dfa5f8",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 497,
+      "insee_com" : "21550",
+      "z_moyen" : 308,
+      "code_dept" : "21",
+      "nom_comm" : "SAINT-GERMAIN-LES-SENAILLY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7956,
+      "y_centroid" : 67227,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.305408621433695,
+              47.59026044381293
+            ],
+            [
+              4.295415874649598,
+              47.58866132456276
+            ],
+            [
+              4.260220668913707,
+              47.59268361309258
+            ],
+            [
+              4.262513238140649,
+              47.60465891877616
+            ],
+            [
+              4.288355533123196,
+              47.60930986436715
+            ],
+            [
+              4.305408621433695,
+              47.59026044381293
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67227,
+      "code_cant" : "21",
+      "x_centroid" : 7962,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 26780,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.59805192234781,
+        4.281331389483288
+      ],
+      "code_comm" : "550",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.281331389483288,
+        47.59805192234781
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e5773446f69e3e62823a46e7922b07e4ba2b84a4",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 165,
+      "insee_com" : "08456",
+      "z_moyen" : 203,
+      "code_dept" : "08",
+      "nom_comm" : "TOURNAVAUX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8285,
+      "y_centroid" : 69763,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.793612407070833,
+              49.86685097465121
+            ],
+            [
+              4.776850180741604,
+              49.86855167552648
+            ],
+            [
+              4.771118554176589,
+              49.87645253100956
+            ],
+            [
+              4.781174318223346,
+              49.87653097643747
+            ],
+            [
+              4.783582410306909,
+              49.87938924943452
+            ],
+            [
+              4.7920557290998,
+              49.87715360376485
+            ],
+            [
+              4.793612407070833,
+              49.86685097465121
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69763,
+      "code_cant" : "16",
+      "x_centroid" : 8283,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 20047,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.87281276380936,
+        4.783948046836375
+      ],
+      "code_comm" : "456",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.783948046836375,
+        49.87281276380936
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

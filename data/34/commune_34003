@@ -1,0 +1,67 @@
+  {
+    "recordid" : "92a64976f2eee91b2435f33cfc7ae6be9be82952",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 310,
+      "insee_com" : "68386",
+      "z_moyen" : 301,
+      "code_dept" : "68",
+      "nom_comm" : "ZIMMERSHEIM",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10288,
+      "y_centroid" : 67444,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.373748095433575,
+              47.70747487514005
+            ],
+            [
+              7.363817225917232,
+              47.71552637420817
+            ],
+            [
+              7.375022743851032,
+              47.72249931659933
+            ],
+            [
+              7.39801933295727,
+              47.72967736246637
+            ],
+            [
+              7.398730455753071,
+              47.72243897699596
+            ],
+            [
+              7.373748095433575,
+              47.70747487514005
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67446,
+      "code_cant" : "09",
+      "x_centroid" : 10283,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 33204,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        47.71878380734984,
+        7.38181973944625
+      ],
+      "code_comm" : "386",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.38181973944625,
+        47.71878380734984
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

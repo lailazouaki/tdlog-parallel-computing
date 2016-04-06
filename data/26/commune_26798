@@ -1,0 +1,67 @@
+  {
+    "recordid" : "29e7d8d2b911d8124b7fc661bfbeb524d22a4dc9",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 345,
+      "insee_com" : "42007",
+      "z_moyen" : 544,
+      "code_dept" : "42",
+      "nom_comm" : "ARCINGES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7988,
+      "y_centroid" : 65602,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.286075861150348,
+              46.12484799643497
+            ],
+            [
+              4.268128906223729,
+              46.13514561464287
+            ],
+            [
+              4.283624156442103,
+              46.14518441414068
+            ],
+            [
+              4.306134540574425,
+              46.13501208961014
+            ],
+            [
+              4.306851029666781,
+              46.13191475188421
+            ],
+            [
+              4.286075861150348,
+              46.12484799643497
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65605,
+      "code_cant" : "01",
+      "x_centroid" : 7993,
+      "nom_dept" : "LOIRE",
+      "id_geofla" : 32252,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.13466815236781,
+        4.287471496729921
+      ],
+      "code_comm" : "007",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.287471496729921,
+        46.13466815236781
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

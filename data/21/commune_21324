@@ -1,0 +1,67 @@
+  {
+    "recordid" : "121351dc2178021bea0012a2b2613f57b4de4a30",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 157,
+      "insee_com" : "65457",
+      "z_moyen" : 239,
+      "code_dept" : "65",
+      "nom_comm" : "UGNOUAS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4646,
+      "y_centroid" : 62535,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.09347244957171,
+              43.33808853456749
+            ],
+            [
+              0.089692128968424,
+              43.34358613601612
+            ],
+            [
+              0.090000066926683,
+              43.34359442277385
+            ],
+            [
+              0.119048930450156,
+              43.34700976709292
+            ],
+            [
+              0.111292717532403,
+              43.33884512105768
+            ],
+            [
+              0.09347244957171,
+              43.33808853456749
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62533,
+      "code_cant" : "18",
+      "x_centroid" : 4650,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 18359,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.34218541826207,
+        0.1039512575264533
+      ],
+      "code_comm" : "457",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1039512575264533,
+        43.34218541826207
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

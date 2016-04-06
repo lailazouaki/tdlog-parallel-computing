@@ -1,0 +1,63 @@
+  {
+    "recordid" : "206baa7b2611eb76287774ecada278489f79c6e7",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 182,
+      "insee_com" : "67288",
+      "z_moyen" : 194,
+      "code_dept" : "67",
+      "nom_comm" : "MEMMELSHOFFEN",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10563,
+      "y_centroid" : 68842,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.870701037037636,
+              48.95068999903147
+            ],
+            [
+              7.863141563251806,
+              48.95469115399938
+            ],
+            [
+              7.868053924726531,
+              48.96754626957129
+            ],
+            [
+              7.883644822328388,
+              48.9606139334639
+            ],
+            [
+              7.870701037037636,
+              48.95068999903147
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68843,
+      "code_cant" : "26",
+      "x_centroid" : 10565,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 18583,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.95897829721829,
+        7.871923144429485
+      ],
+      "code_comm" : "288",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.871923144429485,
+        48.95897829721829
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "371e42c2ace37fd4b5c1b023a0d29e5986d1876d",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 491,
+      "insee_com" : "14551",
+      "z_moyen" : 34,
+      "code_dept" : "14",
+      "nom_comm" : "RUSSY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4223,
+      "y_centroid" : 69209,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.807698805178639,
+              49.31338179771672
+            ],
+            [
+              -0.835269795930906,
+              49.32243550221495
+            ],
+            [
+              -0.835095217544004,
+              49.34026936485396
+            ],
+            [
+              -0.832068448403264,
+              49.33994248131481
+            ],
+            [
+              -0.80094639623125,
+              49.33588648750291
+            ],
+            [
+              -0.807698805178639,
+              49.31338179771672
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69214,
+      "code_cant" : "33",
+      "x_centroid" : 4224,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 14703,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.32815040947246,
+        -0.8189564903996086
+      ],
+      "code_comm" : "551",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8189564903996086,
+        49.32815040947246
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

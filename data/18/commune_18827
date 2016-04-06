@@ -1,0 +1,71 @@
+  {
+    "recordid" : "04d68385bb87f67e15b150991d91f237c738934d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 221,
+      "insee_com" : "78518",
+      "z_moyen" : 108,
+      "code_dept" : "78",
+      "nom_comm" : "RENNEMOULIN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6297,
+      "y_centroid" : 68596,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.034785406512309,
+              48.82617208372394
+            ],
+            [
+              2.030921177508554,
+              48.83179812636657
+            ],
+            [
+              2.041544969402519,
+              48.84304532251515
+            ],
+            [
+              2.051618411436283,
+              48.83685679531598
+            ],
+            [
+              2.052683140560541,
+              48.83074928537893
+            ],
+            [
+              2.047715942628594,
+              48.82673445058138
+            ],
+            [
+              2.034785406512309,
+              48.82617208372394
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68597,
+      "code_cant" : "22",
+      "x_centroid" : 6296,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 32459,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.83324838750528,
+        2.042294627647681
+      ],
+      "code_comm" : "518",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.042294627647681,
+        48.83324838750528
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

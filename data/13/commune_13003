@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e96e873652f5917b373db1c5a566a94ab898183b",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 251,
+      "insee_com" : "17276",
+      "z_moyen" : 89,
+      "code_dept" : "17",
+      "nom_comm" : "LE PIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4418,
+      "y_centroid" : 64739,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.283171576143873,
+              45.30831726920277
+            ],
+            [
+              -0.301386774326479,
+              45.3115932388499
+            ],
+            [
+              -0.309048167174341,
+              45.32015383952965
+            ],
+            [
+              -0.295160428699357,
+              45.32077108265243
+            ],
+            [
+              -0.290603801308836,
+              45.32667305208983
+            ],
+            [
+              -0.284390881053736,
+              45.32206112318757
+            ],
+            [
+              -0.283171576143873,
+              45.30831726920277
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64739,
+      "code_cant" : "19",
+      "x_centroid" : 4420,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 9151,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.31657696152561,
+        -0.2933069222172985
+      ],
+      "code_comm" : "276",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2933069222172985,
+        45.31657696152561
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

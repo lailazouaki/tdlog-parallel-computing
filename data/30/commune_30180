@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6bacbf2d45d7c2be57d2974bf7eaef08b3e68e73",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 149,
+      "insee_com" : "67094",
+      "z_moyen" : 256,
+      "code_dept" : "67",
+      "nom_comm" : "DIEFFENTHAL",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10275,
+      "y_centroid" : 68099,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.422717225530348,
+              48.30089844265373
+            ],
+            [
+              7.409006046399981,
+              48.30232071239867
+            ],
+            [
+              7.398458957404216,
+              48.31284215505601
+            ],
+            [
+              7.40805118708978,
+              48.31381864264855
+            ],
+            [
+              7.41463872957521,
+              48.30957189478222
+            ],
+            [
+              7.419431634150504,
+              48.31002364895753
+            ],
+            [
+              7.422717225530348,
+              48.30089844265373
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68102,
+      "code_cant" : "24",
+      "x_centroid" : 10269,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 23307,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.30731853849335,
+        7.411469977383522
+      ],
+      "code_comm" : "094",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.411469977383522,
+        48.30731853849335
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

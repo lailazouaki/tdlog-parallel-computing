@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ba8aa1c2dd3f9a6a3d783c1e9b3bb976a482eb5c",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 379,
+      "insee_com" : "68233",
+      "z_moyen" : 597,
+      "code_dept" : "68",
+      "nom_comm" : "NIEDERBRUCK",
+      "code_arr" : "6",
+      "x_chf_lieu" : 9969,
+      "y_centroid" : 67494,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.98071536989386,
+              47.77843015810121
+            ],
+            [
+              6.950357527525052,
+              47.76804997271122
+            ],
+            [
+              6.941645019650507,
+              47.77566113061331
+            ],
+            [
+              6.94792108429574,
+              47.78366813973702
+            ],
+            [
+              6.969752866507944,
+              47.78918389502082
+            ],
+            [
+              6.98071536989386,
+              47.77843015810121
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67501,
+      "code_cant" : "15",
+      "x_centroid" : 9964,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 14816,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.77887722936965,
+        6.96007917993636
+      ],
+      "code_comm" : "233",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.96007917993636,
+        47.77887722936965
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fb9a2dcdf73b3a17d7a4eb514870fe6feddbc1a1",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 203,
+      "insee_com" : "48131",
+      "z_moyen" : 550,
+      "code_dept" : "48",
+      "nom_comm" : "LE ROZIER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7167,
+      "y_centroid" : 63440,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.226313157375508,
+              44.19059154165502
+            ],
+            [
+              3.20314406018715,
+              44.19029484164811
+            ],
+            [
+              3.204268966256185,
+              44.19350606747263
+            ],
+            [
+              3.212310259345218,
+              44.19608306403669
+            ],
+            [
+              3.21921126188938,
+              44.20450336228757
+            ],
+            [
+              3.231163338603659,
+              44.19585595627528
+            ],
+            [
+              3.226313157375508,
+              44.19059154165502
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63435,
+      "code_cant" : "15",
+      "x_centroid" : 7174,
+      "nom_dept" : "LOZERE",
+      "id_geofla" : 28000,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.19533269446428,
+        3.218468776972412
+      ],
+      "code_comm" : "131",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.218468776972412,
+        44.19533269446428
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

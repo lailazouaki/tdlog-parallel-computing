@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6e39bef63d2d02e864c0e3691db013530e83ab55",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 662,
+      "insee_com" : "11338",
+      "z_moyen" : 483,
+      "code_dept" : "11",
+      "nom_comm" : "SAINT-COUAT-DU-RAZES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6273,
+      "y_centroid" : 62113,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.091648101370101,
+              42.98470027132763
+            ],
+            [
+              2.089239656073438,
+              43.00154365001336
+            ],
+            [
+              2.099884268581938,
+              43.00811797005613
+            ],
+            [
+              2.122094541293741,
+              43.00706930545714
+            ],
+            [
+              2.130253516538279,
+              43.00399665160528
+            ],
+            [
+              2.132764541360117,
+              43.001615519758
+            ],
+            [
+              2.113792912632122,
+              42.98735835223358
+            ],
+            [
+              2.091648101370101,
+              42.98470027132763
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62116,
+      "code_cant" : "20",
+      "x_centroid" : 6271,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 17686,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.99746909271253,
+        2.107922692757308
+      ],
+      "code_comm" : "338",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.107922692757308,
+        42.99746909271253
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

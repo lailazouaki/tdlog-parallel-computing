@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0526e53aa1a32172bf6a4ba0a8e3d6c55baaf1a9",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 362,
+      "insee_com" : "78320",
+      "z_moyen" : 105,
+      "code_dept" : "78",
+      "nom_comm" : "JEUFOSSE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5923,
+      "y_centroid" : 68827,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.559905139051696,
+              49.0313008540241
+            ],
+            [
+              1.535010082420212,
+              49.02607135317269
+            ],
+            [
+              1.523082481057875,
+              49.03288606323738
+            ],
+            [
+              1.518853299919206,
+              49.04113477149731
+            ],
+            [
+              1.53174838332853,
+              49.04662607898311
+            ],
+            [
+              1.546451631766815,
+              49.03650771747955
+            ],
+            [
+              1.561891430293968,
+              49.03513778770355
+            ],
+            [
+              1.559905139051696,
+              49.0313008540241
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68828,
+      "code_cant" : "02",
+      "x_centroid" : 5930,
+      "nom_dept" : "YVELINES",
+      "id_geofla" : 14604,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.03535413872875,
+        1.537249701446865
+      ],
+      "code_comm" : "320",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.537249701446865,
+        49.03535413872875
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b375b63b9be51c03aeb4faa5e135d8326ac9e61e",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 426,
+      "insee_com" : "76023",
+      "z_moyen" : 134,
+      "code_dept" : "76",
+      "nom_comm" : "ANVEVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5367,
+      "y_centroid" : 69579,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.764635549719895,
+              49.68904970854907
+            ],
+            [
+              0.734897753488181,
+              49.69350672069417
+            ],
+            [
+              0.7289604128978791,
+              49.70740103653994
+            ],
+            [
+              0.742000929153301,
+              49.71154483194309
+            ],
+            [
+              0.754313818954181,
+              49.70767365627835
+            ],
+            [
+              0.772767992394138,
+              49.69289332698838
+            ],
+            [
+              0.764635549719895,
+              49.68904970854907
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69578,
+      "code_cant" : "40",
+      "x_centroid" : 5375,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 20450,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.69965140813721,
+        0.7488894144988988
+      ],
+      "code_comm" : "023",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7488894144988988,
+        49.69965140813721
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

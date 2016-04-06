@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b7241dff954043c819b3b4a49337d5dd4a0247c1",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 890,
+      "insee_com" : "45075",
+      "z_moyen" : 103,
+      "code_dept" : "45",
+      "nom_comm" : "LA CHAPELLE-SAINT-MESMIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6133,
+      "y_centroid" : 67549,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.812073395304699,
+              47.8694290300185
+            ],
+            [
+              1.802960425424758,
+              47.88441279463225
+            ],
+            [
+              1.809318847514284,
+              47.89325319153625
+            ],
+            [
+              1.804984881916262,
+              47.89910462252618
+            ],
+            [
+              1.859556531697343,
+              47.90020539785491
+            ],
+            [
+              1.862287134846679,
+              47.89332841810505
+            ],
+            [
+              1.812073395304699,
+              47.8694290300185
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67550,
+      "code_cant" : "39",
+      "x_centroid" : 6124,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 16325,
+      "statut" : "Commune simple",
+      "population" : 9.5,
+      "geom_x_y" : [
+        47.88870633618145,
+        1.828471848270599
+      ],
+      "code_comm" : "075",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.828471848270599,
+        47.88870633618145
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

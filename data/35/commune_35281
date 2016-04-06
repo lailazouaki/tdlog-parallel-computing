@@ -1,0 +1,63 @@
+  {
+    "recordid" : "1afd6b06c5e6253ee6057eb2a3da0d89d0c3055a",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 303,
+      "insee_com" : "88356",
+      "z_moyen" : 509,
+      "code_dept" : "88",
+      "nom_comm" : "LES POULIERES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9815,
+      "y_centroid" : 67959,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.800547132238598,
+              48.19821885773757
+            ],
+            [
+              6.788350895182817,
+              48.19331409610474
+            ],
+            [
+              6.771790277525454,
+              48.20628487792604
+            ],
+            [
+              6.785387152273848,
+              48.2149118678344
+            ],
+            [
+              6.800547132238598,
+              48.19821885773757
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67953,
+      "code_cant" : "02",
+      "x_centroid" : 9811,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 34608,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.20358554332527,
+        6.78630426171414
+      ],
+      "code_comm" : "356",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.78630426171414,
+        48.20358554332527
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

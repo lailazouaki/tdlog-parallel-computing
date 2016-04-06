@@ -1,0 +1,67 @@
+  {
+    "recordid" : "28968bba7f4e714ee101e1db8068add4c3a45818",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 371,
+      "insee_com" : "21377",
+      "z_moyen" : 511,
+      "code_dept" : "21",
+      "nom_comm" : "MARCELLOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8217,
+      "y_centroid" : 66955,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.633527132452987,
+              47.34519098724388
+            ],
+            [
+              4.636694264884571,
+              47.33914062235613
+            ],
+            [
+              4.600018135565874,
+              47.34500008128136
+            ],
+            [
+              4.599462956596494,
+              47.35526334551226
+            ],
+            [
+              4.613541063958315,
+              47.35944465517457
+            ],
+            [
+              4.633527132452987,
+              47.34519098724388
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66955,
+      "code_cant" : "37",
+      "x_centroid" : 8219,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 29357,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.34881634488827,
+        4.615578079227887
+      ],
+      "code_comm" : "377",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.615578079227887,
+        47.34881634488827
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

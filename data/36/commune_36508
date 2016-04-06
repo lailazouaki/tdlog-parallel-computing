@@ -1,0 +1,67 @@
+  {
+    "recordid" : "952ae0634fde4e60f84a6de7b20fb2a70b12f537",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 278,
+      "insee_com" : "64395",
+      "z_moyen" : 276,
+      "code_dept" : "64",
+      "nom_comm" : "MONSEGUR",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4558,
+      "y_centroid" : 62642,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.004794171735961,
+              43.43162385503487
+            ],
+            [
+              -0.014435035207453,
+              43.42488270612188
+            ],
+            [
+              -0.024810441341397,
+              43.43004027277379
+            ],
+            [
+              -0.016534095244971,
+              43.44394693211105
+            ],
+            [
+              -0.002482528185167,
+              43.44508459728141
+            ],
+            [
+              -0.004794171735961,
+              43.43162385503487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62638,
+      "code_cant" : "22",
+      "x_centroid" : 4560,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 35328,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.43550973322993,
+        -0.01280378472619843
+      ],
+      "code_comm" : "395",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.01280378472619843,
+        43.43550973322993
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

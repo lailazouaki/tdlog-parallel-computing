@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2905435cf6164bc494f4be945559b44535dbccf5",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 449,
+      "insee_com" : "30180",
+      "z_moyen" : 117,
+      "code_dept" : "30",
+      "nom_comm" : "MONTIGNARGUES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7962,
+      "y_centroid" : 63155,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.222161512121577,
+              43.92557490521232
+            ],
+            [
+              4.19838035964633,
+              43.92577536556878
+            ],
+            [
+              4.176504310669556,
+              43.93140447033497
+            ],
+            [
+              4.176003921616212,
+              43.93371399922929
+            ],
+            [
+              4.211859825951866,
+              43.93833553009465
+            ],
+            [
+              4.234263294175961,
+              43.93581658757724
+            ],
+            [
+              4.222161512121577,
+              43.92557490521232
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63154,
+      "code_cant" : "26",
+      "x_centroid" : 7968,
+      "nom_dept" : "GARD",
+      "id_geofla" : 31156,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        43.93184296572058,
+        4.206630631718059
+      ],
+      "code_comm" : "180",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.206630631718059,
+        43.93184296572058
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d232eb94db69eb11df9538968703a91e5214656e",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 550,
+      "insee_com" : "11070",
+      "z_moyen" : 176,
+      "code_dept" : "11",
+      "nom_comm" : "CARLIPA",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6290,
+      "y_centroid" : 62456,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.121513932563913,
+              43.2887287516187
+            ],
+            [
+              2.114200856675524,
+              43.2990236767207
+            ],
+            [
+              2.104683507100555,
+              43.30512570195607
+            ],
+            [
+              2.116069355101705,
+              43.32337397297844
+            ],
+            [
+              2.120566692624666,
+              43.32420231890858
+            ],
+            [
+              2.139139533895419,
+              43.30090743004168
+            ],
+            [
+              2.121513932563913,
+              43.2887287516187
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62457,
+      "code_cant" : "09",
+      "x_centroid" : 6286,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 23092,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.30633509701394,
+        2.121482703632831
+      ],
+      "code_comm" : "070",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.121482703632831,
+        43.30633509701394
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

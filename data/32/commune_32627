@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5dd1baa9b3a654fa4f61660f9b8b8745253bd936",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 586,
+      "insee_com" : "24114",
+      "z_moyen" : 89,
+      "code_dept" : "24",
+      "nom_comm" : "CHASSAIGNES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4845,
+      "y_centroid" : 64654,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.238732288840034,
+              45.24126603588369
+            ],
+            [
+              0.236953480567669,
+              45.26429618617431
+            ],
+            [
+              0.240879812060389,
+              45.27389854599048
+            ],
+            [
+              0.255670152399216,
+              45.26481136791338
+            ],
+            [
+              0.268642423574364,
+              45.24586640396665
+            ],
+            [
+              0.264329757502908,
+              45.24200385745736
+            ],
+            [
+              0.238732288840034,
+              45.24126603588369
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64652,
+      "code_cant" : "28",
+      "x_centroid" : 4843,
+      "nom_dept" : "DORDOGNE",
+      "id_geofla" : 28244,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.25436565224209,
+        0.249815310877165
+      ],
+      "code_comm" : "114",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.249815310877165,
+        45.25436565224209
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

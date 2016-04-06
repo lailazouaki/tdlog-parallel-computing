@@ -1,0 +1,75 @@
+  {
+    "recordid" : "29ebec955436b0e4278fe38ba9458be09e23d2cb",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 332,
+      "insee_com" : "62446",
+      "z_moyen" : 28,
+      "code_dept" : "62",
+      "nom_comm" : "HESDIGNEUL-LES-BOULOGNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6057,
+      "y_centroid" : 70625,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.689115252168033,
+              50.63941135419107
+            ],
+            [
+              1.687194852399019,
+              50.63944491620269
+            ],
+            [
+              1.656374373454932,
+              50.65983033410871
+            ],
+            [
+              1.658829893910333,
+              50.66674980145803
+            ],
+            [
+              1.660397062004179,
+              50.66358951027407
+            ],
+            [
+              1.692393340706001,
+              50.65390517240039
+            ],
+            [
+              1.694053277665743,
+              50.64491144955491
+            ],
+            [
+              1.689115252168033,
+              50.63941135419107
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70632,
+      "code_cant" : "44",
+      "x_centroid" : 6063,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 17634,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        50.65235969456538,
+        1.677686187733899
+      ],
+      "code_comm" : "446",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.677686187733899,
+        50.65235969456538
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

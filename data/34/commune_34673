@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1e2fd0eac3e18c6cf06ab6e79a5df895d93581d4",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 87,
+      "insee_com" : "25065",
+      "z_moyen" : 238,
+      "code_dept" : "25",
+      "nom_comm" : "BLARIANS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9397,
+      "y_centroid" : 67060,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.177864931994521,
+              47.40670957614807
+            ],
+            [
+              6.173450229724111,
+              47.40678512796097
+            ],
+            [
+              6.17048267698008,
+              47.41225362135618
+            ],
+            [
+              6.177622113500306,
+              47.41604079735371
+            ],
+            [
+              6.186552270496119,
+              47.41421076278181
+            ],
+            [
+              6.177864931994521,
+              47.40670957614807
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67060,
+      "code_cant" : "13",
+      "x_centroid" : 9395,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 36289,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.41155489549858,
+        6.177679045951779
+      ],
+      "code_comm" : "065",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.177679045951779,
+        47.41155489549858
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

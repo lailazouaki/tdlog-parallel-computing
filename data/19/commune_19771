@@ -1,0 +1,71 @@
+  {
+    "recordid" : "22355f0d108926ce485582b5ee1a45e73649c8b1",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 464,
+      "insee_com" : "38444",
+      "z_moyen" : 676,
+      "code_dept" : "38",
+      "nom_comm" : "SAINT-PIERRE-DE-MEAROZ",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9229,
+      "y_centroid" : 64234,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.838516421259293,
+              44.85649126219516
+            ],
+            [
+              5.80609377392435,
+              44.87580250012016
+            ],
+            [
+              5.795248235440884,
+              44.88089598091519
+            ],
+            [
+              5.808739005287509,
+              44.8881501806836
+            ],
+            [
+              5.828745342393238,
+              44.877750154977
+            ],
+            [
+              5.836973935230336,
+              44.86882825170036
+            ],
+            [
+              5.838516421259293,
+              44.85649126219516
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64235,
+      "code_cant" : "06",
+      "x_centroid" : 9226,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 21771,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.87437309537042,
+        5.81957148539699
+      ],
+      "code_comm" : "444",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.81957148539699,
+        44.87437309537042
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1e52f12d79c3914d7385fb2af1368e6c9e4f7001",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 247,
+      "insee_com" : "27184",
+      "z_moyen" : 159,
+      "code_dept" : "27",
+      "nom_comm" : "CRASVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5596,
+      "y_centroid" : 69023,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.063637565417947,
+              49.19541096096599
+            ],
+            [
+              1.062124355745554,
+              49.21639407460384
+            ],
+            [
+              1.063516371464648,
+              49.21331392450067
+            ],
+            [
+              1.082302421171782,
+              49.21162693371941
+            ],
+            [
+              1.083324795764679,
+              49.20885542680352
+            ],
+            [
+              1.081243183437368,
+              49.19947869870685
+            ],
+            [
+              1.063637565417947,
+              49.19541096096599
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69026,
+      "code_cant" : "39",
+      "x_centroid" : 5594,
+      "nom_dept" : "EURE",
+      "id_geofla" : 24787,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.20519671599775,
+        1.071978515625787
+      ],
+      "code_comm" : "184",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.071978515625787,
+        49.20519671599775
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

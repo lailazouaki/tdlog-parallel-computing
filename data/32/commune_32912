@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4ba027e365342a28c86118c84d708199130cd651",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 301,
+      "insee_com" : "02266",
+      "z_moyen" : 185,
+      "code_dept" : "02",
+      "nom_comm" : "DOLIGNON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7782,
+      "y_centroid" : 69599,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.087479800276891,
+              49.71361503000961
+            ],
+            [
+              4.072825011006526,
+              49.74437789958086
+            ],
+            [
+              4.094549768973102,
+              49.74224375371124
+            ],
+            [
+              4.095657869944744,
+              49.7421888650867
+            ],
+            [
+              4.099121054818734,
+              49.73558005284603
+            ],
+            [
+              4.08891367590578,
+              49.72369351369326
+            ],
+            [
+              4.087479800276891,
+              49.71361503000961
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69596,
+      "code_cant" : "26",
+      "x_centroid" : 7783,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 34120,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.73382985165867,
+        4.086378827926823
+      ],
+      "code_comm" : "266",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.086378827926823,
+        49.73382985165867
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

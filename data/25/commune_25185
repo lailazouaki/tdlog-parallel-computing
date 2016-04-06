@@ -1,0 +1,63 @@
+  {
+    "recordid" : "66607507398a9066a21072a534d1474ea6f9263b",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 197,
+      "insee_com" : "80128",
+      "z_moyen" : 93,
+      "code_dept" : "80",
+      "nom_comm" : "BOUVINCOURT-EN-VERMANDOIS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 7029,
+      "y_centroid" : 69769,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.050632518904911,
+              49.88126453390653
+            ],
+            [
+              3.038096049598091,
+              49.88594044313112
+            ],
+            [
+              3.031387863130445,
+              49.89778232479242
+            ],
+            [
+              3.05455506377175,
+              49.89620211498713
+            ],
+            [
+              3.050632518904911,
+              49.88126453390653
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69771,
+      "code_cant" : "33",
+      "x_centroid" : 7031,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 33753,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.89089633113633,
+        3.044156471312857
+      ],
+      "code_comm" : "128",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.044156471312857,
+        49.89089633113633
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7aef5c974613a0d11d21fdc0c8dd553b588ec32a",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 533,
+      "insee_com" : "08204",
+      "z_moyen" : 175,
+      "code_dept" : "08",
+      "nom_comm" : "GUINCOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8177,
+      "y_centroid" : 69408,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.6151009799811,
+              49.54396178846032
+            ],
+            [
+              4.606068458271168,
+              49.55197384047938
+            ],
+            [
+              4.609781306174394,
+              49.55802798794626
+            ],
+            [
+              4.63564202428524,
+              49.56954730059105
+            ],
+            [
+              4.64510352784901,
+              49.56246220065287
+            ],
+            [
+              4.655064043880159,
+              49.56022341963419
+            ],
+            [
+              4.634779442614463,
+              49.54896572051629
+            ],
+            [
+              4.6151009799811,
+              49.54396178846032
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69410,
+      "code_cant" : "30",
+      "x_centroid" : 8178,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 31,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.55633781229138,
+        4.628134257586713
+      ],
+      "code_comm" : "204",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.628134257586713,
+        49.55633781229138
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

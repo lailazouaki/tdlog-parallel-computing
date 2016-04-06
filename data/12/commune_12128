@@ -1,0 +1,71 @@
+  {
+    "recordid" : "24e2f63873e17063ab23743a6d01f81c359ede38",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 367,
+      "insee_com" : "80428",
+      "z_moyen" : 67,
+      "code_dept" : "80",
+      "nom_comm" : "HEM-MONACU",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6884,
+      "y_centroid" : 69843,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.828516041005159,
+              49.94679394305138
+            ],
+            [
+              2.824401419541487,
+              49.95319274535328
+            ],
+            [
+              2.837998612960181,
+              49.96779016192572
+            ],
+            [
+              2.847816297547323,
+              49.96784767250301
+            ],
+            [
+              2.855248966101765,
+              49.96429962723239
+            ],
+            [
+              2.853503531485084,
+              49.95144349872339
+            ],
+            [
+              2.828516041005159,
+              49.94679394305138
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69840,
+      "code_cant" : "16",
+      "x_centroid" : 6885,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 5571,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.9573789854723,
+        2.840961659909665
+      ],
+      "code_comm" : "428",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.840961659909665,
+        49.9573789854723
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

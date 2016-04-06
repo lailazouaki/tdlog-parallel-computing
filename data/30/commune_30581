@@ -1,0 +1,75 @@
+  {
+    "recordid" : "36e7addc76d788d84f14b2f50e88bb1dc426ff74",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 817,
+      "insee_com" : "81122",
+      "z_moyen" : 504,
+      "code_dept" : "81",
+      "nom_comm" : "LACAPELLE-PINET",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6469,
+      "y_centroid" : 63300,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.345369333561707,
+              44.04975585194261
+            ],
+            [
+              2.342703311333581,
+              44.05585120979806
+            ],
+            [
+              2.333324582892593,
+              44.06168085033721
+            ],
+            [
+              2.342056057236808,
+              44.07838472640731
+            ],
+            [
+              2.349546511591195,
+              44.08391984448944
+            ],
+            [
+              2.361940183732567,
+              44.0810765350823
+            ],
+            [
+              2.38026426960137,
+              44.06666383820855
+            ],
+            [
+              2.345369333561707,
+              44.04975585194261
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63300,
+      "code_cant" : "33",
+      "x_centroid" : 6482,
+      "nom_dept" : "TARN",
+      "id_geofla" : 11094,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.0677076413596,
+        2.354346931559776
+      ],
+      "code_comm" : "122",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.354346931559776,
+        44.0677076413596
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

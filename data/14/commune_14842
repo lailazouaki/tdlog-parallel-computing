@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1d577663cf7f76f9b5379b622e08b5c6e2d9066a",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 451,
+      "insee_com" : "69056",
+      "z_moyen" : 265,
+      "code_dept" : "69",
+      "nom_comm" : "CHESSY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8258,
+      "y_centroid" : 65336,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.627504902143039,
+              45.88005708332912
+            ],
+            [
+              4.606144313677489,
+              45.88075890350333
+            ],
+            [
+              4.60209619905634,
+              45.88701301122024
+            ],
+            [
+              4.606633539805935,
+              45.90374628418473
+            ],
+            [
+              4.629064469029204,
+              45.89748987684022
+            ],
+            [
+              4.631857175763549,
+              45.89508981385713
+            ],
+            [
+              4.627504902143039,
+              45.88005708332912
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65332,
+      "code_cant" : "06",
+      "x_centroid" : 8253,
+      "nom_dept" : "RHONE",
+      "id_geofla" : 28028,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        45.8906849454583,
+        4.616396128173846
+      ],
+      "code_comm" : "056",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.616396128173846,
+        45.8906849454583
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

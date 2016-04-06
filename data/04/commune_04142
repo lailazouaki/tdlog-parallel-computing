@@ -1,0 +1,75 @@
+  {
+    "recordid" : "46a759e62deff228bf1b8df59649377229f83051",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 852,
+      "insee_com" : "08393",
+      "z_moyen" : 130,
+      "code_dept" : "08",
+      "nom_comm" : "SAINT-PIERRE-A-ARNES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8057,
+      "y_centroid" : 69117,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.454542570969297,
+              49.27601119083074
+            ],
+            [
+              4.448248743606362,
+              49.2985553195795
+            ],
+            [
+              4.453064044097217,
+              49.31822323200899
+            ],
+            [
+              4.458975749981104,
+              49.31960845505663
+            ],
+            [
+              4.464443955271357,
+              49.32037841120113
+            ],
+            [
+              4.480760998533259,
+              49.29467242980907
+            ],
+            [
+              4.483839738321991,
+              49.28077943350495
+            ],
+            [
+              4.454542570969297,
+              49.27601119083074
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69120,
+      "code_cant" : "14",
+      "x_centroid" : 8065,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 16455,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.2962803327519,
+        4.464147177986408
+      ],
+      "code_comm" : "393",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.464147177986408,
+        49.2962803327519
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

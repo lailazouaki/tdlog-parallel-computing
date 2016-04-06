@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b9b1d4637f350eb3ad860f86117a537063b3debe",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 232,
+      "insee_com" : "91667",
+      "z_moyen" : 66,
+      "code_dept" : "91",
+      "nom_comm" : "VILLEMOISSON-SUR-ORGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6507,
+      "y_centroid" : 68403,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.33686153765609,
+              48.65030936920091
+            ],
+            [
+              2.324345880587344,
+              48.65653565365251
+            ],
+            [
+              2.318728500486487,
+              48.66564267029867
+            ],
+            [
+              2.325093494433438,
+              48.66909698440028
+            ],
+            [
+              2.338125432437762,
+              48.66737105034268
+            ],
+            [
+              2.341952353469228,
+              48.66758113184323
+            ],
+            [
+              2.33686153765609,
+              48.65030936920091
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68407,
+      "code_cant" : "14",
+      "x_centroid" : 6507,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 13178,
+      "statut" : "Commune simple",
+      "population" : 6.9,
+      "geom_x_y" : [
+        48.66131076763411,
+        2.331088790958912
+      ],
+      "code_comm" : "667",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.331088790958912,
+        48.66131076763411
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

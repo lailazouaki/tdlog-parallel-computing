@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d8af59ebbc42f4c21df63cc8bc26b3cc743237b9",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 912,
+      "insee_com" : "09007",
+      "z_moyen" : 501,
+      "code_dept" : "09",
+      "nom_comm" : "ALLIERES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5667,
+      "y_centroid" : 62168,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.360686317965855,
+              43.02644271979021
+            ],
+            [
+              1.351399531663158,
+              43.0261928991964
+            ],
+            [
+              1.334826385618448,
+              43.03885555035957
+            ],
+            [
+              1.36055848764132,
+              43.05218645214246
+            ],
+            [
+              1.386199430483873,
+              43.04588105974773
+            ],
+            [
+              1.390726403524921,
+              43.03966087159138
+            ],
+            [
+              1.383458331716887,
+              43.03071827086681
+            ],
+            [
+              1.360686317965855,
+              43.02644271979021
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62165,
+      "code_cant" : "02",
+      "x_centroid" : 5665,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 26466,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.03854385991595,
+        1.363907349586172
+      ],
+      "code_comm" : "007",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.363907349586172,
+        43.03854385991595
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

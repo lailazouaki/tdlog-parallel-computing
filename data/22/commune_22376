@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d3fda4d78370f274028ff94feddf7094268c8f6d",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 130,
+      "insee_com" : "59195",
+      "z_moyen" : 37,
+      "code_dept" : "59",
+      "nom_comm" : "ENGLOS",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6969,
+      "y_centroid" : 70588,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.963082537077463,
+              50.62019215871769
+            ],
+            [
+              2.941323797341828,
+              50.62538894044371
+            ],
+            [
+              2.941279689046457,
+              50.62691456258019
+            ],
+            [
+              2.96129778762714,
+              50.62965959158428
+            ],
+            [
+              2.970015035131062,
+              50.63366453905252
+            ],
+            [
+              2.971736534828665,
+              50.63364699434052
+            ],
+            [
+              2.963082537077463,
+              50.62019215871769
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70587,
+      "code_cant" : "74",
+      "x_centroid" : 6970,
+      "nom_dept" : "NORD",
+      "id_geofla" : 16569,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.6262888459448,
+        2.957993168397261
+      ],
+      "code_comm" : "195",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.957993168397261,
+        50.6262888459448
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

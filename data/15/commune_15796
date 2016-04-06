@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dd0d34af01853e745af688eae9cef12c76e15da8",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 657,
+      "insee_com" : "11330",
+      "z_moyen" : 116,
+      "code_dept" : "11",
+      "nom_comm" : "RUSTIQUES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6571,
+      "y_centroid" : 62355,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.487492826711447,
+              43.20422319606275
+            ],
+            [
+              2.483547302960206,
+              43.20266621640769
+            ],
+            [
+              2.463978973845304,
+              43.20985692849977
+            ],
+            [
+              2.463671856859996,
+              43.22571409536272
+            ],
+            [
+              2.486892617982433,
+              43.23303221403978
+            ],
+            [
+              2.492497098496571,
+              43.22805727866669
+            ],
+            [
+              2.495361001184273,
+              43.21847271192208
+            ],
+            [
+              2.487492826711447,
+              43.20422319606275
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62353,
+      "code_cant" : "06",
+      "x_centroid" : 6576,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 15451,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        43.21799780562743,
+        2.479405557874679
+      ],
+      "code_comm" : "330",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.479405557874679,
+        43.21799780562743
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

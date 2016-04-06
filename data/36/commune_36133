@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dcca0fc75f8f856a21d68db9f52f1577cd440688",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 554,
+      "insee_com" : "80533",
+      "z_moyen" : 59,
+      "code_dept" : "80",
+      "nom_comm" : "MERS-LES-BAINS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5844,
+      "y_centroid" : 69980,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.409260195856242,
+              50.05707413039183
+            ],
+            [
+              1.379691087706571,
+              50.06501449209829
+            ],
+            [
+              1.392618454381693,
+              50.07546128480725
+            ],
+            [
+              1.413869621593212,
+              50.08508914326668
+            ],
+            [
+              1.417617311251437,
+              50.08758087416155
+            ],
+            [
+              1.422133906992575,
+              50.06937666860278
+            ],
+            [
+              1.409260195856242,
+              50.05707413039183
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69977,
+      "code_cant" : "11",
+      "x_centroid" : 5856,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 34424,
+      "statut" : "Commune simple",
+      "population" : 3.1,
+      "geom_x_y" : [
+        50.07051813483589,
+        1.404733073279728
+      ],
+      "code_comm" : "533",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.404733073279728,
+        50.07051813483589
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

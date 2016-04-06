@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4aa8155e4977d39dfaa61a32bc4dede9fd9c91b1",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 435,
+      "insee_com" : "34068",
+      "z_moyen" : 18,
+      "code_dept" : "34",
+      "nom_comm" : "CAZOULS-D'HERAULT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7370,
+      "y_centroid" : 62670,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.465124322554464,
+              43.48157186673594
+            ],
+            [
+              3.450224005405687,
+              43.4942756435965
+            ],
+            [
+              3.445661501112824,
+              43.50673754805103
+            ],
+            [
+              3.447581142837403,
+              43.5135585315211
+            ],
+            [
+              3.453318144193632,
+              43.51679171791038
+            ],
+            [
+              3.466287845709469,
+              43.51230110857265
+            ],
+            [
+              3.465124322554464,
+              43.48157186673594
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62675,
+      "code_cant" : "21",
+      "x_centroid" : 7369,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 15277,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.50184861692919,
+        3.457274660191989
+      ],
+      "code_comm" : "068",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.457274660191989,
+        43.50184861692919
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

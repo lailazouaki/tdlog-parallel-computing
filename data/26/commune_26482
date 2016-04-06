@@ -1,0 +1,75 @@
+  {
+    "recordid" : "574468783ebd8fd00da4fea81a5a4a792fceebc8",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 486,
+      "insee_com" : "71386",
+      "z_moyen" : 198,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-ANDRE-EN-BRESSE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8597,
+      "y_centroid" : 66188,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.081504303801118,
+              46.63581661553998
+            ],
+            [
+              5.079494291444094,
+              46.64480643959
+            ],
+            [
+              5.067320202688594,
+              46.653808788966
+            ],
+            [
+              5.085623903266072,
+              46.66480853609969
+            ],
+            [
+              5.094167395762791,
+              46.66242800579494
+            ],
+            [
+              5.099473391148702,
+              46.65482780900312
+            ],
+            [
+              5.095205149480399,
+              46.63844033464284
+            ],
+            [
+              5.081504303801118,
+              46.63581661553998
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66190,
+      "code_cant" : "35",
+      "x_centroid" : 8595,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 27024,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.65096864415806,
+        5.086023915834977
+      ],
+      "code_comm" : "386",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.086023915834977,
+        46.65096864415806
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

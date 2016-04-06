@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d132d92e25c8e1b334bbf954e20cfc053672e7f2",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 250,
+      "insee_com" : "14291",
+      "z_moyen" : 178,
+      "code_dept" : "14",
+      "nom_comm" : "FRESNEY-LE-VIEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4522,
+      "y_centroid" : 68836,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.392339676172877,
+              48.99669778334373
+            ],
+            [
+              -0.402655295724708,
+              49.0073769835012
+            ],
+            [
+              -0.380190551751551,
+              49.01430323206797
+            ],
+            [
+              -0.371479980234236,
+              49.00511619000251
+            ],
+            [
+              -0.379645962239753,
+              48.99816320192112
+            ],
+            [
+              -0.392339676172877,
+              48.99669778334373
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68835,
+      "code_cant" : "07",
+      "x_centroid" : 4523,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 32469,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.005102993937,
+        -0.3862732944503908
+      ],
+      "code_comm" : "291",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3862732944503908,
+        49.005102993937
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

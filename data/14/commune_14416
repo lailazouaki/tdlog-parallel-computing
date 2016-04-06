@@ -1,0 +1,75 @@
+  {
+    "recordid" : "64848fbe5f1d541a8b1de31f150ac219e7039417",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 495,
+      "insee_com" : "16413",
+      "z_moyen" : 130,
+      "code_dept" : "16",
+      "nom_comm" : "VILLIERS-LE-ROUX",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4763,
+      "y_centroid" : 65542,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.115878920808194,
+              46.04241614572219
+            ],
+            [
+              0.103115943502159,
+              46.0390629612787
+            ],
+            [
+              0.095689875124902,
+              46.04296389721242
+            ],
+            [
+              0.092627210142841,
+              46.05267134190652
+            ],
+            [
+              0.100114137896983,
+              46.06113519701562
+            ],
+            [
+              0.117117454856796,
+              46.06123541305278
+            ],
+            [
+              0.131130541051256,
+              46.05365229384461
+            ],
+            [
+              0.115878920808194,
+              46.04241614572219
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65539,
+      "code_cant" : "29",
+      "x_centroid" : 4765,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 20432,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.05123183032121,
+        0.1095034633717479
+      ],
+      "code_comm" : "413",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1095034633717479,
+        46.05123183032121
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

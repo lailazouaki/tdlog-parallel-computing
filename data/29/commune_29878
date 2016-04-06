@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f7082f5c23aa5d88c09310b595bbd5e7693930a5",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 310,
+      "insee_com" : "32092",
+      "z_moyen" : 191,
+      "code_dept" : "32",
+      "nom_comm" : "CATONVIELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5356,
+      "y_centroid" : 62862,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.967514152935961,
+              43.64718696837185
+            ],
+            [
+              0.954290189752911,
+              43.6513044023308
+            ],
+            [
+              0.94082067116212,
+              43.66116729965321
+            ],
+            [
+              0.949884351962498,
+              43.66011441440758
+            ],
+            [
+              0.972090266482604,
+              43.66394217760084
+            ],
+            [
+              0.977663529123496,
+              43.65392889577273
+            ],
+            [
+              0.967514152935961,
+              43.64718696837185
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62866,
+      "code_cant" : "05",
+      "x_centroid" : 5356,
+      "nom_dept" : "GERS",
+      "id_geofla" : 25525,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.6560806018687,
+        0.9625483440818194
+      ],
+      "code_comm" : "092",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9625483440818194,
+        43.6560806018687
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

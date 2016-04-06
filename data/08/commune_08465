@@ -1,0 +1,71 @@
+  {
+    "recordid" : "76a8cc7eba44761beb63a82f5348b14ddca2b3be",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 179,
+      "insee_com" : "90048",
+      "z_moyen" : 350,
+      "code_dept" : "90",
+      "nom_comm" : "FONTENELLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9970,
+      "y_centroid" : 67319,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.950142696062476,
+              47.61251906410351
+            ],
+            [
+              6.949401729927146,
+              47.6149324237725
+            ],
+            [
+              6.947991507689177,
+              47.62163125015297
+            ],
+            [
+              6.953549861018513,
+              47.62738220004979
+            ],
+            [
+              6.963041633052785,
+              47.62970991248385
+            ],
+            [
+              6.963545396638878,
+              47.61567852096086
+            ],
+            [
+              6.950142696062476,
+              47.61251906410351
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67320,
+      "code_cant" : "11",
+      "x_centroid" : 9970,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 16611,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.62082813174614,
+        6.956367337695926
+      ],
+      "code_comm" : "048",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.956367337695926,
+        47.62082813174614
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

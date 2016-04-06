@@ -1,0 +1,75 @@
+  {
+    "recordid" : "915addaf9f980ae1eda89e883dbbd4a0268d82da",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 512,
+      "insee_com" : "52141",
+      "z_moyen" : 286,
+      "code_dept" : "52",
+      "nom_comm" : "CONDES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8595,
+      "y_centroid" : 67845,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.171110922975728,
+              48.1404724728967
+            ],
+            [
+              5.142991748407032,
+              48.13457757528833
+            ],
+            [
+              5.114202062873904,
+              48.13629440427218
+            ],
+            [
+              5.11510227492202,
+              48.14500972793243
+            ],
+            [
+              5.130330582356711,
+              48.14507774422326
+            ],
+            [
+              5.138638933847761,
+              48.14896909507969
+            ],
+            [
+              5.169236256657461,
+              48.14951761858157
+            ],
+            [
+              5.171110922975728,
+              48.1404724728967
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67847,
+      "code_cant" : "07",
+      "x_centroid" : 8593,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 1362,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.1420892134721,
+        5.143248612325642
+      ],
+      "code_comm" : "141",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.143248612325642,
+        48.1420892134721
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

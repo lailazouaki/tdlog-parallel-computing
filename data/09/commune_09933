@@ -1,0 +1,67 @@
+  {
+    "recordid" : "47b446846932f1c9a1fd9694364cb324e7a30165",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 373,
+      "insee_com" : "74036",
+      "z_moyen" : 857,
+      "code_dept" : "74",
+      "nom_comm" : "BLUFFY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9495,
+      "y_centroid" : 65346,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.209640115900545,
+              45.85665220484959
+            ],
+            [
+              6.207079701860692,
+              45.86297049621882
+            ],
+            [
+              6.21781874912284,
+              45.87767073839122
+            ],
+            [
+              6.23714927603065,
+              45.86715074430189
+            ],
+            [
+              6.241063350504166,
+              45.86087395733157
+            ],
+            [
+              6.209640115900545,
+              45.85665220484959
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65349,
+      "code_cant" : "30",
+      "x_centroid" : 9499,
+      "nom_dept" : "HAUTE-SAVOIE",
+      "id_geofla" : 19459,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.86550210286826,
+        6.222273988818075
+      ],
+      "code_comm" : "036",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.222273988818075,
+        45.86550210286826
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

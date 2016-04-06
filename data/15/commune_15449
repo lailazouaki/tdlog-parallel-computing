@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c00b6239c0897d6a760a7d92fa2d4e07b3a773af",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 331,
+      "insee_com" : "27555",
+      "z_moyen" : 134,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-LAURENT-DES-BOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5765,
+      "y_centroid" : 68619,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.336487796979702,
+              48.84169531340551
+            ],
+            [
+              1.312376411402197,
+              48.83843404325637
+            ],
+            [
+              1.300068578026784,
+              48.84352206374308
+            ],
+            [
+              1.298502076649874,
+              48.84683708035851
+            ],
+            [
+              1.319257046452112,
+              48.85494740333764
+            ],
+            [
+              1.335867368292944,
+              48.84874799247194
+            ],
+            [
+              1.340330698169455,
+              48.84341282969114
+            ],
+            [
+              1.336487796979702,
+              48.84169531340551
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68619,
+      "code_cant" : "32",
+      "x_centroid" : 5766,
+      "nom_dept" : "EURE",
+      "id_geofla" : 22632,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.84598272611915,
+        1.319178625996919
+      ],
+      "code_comm" : "555",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.319178625996919,
+        48.84598272611915
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

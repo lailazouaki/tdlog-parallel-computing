@@ -1,0 +1,75 @@
+  {
+    "recordid" : "747cbc1537c8467a147994cccaaafb414cf4ab4d",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 396,
+      "insee_com" : "62300",
+      "z_moyen" : 63,
+      "code_dept" : "62",
+      "nom_comm" : "EQUIHEN-PLAGE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5989,
+      "y_centroid" : 70656,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.572167531500421,
+              50.6641055899516
+            ],
+            [
+              1.562506546084429,
+              50.68931316250821
+            ],
+            [
+              1.562605302765363,
+              50.69227605268013
+            ],
+            [
+              1.574166622388522,
+              50.6941413740597
+            ],
+            [
+              1.581587416461753,
+              50.68255879025726
+            ],
+            [
+              1.595244577793372,
+              50.68116123591426
+            ],
+            [
+              1.585648944277584,
+              50.66927698980875
+            ],
+            [
+              1.572167531500421,
+              50.6641055899516
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70653,
+      "code_cant" : "61",
+      "x_centroid" : 5991,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 29612,
+      "statut" : "Commune simple",
+      "population" : 2.9,
+      "geom_x_y" : [
+        50.6793131074181,
+        1.576273440463302
+      ],
+      "code_comm" : "300",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.576273440463302,
+        50.6793131074181
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "04095d23ef402a635969f3ce6d52be56a62a92b6",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 340,
+      "insee_com" : "38353",
+      "z_moyen" : 157,
+      "code_dept" : "38",
+      "nom_comm" : "SAINT-ALBAN-DU-RHONE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8372,
+      "y_centroid" : 64813,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.745099964990281,
+              45.40769680243508
+            ],
+            [
+              4.743991361083794,
+              45.4204586162913
+            ],
+            [
+              4.75995345936003,
+              45.43260254101806
+            ],
+            [
+              4.766933353594598,
+              45.41675784271872
+            ],
+            [
+              4.767593067490934,
+              45.41015445430518
+            ],
+            [
+              4.745099964990281,
+              45.40769680243508
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64823,
+      "code_cant" : "24",
+      "x_centroid" : 8373,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 20076,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        45.41791714873666,
+        4.755682596832679
+      ],
+      "code_comm" : "353",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.755682596832679,
+        45.41791714873666
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

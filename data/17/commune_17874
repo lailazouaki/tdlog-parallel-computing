@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7f5f5143a2e916239ccc228b1594efd23d150f0b",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 727,
+      "insee_com" : "51372",
+      "z_moyen" : 99,
+      "code_dept" : "51",
+      "nom_comm" : "MONCETZ-LONGEVAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8046,
+      "y_centroid" : 68696,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.409558854239937,
+              48.89948219953379
+            ],
+            [
+              4.408925828693706,
+              48.90381589409375
+            ],
+            [
+              4.473085844557838,
+              48.93592692856441
+            ],
+            [
+              4.481591763736385,
+              48.93691036299252
+            ],
+            [
+              4.486215585171631,
+              48.92672565853839
+            ],
+            [
+              4.471541666272117,
+              48.92332707668395
+            ],
+            [
+              4.429754196456653,
+              48.9021389615858
+            ],
+            [
+              4.409558854239937,
+              48.89948219953379
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68684,
+      "code_cant" : "16",
+      "x_centroid" : 8062,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 31142,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.91796097760587,
+        4.449199912983477
+      ],
+      "code_comm" : "372",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.449199912983477,
+        48.91796097760587
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

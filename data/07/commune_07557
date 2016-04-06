@@ -1,0 +1,75 @@
+  {
+    "recordid" : "857d8660d91fc3c032176d73e07ef8f8ae5b4d77",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 243,
+      "insee_com" : "62891",
+      "z_moyen" : 68,
+      "code_dept" : "62",
+      "nom_comm" : "WILLENCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6349,
+      "y_centroid" : 70161,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.08478573370634,
+              50.24465273121361
+            ],
+            [
+              2.096767201170652,
+              50.23866186668892
+            ],
+            [
+              2.072826802513573,
+              50.23166812682164
+            ],
+            [
+              2.067944859644609,
+              50.2329782542978
+            ],
+            [
+              2.06381558433917,
+              50.23445555329702
+            ],
+            [
+              2.064514544650268,
+              50.24057618951804
+            ],
+            [
+              2.077821930819198,
+              50.24873147437262
+            ],
+            [
+              2.08478573370634,
+              50.24465273121361
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70162,
+      "code_cant" : "07",
+      "x_centroid" : 6341,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 32535,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.2394266639077,
+        2.077668671165254
+      ],
+      "code_comm" : "891",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.077668671165254,
+        50.2394266639077
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

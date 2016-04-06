@@ -1,0 +1,63 @@
+  {
+    "recordid" : "a3dcd21721de82c85edc00728fb7eb5fd46e8436",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 322,
+      "insee_com" : "39511",
+      "z_moyen" : 211,
+      "code_dept" : "39",
+      "nom_comm" : "SERGENAUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8870,
+      "y_centroid" : 66459,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.470387153753465,
+              46.87808591315881
+            ],
+            [
+              5.450597905817265,
+              46.88087800024334
+            ],
+            [
+              5.449925677147702,
+              46.89534119523802
+            ],
+            [
+              5.477609244706882,
+              46.89494707410518
+            ],
+            [
+              5.470387153753465,
+              46.87808591315881
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66458,
+      "code_cant" : "07",
+      "x_centroid" : 8874,
+      "nom_dept" : "JURA",
+      "id_geofla" : 14794,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.88768945603593,
+        5.462578465265241
+      ],
+      "code_comm" : "511",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.462578465265241,
+        46.88768945603593
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

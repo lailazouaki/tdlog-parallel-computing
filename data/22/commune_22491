@@ -1,0 +1,67 @@
+  {
+    "recordid" : "913d23027afd65a60b01ce0c2b5a0896b692ca8a",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 518,
+      "insee_com" : "54033",
+      "z_moyen" : 276,
+      "code_dept" : "54",
+      "nom_comm" : "AVILLERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8989,
+      "y_centroid" : 69171,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.74916627992037,
+              49.30988727537484
+            ],
+            [
+              5.732025676695321,
+              49.31093300977391
+            ],
+            [
+              5.720819158226123,
+              49.33008350614691
+            ],
+            [
+              5.737194330777944,
+              49.3388697961475
+            ],
+            [
+              5.756974821985963,
+              49.31442242265026
+            ],
+            [
+              5.74916627992037,
+              49.30988727537484
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69172,
+      "code_cant" : "02",
+      "x_centroid" : 8990,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 6956,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.32253100788699,
+        5.738136676869121
+      ],
+      "code_comm" : "033",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.738136676869121,
+        49.32253100788699
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

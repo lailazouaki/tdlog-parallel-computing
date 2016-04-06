@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9c222ca933717cb56946ef8a7542b581c1c27879",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 1016,
+      "insee_com" : "53231",
+      "z_moyen" : 63,
+      "code_dept" : "53",
+      "nom_comm" : "SAINT-LAURENT-DES-MORTIERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4344,
+      "y_centroid" : 67470,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.532922192847626,
+              47.75068972999456
+            ],
+            [
+              -0.560372373769418,
+              47.75743471520897
+            ],
+            [
+              -0.556973620578095,
+              47.7843412579906
+            ],
+            [
+              -0.555212700654105,
+              47.78739486862108
+            ],
+            [
+              -0.545567870232912,
+              47.78790354471334
+            ],
+            [
+              -0.522100477184986,
+              47.78398105662704
+            ],
+            [
+              -0.518349736453568,
+              47.76769699010038
+            ],
+            [
+              -0.532922192847626,
+              47.75068972999456
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67472,
+      "code_cant" : "04",
+      "x_centroid" : 4349,
+      "nom_dept" : "MAYENNE",
+      "id_geofla" : 33091,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.7703071744636,
+        -0.5401902886508125
+      ],
+      "code_comm" : "231",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5401902886508125,
+        47.7703071744636
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

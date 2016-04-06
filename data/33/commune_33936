@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b8cd48192810dd9cd05541e4bdc782fa440f6a72",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 295,
+      "insee_com" : "95447",
+      "z_moyen" : 134,
+      "code_dept" : "95",
+      "nom_comm" : "NEUILLY-EN-VEXIN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6253,
+      "y_centroid" : 68975,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.977989499540045,
+              49.16412625666856
+            ],
+            [
+              1.962697528191434,
+              49.17460523280233
+            ],
+            [
+              1.974071852207738,
+              49.18331624469093
+            ],
+            [
+              1.999119306332944,
+              49.17540795530444
+            ],
+            [
+              1.998972650046375,
+              49.17519094745452
+            ],
+            [
+              1.991888849136622,
+              49.1685322829243
+            ],
+            [
+              1.977989499540045,
+              49.16412625666856
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68970,
+      "code_cant" : "17",
+      "x_centroid" : 6256,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 33274,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.17378476766216,
+        1.980231533425413
+      ],
+      "code_comm" : "447",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.980231533425413,
+        49.17378476766216
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

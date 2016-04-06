@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6786ae449d388396808be43fa2e03f54ef5bc693",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 251,
+      "insee_com" : "57673",
+      "z_moyen" : 264,
+      "code_dept" : "57",
+      "nom_comm" : "THONVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9605,
+      "y_centroid" : 68816,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.564901693496106,
+              48.97163708760304
+            ],
+            [
+              6.551295504361225,
+              48.97941307516455
+            ],
+            [
+              6.56104551952754,
+              48.98718902164829
+            ],
+            [
+              6.580408881690901,
+              48.98912373305816
+            ],
+            [
+              6.579306790147709,
+              48.98186551382858
+            ],
+            [
+              6.564901693496106,
+              48.97163708760304
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68818,
+      "code_cant" : "09",
+      "x_centroid" : 9609,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 32557,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.98135876241486,
+        6.566737929309517
+      ],
+      "code_comm" : "673",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.566737929309517,
+        48.98135876241486
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

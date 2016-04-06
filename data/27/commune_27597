@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a9bfbe54ebbd69906c3fb6777e5ae7ba37cc1f2b",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 307,
+      "insee_com" : "60227",
+      "z_moyen" : 86,
+      "code_dept" : "60",
+      "nom_comm" : "EVRICOURT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6931,
+      "y_centroid" : 69412,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.923721374494646,
+              49.56246810560003
+            ],
+            [
+              2.904608015672094,
+              49.56553705334699
+            ],
+            [
+              2.898816191533673,
+              49.57383608773614
+            ],
+            [
+              2.922951282617376,
+              49.57848192322435
+            ],
+            [
+              2.93040796383976,
+              49.57295963659953
+            ],
+            [
+              2.927905414214897,
+              49.56406132173141
+            ],
+            [
+              2.923721374494646,
+              49.56246810560003
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69409,
+      "code_cant" : "19",
+      "x_centroid" : 6939,
+      "nom_dept" : "OISE",
+      "id_geofla" : 20585,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.57040167303801,
+        2.916276483130477
+      ],
+      "code_comm" : "227",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.916276483130477,
+        49.57040167303801
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

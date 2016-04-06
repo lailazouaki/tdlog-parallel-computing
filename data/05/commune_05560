@@ -1,0 +1,67 @@
+  {
+    "recordid" : "c05e1f789ac6c27955a9472b3593be5f65a68c59",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 352,
+      "insee_com" : "70397",
+      "z_moyen" : 292,
+      "code_dept" : "70",
+      "nom_comm" : "ORMENANS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9414,
+      "y_centroid" : 67113,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.229154852235103,
+              47.45510923820338
+            ],
+            [
+              6.20588194429574,
+              47.44977066139294
+            ],
+            [
+              6.192666794925148,
+              47.45912518545422
+            ],
+            [
+              6.219445789306811,
+              47.46682903703809
+            ],
+            [
+              6.230633804651945,
+              47.46244680966912
+            ],
+            [
+              6.229154852235103,
+              47.45510923820338
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67107,
+      "code_cant" : "17",
+      "x_centroid" : 9420,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 29527,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.45834135686417,
+        6.213517621416883
+      ],
+      "code_comm" : "397",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.213517621416883,
+        47.45834135686417
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

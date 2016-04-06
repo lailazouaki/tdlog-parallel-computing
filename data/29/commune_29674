@@ -1,0 +1,67 @@
+  {
+    "recordid" : "03f96184bcefa38564146f4292506e2050cb8596",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 216,
+      "insee_com" : "76194",
+      "z_moyen" : 90,
+      "code_dept" : "76",
+      "nom_comm" : "CRIQUEBEUF-EN-CAUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5076,
+      "y_centroid" : 69633,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.332276495462225,
+              49.73312026381069
+            ],
+            [
+              0.323442664937448,
+              49.73441879222236
+            ],
+            [
+              0.320424419984846,
+              49.74146361489202
+            ],
+            [
+              0.338900890781808,
+              49.74789198818387
+            ],
+            [
+              0.345578083904668,
+              49.73632371027622
+            ],
+            [
+              0.332276495462225,
+              49.73312026381069
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69634,
+      "code_cant" : "21",
+      "x_centroid" : 5076,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 21234,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.73961351167401,
+        0.3330538612020107
+      ],
+      "code_comm" : "194",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3330538612020107,
+        49.73961351167401
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

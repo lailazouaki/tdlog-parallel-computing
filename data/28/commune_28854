@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5dbb06f23f060182eba12ece8f9d7d2bd0cab13c",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 481,
+      "insee_com" : "02824",
+      "z_moyen" : 114,
+      "code_dept" : "02",
+      "nom_comm" : "VORGES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7474,
+      "y_centroid" : 69355,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.645955958864992,
+              49.50246323355938
+            ],
+            [
+              3.636033923936917,
+              49.53039501940306
+            ],
+            [
+              3.649557598224348,
+              49.53412502701472
+            ],
+            [
+              3.6674337639851,
+              49.51342867259294
+            ],
+            [
+              3.660923782995814,
+              49.50417111410795
+            ],
+            [
+              3.645955958864992,
+              49.50246323355938
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69356,
+      "code_cant" : "38",
+      "x_centroid" : 7471,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 23057,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.51757960325072,
+        3.651053690257302
+      ],
+      "code_comm" : "824",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.651053690257302,
+        49.51757960325072
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

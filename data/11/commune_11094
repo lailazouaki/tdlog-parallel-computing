@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e5152d0f2ecbc17cb007733deb8b4c1b510d7a1d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 399,
+      "insee_com" : "91044",
+      "z_moyen" : 83,
+      "code_dept" : "91",
+      "nom_comm" : "BALLAINVILLIERS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6481,
+      "y_centroid" : 68414,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.291325367895718,
+              48.65758521237107
+            ],
+            [
+              2.276122658583966,
+              48.66022836796183
+            ],
+            [
+              2.277011555011158,
+              48.67057810806104
+            ],
+            [
+              2.28612861475477,
+              48.6861853610424
+            ],
+            [
+              2.305157018848814,
+              48.67831925093628
+            ],
+            [
+              2.30007159073682,
+              48.66959134757039
+            ],
+            [
+              2.291325367895718,
+              48.65758521237107
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68419,
+      "code_cant" : "35",
+      "x_centroid" : 6476,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 16399,
+      "statut" : "Commune simple",
+      "population" : 3.8,
+      "geom_x_y" : [
+        48.6713240801935,
+        2.289138745020021
+      ],
+      "code_comm" : "044",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.289138745020021,
+        48.6713240801935
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

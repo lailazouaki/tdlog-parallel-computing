@@ -1,0 +1,75 @@
+  {
+    "recordid" : "16f5e04e91889354e87f9c0cd17bc617da35a494",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 317,
+      "insee_com" : "77085",
+      "z_moyen" : 113,
+      "code_dept" : "77",
+      "nom_comm" : "CHANTELOUP-EN-BRIE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6808,
+      "y_centroid" : 68620,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.742705894974972,
+              48.8472105859958
+            ],
+            [
+              2.732076461128301,
+              48.85266418346539
+            ],
+            [
+              2.727542158243183,
+              48.85975862454365
+            ],
+            [
+              2.729660828405411,
+              48.86909836913539
+            ],
+            [
+              2.742350580263269,
+              48.86395528097876
+            ],
+            [
+              2.75211136727975,
+              48.86372408639865
+            ],
+            [
+              2.752336968526274,
+              48.8506753500573
+            ],
+            [
+              2.742705894974972,
+              48.8472105859958
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68616,
+      "code_cant" : "43",
+      "x_centroid" : 6809,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 29576,
+      "statut" : "Commune simple",
+      "population" : 2,
+      "geom_x_y" : [
+        48.85777660328836,
+        2.74039391563446
+      ],
+      "code_comm" : "085",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.74039391563446,
+        48.85777660328836
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

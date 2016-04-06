@@ -1,0 +1,71 @@
+  {
+    "recordid" : "060ee25bddd3883f3cdf68acc60a47eb00f9db4f",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 792,
+      "insee_com" : "01406",
+      "z_moyen" : 194,
+      "code_dept" : "01",
+      "nom_comm" : "SERVIGNAT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8588,
+      "y_centroid" : 65947,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.032587301188574,
+              46.42107468000133
+            ],
+            [
+              5.037112712530842,
+              46.44810685883947
+            ],
+            [
+              5.06584367710794,
+              46.44525780369771
+            ],
+            [
+              5.084525847745529,
+              46.43013665341325
+            ],
+            [
+              5.081369159442152,
+              46.42422211740886
+            ],
+            [
+              5.050834686787256,
+              46.4266032849792
+            ],
+            [
+              5.032587301188574,
+              46.42107468000133
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65947,
+      "code_cant" : "29",
+      "x_centroid" : 8578,
+      "nom_dept" : "AIN",
+      "id_geofla" : 28171,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.43464978779868,
+        5.055599731067759
+      ],
+      "code_comm" : "406",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.055599731067759,
+        46.43464978779868
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

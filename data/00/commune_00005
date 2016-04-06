@@ -1,0 +1,71 @@
+  {
+    "recordid" : "11ee1ccfd72245264070dc6015c43f065b0b286b",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 617,
+      "insee_com" : "73170",
+      "z_moyen" : 1068,
+      "code_dept" : "73",
+      "nom_comm" : "MONTHION",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9615,
+      "y_centroid" : 65081,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.390220174624071,
+              45.60317119383393
+            ],
+            [
+              6.351928564929267,
+              45.62499496947063
+            ],
+            [
+              6.354162390989682,
+              45.6317601726447
+            ],
+            [
+              6.348574689505209,
+              45.63750564398019
+            ],
+            [
+              6.355724082824921,
+              45.63950978853417
+            ],
+            [
+              6.393302098562634,
+              45.6222490913861
+            ],
+            [
+              6.390220174624071,
+              45.60317119383393
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65090,
+      "code_cant" : "30",
+      "x_centroid" : 9627,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 26068,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        45.62252220857816,
+        6.372844255090961
+      ],
+      "code_comm" : "170",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.372844255090961,
+        45.62252220857816
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

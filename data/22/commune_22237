@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8b8b6abbec0548c0fea528bda6d696fde69b9659",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 307,
+      "insee_com" : "14249",
+      "z_moyen" : 85,
+      "code_dept" : "14",
+      "nom_comm" : "ESQUAY-NOTRE-DAME",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4465,
+      "y_centroid" : 68959,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.461246890437656,
+              49.104144688726
+            ],
+            [
+              -0.480501108698586,
+              49.10632459555492
+            ],
+            [
+              -0.486548220585422,
+              49.1106312562535
+            ],
+            [
+              -0.49557848292983,
+              49.11036898518065
+            ],
+            [
+              -0.48899598088303,
+              49.11359317478512
+            ],
+            [
+              -0.46062317825132,
+              49.12333195412193
+            ],
+            [
+              -0.45678085161735,
+              49.11712476752149
+            ],
+            [
+              -0.461246890437656,
+              49.104144688726
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68958,
+      "code_cant" : "16",
+      "x_centroid" : 4466,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 24032,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        49.11280658799904,
+        -0.4711078238043644
+      ],
+      "code_comm" : "249",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4711078238043644,
+        49.11280658799904
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

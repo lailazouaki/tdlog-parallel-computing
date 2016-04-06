@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1d9ef74d12a94d091b9ee56ecdd925e0dbf479b2",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 679,
+      "insee_com" : "13093",
+      "z_moyen" : 193,
+      "code_dept" : "13",
+      "nom_comm" : "SAINT-ESTEVE-JANSON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8930,
+      "y_centroid" : 62910,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.396329010323782,
+              43.67611680609119
+            ],
+            [
+              5.370576165363978,
+              43.69370435702414
+            ],
+            [
+              5.367931255155192,
+              43.7065542159033
+            ],
+            [
+              5.370534660963065,
+              43.70918923428631
+            ],
+            [
+              5.388125771901303,
+              43.70218784829966
+            ],
+            [
+              5.412713916557895,
+              43.69291304282396
+            ],
+            [
+              5.404375108767636,
+              43.67839684905038
+            ],
+            [
+              5.396329010323782,
+              43.67611680609119
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62904,
+      "code_cant" : "12",
+      "x_centroid" : 8926,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 34108,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.69236955582738,
+        5.389589126041069
+      ],
+      "code_comm" : "093",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.389589126041069,
+        43.69236955582738
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

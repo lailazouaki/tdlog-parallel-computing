@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fd1cfc9242825b232f4939e6e34cf92f5033070f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 639,
+      "insee_com" : "08471",
+      "z_moyen" : 195,
+      "code_dept" : "08",
+      "nom_comm" : "VERRIERES",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8357,
+      "y_centroid" : 69345,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.90614193250228,
+              49.48874764431125
+            ],
+            [
+              4.885549993551046,
+              49.48944736345504
+            ],
+            [
+              4.867620538971243,
+              49.48291053079861
+            ],
+            [
+              4.859863122761204,
+              49.49504948642237
+            ],
+            [
+              4.869857105139018,
+              49.50268100498034
+            ],
+            [
+              4.896447570817053,
+              49.50803048712601
+            ],
+            [
+              4.912033767923526,
+              49.49688977318076
+            ],
+            [
+              4.90614193250228,
+              49.48874764431125
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69342,
+      "code_cant" : "08",
+      "x_centroid" : 8366,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 34362,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.49599236256423,
+        4.885383090389798
+      ],
+      "code_comm" : "471",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.885383090389798,
+        49.49599236256423
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

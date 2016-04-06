@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d40e81d8d79fdecb2f953bab2037f641eccd7af0",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 618,
+      "insee_com" : "66189",
+      "z_moyen" : 19,
+      "code_dept" : "66",
+      "nom_comm" : "SALEILLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6960,
+      "y_centroid" : 61730,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.967325375409891,
+              42.645810665115
+            ],
+            [
+              2.968593415056508,
+              42.64305095012522
+            ],
+            [
+              2.961236999568725,
+              42.64457692742921
+            ],
+            [
+              2.929708922498328,
+              42.65374922798186
+            ],
+            [
+              2.926088861250207,
+              42.65578766095691
+            ],
+            [
+              2.929841209144351,
+              42.66527535387495
+            ],
+            [
+              2.963817035409545,
+              42.66698249437113
+            ],
+            [
+              2.967325375409891,
+              42.645810665115
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61727,
+      "code_cant" : "27",
+      "x_centroid" : 6958,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 19797,
+      "statut" : "Commune simple",
+      "population" : 4.5,
+      "geom_x_y" : [
+        42.6568410056669,
+        2.949204871754282
+      ],
+      "code_comm" : "189",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.949204871754282,
+        42.6568410056669
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

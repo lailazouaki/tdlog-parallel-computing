@@ -1,0 +1,75 @@
+  {
+    "recordid" : "5d40ff7f070538145bae9df7394bb1f3eeb7b8fc",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 249,
+      "insee_com" : "54114",
+      "z_moyen" : 247,
+      "code_dept" : "54",
+      "nom_comm" : "CHAMPEY-SUR-MOSELLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9238,
+      "y_centroid" : 68773,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.063004785069118,
+              48.94860539718724
+            ],
+            [
+              6.045970523664837,
+              48.96126038074586
+            ],
+            [
+              6.048322093011328,
+              48.96430526466118
+            ],
+            [
+              6.055764861128283,
+              48.96002117334201
+            ],
+            [
+              6.079195113187392,
+              48.96474002157196
+            ],
+            [
+              6.081322571612107,
+              48.9630475006174
+            ],
+            [
+              6.078941493076034,
+              48.95330854714327
+            ],
+            [
+              6.063004785069118,
+              48.94860539718724
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68773,
+      "code_cant" : "24",
+      "x_centroid" : 9244,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 23705,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.95728006805655,
+        6.066110889520044
+      ],
+      "code_comm" : "114",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.066110889520044,
+        48.95728006805655
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

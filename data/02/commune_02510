@@ -1,0 +1,75 @@
+  {
+    "recordid" : "91a384668518d2bb089d21a8efda61f043ffae24",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 258,
+      "insee_com" : "73254",
+      "z_moyen" : 452,
+      "code_dept" : "73",
+      "nom_comm" : "SAINTE-MARIE-D'ALVEY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9120,
+      "y_centroid" : 65030,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.728266399096781,
+              45.58854441282783
+            ],
+            [
+              5.714366154461159,
+              45.58718699743691
+            ],
+            [
+              5.702657370250605,
+              45.59233452483173
+            ],
+            [
+              5.698819165665361,
+              45.59705788250572
+            ],
+            [
+              5.705452238199499,
+              45.59832206258925
+            ],
+            [
+              5.714376673519789,
+              45.60443206181342
+            ],
+            [
+              5.727784744605589,
+              45.59361980052502
+            ],
+            [
+              5.728266399096781,
+              45.58854441282783
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65029,
+      "code_cant" : "24",
+      "x_centroid" : 9116,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 25401,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.59453481922233,
+        5.714730621164557
+      ],
+      "code_comm" : "254",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.714730621164557,
+        45.59453481922233
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

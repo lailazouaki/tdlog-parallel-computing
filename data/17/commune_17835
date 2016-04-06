@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1c6bef3ec0bbc3c98dcbfe30e1233b8216c1e536",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 389,
+      "insee_com" : "26312",
+      "z_moyen" : 147,
+      "code_dept" : "26",
+      "nom_comm" : "SAINT-MARCEL-LES-SAUZET",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8432,
+      "y_centroid" : 63907,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.805168682058241,
+              44.58400116016045
+            ],
+            [
+              4.791191764653884,
+              44.60929812222619
+            ],
+            [
+              4.791413796161591,
+              44.61271637954595
+            ],
+            [
+              4.800227227104537,
+              44.6151305756464
+            ],
+            [
+              4.811311364434714,
+              44.60814175727104
+            ],
+            [
+              4.816141542255772,
+              44.59451009199091
+            ],
+            [
+              4.816204585841552,
+              44.59098814622038
+            ],
+            [
+              4.805168682058241,
+              44.58400116016045
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63901,
+      "code_cant" : "15",
+      "x_centroid" : 8431,
+      "nom_dept" : "DROME",
+      "id_geofla" : 31945,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        44.60078620885649,
+        4.804357224286033
+      ],
+      "code_comm" : "312",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.804357224286033,
+        44.60078620885649
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

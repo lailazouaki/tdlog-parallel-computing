@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b0239233fa29b2a98cdb20bbb75c4bc535d3ea7d",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 1072,
+      "insee_com" : "52249",
+      "z_moyen" : 272,
+      "code_dept" : "52",
+      "nom_comm" : "ISOMES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8729,
+      "y_centroid" : 67289,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.306144532601323,
+              47.61408012603011
+            ],
+            [
+              5.293003463409853,
+              47.62500072961799
+            ],
+            [
+              5.277891156299956,
+              47.62794391950386
+            ],
+            [
+              5.291807739188094,
+              47.64926506102546
+            ],
+            [
+              5.303260020802088,
+              47.65555926378757
+            ],
+            [
+              5.328147226605068,
+              47.65627263914476
+            ],
+            [
+              5.329962742093519,
+              47.64474627144781
+            ],
+            [
+              5.306144532601323,
+              47.61408012603011
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67298,
+      "code_cant" : "23",
+      "x_centroid" : 8731,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 18706,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.63839261345233,
+        5.305850295206722
+      ],
+      "code_comm" : "249",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.305850295206722,
+        47.63839261345233
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7a3f5b67012fbb02689acc736f0a0962fe79dcfe",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 502,
+      "insee_com" : "17468",
+      "z_moyen" : 67,
+      "code_dept" : "17",
+      "nom_comm" : "VIBRAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4384,
+      "y_centroid" : 64778,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.333331209507015,
+              45.33911606671053
+            ],
+            [
+              -0.346632441811433,
+              45.33887225387673
+            ],
+            [
+              -0.3524483160976,
+              45.34801716030494
+            ],
+            [
+              -0.353070367466247,
+              45.37043089027399
+            ],
+            [
+              -0.347871861299831,
+              45.36457506278271
+            ],
+            [
+              -0.321987379049722,
+              45.34881732624019
+            ],
+            [
+              -0.321969836083697,
+              45.34531201072178
+            ],
+            [
+              -0.333331209507015,
+              45.33911606671053
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64784,
+      "code_cant" : "11",
+      "x_centroid" : 4385,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 22811,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.35056266932471,
+        -0.3403895104978981
+      ],
+      "code_comm" : "468",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3403895104978981,
+        45.35056266932471
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

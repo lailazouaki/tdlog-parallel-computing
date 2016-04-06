@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f6c11e3d4f8441e22c6c60619e155ea5e7dbd60b",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 486,
+      "insee_com" : "68109",
+      "z_moyen" : 521,
+      "code_dept" : "68",
+      "nom_comm" : "GRIESBACH-AU-VAL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10108,
+      "y_centroid" : 67780,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.159862159038768,
+              48.01424028286358
+            ],
+            [
+              7.158246139872595,
+              48.02957189560448
+            ],
+            [
+              7.166332232356877,
+              48.04149623501301
+            ],
+            [
+              7.185140901594103,
+              48.04161259191391
+            ],
+            [
+              7.188095131764387,
+              48.02987350992466
+            ],
+            [
+              7.170385004074086,
+              48.01551663124195
+            ],
+            [
+              7.159862159038768,
+              48.01424028286358
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67788,
+      "code_cant" : "18",
+      "x_centroid" : 10108,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 24663,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        48.0293037675257,
+        7.171956630098599
+      ],
+      "code_comm" : "109",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.171956630098599,
+        48.0293037675257
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4fcfe6c19d46762bcd82547866c8aec5aa5d9628",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 317,
+      "insee_com" : "26316",
+      "z_moyen" : 468,
+      "code_dept" : "26",
+      "nom_comm" : "SAINT-MARTIN-LE-COLONEL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8790,
+      "y_centroid" : 64343,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.295292186678285,
+              44.98609648738699
+            ],
+            [
+              5.289139064402579,
+              44.97746800777809
+            ],
+            [
+              5.275421655803978,
+              44.97749728663292
+            ],
+            [
+              5.264170422425082,
+              44.98265394979018
+            ],
+            [
+              5.275770874344178,
+              44.99640579412242
+            ],
+            [
+              5.295292186678285,
+              44.98609648738699
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64345,
+      "code_cant" : "24",
+      "x_centroid" : 8796,
+      "nom_dept" : "DROME",
+      "id_geofla" : 28654,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.98525750448599,
+        5.279756590140087
+      ],
+      "code_comm" : "316",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.279756590140087,
+        44.98525750448599
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

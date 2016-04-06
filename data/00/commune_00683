@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d0072776ed8ee0c1c678ff87ad7f03b0081e4ad9",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 365,
+      "insee_com" : "49238",
+      "z_moyen" : 43,
+      "code_dept" : "49",
+      "nom_comm" : "PELLOUAILLES-LES-VIGNES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4411,
+      "y_centroid" : 67203,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.438351431866266,
+              47.51531293598686
+            ],
+            [
+              -0.463871918327072,
+              47.53889321893929
+            ],
+            [
+              -0.465689890621053,
+              47.54558772449347
+            ],
+            [
+              -0.457654288318271,
+              47.54788068169812
+            ],
+            [
+              -0.445705797455578,
+              47.53325991408193
+            ],
+            [
+              -0.435791591516392,
+              47.53259761093937
+            ],
+            [
+              -0.436192945151706,
+              47.51587218443488
+            ],
+            [
+              -0.438351431866266,
+              47.51531293598686
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67191,
+      "code_cant" : "01",
+      "x_centroid" : 4405,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 14295,
+      "statut" : "Commune simple",
+      "population" : 2.5,
+      "geom_x_y" : [
+        47.53232114676482,
+        -0.4492637094640614
+      ],
+      "code_comm" : "238",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4492637094640614,
+        47.53232114676482
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

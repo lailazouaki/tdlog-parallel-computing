@@ -1,0 +1,79 @@
+  {
+    "recordid" : "5aed76dffb9f73fb45c54ea3ef4e8c2e25e7cdd0",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 710,
+      "insee_com" : "38427",
+      "z_moyen" : 588,
+      "code_dept" : "38",
+      "nom_comm" : "SAINT-MICHEL-DE-SAINT-GEOIRS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8845,
+      "y_centroid" : 64695,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.353571148667868,
+              45.28505397111492
+            ],
+            [
+              5.353110076741125,
+              45.29136051786787
+            ],
+            [
+              5.33993341342966,
+              45.30489725286303
+            ],
+            [
+              5.341416585057454,
+              45.3152798795699
+            ],
+            [
+              5.36995880209339,
+              45.31061610826336
+            ],
+            [
+              5.376719029078288,
+              45.30119396840323
+            ],
+            [
+              5.373835508835337,
+              45.28744526081375
+            ],
+            [
+              5.36713239333895,
+              45.2858667458193
+            ],
+            [
+              5.353571148667868,
+              45.28505397111492
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64700,
+      "code_cant" : "26",
+      "x_centroid" : 8848,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 24936,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.30051009859945,
+        5.359149824719862
+      ],
+      "code_comm" : "427",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.359149824719862,
+        45.30051009859945
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

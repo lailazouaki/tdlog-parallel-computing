@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ceaf893c15ccbaa7d09fb516d8051773f7aaca59",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 1004,
+      "insee_com" : "70115",
+      "z_moyen" : 341,
+      "code_dept" : "70",
+      "nom_comm" : "CERRE-LES-NOROY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9491,
+      "y_centroid" : 67260,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.323308493075104,
+              47.56700523049714
+            ],
+            [
+              6.299045005207753,
+              47.57180241451029
+            ],
+            [
+              6.296267379239534,
+              47.57834950682762
+            ],
+            [
+              6.301850193223114,
+              47.59779535361626
+            ],
+            [
+              6.312268124458351,
+              47.6051307414904
+            ],
+            [
+              6.332349680986407,
+              47.60673018370428
+            ],
+            [
+              6.339711880632848,
+              47.59579875157863
+            ],
+            [
+              6.323308493075104,
+              47.56700523049714
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67274,
+      "code_cant" : "18",
+      "x_centroid" : 9492,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 17865,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.58765721117383,
+        6.317278294783878
+      ],
+      "code_comm" : "115",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.317278294783878,
+        47.58765721117383
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

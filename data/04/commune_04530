@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3b9397f3c1077ef46e9d1dc1d0f42d38e109f3a2",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 355,
+      "insee_com" : "91665",
+      "z_moyen" : 116,
+      "code_dept" : "91",
+      "nom_comm" : "LA VILLE-DU-BOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6461,
+      "y_centroid" : 68403,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.257880670657986,
+              48.65014952436092
+            ],
+            [
+              2.250865228589127,
+              48.66604506239389
+            ],
+            [
+              2.264980876618781,
+              48.67043258024147
+            ],
+            [
+              2.277011555011158,
+              48.67057810806104
+            ],
+            [
+              2.276122658583966,
+              48.66022836796183
+            ],
+            [
+              2.273006686282875,
+              48.6519068730687
+            ],
+            [
+              2.257880670657986,
+              48.65014952436092
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68402,
+      "code_cant" : "20",
+      "x_centroid" : 6458,
+      "nom_dept" : "ESSONNE",
+      "id_geofla" : 32496,
+      "statut" : "Commune simple",
+      "population" : 7.2,
+      "geom_x_y" : [
+        48.66101949749979,
+        2.265034309844052
+      ],
+      "code_comm" : "665",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.265034309844052,
+        48.66101949749979
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

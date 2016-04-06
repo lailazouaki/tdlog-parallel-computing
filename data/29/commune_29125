@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6d89a3a5619953affe28c571d9382fb6ced51379",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 235,
+      "insee_com" : "68357",
+      "z_moyen" : 286,
+      "code_dept" : "68",
+      "nom_comm" : "WALTENHEIM",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10320,
+      "y_centroid" : 67376,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.421060016008997,
+              47.64755736049435
+            ],
+            [
+              7.410240137250412,
+              47.64884110669829
+            ],
+            [
+              7.412773053406187,
+              47.66058204600964
+            ],
+            [
+              7.432540033748498,
+              47.66368272895726
+            ],
+            [
+              7.437081805425303,
+              47.65876828665883
+            ],
+            [
+              7.429710071195283,
+              47.6503486509825
+            ],
+            [
+              7.421060016008997,
+              47.64755736049435
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67378,
+      "code_cant" : "13",
+      "x_centroid" : 10318,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 21872,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        47.65561655239747,
+        7.422890707267546
+      ],
+      "code_comm" : "357",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.422890707267546,
+        47.65561655239747
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

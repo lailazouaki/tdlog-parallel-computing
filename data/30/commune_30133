@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8dc2de1fe263574ee686138dc17f9d2ff2c7e1c4",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 843,
+      "insee_com" : "06039",
+      "z_moyen" : 602,
+      "code_dept" : "06",
+      "nom_comm" : "CHATEAUNEUF-VILLEVIEILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10455,
+      "y_centroid" : 63094,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.292163889596884,
+              43.77764719728092
+            ],
+            [
+              7.272428934143297,
+              43.81596741650471
+            ],
+            [
+              7.285226192209454,
+              43.81484294855854
+            ],
+            [
+              7.293121025513114,
+              43.82168783516996
+            ],
+            [
+              7.30121850762472,
+              43.82359450510224
+            ],
+            [
+              7.30271755089544,
+              43.79921121064229
+            ],
+            [
+              7.317362354120208,
+              43.78521241436518
+            ],
+            [
+              7.292163889596884,
+              43.77764719728092
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63104,
+      "code_cant" : "07",
+      "x_centroid" : 10454,
+      "nom_dept" : "ALPES-MARITIMES",
+      "id_geofla" : 19097,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        43.79990982784079,
+        7.294124231757013
+      ],
+      "code_comm" : "039",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.294124231757013,
+        43.79990982784079
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

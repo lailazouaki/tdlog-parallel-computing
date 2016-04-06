@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7104b9ff42430b55e2e8be3bb9883ee2a35b0af9",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 412,
+      "insee_com" : "22368",
+      "z_moyen" : 66,
+      "code_dept" : "22",
+      "nom_comm" : "TREMEREUC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3264,
+      "y_centroid" : 68409,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.052744649439266,
+              48.55191285837319
+            ],
+            [
+              -2.074316245996035,
+              48.55202083832155
+            ],
+            [
+              -2.080555468796356,
+              48.56804266848759
+            ],
+            [
+              -2.060069101028928,
+              48.57009773718989
+            ],
+            [
+              -2.047377340188504,
+              48.56412054728948
+            ],
+            [
+              -2.052744649439266,
+              48.55191285837319
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68406,
+      "code_cant" : "37",
+      "x_centroid" : 3265,
+      "nom_dept" : "COTES-D'ARMOR",
+      "id_geofla" : 25027,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        48.56082486619218,
+        -2.063988617284285
+      ],
+      "code_comm" : "368",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.063988617284285,
+        48.56082486619218
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

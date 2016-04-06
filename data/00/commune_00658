@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e649c501d5ce7a13aad99e3707f73fe1813c4264",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 642,
+      "insee_com" : "11105",
+      "z_moyen" : 246,
+      "code_dept" : "11",
+      "nom_comm" : "COURNANEL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6375,
+      "y_centroid" : 62147,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.230240421801638,
+              43.0157041700268
+            ],
+            [
+              2.21740462000954,
+              43.02409296983883
+            ],
+            [
+              2.219715139544869,
+              43.03639572332973
+            ],
+            [
+              2.240825147514505,
+              43.04415575561586
+            ],
+            [
+              2.251278647801943,
+              43.03707859974402
+            ],
+            [
+              2.251949084708459,
+              43.02314242214516
+            ],
+            [
+              2.230240421801638,
+              43.0157041700268
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62151,
+      "code_cant" : "20",
+      "x_centroid" : 6376,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 14140,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        43.02976992448252,
+        2.235282665080044
+      ],
+      "code_comm" : "105",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.235282665080044,
+        43.02976992448252
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

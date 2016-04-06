@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5f948d97c707283c49988ea1e4438c8d90a42189",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 453,
+      "insee_com" : "68363",
+      "z_moyen" : 415,
+      "code_dept" : "68",
+      "nom_comm" : "WERENTZHOUSE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10277,
+      "y_centroid" : 67224,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.360215871788045,
+              47.50846380906676
+            ],
+            [
+              7.351702870081204,
+              47.50833156332928
+            ],
+            [
+              7.34450143569837,
+              47.51893191690118
+            ],
+            [
+              7.364004108943733,
+              47.53318599041324
+            ],
+            [
+              7.38480027312543,
+              47.5293307187143
+            ],
+            [
+              7.360215871788045,
+              47.50846380906676
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67219,
+      "code_cant" : "07",
+      "x_centroid" : 10281,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 28056,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        47.52122169962645,
+        7.362660324465371
+      ],
+      "code_comm" : "363",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.362660324465371,
+        47.52122169962645
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

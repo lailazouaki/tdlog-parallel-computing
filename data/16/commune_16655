@@ -1,0 +1,75 @@
+  {
+    "recordid" : "59d46cad8d32537a7bc35b175f8c91fc94caa5ba",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 821,
+      "insee_com" : "14325",
+      "z_moyen" : 21,
+      "code_dept" : "14",
+      "nom_comm" : "HERMANVILLE-SUR-MER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4588,
+      "y_centroid" : 69143,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.333819159953741,
+              49.26564155435672
+            ],
+            [
+              -0.340929450565935,
+              49.26758622259927
+            ],
+            [
+              -0.357313872664824,
+              49.27300671469417
+            ],
+            [
+              -0.349103087781565,
+              49.2789215171963
+            ],
+            [
+              -0.332049367564488,
+              49.28871522457854
+            ],
+            [
+              -0.309228859576269,
+              49.30071590100209
+            ],
+            [
+              -0.287497549325131,
+              49.29455300752396
+            ],
+            [
+              -0.333819159953741,
+              49.26564155435672
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69144,
+      "code_cant" : "14",
+      "x_centroid" : 4582,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 20028,
+      "statut" : "Commune simple",
+      "population" : 2.7,
+      "geom_x_y" : [
+        49.28324715923715,
+        -0.3229773833297327
+      ],
+      "code_comm" : "325",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3229773833297327,
+        49.28324715923715
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

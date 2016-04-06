@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d52d0639087917d634d60098c64ab882cbbffa8a",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 504,
+      "insee_com" : "17481",
+      "z_moyen" : 16,
+      "code_dept" : "17",
+      "nom_comm" : "VOISSAY",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4208,
+      "y_centroid" : 65449,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.614005101824855,
+              45.9367962323966
+            ],
+            [
+              -0.620352446280645,
+              45.9539459396257
+            ],
+            [
+              -0.600826587682215,
+              45.95674156455187
+            ],
+            [
+              -0.585017713590243,
+              45.95432301060409
+            ],
+            [
+              -0.587425163381266,
+              45.93891349127044
+            ],
+            [
+              -0.614005101824855,
+              45.9367962323966
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65455,
+      "code_cant" : "29",
+      "x_centroid" : 4210,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 9423,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.94707005375967,
+        -0.6020744401084506
+      ],
+      "code_comm" : "481",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6020744401084506,
+        45.94707005375967
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

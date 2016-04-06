@@ -1,0 +1,67 @@
+  {
+    "recordid" : "64c9cd8a0686973f4528f3d2bfaa9bab17973616",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 64,
+      "insee_com" : "67450",
+      "z_moyen" : 131,
+      "code_dept" : "67",
+      "nom_comm" : "SCHIRRHOFFEN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10612,
+      "y_centroid" : 68676,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.931954583599897,
+              48.80757210688677
+            ],
+            [
+              7.919066563565906,
+              48.80328286299598
+            ],
+            [
+              7.915347900760798,
+              48.80536440162578
+            ],
+            [
+              7.931611613385949,
+              48.81057797919681
+            ],
+            [
+              7.935731000865534,
+              48.80927235225928
+            ],
+            [
+              7.931954583599897,
+              48.80757210688677
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68674,
+      "code_cant" : "03",
+      "x_centroid" : 10615,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 2417,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.80699863450098,
+        7.925376755082558
+      ],
+      "code_comm" : "450",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.925376755082558,
+        48.80699863450098
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

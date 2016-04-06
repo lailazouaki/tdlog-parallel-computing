@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c076968ccbc4bbb7d27147b58707928bae2133a6",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 353,
+      "insee_com" : "70474",
+      "z_moyen" : 279,
+      "code_dept" : "70",
+      "nom_comm" : "SAINT-SULPICE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9591,
+      "y_centroid" : 67247,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.456847428674993,
+              47.56441090707032
+            ],
+            [
+              6.44336467428361,
+              47.56072840282054
+            ],
+            [
+              6.437842065150764,
+              47.5803976581407
+            ],
+            [
+              6.437132113981807,
+              47.58240073352323
+            ],
+            [
+              6.455749903375573,
+              47.58201275377146
+            ],
+            [
+              6.465511532258283,
+              47.56807304054178
+            ],
+            [
+              6.456847428674993,
+              47.56441090707032
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67240,
+      "code_cant" : "27",
+      "x_centroid" : 9593,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 33199,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.57253340142497,
+        6.450173567547952
+      ],
+      "code_comm" : "474",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.450173567547952,
+        47.57253340142497
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

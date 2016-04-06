@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b3e0e73f27ca8f50b4f4b7d9c891328577514028",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 612,
+      "insee_com" : "60036",
+      "z_moyen" : 96,
+      "code_dept" : "60",
+      "nom_comm" : "AVRIGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6695,
+      "y_centroid" : 69211,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.576661928773742,
+              49.3676786255823
+            ],
+            [
+              2.563445883053532,
+              49.38423386056574
+            ],
+            [
+              2.558597357659944,
+              49.38446794627315
+            ],
+            [
+              2.571271872942512,
+              49.40509735898679
+            ],
+            [
+              2.593075779813784,
+              49.39992337594504
+            ],
+            [
+              2.593447498399573,
+              49.39295850745291
+            ],
+            [
+              2.576661928773742,
+              49.3676786255823
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69202,
+      "code_cant" : "08",
+      "x_centroid" : 6692,
+      "nom_dept" : "OISE",
+      "id_geofla" : 34724,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.38907708107598,
+        2.57702799562358
+      ],
+      "code_comm" : "036",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.57702799562358,
+        49.38907708107598
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

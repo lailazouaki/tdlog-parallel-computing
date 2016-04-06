@@ -1,0 +1,67 @@
+  {
+    "recordid" : "63cb86533a545aee4b6f5faba683e4b990219795",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 77,
+      "insee_com" : "95282",
+      "z_moyen" : 110,
+      "code_dept" : "95",
+      "nom_comm" : "GOUZANGREZ",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6201,
+      "y_centroid" : 68910,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.91367285774808,
+              49.10784164959426
+            ],
+            [
+              1.905776965436601,
+              49.11141180107871
+            ],
+            [
+              1.898965609764346,
+              49.11417310128883
+            ],
+            [
+              1.908716602157838,
+              49.11946825425386
+            ],
+            [
+              1.914636205200009,
+              49.11416266520232
+            ],
+            [
+              1.91367285774808,
+              49.10784164959426
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68908,
+      "code_cant" : "27",
+      "x_centroid" : 6203,
+      "nom_dept" : "VAL-D'OISE",
+      "id_geofla" : 30491,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.11386443900593,
+        1.908368796162674
+      ],
+      "code_comm" : "282",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.908368796162674,
+        49.11386443900593
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

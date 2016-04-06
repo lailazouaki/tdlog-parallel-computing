@@ -1,0 +1,71 @@
+  {
+    "recordid" : "97dad30f28a5ac95e6711f5ccd42d77447390ab4",
+    "fields" : {
+      "nom_region" : "AUVERGNE",
+      "superficie" : 455,
+      "insee_com" : "03188",
+      "z_moyen" : 286,
+      "code_dept" : "03",
+      "nom_comm" : "MONTORD",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7177,
+      "y_centroid" : 65766,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.257341870142108,
+              46.28020302939327
+            ],
+            [
+              3.221362602168828,
+              46.28550143258165
+            ],
+            [
+              3.218593833440015,
+              46.28819921447592
+            ],
+            [
+              3.228920209449529,
+              46.30062355225597
+            ],
+            [
+              3.246457134140816,
+              46.29720116164916
+            ],
+            [
+              3.261343656928242,
+              46.28600202211398
+            ],
+            [
+              3.257341870142108,
+              46.28020302939327
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65770,
+      "code_cant" : "26",
+      "x_centroid" : 7184,
+      "nom_dept" : "ALLIER",
+      "id_geofla" : 28657,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.28979248441391,
+        3.239623216452072
+      ],
+      "code_comm" : "188",
+      "code_reg" : "83"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.239623216452072,
+        46.28979248441391
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

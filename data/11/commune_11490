@@ -1,0 +1,79 @@
+  {
+    "recordid" : "2adebe9c42b13c2af227c0411cd1e53ee93f480e",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 225,
+      "insee_com" : "62425",
+      "z_moyen" : 110,
+      "code_dept" : "62",
+      "nom_comm" : "HENDECOURT-LES-RANSART",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6808,
+      "y_centroid" : 70122,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.732553445359864,
+              50.20056726341032
+            ],
+            [
+              2.716053714556244,
+              50.20653774052802
+            ],
+            [
+              2.706733549742716,
+              50.2068301680253
+            ],
+            [
+              2.732516452639942,
+              50.21287836240322
+            ],
+            [
+              2.737992828375573,
+              50.2173350493664
+            ],
+            [
+              2.741698014637067,
+              50.21251185419221
+            ],
+            [
+              2.745635933641509,
+              50.21414536937813
+            ],
+            [
+              2.748125618148642,
+              50.21157333726472
+            ],
+            [
+              2.732553445359864,
+              50.20056726341032
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70119,
+      "code_cant" : "10",
+      "x_centroid" : 6808,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 17452,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.2083901157443,
+        2.731428771569172
+      ],
+      "code_comm" : "425",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.731428771569172,
+        50.2083901157443
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9fbf868cdd55cf9da1225c2aefc14e8999fd8efa",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 265,
+      "insee_com" : "27089",
+      "z_moyen" : 133,
+      "code_dept" : "27",
+      "nom_comm" : "BOSC-RENOULT-EN-ROUMOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5382,
+      "y_centroid" : 69133,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.766727137023102,
+              49.28766256807843
+            ],
+            [
+              0.763587106298957,
+              49.28937605028695
+            ],
+            [
+              0.761396613890053,
+              49.29550465145021
+            ],
+            [
+              0.766780907305711,
+              49.30771785294834
+            ],
+            [
+              0.771164227983014,
+              49.30908483006815
+            ],
+            [
+              0.784205516177036,
+              49.30485544898468
+            ],
+            [
+              0.7816118182359451,
+              49.29544622286066
+            ],
+            [
+              0.766727137023102,
+              49.28766256807843
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69129,
+      "code_cant" : "07",
+      "x_centroid" : 5379,
+      "nom_dept" : "EURE",
+      "id_geofla" : 20579,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.29895216739101,
+        0.7720877539687324
+      ],
+      "code_comm" : "089",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7720877539687324,
+        49.29895216739101
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

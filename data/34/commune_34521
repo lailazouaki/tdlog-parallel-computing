@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7fa155574c812b424e67c6ffaa389d464a4f703b",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 636,
+      "insee_com" : "71488",
+      "z_moyen" : 257,
+      "code_dept" : "71",
+      "nom_comm" : "SAINT-VINCENT-DES-PRES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8200,
+      "y_centroid" : 65983,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.544702900677444,
+              46.46148316787513
+            ],
+            [
+              4.535537836859848,
+              46.46415548485147
+            ],
+            [
+              4.540464937860928,
+              46.48401999487654
+            ],
+            [
+              4.568159945937524,
+              46.48725490095337
+            ],
+            [
+              4.571960667794811,
+              46.48295171892414
+            ],
+            [
+              4.575985848219021,
+              46.46703614124647
+            ],
+            [
+              4.556602266560517,
+              46.46697762228872
+            ],
+            [
+              4.544702900677444,
+              46.46148316787513
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65988,
+      "code_cant" : "12",
+      "x_centroid" : 8193,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 34880,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.47485422156718,
+        4.555215197731568
+      ],
+      "code_comm" : "488",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.555215197731568,
+        46.47485422156718
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

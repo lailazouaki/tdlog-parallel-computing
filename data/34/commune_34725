@@ -1,0 +1,75 @@
+  {
+    "recordid" : "17a4199488677956051963b4621d5cfdfdbf7bb8",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 126,
+      "insee_com" : "77331",
+      "z_moyen" : 111,
+      "code_dept" : "77",
+      "nom_comm" : "NANTEUIL-SUR-MARNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7161,
+      "y_centroid" : 68756,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.209801327512107,
+              48.97130512589684
+            ],
+            [
+              3.21646370742382,
+              48.98365762109686
+            ],
+            [
+              3.22484087204021,
+              48.98732900662772
+            ],
+            [
+              3.229176905886297,
+              48.98841784600256
+            ],
+            [
+              3.231215509187777,
+              48.97675104540534
+            ],
+            [
+              3.229561302596842,
+              48.97645747813895
+            ],
+            [
+              3.21573259916611,
+              48.97538609056486
+            ],
+            [
+              3.209801327512107,
+              48.97130512589684
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68754,
+      "code_cant" : "12",
+      "x_centroid" : 7162,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 34305,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.98051097370931,
+        3.222328398854489
+      ],
+      "code_comm" : "331",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.222328398854489,
+        48.98051097370931
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

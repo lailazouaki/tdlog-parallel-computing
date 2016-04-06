@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e76a1e5578e62e6de08ce73f9d6246d7c2d4cbcd",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 454,
+      "insee_com" : "31330",
+      "z_moyen" : 234,
+      "code_dept" : "31",
+      "nom_comm" : "MAURESSAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5729,
+      "y_centroid" : 62481,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.429270999761017,
+              43.30692345576448
+            ],
+            [
+              1.414855352826342,
+              43.31859883245824
+            ],
+            [
+              1.415860212486549,
+              43.32194267557784
+            ],
+            [
+              1.441225158740274,
+              43.33049909207512
+            ],
+            [
+              1.451690497408494,
+              43.3373436533457
+            ],
+            [
+              1.453141008759076,
+              43.33152494626254
+            ],
+            [
+              1.44241774822682,
+              43.31647105775396
+            ],
+            [
+              1.429270999761017,
+              43.30692345576448
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62484,
+      "code_cant" : "03",
+      "x_centroid" : 5729,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 23639,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.32122500248171,
+        1.434283093977216
+      ],
+      "code_comm" : "330",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.434283093977216,
+        43.32122500248171
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

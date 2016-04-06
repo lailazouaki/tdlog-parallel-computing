@@ -1,0 +1,67 @@
+  {
+    "recordid" : "04a3876cc2108f9205fdd02f0d6b8a2faf4abb48",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 664,
+      "insee_com" : "10346",
+      "z_moyen" : 127,
+      "code_dept" : "10",
+      "nom_comm" : "SAINT-LEGER-SOUS-MARGERIE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8098,
+      "y_centroid" : 68266,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.490167948464477,
+              48.51471092418843
+            ],
+            [
+              4.464143845280725,
+              48.53718570346064
+            ],
+            [
+              4.463403724834659,
+              48.54755954264292
+            ],
+            [
+              4.495280832863569,
+              48.53872358042404
+            ],
+            [
+              4.513084129184739,
+              48.52230310669045
+            ],
+            [
+              4.490167948464477,
+              48.51471092418843
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68267,
+      "code_cant" : "08",
+      "x_centroid" : 8097,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 12158,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.53084909397334,
+        4.486658071655149
+      ],
+      "code_comm" : "346",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.486658071655149,
+        48.53084909397334
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5883c7b64df73fceebf8bdfb934375fd5b3037b1",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 224,
+      "insee_com" : "62066",
+      "z_moyen" : 127,
+      "code_dept" : "62",
+      "nom_comm" : "AVONDANCE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6358,
+      "y_centroid" : 70427,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.108242868555978,
+              50.47269576088251
+            ],
+            [
+              2.095075571459136,
+              50.47354273513329
+            ],
+            [
+              2.087681589189738,
+              50.48491600204067
+            ],
+            [
+              2.107782545062925,
+              50.48518822572758
+            ],
+            [
+              2.113783595595885,
+              50.47597623545421
+            ],
+            [
+              2.108242868555978,
+              50.47269576088251
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70424,
+      "code_cant" : "24",
+      "x_centroid" : 6361,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 34333,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        50.47928381471463,
+        2.101251974129782
+      ],
+      "code_comm" : "066",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.101251974129782,
+        50.47928381471463
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

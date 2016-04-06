@@ -1,0 +1,67 @@
+  {
+    "recordid" : "871e4f63bf7e6608f1207893f4fc1b8bcc511186",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 86,
+      "insee_com" : "42232",
+      "z_moyen" : 414,
+      "code_dept" : "42",
+      "nom_comm" : "SAINT-HAON-LE-CHATEL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7707,
+      "y_centroid" : 65520,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.923311695832333,
+              46.06483414320918
+            ],
+            [
+              3.918568415304095,
+              46.06046895632035
+            ],
+            [
+              3.910529465935806,
+              46.06091200739315
+            ],
+            [
+              3.915065111653439,
+              46.06916057536401
+            ],
+            [
+              3.919168844362637,
+              46.0700729773605
+            ],
+            [
+              3.923311695832333,
+              46.06483414320918
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65521,
+      "code_cant" : "27",
+      "x_centroid" : 7708,
+      "nom_dept" : "LOIRE",
+      "id_geofla" : 12288,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.6,
+      "geom_x_y" : [
+        46.06476531234976,
+        3.917076353728468
+      ],
+      "code_comm" : "232",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.917076353728468,
+        46.06476531234976
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "24a3d37e193cb90bfe65e18df981456b32906aad",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 298,
+      "insee_com" : "65102",
+      "z_moyen" : 298,
+      "code_dept" : "65",
+      "nom_comm" : "BOUILH-DEVANT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4776,
+      "y_centroid" : 62524,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.267934765233913,
+              43.32678566780989
+            ],
+            [
+              0.264226716904602,
+              43.32490065666179
+            ],
+            [
+              0.250429018890397,
+              43.33164366640176
+            ],
+            [
+              0.249275167356025,
+              43.34341513221815
+            ],
+            [
+              0.272329248141656,
+              43.34595234381188
+            ],
+            [
+              0.273116992917733,
+              43.33921221402259
+            ],
+            [
+              0.267934765233913,
+              43.32678566780989
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62517,
+      "code_cant" : "18",
+      "x_centroid" : 4778,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 23418,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.3365484114091,
+        0.2614929159746388
+      ],
+      "code_comm" : "102",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2614929159746388,
+        43.3365484114091
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

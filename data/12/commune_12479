@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1151099a00df0aad8ef90544e7bb68f55a95cda4",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 305,
+      "insee_com" : "55162",
+      "z_moyen" : 243,
+      "code_dept" : "55",
+      "nom_comm" : "DOMREMY-LA-CANNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8959,
+      "y_centroid" : 69142,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.689220005617641,
+              49.28675433144664
+            ],
+            [
+              5.685762524424202,
+              49.28848635437514
+            ],
+            [
+              5.681698788772835,
+              49.29787713671353
+            ],
+            [
+              5.684139063173132,
+              49.3072491365869
+            ],
+            [
+              5.696187303649189,
+              49.30721449502322
+            ],
+            [
+              5.703066392039712,
+              49.30250940435771
+            ],
+            [
+              5.706758638211124,
+              49.2929193244953
+            ],
+            [
+              5.689220005617641,
+              49.28675433144664
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69141,
+      "code_cant" : "19",
+      "x_centroid" : 8958,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 22296,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.297644364105,
+        5.693106221818582
+      ],
+      "code_comm" : "162",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.693106221818582,
+        49.297644364105
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

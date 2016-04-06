@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0166c478e202e6b2ba4a5eda2ca535c1e073228d",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 862,
+      "insee_com" : "04142",
+      "z_moyen" : 551,
+      "code_dept" : "04",
+      "nom_comm" : "OPPEDETTE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9079,
+      "y_centroid" : 63180,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.606559560896426,
+              43.91608249649261
+            ],
+            [
+              5.58337079440786,
+              43.91591322319267
+            ],
+            [
+              5.567633131710457,
+              43.94263999661688
+            ],
+            [
+              5.607176495387239,
+              43.94430572308205
+            ],
+            [
+              5.613494824100647,
+              43.92363351140811
+            ],
+            [
+              5.606559560896426,
+              43.91608249649261
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63184,
+      "code_cant" : "20",
+      "x_centroid" : 9081,
+      "nom_dept" : "ALPES-DE-HAUTE-PROVENCE",
+      "id_geofla" : 15573,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.93066047638054,
+        5.592743303629325
+      ],
+      "code_comm" : "142",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.592743303629325,
+        43.93066047638054
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

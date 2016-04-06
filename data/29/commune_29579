@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c5c94124b6e49add6e2663cd14641504c38d394f",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 646,
+      "insee_com" : "73140",
+      "z_moyen" : 465,
+      "code_dept" : "73",
+      "nom_comm" : "JONGIEUX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9175,
+      "y_centroid" : 65190,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.793433321347117,
+              45.72171334479686
+            ],
+            [
+              5.785369518689992,
+              45.72992326358155
+            ],
+            [
+              5.7804137690074,
+              45.74292157721037
+            ],
+            [
+              5.783591543646681,
+              45.74520389877969
+            ],
+            [
+              5.811342626001304,
+              45.74984051411238
+            ],
+            [
+              5.823173305367383,
+              45.73250577382241
+            ],
+            [
+              5.793433321347117,
+              45.72171334479686
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65193,
+      "code_cant" : "29",
+      "x_centroid" : 9177,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 11616,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        45.73664154535623,
+        5.800691302874442
+      ],
+      "code_comm" : "140",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.800691302874442,
+        45.73664154535623
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

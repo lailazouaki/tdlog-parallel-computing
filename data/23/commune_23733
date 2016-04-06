@@ -1,0 +1,75 @@
+  {
+    "recordid" : "da9bd922d0170b83a41cb625c5552e9badbbd6bf",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 575,
+      "insee_com" : "14016",
+      "z_moyen" : 128,
+      "code_dept" : "14",
+      "nom_comm" : "ANNEBAULT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4859,
+      "y_centroid" : 69094,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.06421026275157,
+              49.23474946335823
+            ],
+            [
+              0.051884933405209,
+              49.2410518128651
+            ],
+            [
+              0.036770210423493,
+              49.24370392773152
+            ],
+            [
+              0.031307449702352,
+              49.24957897785445
+            ],
+            [
+              0.033533050842471,
+              49.25270144291182
+            ],
+            [
+              0.044915703003951,
+              49.2634523311737
+            ],
+            [
+              0.07896495203083,
+              49.24811621473874
+            ],
+            [
+              0.06421026275157,
+              49.23474946335823
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69098,
+      "code_cant" : "15",
+      "x_centroid" : 4855,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 31429,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.2489660240496,
+        0.05404996280196342
+      ],
+      "code_comm" : "016",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.05404996280196342,
+        49.2489660240496
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dd1fc75a0ce63f36e90badee1f77a73f9d24ef6c",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 560,
+      "insee_com" : "65288",
+      "z_moyen" : 324,
+      "code_dept" : "65",
+      "nom_comm" : "LUBRET-SAINT-LUC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4810,
+      "y_centroid" : 62500,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.31353960312145,
+              43.30726215513072
+            ],
+            [
+              0.276822853518532,
+              43.30646931713803
+            ],
+            [
+              0.279836619229807,
+              43.31390808707658
+            ],
+            [
+              0.285159970472144,
+              43.32284500121595
+            ],
+            [
+              0.31244841466632,
+              43.32696520734759
+            ],
+            [
+              0.316128296788866,
+              43.32022483809993
+            ],
+            [
+              0.313764485255575,
+              43.30984201034913
+            ],
+            [
+              0.31353960312145,
+              43.30726215513072
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62499,
+      "code_cant" : "24",
+      "x_centroid" : 4807,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 21557,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.31559413986057,
+        0.2981643748808507
+      ],
+      "code_comm" : "288",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2981643748808507,
+        43.31559413986057
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

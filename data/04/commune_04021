@@ -1,0 +1,71 @@
+  {
+    "recordid" : "06b9f26417be0445a38bef0e87c08e93f05db62c",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 356,
+      "insee_com" : "39503",
+      "z_moyen" : 633,
+      "code_dept" : "39",
+      "nom_comm" : "SAPOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9246,
+      "y_centroid" : 66316,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.947596773457088,
+              46.7328184433191
+            ],
+            [
+              5.929089247917743,
+              46.74779869317843
+            ],
+            [
+              5.937440837569999,
+              46.75557744289985
+            ],
+            [
+              5.960537813206801,
+              46.75600248885455
+            ],
+            [
+              5.963047160305832,
+              46.74745901193564
+            ],
+            [
+              5.955153746180215,
+              46.74477011560802
+            ],
+            [
+              5.947596773457088,
+              46.7328184433191
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66319,
+      "code_cant" : "06",
+      "x_centroid" : 9248,
+      "nom_dept" : "JURA",
+      "id_geofla" : 32037,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.74733281958281,
+        5.94642241824032
+      ],
+      "code_comm" : "503",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.94642241824032,
+        46.74733281958281
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "859e8c37f64345493e80d2a3f9ab87a9cc5e4538",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 373,
+      "insee_com" : "70396",
+      "z_moyen" : 331,
+      "code_dept" : "70",
+      "nom_comm" : "ORICOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9549,
+      "y_centroid" : 67273,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.39827874208894,
+              47.5851699826538
+            ],
+            [
+              6.389342048653216,
+              47.5866192652835
+            ],
+            [
+              6.383359016857817,
+              47.59160402128597
+            ],
+            [
+              6.381595994664131,
+              47.60119612930551
+            ],
+            [
+              6.394170788087914,
+              47.60894851550317
+            ],
+            [
+              6.409682787323709,
+              47.6019283468647
+            ],
+            [
+              6.39827874208894,
+              47.5851699826538
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67271,
+      "code_cant" : "27",
+      "x_centroid" : 9550,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 26291,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.59717339204325,
+        6.394534803700108
+      ],
+      "code_comm" : "396",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.394534803700108,
+        47.59717339204325
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

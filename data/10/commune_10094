@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b6af05a184aa3f888e2f96b419d998d0d8c67e6f",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 437,
+      "insee_com" : "66064",
+      "z_moyen" : 1701,
+      "code_dept" : "66",
+      "nom_comm" : "EGAT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6190,
+      "y_centroid" : 61562,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.021662908226037,
+              42.48675811789297
+            ],
+            [
+              2.013743323514723,
+              42.48821346972824
+            ],
+            [
+              2.005086107456808,
+              42.49444399009242
+            ],
+            [
+              2.009057307865271,
+              42.51313519903824
+            ],
+            [
+              2.03090597068329,
+              42.51167266601247
+            ],
+            [
+              2.021662908226037,
+              42.48675811789297
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61560,
+      "code_cant" : "13",
+      "x_centroid" : 6190,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 14926,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        42.50121255817635,
+        2.017132109562235
+      ],
+      "code_comm" : "064",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.017132109562235,
+        42.50121255817635
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,63 @@
+  {
+    "recordid" : "a16349b66053917677c0dc3d790a223824ad03c7",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 68,
+      "insee_com" : "67512",
+      "z_moyen" : 183,
+      "code_dept" : "67",
+      "nom_comm" : "LA WALCK",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10381,
+      "y_centroid" : 68712,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.616567165270734,
+              48.84873014266579
+            ],
+            [
+              7.603485805597819,
+              48.8496040987729
+            ],
+            [
+              7.610339084378094,
+              48.8576278178592
+            ],
+            [
+              7.618404528845024,
+              48.85436163070278
+            ],
+            [
+              7.616567165270734,
+              48.84873014266579
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68709,
+      "code_cant" : "15",
+      "x_centroid" : 10382,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 33262,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        48.8524895736404,
+        7.611705554021012
+      ],
+      "code_comm" : "512",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.611705554021012,
+        48.8524895736404
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

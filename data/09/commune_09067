@@ -1,0 +1,75 @@
+  {
+    "recordid" : "69a84f9aaf5db78c3aef2ffe8a9114a547fbe8e0",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1136,
+      "insee_com" : "04027",
+      "z_moyen" : 649,
+      "code_dept" : "04",
+      "nom_comm" : "BEVONS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9311,
+      "y_centroid" : 63463,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.900015857416016,
+              44.15490111974222
+            ],
+            [
+              5.884301715281762,
+              44.16695235127236
+            ],
+            [
+              5.856050550909114,
+              44.16476467685533
+            ],
+            [
+              5.852039056998189,
+              44.16660736585431
+            ],
+            [
+              5.85929362943624,
+              44.18221613602601
+            ],
+            [
+              5.859057255819693,
+              44.19517398627767
+            ],
+            [
+              5.900313243943327,
+              44.19087555825144
+            ],
+            [
+              5.900015857416016,
+              44.15490111974222
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63457,
+      "code_cant" : "18",
+      "x_centroid" : 9301,
+      "nom_dept" : "ALPES-DE-HAUTE-PROVENCE",
+      "id_geofla" : 14392,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.17799647692705,
+        5.87895928741083
+      ],
+      "code_comm" : "027",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.87895928741083,
+        44.17799647692705
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

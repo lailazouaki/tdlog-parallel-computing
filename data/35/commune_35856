@@ -1,0 +1,63 @@
+  {
+    "recordid" : "246bddadf94dc4c480542743cad324d06d895965",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 91,
+      "insee_com" : "90060",
+      "z_moyen" : 375,
+      "code_dept" : "90",
+      "nom_comm" : "LAGRANGE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9984,
+      "y_centroid" : 67390,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.976734500770128,
+              47.67817211266976
+            ],
+            [
+              6.967519151773596,
+              47.69025529459513
+            ],
+            [
+              6.983602492113652,
+              47.68578777584855
+            ],
+            [
+              6.983860751663322,
+              47.68031755631972
+            ],
+            [
+              6.976734500770128,
+              47.67817211266976
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67386,
+      "code_cant" : "03",
+      "x_centroid" : 9982,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 4259,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.68405876840183,
+        6.977069624005249
+      ],
+      "code_comm" : "060",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.977069624005249,
+        47.68405876840183
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "0fd169fc39f55099fec31bbe8faad5a41b481e9e",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 269,
+      "insee_com" : "62378",
+      "z_moyen" : 95,
+      "code_dept" : "62",
+      "nom_comm" : "GOUVES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6740,
+      "y_centroid" : 70221,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.652343379939757,
+              50.28491591582466
+            ],
+            [
+              2.630452231050016,
+              50.29864353651514
+            ],
+            [
+              2.630067623959728,
+              50.30523267505704
+            ],
+            [
+              2.639523445573257,
+              50.30818768723918
+            ],
+            [
+              2.662341272052092,
+              50.28816709355377
+            ],
+            [
+              2.652343379939757,
+              50.28491591582466
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70223,
+      "code_cant" : "10",
+      "x_centroid" : 6746,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 23129,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.29646182981997,
+        2.644415722651383
+      ],
+      "code_comm" : "378",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.644415722651383,
+        50.29646182981997
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

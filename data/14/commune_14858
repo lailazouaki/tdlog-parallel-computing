@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d6d1d326ae70142bd9b2d2a366d3a2b2154fa41e",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 441,
+      "insee_com" : "51519",
+      "z_moyen" : 149,
+      "code_dept" : "51",
+      "nom_comm" : "SAINT-THOMAS-EN-ARGONNE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8359,
+      "y_centroid" : 69006,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.86408788699941,
+              49.17749510779543
+            ],
+            [
+              4.854421500895357,
+              49.18603473254225
+            ],
+            [
+              4.849701907037913,
+              49.1986972206693
+            ],
+            [
+              4.884316634237894,
+              49.20111941820104
+            ],
+            [
+              4.875424811943814,
+              49.18297566176366
+            ],
+            [
+              4.86408788699941,
+              49.17749510779543
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69000,
+      "code_cant" : "32",
+      "x_centroid" : 8360,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 28120,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.19121145650817,
+        4.866559128625513
+      ],
+      "code_comm" : "519",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.866559128625513,
+        49.19121145650817
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

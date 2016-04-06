@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dfa40a049e3a9d70155f019d17dc293dd13bbb1d",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 293,
+      "insee_com" : "92020",
+      "z_moyen" : 101,
+      "code_dept" : "92",
+      "nom_comm" : "CHATILLON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6477,
+      "y_centroid" : 68561,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.272195653730433,
+              48.79412525297508
+            ],
+            [
+              2.279913901436275,
+              48.81091886555575
+            ],
+            [
+              2.300143619531496,
+              48.81135378943319
+            ],
+            [
+              2.302679655234068,
+              48.81111677849685
+            ],
+            [
+              2.303518683057333,
+              48.80539252511203
+            ],
+            [
+              2.292222681927971,
+              48.79597239629406
+            ],
+            [
+              2.272195653730433,
+              48.79412525297508
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68559,
+      "code_cant" : "10",
+      "x_centroid" : 6477,
+      "nom_dept" : "HAUTS-DE-SEINE",
+      "id_geofla" : 30950,
+      "statut" : "Chef-lieu canton",
+      "population" : 32.4,
+      "geom_x_y" : [
+        48.80340917559003,
+        2.287991318832493
+      ],
+      "code_comm" : "020",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.287991318832493,
+        48.80340917559003
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

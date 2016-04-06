@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b2b54d3029a3aed491e3cc7c4185c6552a76f341",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 196,
+      "insee_com" : "67542",
+      "z_moyen" : 276,
+      "code_dept" : "67",
+      "nom_comm" : "WINTZENHEIM-KOCHERSBERG",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10321,
+      "y_centroid" : 68492,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.525078273647201,
+              48.65610733538207
+            ],
+            [
+              7.506340969289896,
+              48.65281783108821
+            ],
+            [
+              7.488402038686275,
+              48.65736953028048
+            ],
+            [
+              7.484767565827454,
+              48.65970475489577
+            ],
+            [
+              7.524616306261392,
+              48.6620801990429
+            ],
+            [
+              7.525078273647201,
+              48.65610733538207
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68493,
+      "code_cant" : "31",
+      "x_centroid" : 10318,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 13185,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.65782237009059,
+        7.507864467332467
+      ],
+      "code_comm" : "542",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.507864467332467,
+        48.65782237009059
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

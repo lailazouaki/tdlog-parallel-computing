@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d63485693ef4ced2136c3b24ee6a5c5c0db27637",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 215,
+      "insee_com" : "75106",
+      "z_moyen" : 40,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-6E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6510,
+      "y_centroid" : 68611,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.336591298996422,
+              48.83969412678994
+            ],
+            [
+              2.324660773025275,
+              48.84352162052588
+            ],
+            [
+              2.316633528047582,
+              48.84675871366723
+            ],
+            [
+              2.329309953608925,
+              48.85283816611751
+            ],
+            [
+              2.332852282604382,
+              48.85930633356469
+            ],
+            [
+              2.344559180836944,
+              48.85399290271931
+            ],
+            [
+              2.336591298996422,
+              48.83969412678994
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68614,
+      "code_cant" : "20",
+      "x_centroid" : 6510,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 9608,
+      "statut" : "Chef-lieu canton",
+      "population" : 43.1,
+      "geom_x_y" : [
+        48.84896809191945,
+        2.332670898588416
+      ],
+      "code_comm" : "106",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.332670898588416,
+        48.84896809191945
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

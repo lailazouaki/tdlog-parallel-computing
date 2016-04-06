@@ -1,0 +1,71 @@
+  {
+    "recordid" : "da4a6ffd314b487cb2391cd2de1503243e7c47e0",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 361,
+      "insee_com" : "59083",
+      "z_moyen" : 24,
+      "code_dept" : "59",
+      "nom_comm" : "BISSEZEELE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6584,
+      "y_centroid" : 70909,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.410895153898218,
+              50.89920934909203
+            ],
+            [
+              2.394057863601815,
+              50.91311427492847
+            ],
+            [
+              2.39650138173318,
+              50.92344234242697
+            ],
+            [
+              2.406060854451538,
+              50.92637666942532
+            ],
+            [
+              2.419026527346389,
+              50.91116067789856
+            ],
+            [
+              2.415626726611461,
+              50.90098090452715
+            ],
+            [
+              2.410895153898218,
+              50.89920934909203
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70907,
+      "code_cant" : "09",
+      "x_centroid" : 6581,
+      "nom_dept" : "NORD",
+      "id_geofla" : 31776,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.91311679621326,
+        2.406618353132402
+      ],
+      "code_comm" : "083",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.406618353132402,
+        50.91311679621326
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

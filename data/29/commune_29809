@@ -1,0 +1,71 @@
+  {
+    "recordid" : "22a6d123cd310ff48b20550c0273e330bc162252",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 216,
+      "insee_com" : "59304",
+      "z_moyen" : 22,
+      "code_dept" : "59",
+      "nom_comm" : "HERRIN",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6975,
+      "y_centroid" : 70502,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.96483320791,
+              50.53754198302948
+            ],
+            [
+              2.950419795639017,
+              50.55779452845592
+            ],
+            [
+              2.955319653902459,
+              50.5614134144293
+            ],
+            [
+              2.966751562012252,
+              50.55434449901607
+            ],
+            [
+              2.97253287473513,
+              50.54500255344443
+            ],
+            [
+              2.973281199625657,
+              50.54164589732306
+            ],
+            [
+              2.96483320791,
+              50.53754198302948
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70499,
+      "code_cant" : "57",
+      "x_centroid" : 6973,
+      "nom_dept" : "NORD",
+      "id_geofla" : 23840,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.54959009375927,
+        2.962469770422274
+      ],
+      "code_comm" : "304",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.962469770422274,
+        50.54959009375927
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

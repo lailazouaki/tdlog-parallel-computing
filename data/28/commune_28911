@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9022e7a488b40bbb4e4d0fab7dbbdb74afb67fca",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 553,
+      "insee_com" : "02556",
+      "z_moyen" : 155,
+      "code_dept" : "02",
+      "nom_comm" : "NOIRCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7788,
+      "y_centroid" : 69527,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.09592175678316,
+              49.65156907381306
+            ],
+            [
+              4.081370153676784,
+              49.65399094519537
+            ],
+            [
+              4.074282370511315,
+              49.6585830311032
+            ],
+            [
+              4.097711527852889,
+              49.68602535690818
+            ],
+            [
+              4.101666662206461,
+              49.68573799854949
+            ],
+            [
+              4.115124443548748,
+              49.6842315189293
+            ],
+            [
+              4.09416024186438,
+              49.65464041766008
+            ],
+            [
+              4.09592175678316,
+              49.65156907381306
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69526,
+      "code_cant" : "26",
+      "x_centroid" : 7790,
+      "nom_dept" : "AISNE",
+      "id_geofla" : 28520,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.66916487469256,
+        4.094338095952573
+      ],
+      "code_comm" : "556",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.094338095952573,
+        49.66916487469256
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

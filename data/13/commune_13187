@@ -1,0 +1,75 @@
+  {
+    "recordid" : "41cdd2d5925da96c9edfacea062a5863498f02f9",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 444,
+      "insee_com" : "61430",
+      "z_moyen" : 182,
+      "code_dept" : "61",
+      "nom_comm" : "SAINT-MAURICE-SUR-HUISNE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5298,
+      "y_centroid" : 68167,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.689509355565895,
+              48.41422656826406
+            ],
+            [
+              0.68383005791865,
+              48.42682425674023
+            ],
+            [
+              0.685898264736126,
+              48.43329081870739
+            ],
+            [
+              0.699443875075825,
+              48.44269846094485
+            ],
+            [
+              0.705877227463437,
+              48.43725194522239
+            ],
+            [
+              0.715509913281234,
+              48.43533179819725
+            ],
+            [
+              0.711834731860479,
+              48.4225166957332
+            ],
+            [
+              0.689509355565895,
+              48.41422656826406
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68182,
+      "code_cant" : "26",
+      "x_centroid" : 5297,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 11613,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.42838989317946,
+        0.6987689655896168
+      ],
+      "code_comm" : "430",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6987689655896168,
+        48.42838989317946
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

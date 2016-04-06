@@ -1,0 +1,75 @@
+  {
+    "recordid" : "d9eb03545d2bca9d15bcae29a58e32a8e16574b3",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 722,
+      "insee_com" : "80003",
+      "z_moyen" : 136,
+      "code_dept" : "80",
+      "nom_comm" : "ACHEUX-EN-AMIENOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6665,
+      "y_centroid" : 69971,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.534952347111924,
+              50.05469733614567
+            ],
+            [
+              2.513732655915507,
+              50.0577855412492
+            ],
+            [
+              2.517094757801112,
+              50.07394753418277
+            ],
+            [
+              2.514305177011809,
+              50.07671176831334
+            ],
+            [
+              2.52775065622728,
+              50.08810761790002
+            ],
+            [
+              2.542497894043912,
+              50.08740905656316
+            ],
+            [
+              2.550339905397057,
+              50.07197223809353
+            ],
+            [
+              2.534952347111924,
+              50.05469733614567
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69973,
+      "code_cant" : "03",
+      "x_centroid" : 6664,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 36355,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.6,
+      "geom_x_y" : [
+        50.07155613948724,
+        2.531177771064059
+      ],
+      "code_comm" : "003",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.531177771064059,
+        50.07155613948724
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

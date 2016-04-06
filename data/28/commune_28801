@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9cfafad44bb4469b4f2cea5dbf9e818f27168466",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 164,
+      "insee_com" : "48161",
+      "z_moyen" : 991,
+      "code_dept" : "48",
+      "nom_comm" : "SAINT-JUERY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7067,
+      "y_centroid" : 64145,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.082455341492189,
+              44.82262737360938
+            ],
+            [
+              3.083534358958323,
+              44.82513847793301
+            ],
+            [
+              3.076979976508889,
+              44.82427890515827
+            ],
+            [
+              3.072175424232729,
+              44.83626550644055
+            ],
+            [
+              3.093845591364852,
+              44.83312515183675
+            ],
+            [
+              3.095607540301436,
+              44.82757762255439
+            ],
+            [
+              3.082455341492189,
+              44.82262737360938
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64142,
+      "code_cant" : "08",
+      "x_centroid" : 7066,
+      "nom_dept" : "LOZERE",
+      "id_geofla" : 25237,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.82988921806187,
+        3.083709342210803
+      ],
+      "code_comm" : "161",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.083709342210803,
+        44.82988921806187
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

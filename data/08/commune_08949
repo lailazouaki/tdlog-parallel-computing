@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c70fbd34c80b974cea6b59fa1860c8b1d0be31de",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 331,
+      "insee_com" : "25608",
+      "z_moyen" : 396,
+      "code_dept" : "25",
+      "nom_comm" : "LE VERNOY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9762,
+      "y_centroid" : 67249,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.677148910885524,
+              47.55534535256047
+            ],
+            [
+              6.67017617984905,
+              47.55789898345777
+            ],
+            [
+              6.653688870288943,
+              47.57122149994898
+            ],
+            [
+              6.6597832502549,
+              47.57990614463404
+            ],
+            [
+              6.665164293924234,
+              47.5725463931654
+            ],
+            [
+              6.688865891429006,
+              47.57080772035602
+            ],
+            [
+              6.685247947226365,
+              47.56314553733446
+            ],
+            [
+              6.677148910885524,
+              47.55534535256047
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67241,
+      "code_cant" : "30",
+      "x_centroid" : 9759,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 18504,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.56680615511353,
+        6.671406271526323
+      ],
+      "code_comm" : "608",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.671406271526323,
+        47.56680615511353
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

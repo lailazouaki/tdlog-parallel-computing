@@ -1,0 +1,71 @@
+  {
+    "recordid" : "590ea31a50b7203774e6fbb2345ce6aa7ee456f2",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 548,
+      "insee_com" : "55363",
+      "z_moyen" : 208,
+      "code_dept" : "55",
+      "nom_comm" : "MOULOTTE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9000,
+      "y_centroid" : 68926,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75598179323826,
+              49.0858545870894
+            ],
+            [
+              5.740277538891053,
+              49.09530933380892
+            ],
+            [
+              5.732242025344516,
+              49.11154203382316
+            ],
+            [
+              5.755117827152722,
+              49.11418678836652
+            ],
+            [
+              5.76014060086932,
+              49.10916847558703
+            ],
+            [
+              5.772543519021475,
+              49.10534741368328
+            ],
+            [
+              5.75598179323826,
+              49.0858545870894
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68925,
+      "code_cant" : "09",
+      "x_centroid" : 9009,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 25437,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.1019942644451,
+        5.751715376835657
+      ],
+      "code_comm" : "363",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.751715376835657,
+        49.1019942644451
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

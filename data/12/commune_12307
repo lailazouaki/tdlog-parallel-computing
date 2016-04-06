@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c4e5f42fd15e2285be7127d385540d6d109b7fa7",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 250,
+      "insee_com" : "65401",
+      "z_moyen" : 363,
+      "code_dept" : "65",
+      "nom_comm" : "SALLES-ADOUR",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4640,
+      "y_centroid" : 62362,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.102656566837179,
+              43.17706554595456
+            ],
+            [
+              0.095210488402378,
+              43.17839539285938
+            ],
+            [
+              0.091374505893823,
+              43.18447563878882
+            ],
+            [
+              0.096262804006084,
+              43.19636261634451
+            ],
+            [
+              0.108117120231073,
+              43.19401675887847
+            ],
+            [
+              0.113265645702891,
+              43.1867559181313
+            ],
+            [
+              0.102656566837179,
+              43.17706554595456
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62359,
+      "code_cant" : "22",
+      "x_centroid" : 4642,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 28534,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.18675977409556,
+        0.101493602864165
+      ],
+      "code_comm" : "401",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.101493602864165,
+        43.18675977409556
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

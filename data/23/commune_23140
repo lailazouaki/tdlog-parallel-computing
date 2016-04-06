@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b33df50e8c9df636286b1f3bf9420c9d63b4a9b5",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 454,
+      "insee_com" : "62456",
+      "z_moyen" : 52,
+      "code_dept" : "62",
+      "nom_comm" : "HOUCHIN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6731,
+      "y_centroid" : 70424,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.610738789721599,
+              50.46868134156026
+            ],
+            [
+              2.605200592723372,
+              50.48083585696229
+            ],
+            [
+              2.599999093379664,
+              50.48569330755895
+            ],
+            [
+              2.605726757254279,
+              50.49089997364526
+            ],
+            [
+              2.616270364341032,
+              50.48844668806119
+            ],
+            [
+              2.637588953561028,
+              50.48223651637158
+            ],
+            [
+              2.633919866960406,
+              50.47024220445909
+            ],
+            [
+              2.610738789721599,
+              50.46868134156026
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70428,
+      "code_cant" : "64",
+      "x_centroid" : 6729,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 24909,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        50.47917055587007,
+        2.619070919854456
+      ],
+      "code_comm" : "456",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.619070919854456,
+        50.47917055587007
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

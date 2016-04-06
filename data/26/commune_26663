@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a41cbaace67920e45a6475927d8b774b7e9a26cc",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 216,
+      "insee_com" : "67190",
+      "z_moyen" : 310,
+      "code_dept" : "67",
+      "nom_comm" : "HENGWILLER",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10189,
+      "y_centroid" : 68495,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.31314754854059,
+              48.66112626820431
+            ],
+            [
+              7.317207449796058,
+              48.66994226954919
+            ],
+            [
+              7.339554079472711,
+              48.67437292899714
+            ],
+            [
+              7.341187406187839,
+              48.67143977491552
+            ],
+            [
+              7.342562154694454,
+              48.6655612869112
+            ],
+            [
+              7.31314754854059,
+              48.66112626820431
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68495,
+      "code_cant" : "13",
+      "x_centroid" : 10185,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 32233,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.66763394532065,
+        7.328558621002687
+      ],
+      "code_comm" : "190",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.328558621002687,
+        48.66763394532065
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

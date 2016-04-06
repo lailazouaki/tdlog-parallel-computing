@@ -1,0 +1,67 @@
+  {
+    "recordid" : "fcaaf4f21294e1380472a1da8c06c9fd976bf9b8",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 246,
+      "insee_com" : "60332",
+      "z_moyen" : 89,
+      "code_dept" : "60",
+      "nom_comm" : "LABRUYERE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6643,
+      "y_centroid" : 69171,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.524182218313582,
+              49.34350090183124
+            ],
+            [
+              2.500076333673535,
+              49.34942626926578
+            ],
+            [
+              2.490261486610927,
+              49.34709306145587
+            ],
+            [
+              2.498352192457052,
+              49.35976546778856
+            ],
+            [
+              2.514186114342891,
+              49.36042340571233
+            ],
+            [
+              2.524182218313582,
+              49.34350090183124
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69169,
+      "code_cant" : "20",
+      "x_centroid" : 6642,
+      "nom_dept" : "OISE",
+      "id_geofla" : 27147,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.35272723140658,
+        2.507695683647482
+      ],
+      "code_comm" : "332",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.507695683647482,
+        49.35272723140658
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

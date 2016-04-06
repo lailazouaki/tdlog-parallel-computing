@@ -1,0 +1,67 @@
+  {
+    "recordid" : "ca09540830edd98f9cd655279c897c8ea202484e",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 167,
+      "insee_com" : "59007",
+      "z_moyen" : 19,
+      "code_dept" : "59",
+      "nom_comm" : "ANHIERS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7111,
+      "y_centroid" : 70341,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.165197787371392,
+              50.39498935837198
+            ],
+            [
+              3.149413405683203,
+              50.40004574169046
+            ],
+            [
+              3.141969907995643,
+              50.41020777108534
+            ],
+            [
+              3.150463495021816,
+              50.41307040966331
+            ],
+            [
+              3.158433005178799,
+              50.4098017406552
+            ],
+            [
+              3.165197787371392,
+              50.39498935837198
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70343,
+      "code_cant" : "22",
+      "x_centroid" : 7109,
+      "nom_dept" : "NORD",
+      "id_geofla" : 17760,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        50.404771844587,
+        3.153710318569658
+      ],
+      "code_comm" : "007",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.153710318569658,
+        50.404771844587
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

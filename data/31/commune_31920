@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0d5f2ea20aef86bc07455305959b84224b9c8903",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 456,
+      "insee_com" : "85276",
+      "z_moyen" : 65,
+      "code_dept" : "85",
+      "nom_comm" : "SAINT-VINCENT-STERLANGES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3880,
+      "y_centroid" : 66346,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.081400975437648,
+              46.72539607066569
+            ],
+            [
+              -1.094457370539231,
+              46.7343978374761
+            ],
+            [
+              -1.096436609878926,
+              46.74410975424323
+            ],
+            [
+              -1.100391935406763,
+              46.74594304915025
+            ],
+            [
+              -1.088699585478251,
+              46.75160757359825
+            ],
+            [
+              -1.079662307265626,
+              46.74987348054568
+            ],
+            [
+              -1.067142257596117,
+              46.73911993916621
+            ],
+            [
+              -1.081400975437648,
+              46.72539607066569
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66348,
+      "code_cant" : "04",
+      "x_centroid" : 3883,
+      "nom_dept" : "VENDEE",
+      "id_geofla" : 31616,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        46.73972206888075,
+        -1.08371759276623
+      ],
+      "code_comm" : "276",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.08371759276623,
+        46.73972206888075
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

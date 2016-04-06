@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fa17def654dcbd6abde6f7332c57c98353dfb2b9",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 675,
+      "insee_com" : "10106",
+      "z_moyen" : 65,
+      "code_dept" : "10",
+      "nom_comm" : "COURCEROY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7305,
+      "y_centroid" : 68187,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.405713934467745,
+              48.45328950975146
+            ],
+            [
+              3.394514295783333,
+              48.46389793562859
+            ],
+            [
+              3.396978631497573,
+              48.46958435686518
+            ],
+            [
+              3.384093581302575,
+              48.47802919249798
+            ],
+            [
+              3.403747291057458,
+              48.48598857955684
+            ],
+            [
+              3.42631267133318,
+              48.46675679394713
+            ],
+            [
+              3.430802660419662,
+              48.45670969181919
+            ],
+            [
+              3.405713934467745,
+              48.45328950975146
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68183,
+      "code_cant" : "16",
+      "x_centroid" : 7301,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 15435,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.46837425020624,
+        3.408262799070493
+      ],
+      "code_comm" : "106",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.408262799070493,
+        48.46837425020624
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

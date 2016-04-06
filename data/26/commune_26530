@@ -1,0 +1,67 @@
+  {
+    "recordid" : "7509ad33b5621880db4eda3328fd26e9e28a2fee",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 338,
+      "insee_com" : "10013",
+      "z_moyen" : 131,
+      "code_dept" : "10",
+      "nom_comm" : "ASSENAY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 7787,
+      "y_centroid" : 67870,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.070109999710497,
+              48.16528870975579
+            ],
+            [
+              4.046761732478643,
+              48.18584450738361
+            ],
+            [
+              4.056615534577594,
+              48.19206489109963
+            ],
+            [
+              4.082104737032973,
+              48.17493420465366
+            ],
+            [
+              4.081900732511275,
+              48.17154347939002
+            ],
+            [
+              4.070109999710497,
+              48.16528870975579
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67874,
+      "code_cant" : "05",
+      "x_centroid" : 7791,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 19734,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.17862292601419,
+        4.065109049992334
+      ],
+      "code_comm" : "013",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.065109049992334,
+        48.17862292601419
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

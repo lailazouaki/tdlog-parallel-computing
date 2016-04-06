@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d1406f6bf2bc134cfb8f4f4b407d68f32d56a5a0",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 119,
+      "insee_com" : "79223",
+      "z_moyen" : 112,
+      "code_dept" : "79",
+      "nom_comm" : "PUIHARDY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4289,
+      "y_centroid" : 66089,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.533391848889274,
+              46.52103980613535
+            ],
+            [
+              -0.552446807376251,
+              46.52309923171261
+            ],
+            [
+              -0.553798945033702,
+              46.53321551253403
+            ],
+            [
+              -0.5396482807860959,
+              46.52548821385733
+            ],
+            [
+              -0.530675283612479,
+              46.52465702165757
+            ],
+            [
+              -0.533391848889274,
+              46.52103980613535
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66086,
+      "code_cant" : "11",
+      "x_centroid" : 4283,
+      "nom_dept" : "DEUX-SEVRES",
+      "id_geofla" : 34540,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.52553510534421,
+        -0.5445484462851012
+      ],
+      "code_comm" : "223",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5445484462851012,
+        46.52553510534421
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

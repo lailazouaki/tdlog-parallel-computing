@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f92ac046d60877ebb45d81bad859d892083f797f",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 284,
+      "insee_com" : "10200",
+      "z_moyen" : 163,
+      "code_dept" : "10",
+      "nom_comm" : "LA LOGE-AUX-CHEVRES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8048,
+      "y_centroid" : 67974,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.414385378367236,
+              48.26608347734875
+            ],
+            [
+              4.403368438514411,
+              48.2603204287129
+            ],
+            [
+              4.394611716051173,
+              48.26298872940988
+            ],
+            [
+              4.397514689558819,
+              48.27539091711952
+            ],
+            [
+              4.421759125669765,
+              48.27611884268217
+            ],
+            [
+              4.422281471829548,
+              48.26949836135966
+            ],
+            [
+              4.414385378367236,
+              48.26608347734875
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67979,
+      "code_cant" : "25",
+      "x_centroid" : 8044,
+      "nom_dept" : "AUBE",
+      "id_geofla" : 17780,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.26942158552139,
+        4.407505856447325
+      ],
+      "code_comm" : "200",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.407505856447325,
+        48.26942158552139
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "2bd70f7bb07176a7b59057dfdf47c392d921d648",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 439,
+      "insee_com" : "62612",
+      "z_moyen" : 52,
+      "code_dept" : "62",
+      "nom_comm" : "NEUVIREUIL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6936,
+      "y_centroid" : 70283,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.913081090074957,
+              50.33881496005876
+            ],
+            [
+              2.90133322084605,
+              50.3491936581428
+            ],
+            [
+              2.897777858011148,
+              50.35884196972272
+            ],
+            [
+              2.912040566426795,
+              50.36439224107544
+            ],
+            [
+              2.920525848585693,
+              50.3682673882039
+            ],
+            [
+              2.921687538557344,
+              50.36136425770716
+            ],
+            [
+              2.932664340059584,
+              50.34946611273933
+            ],
+            [
+              2.913081090074957,
+              50.33881496005876
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70282,
+      "code_cant" : "45",
+      "x_centroid" : 6939,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 16988,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.35314924839476,
+        2.914449135306777
+      ],
+      "code_comm" : "612",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.914449135306777,
+        50.35314924839476
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

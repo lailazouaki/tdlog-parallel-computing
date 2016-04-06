@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a9de64fa15819ec26b9ecf20573d0bff088265dd",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 564,
+      "insee_com" : "40260",
+      "z_moyen" : 46,
+      "code_dept" : "40",
+      "nom_comm" : "SAINT-GEOURS-D'AURIBAT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3909,
+      "y_centroid" : 63026,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.837868463780006,
+              43.73857679755316
+            ],
+            [
+              -0.8532411486909141,
+              43.744880552232
+            ],
+            [
+              -0.856799578996107,
+              43.74291662008294
+            ],
+            [
+              -0.856402924460067,
+              43.75694010736989
+            ],
+            [
+              -0.848492175225216,
+              43.76535547448371
+            ],
+            [
+              -0.821608794323305,
+              43.76934756122009
+            ],
+            [
+              -0.837868463780006,
+              43.73857679755316
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63028,
+      "code_cant" : "12",
+      "x_centroid" : 3907,
+      "nom_dept" : "LANDES",
+      "id_geofla" : 15287,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.75500062405877,
+        -0.8411787650331761
+      ],
+      "code_comm" : "260",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8411787650331761,
+        43.75500062405877
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

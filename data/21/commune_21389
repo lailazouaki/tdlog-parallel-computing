@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8cd2e10cfe0f2f48dd54b2e37f4ef4612fbd24d6",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 637,
+      "insee_com" : "17067",
+      "z_moyen" : 37,
+      "code_dept" : "17",
+      "nom_comm" : "BRIE-SOUS-MATHA",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4476,
+      "y_centroid" : 65293,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.248042400071718,
+              45.80548071357062
+            ],
+            [
+              -0.275033872386683,
+              45.80625071640162
+            ],
+            [
+              -0.269231310472663,
+              45.8190276474645
+            ],
+            [
+              -0.254463899674691,
+              45.83264881755058
+            ],
+            [
+              -0.229814743943489,
+              45.8205680226901
+            ],
+            [
+              -0.248042400071718,
+              45.80548071357062
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65295,
+      "code_cant" : "15",
+      "x_centroid" : 4474,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 15702,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.81711552168374,
+        -0.2534809899340391
+      ],
+      "code_comm" : "067",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2534809899340391,
+        45.81711552168374
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

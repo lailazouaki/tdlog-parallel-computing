@@ -1,0 +1,75 @@
+  {
+    "recordid" : "83529dc80d13cbf6deff715260bd691fb0db2f82",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 238,
+      "insee_com" : "25170",
+      "z_moyen" : 321,
+      "code_dept" : "25",
+      "nom_comm" : "COURCELLES-LES-MONTBELIARD",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9849,
+      "y_centroid" : 67173,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.785664576984042,
+              47.48281327284489
+            ],
+            [
+              6.784728894795892,
+              47.48969282607589
+            ],
+            [
+              6.773074620444758,
+              47.49995720872239
+            ],
+            [
+              6.779399960317814,
+              47.50967415751316
+            ],
+            [
+              6.784142361492778,
+              47.50038206056936
+            ],
+            [
+              6.797259607282408,
+              47.49277240961619
+            ],
+            [
+              6.796367082676452,
+              47.48600642869436
+            ],
+            [
+              6.785664576984042,
+              47.48281327284489
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67178,
+      "code_cant" : "03",
+      "x_centroid" : 9849,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 25287,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        47.49470512876642,
+        6.785548967666036
+      ],
+      "code_comm" : "170",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.785548967666036,
+        47.49470512876642
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

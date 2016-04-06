@@ -1,0 +1,67 @@
+  {
+    "recordid" : "26302f96fce4265dcd8319c8a32a4586875d5c24",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 311,
+      "insee_com" : "21145",
+      "z_moyen" : 395,
+      "code_dept" : "21",
+      "nom_comm" : "CHARIGNY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8073,
+      "y_centroid" : 67046,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.442006836945397,
+              47.43234167750696
+            ],
+            [
+              4.416171115015552,
+              47.42474504965724
+            ],
+            [
+              4.407042465483939,
+              47.42621531493705
+            ],
+            [
+              4.411669595636079,
+              47.43566677445278
+            ],
+            [
+              4.408170605599837,
+              47.44541470340188
+            ],
+            [
+              4.442006836945397,
+              47.43234167750696
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67043,
+      "code_cant" : "33",
+      "x_centroid" : 8070,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 29146,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.43346601824489,
+        4.420625889073044
+      ],
+      "code_comm" : "145",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.420625889073044,
+        47.43346601824489
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

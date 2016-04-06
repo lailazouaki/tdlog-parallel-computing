@@ -1,0 +1,67 @@
+  {
+    "recordid" : "8dc8a440efdca6d7b6a545a47316317fe09aabf2",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 105,
+      "insee_com" : "59247",
+      "z_moyen" : 23,
+      "code_dept" : "59",
+      "nom_comm" : "FOREST-SUR-MARQUE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 7133,
+      "y_centroid" : 70595,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.196917450280107,
+              50.63474147643073
+            ],
+            [
+              3.1939725903274,
+              50.62855382966763
+            ],
+            [
+              3.18875276471864,
+              50.62870546572406
+            ],
+            [
+              3.180781656111696,
+              50.63279167566655
+            ],
+            [
+              3.185796219994286,
+              50.63806114345843
+            ],
+            [
+              3.196917450280107,
+              50.63474147643073
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70596,
+      "code_cant" : "33",
+      "x_centroid" : 7134,
+      "nom_dept" : "NORD",
+      "id_geofla" : 29816,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        50.63307396305764,
+        3.189185786587528
+      ],
+      "code_comm" : "247",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.189185786587528,
+        50.63307396305764
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

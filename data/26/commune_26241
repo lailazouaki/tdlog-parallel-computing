@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d17a8fb7839924b48d77d1cff82db21498f959a0",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 603,
+      "insee_com" : "72057",
+      "z_moyen" : 125,
+      "code_dept" : "72",
+      "nom_comm" : "CHAMPROND",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5321,
+      "y_centroid" : 67782,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.763767627828246,
+              48.07277524178188
+            ],
+            [
+              0.738147395017366,
+              48.07131378933084
+            ],
+            [
+              0.724290485225747,
+              48.0758811739693
+            ],
+            [
+              0.73273058408294,
+              48.0801760142545
+            ],
+            [
+              0.745669248875267,
+              48.10315498325865
+            ],
+            [
+              0.76317183448127,
+              48.08400775829446
+            ],
+            [
+              0.763767627828246,
+              48.07277524178188
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67776,
+      "code_cant" : "25",
+      "x_centroid" : 5322,
+      "nom_dept" : "SARTHE",
+      "id_geofla" : 32923,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.08296014235655,
+        0.7472035942830184
+      ],
+      "code_comm" : "057",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7472035942830184,
+        48.08296014235655
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

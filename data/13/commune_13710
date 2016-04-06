@@ -1,0 +1,71 @@
+  {
+    "recordid" : "988d3b90da47b36549c40f5a8206689514f27378",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 188,
+      "insee_com" : "42204",
+      "z_moyen" : 859,
+      "code_dept" : "42",
+      "nom_comm" : "SAINT-BONNET-LE-CHATEAU",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7833,
+      "y_centroid" : 64811,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.065547401069522,
+              45.43367762390511
+            ],
+            [
+              4.075023284246644,
+              45.42365421792613
+            ],
+            [
+              4.072732934590816,
+              45.4176245257142
+            ],
+            [
+              4.06805809685613,
+              45.41789429303988
+            ],
+            [
+              4.063501548142423,
+              45.41833384526343
+            ],
+            [
+              4.053054722164436,
+              45.42847344517873
+            ],
+            [
+              4.065547401069522,
+              45.43367762390511
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64810,
+      "code_cant" : "17",
+      "x_centroid" : 7832,
+      "nom_dept" : "LOIRE",
+      "id_geofla" : 14387,
+      "statut" : "Chef-lieu canton",
+      "population" : 1.5,
+      "geom_x_y" : [
+        45.42516825615125,
+        4.065090038220931
+      ],
+      "code_comm" : "204",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.065090038220931,
+        45.42516825615125
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

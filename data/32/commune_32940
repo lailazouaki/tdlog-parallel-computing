@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bf79d681a909ccbda8f628e7fd0cfbfca8636fd4",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 336,
+      "insee_com" : "58170",
+      "z_moyen" : 193,
+      "code_dept" : "58",
+      "nom_comm" : "MONCEAUX-LE-COMTE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 7499,
+      "y_centroid" : 66925,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.660590030591149,
+              47.31890384829732
+            ],
+            [
+              3.660873137455867,
+              47.32577124355065
+            ],
+            [
+              3.649993124501225,
+              47.33701385936234
+            ],
+            [
+              3.665505326549737,
+              47.3437679686325
+            ],
+            [
+              3.676831203508254,
+              47.33337657135732
+            ],
+            [
+              3.672589687251461,
+              47.32143672688449
+            ],
+            [
+              3.660590030591149,
+              47.31890384829732
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66922,
+      "code_cant" : "24",
+      "x_centroid" : 7502,
+      "nom_dept" : "NIEVRE",
+      "id_geofla" : 34236,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.33176433907649,
+        3.664907286261464
+      ],
+      "code_comm" : "170",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.664907286261464,
+        47.33176433907649
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

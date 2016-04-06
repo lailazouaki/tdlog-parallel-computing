@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b5e0734e799f4b33b92bf79b412c7d40e9e35042",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 211,
+      "insee_com" : "65167",
+      "z_moyen" : 457,
+      "code_dept" : "65",
+      "nom_comm" : "ESPIEILH",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4753,
+      "y_centroid" : 62238,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.247626167328616,
+              43.07155012943533
+            ],
+            [
+              0.234681194313581,
+              43.0729733208583
+            ],
+            [
+              0.232104319950999,
+              43.08193367729344
+            ],
+            [
+              0.238454620672222,
+              43.086506526946
+            ],
+            [
+              0.249104077411563,
+              43.083584245955
+            ],
+            [
+              0.247626167328616,
+              43.07155012943533
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62235,
+      "code_cant" : "11",
+      "x_centroid" : 4751,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 32210,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.07886029529385,
+        0.24099151054858
+      ],
+      "code_comm" : "167",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.24099151054858,
+        43.07886029529385
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

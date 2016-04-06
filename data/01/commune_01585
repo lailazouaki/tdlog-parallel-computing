@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0a14539b0c8ccdf56b7a13bf8ddab88b40d7b9b1",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 719,
+      "insee_com" : "21136",
+      "z_moyen" : 509,
+      "code_dept" : "21",
+      "nom_comm" : "CHAMPAGNY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8328,
+      "y_centroid" : 67082,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.76506826004675,
+              47.44554626095077
+            ],
+            [
+              4.752498986991359,
+              47.45609984108015
+            ],
+            [
+              4.746386562175567,
+              47.47261490935966
+            ],
+            [
+              4.776573639639551,
+              47.47588589531117
+            ],
+            [
+              4.781032541341387,
+              47.47418806002256
+            ],
+            [
+              4.785589521267584,
+              47.45195028624186
+            ],
+            [
+              4.779155333626158,
+              47.44727664457664
+            ],
+            [
+              4.76506826004675,
+              47.44554626095077
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67077,
+      "code_cant" : "30",
+      "x_centroid" : 8331,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 28759,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.46154771484778,
+        4.767609907408101
+      ],
+      "code_comm" : "136",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.767609907408101,
+        47.46154771484778
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

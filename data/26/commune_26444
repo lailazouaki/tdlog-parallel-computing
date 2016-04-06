@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f2e80e337bc4a6393bfb05c861d507c48ddfb746",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 423,
+      "insee_com" : "52513",
+      "z_moyen" : 255,
+      "code_dept" : "52",
+      "nom_comm" : "VELLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9036,
+      "y_centroid" : 67516,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.73142842985481,
+              47.81763411556925
+            ],
+            [
+              5.728007451580573,
+              47.81845224937508
+            ],
+            [
+              5.713645979381818,
+              47.8215683458419
+            ],
+            [
+              5.712937790283553,
+              47.84306246393142
+            ],
+            [
+              5.716923188354403,
+              47.84147530044704
+            ],
+            [
+              5.719633177889437,
+              47.85051681750019
+            ],
+            [
+              5.734842613737006,
+              47.84579549832202
+            ],
+            [
+              5.73142842985481,
+              47.81763411556925
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67514,
+      "code_cant" : "15",
+      "x_centroid" : 9037,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 23593,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.83380893887949,
+        5.723790272856005
+      ],
+      "code_comm" : "513",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.723790272856005,
+        47.83380893887949
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

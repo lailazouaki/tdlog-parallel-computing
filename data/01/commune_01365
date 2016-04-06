@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9bd1a3896ae27e5b1b115a89d37253038bc6f891",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 1365,
+      "insee_com" : "34285",
+      "z_moyen" : 100,
+      "code_dept" : "34",
+      "nom_comm" : "SAINT-PONS-DE-MAUCHIENS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7415,
+      "y_centroid" : 62679,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.548856475893695,
+              43.4942442369522
+            ],
+            [
+              3.525306443832344,
+              43.49211156281152
+            ],
+            [
+              3.470536374094753,
+              43.51481999116234
+            ],
+            [
+              3.480054518889415,
+              43.52355065799772
+            ],
+            [
+              3.495779280816576,
+              43.52891435409521
+            ],
+            [
+              3.551208033138715,
+              43.50362540700754
+            ],
+            [
+              3.554037764473909,
+              43.49841059039139
+            ],
+            [
+              3.548856475893695,
+              43.4942442369522
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62683,
+      "code_cant" : "21",
+      "x_centroid" : 7414,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 12747,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        43.50935252943208,
+        3.512379303091569
+      ],
+      "code_comm" : "285",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.512379303091569,
+        43.50935252943208
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

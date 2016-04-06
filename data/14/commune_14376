@@ -1,0 +1,67 @@
+  {
+    "recordid" : "483ed605e26ab4008342eb48da285823ffc3adbe",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 220,
+      "insee_com" : "67037",
+      "z_moyen" : 155,
+      "code_dept" : "67",
+      "nom_comm" : "BIBLISHEIM",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10513,
+      "y_centroid" : 68772,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.800927010761725,
+              48.89034343128699
+            ],
+            [
+              7.785395857646542,
+              48.89528139756671
+            ],
+            [
+              7.769644556000718,
+              48.90753249224521
+            ],
+            [
+              7.799848029227664,
+              48.90352261887713
+            ],
+            [
+              7.806757790384525,
+              48.9022811627035
+            ],
+            [
+              7.800927010761725,
+              48.89034343128699
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68772,
+      "code_cant" : "35",
+      "x_centroid" : 10510,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 28204,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.89968408656041,
+        7.79109308707744
+      ],
+      "code_comm" : "037",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.79109308707744,
+        48.89968408656041
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

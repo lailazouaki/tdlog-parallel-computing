@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e11cd097c25a39455b2d0061b5b8a11fa9255b4e",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 216,
+      "insee_com" : "64242",
+      "z_moyen" : 107,
+      "code_dept" : "64",
+      "nom_comm" : "GESTAS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3848,
+      "y_centroid" : 62581,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.887666485883807,
+              43.34526910440184
+            ],
+            [
+              -0.899621036432854,
+              43.348306220158
+            ],
+            [
+              -0.8992230638137,
+              43.35336449052947
+            ],
+            [
+              -0.895154490677879,
+              43.35179080759872
+            ],
+            [
+              -0.8661359730004849,
+              43.36151494915085
+            ],
+            [
+              -0.861395685282179,
+              43.35930651345665
+            ],
+            [
+              -0.887666485883807,
+              43.34526910440184
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62577,
+      "code_cant" : "36",
+      "x_centroid" : 3852,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 27170,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.35292904836225,
+        -0.8819773566193683
+      ],
+      "code_comm" : "242",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8819773566193683,
+        43.35292904836225
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

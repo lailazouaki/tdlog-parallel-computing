@@ -1,0 +1,71 @@
+  {
+    "recordid" : "e0481e8bb46e1c0fb9365a498aac551a61840f1b",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 681,
+      "insee_com" : "26015",
+      "z_moyen" : 447,
+      "code_dept" : "26",
+      "nom_comm" : "AUBENASSON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8695,
+      "y_centroid" : 63999,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.157203421232993,
+              44.65891186524082
+            ],
+            [
+              5.135208520759511,
+              44.66087868372887
+            ],
+            [
+              5.135537899278266,
+              44.69553677545709
+            ],
+            [
+              5.14326305699731,
+              44.69746787399661
+            ],
+            [
+              5.15485367560039,
+              44.69678350405464
+            ],
+            [
+              5.152645612076439,
+              44.67965168756569
+            ],
+            [
+              5.157203421232993,
+              44.65891186524082
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64007,
+      "code_cant" : "22",
+      "x_centroid" : 8699,
+      "nom_dept" : "DROME",
+      "id_geofla" : 19691,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.67794923345937,
+        5.145036808713549
+      ],
+      "code_comm" : "015",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.145036808713549,
+        44.67794923345937
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

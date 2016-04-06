@@ -1,0 +1,79 @@
+  {
+    "recordid" : "f20099b4f5594d5f71a29220ed65eba4a4117972",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 364,
+      "insee_com" : "13202",
+      "z_moyen" : 6,
+      "code_dept" : "13",
+      "nom_comm" : "MARSEILLE--2E--ARRONDISSEMENT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8923,
+      "y_centroid" : 62488,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.373616424523343,
+              43.29499198426251
+            ],
+            [
+              5.358999125227359,
+              43.29548303345321
+            ],
+            [
+              5.363131708048592,
+              43.30853231951624
+            ],
+            [
+              5.360178391933806,
+              43.31887458921168
+            ],
+            [
+              5.345515525225727,
+              43.33626635709658
+            ],
+            [
+              5.354777491103132,
+              43.33481409522519
+            ],
+            [
+              5.369125126911182,
+              43.31672594361934
+            ],
+            [
+              5.375021899598046,
+              43.30159390045778
+            ],
+            [
+              5.373616424523343,
+              43.29499198426251
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62470,
+      "code_cant" : "99",
+      "x_centroid" : 8918,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 36590,
+      "statut" : "Commune simple",
+      "population" : 25.7,
+      "geom_x_y" : [
+        43.31269641776395,
+        5.363649832647913
+      ],
+      "code_comm" : "202",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.363649832647913,
+        43.31269641776395
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

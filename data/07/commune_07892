@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a693d8ea288ea62b1603b0e0bfb205659b0bd6db",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 365,
+      "insee_com" : "76165",
+      "z_moyen" : 17,
+      "code_dept" : "76",
+      "nom_comm" : "CAUDEBEC-LES-ELBEUF",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5559,
+      "y_centroid" : 69109,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.031628891008745,
+              49.26920835506706
+            ],
+            [
+              1.016791334161623,
+              49.27304792634909
+            ],
+            [
+              1.009568447236445,
+              49.27824350550471
+            ],
+            [
+              1.022125161608336,
+              49.29310741565352
+            ],
+            [
+              1.035211476787314,
+              49.29460702563242
+            ],
+            [
+              1.037541025005093,
+              49.28468155287466
+            ],
+            [
+              1.031628891008745,
+              49.26920835506706
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69107,
+      "code_cant" : "61",
+      "x_centroid" : 5563,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 21926,
+      "statut" : "Chef-lieu canton",
+      "population" : 9.699999999999999,
+      "geom_x_y" : [
+        49.28205421276074,
+        1.025495516160652
+      ],
+      "code_comm" : "165",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.025495516160652,
+        49.28205421276074
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

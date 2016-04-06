@@ -1,0 +1,63 @@
+  {
+    "recordid" : "db2d55f204a22ba93d65690c5e148a08e1749513",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 479,
+      "insee_com" : "14365",
+      "z_moyen" : 15,
+      "code_dept" : "14",
+      "nom_comm" : "LION-SUR-MER",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4586,
+      "y_centroid" : 69163,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.332049367564488,
+              49.28871522457854
+            ],
+            [
+              -0.356416436581092,
+              49.29939464146208
+            ],
+            [
+              -0.339702723966052,
+              49.31346232051008
+            ],
+            [
+              -0.309228859576269,
+              49.30071590100209
+            ],
+            [
+              -0.332049367564488,
+              49.28871522457854
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69163,
+      "code_cant" : "14",
+      "x_centroid" : 4575,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 36341,
+      "statut" : "Commune simple",
+      "population" : 2.6,
+      "geom_x_y" : [
+        49.30076956842395,
+        -0.3339548116905753
+      ],
+      "code_comm" : "365",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3339548116905753,
+        49.30076956842395
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

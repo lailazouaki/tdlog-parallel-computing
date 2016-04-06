@@ -1,0 +1,75 @@
+  {
+    "recordid" : "96bf4443c979b644498764dbacb80a2c3b7035f5",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 499,
+      "insee_com" : "76033",
+      "z_moyen" : 113,
+      "code_dept" : "76",
+      "nom_comm" : "AUBERVILLE-LA-RENAULT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5098,
+      "y_centroid" : 69572,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.394600644875764,
+              49.68232663603807
+            ],
+            [
+              0.370195996917097,
+              49.67323348838114
+            ],
+            [
+              0.360792610059498,
+              49.67505270410101
+            ],
+            [
+              0.362244065503974,
+              49.68749117895642
+            ],
+            [
+              0.377686962263044,
+              49.69387555827363
+            ],
+            [
+              0.385254496947795,
+              49.70119469891804
+            ],
+            [
+              0.397477047981671,
+              49.69361717583728
+            ],
+            [
+              0.394600644875764,
+              49.68232663603807
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69567,
+      "code_cant" : "24",
+      "x_centroid" : 5107,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 22285,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.68595672805726,
+        0.3791826934903351
+      ],
+      "code_comm" : "033",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3791826934903351,
+        49.68595672805726
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

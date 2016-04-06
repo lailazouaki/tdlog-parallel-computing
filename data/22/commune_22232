@@ -1,0 +1,63 @@
+  {
+    "recordid" : "0a2edbdbae81bea9b9c2d2c193681c90bc1eb2c0",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 570,
+      "insee_com" : "52385",
+      "z_moyen" : 442,
+      "code_dept" : "52",
+      "nom_comm" : "PERRUSSE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8846,
+      "y_centroid" : 67802,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.479715745486185,
+              48.07961368837298
+            ],
+            [
+              5.453467217854502,
+              48.10924268532973
+            ],
+            [
+              5.488492373050645,
+              48.1088144982395
+            ],
+            [
+              5.496051655492858,
+              48.08556185614205
+            ],
+            [
+              5.479715745486185,
+              48.07961368837298
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67802,
+      "code_cant" : "09",
+      "x_centroid" : 8844,
+      "nom_dept" : "HAUTE-MARNE",
+      "id_geofla" : 23980,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.09691310812101,
+        5.478046701657327
+      ],
+      "code_comm" : "385",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.478046701657327,
+        48.09691310812101
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

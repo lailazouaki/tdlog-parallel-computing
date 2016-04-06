@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4cc918af5e1c4fbb60fafc7b86a78343a1233b4e",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 340,
+      "insee_com" : "27234",
+      "z_moyen" : 132,
+      "code_dept" : "27",
+      "nom_comm" : "FAUVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5681,
+      "y_centroid" : 68819,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.212910225679003,
+              49.01565559276862
+            ],
+            [
+              1.185697869509904,
+              49.01646156723437
+            ],
+            [
+              1.190020418770362,
+              49.02583582392754
+            ],
+            [
+              1.185649565574055,
+              49.03858646371577
+            ],
+            [
+              1.213688605512066,
+              49.02562369621652
+            ],
+            [
+              1.212910225679003,
+              49.01565559276862
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68828,
+      "code_cant" : "37",
+      "x_centroid" : 5682,
+      "nom_dept" : "EURE",
+      "id_geofla" : 30537,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.02426972149919,
+        1.199070510786367
+      ],
+      "code_comm" : "234",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.199070510786367,
+        49.02426972149919
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

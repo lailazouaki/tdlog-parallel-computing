@@ -1,0 +1,67 @@
+  {
+    "recordid" : "adf6b55ed2e94c7f07338a4cb651ac0d489637be",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 224,
+      "insee_com" : "16321",
+      "z_moyen" : 106,
+      "code_dept" : "16",
+      "nom_comm" : "SAINT-GEORGES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4887,
+      "y_centroid" : 65454,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.284036456632291,
+              45.97485762571846
+            ],
+            [
+              0.261275385886485,
+              45.96844352975395
+            ],
+            [
+              0.25720504787648,
+              45.97440894624975
+            ],
+            [
+              0.260143266531837,
+              45.98184155251941
+            ],
+            [
+              0.28121047957748,
+              45.98079062852064
+            ],
+            [
+              0.284036456632291,
+              45.97485762571846
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65450,
+      "code_cant" : "24",
+      "x_centroid" : 4886,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 32729,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.97607462609507,
+        0.2692806430488152
+      ],
+      "code_comm" : "321",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2692806430488152,
+        45.97607462609507
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

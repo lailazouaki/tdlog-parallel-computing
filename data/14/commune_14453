@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1b7ab9d51c4a0ed8e35069b1725710844a7a4df1",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 550,
+      "insee_com" : "82081",
+      "z_moyen" : 126,
+      "code_dept" : "82",
+      "nom_comm" : "LABOURGADE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5475,
+      "y_centroid" : 63193,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.099364390488941,
+              43.94653751058564
+            ],
+            [
+              1.093369458896472,
+              43.94249008746059
+            ],
+            [
+              1.084967103793289,
+              43.94931990292402
+            ],
+            [
+              1.06618183858552,
+              43.95725324317478
+            ],
+            [
+              1.084986682499241,
+              43.96655071828395
+            ],
+            [
+              1.114412292859484,
+              43.96322730684787
+            ],
+            [
+              1.112614444557212,
+              43.95654359833683
+            ],
+            [
+              1.099364390488941,
+              43.94653751058564
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63185,
+      "code_cant" : "21",
+      "x_centroid" : 5468,
+      "nom_dept" : "TARN-ET-GARONNE",
+      "id_geofla" : 20612,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.95664345684271,
+        1.092379671650016
+      ],
+      "code_comm" : "081",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.092379671650016,
+        43.95664345684271
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

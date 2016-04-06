@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1929f677ae350e3c1dc46427d7590f803c5523c3",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 268,
+      "insee_com" : "65166",
+      "z_moyen" : 487,
+      "code_dept" : "65",
+      "nom_comm" : "ESPECHE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4794,
+      "y_centroid" : 62217,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.293215104638134,
+              43.05321361392728
+            ],
+            [
+              0.292491179094678,
+              43.06895302587062
+            ],
+            [
+              0.305828103558764,
+              43.06986355689737
+            ],
+            [
+              0.312731638575504,
+              43.06155887547042
+            ],
+            [
+              0.31009047483555,
+              43.05527451574981
+            ],
+            [
+              0.293215104638134,
+              43.05321361392728
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62215,
+      "code_cant" : "05",
+      "x_centroid" : 4800,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 27756,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.06160138821393,
+        0.3015180330213091
+      ],
+      "code_comm" : "166",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3015180330213091,
+        43.06160138821393
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

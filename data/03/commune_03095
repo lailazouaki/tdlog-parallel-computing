@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9957d6e82db19c68373a9c8b57ff026d86c64561",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 488,
+      "insee_com" : "54144",
+      "z_moyen" : 270,
+      "code_dept" : "54",
+      "nom_comm" : "CREVECHAMPS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9410,
+      "y_centroid" : 68293,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.282675112279304,
+              48.5085497555869
+            ],
+            [
+              6.249934847577299,
+              48.51089971563545
+            ],
+            [
+              6.248003439948078,
+              48.52390845202277
+            ],
+            [
+              6.261967783692232,
+              48.53377171973389
+            ],
+            [
+              6.273509079623839,
+              48.52668374896486
+            ],
+            [
+              6.276115688692976,
+              48.5163388950581
+            ],
+            [
+              6.282972162060379,
+              48.51394371525288
+            ],
+            [
+              6.282675112279304,
+              48.5085497555869
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68298,
+      "code_cant" : "14",
+      "x_centroid" : 9409,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 27405,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.51920783058615,
+        6.263788840787946
+      ],
+      "code_comm" : "144",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.263788840787946,
+        48.51920783058615
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

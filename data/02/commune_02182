@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f67d22b7ac150b7a32c67cd0a4588f1b642a6dd9",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 165,
+      "insee_com" : "65403",
+      "z_moyen" : 238,
+      "code_dept" : "65",
+      "nom_comm" : "SANOUS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4570,
+      "y_centroid" : 62578,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.004756809963597,
+              43.37181251390829
+            ],
+            [
+              0.000487479881846,
+              43.37037984642846
+            ],
+            [
+              -0.004652889864774,
+              43.37571083628411
+            ],
+            [
+              0.001282597609565,
+              43.38496823675031
+            ],
+            [
+              0.013053671779978,
+              43.38339421941455
+            ],
+            [
+              0.009463661903900999,
+              43.37789346152979
+            ],
+            [
+              0.004756809963597,
+              43.37181251390829
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62577,
+      "code_cant" : "25",
+      "x_centroid" : 4571,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 13191,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.37830360129557,
+        0.003555124609439114
+      ],
+      "code_comm" : "403",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.003555124609439114,
+        43.37830360129557
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

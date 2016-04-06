@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bbfc2338e75a2fb00c04ddb2aee9c7a7a757e07d",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 432,
+      "insee_com" : "68219",
+      "z_moyen" : 394,
+      "code_dept" : "68",
+      "nom_comm" : "MORTZWILLER",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10024,
+      "y_centroid" : 67453,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.032078754918137,
+              47.72618578277774
+            ],
+            [
+              7.020587462722887,
+              47.7344401296434
+            ],
+            [
+              7.015777827324949,
+              47.74346432357945
+            ],
+            [
+              7.022853260556141,
+              47.74709641836954
+            ],
+            [
+              7.029839006824428,
+              47.74988405691341
+            ],
+            [
+              7.054284878456183,
+              47.74082912014271
+            ],
+            [
+              7.047277377328089,
+              47.73301478654579
+            ],
+            [
+              7.032078754918137,
+              47.72618578277774
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67455,
+      "code_cant" : "15",
+      "x_centroid" : 10021,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 35987,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.73865852579426,
+        7.033808497325464
+      ],
+      "code_comm" : "219",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.033808497325464,
+        47.73865852579426
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

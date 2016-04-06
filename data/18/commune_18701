@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b965e527f5802029ae4753fda3b9ac36660d0e3d",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 393,
+      "insee_com" : "55547",
+      "z_moyen" : 284,
+      "code_dept" : "55",
+      "nom_comm" : "VERNEUIL-PETIT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8747,
+      "y_centroid" : 69411,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.44135253133628,
+              49.55213939440484
+            ],
+            [
+              5.430432515781658,
+              49.54099375506854
+            ],
+            [
+              5.415973306415917,
+              49.53702974825475
+            ],
+            [
+              5.405577743102236,
+              49.53748811830438
+            ],
+            [
+              5.398833228783433,
+              49.55134212385899
+            ],
+            [
+              5.44135253133628,
+              49.55213939440484
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69408,
+      "code_cant" : "14",
+      "x_centroid" : 8750,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 18335,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.54559437678336,
+        5.418221369267644
+      ],
+      "code_comm" : "547",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.418221369267644,
+        49.54559437678336
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

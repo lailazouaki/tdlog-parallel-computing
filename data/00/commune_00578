@@ -1,0 +1,75 @@
+  {
+    "recordid" : "595517e29a22536ed63edc93ed69da49ae5fddc6",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 886,
+      "insee_com" : "51512",
+      "z_moyen" : 120,
+      "code_dept" : "51",
+      "nom_comm" : "SAINT-QUENTIN-SUR-COOLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7974,
+      "y_centroid" : 68619,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.303038105430278,
+              48.82468604644204
+            ],
+            [
+              4.299426459648862,
+              48.83828025449984
+            ],
+            [
+              4.311823453798572,
+              48.85387637531885
+            ],
+            [
+              4.345326382783457,
+              48.87130440314372
+            ],
+            [
+              4.347963294643054,
+              48.87098691368185
+            ],
+            [
+              4.360515363091773,
+              48.85929598290009
+            ],
+            [
+              4.346528291294026,
+              48.85450721441373
+            ],
+            [
+              4.303038105430278,
+              48.82468604644204
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68623,
+      "code_cant" : "10",
+      "x_centroid" : 7973,
+      "nom_dept" : "MARNE",
+      "id_geofla" : 27812,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.85042411575413,
+        4.326618041329742
+      ],
+      "code_comm" : "512",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.326618041329742,
+        48.85042411575413
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

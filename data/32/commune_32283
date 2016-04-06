@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bdd1fe11b4bbfb6a2895618ba5ff8092d6ee1cd2",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 796,
+      "insee_com" : "66006",
+      "z_moyen" : 283,
+      "code_dept" : "66",
+      "nom_comm" : "ANSIGNAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6603,
+      "y_centroid" : 61849,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.505742980671305,
+              42.75137191083569
+            ],
+            [
+              2.501527635738551,
+              42.77202433118295
+            ],
+            [
+              2.510029743051419,
+              42.77984146579
+            ],
+            [
+              2.539712102276726,
+              42.76495676493179
+            ],
+            [
+              2.544733898225688,
+              42.75949328640954
+            ],
+            [
+              2.543805388744357,
+              42.75185544032416
+            ],
+            [
+              2.505742980671305,
+              42.75137191083569
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61847,
+      "code_cant" : "15",
+      "x_centroid" : 6607,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 28532,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        42.7627016725711,
+        2.520923879909629
+      ],
+      "code_comm" : "006",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.520923879909629,
+        42.7627016725711
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

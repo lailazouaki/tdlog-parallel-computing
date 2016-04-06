@@ -1,0 +1,71 @@
+  {
+    "recordid" : "aae2d551db0984569e1ae65f3175bd0e5b237ef0",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 299,
+      "insee_com" : "67361",
+      "z_moyen" : 168,
+      "code_dept" : "67",
+      "nom_comm" : "OLWISHEIM",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10439,
+      "y_centroid" : 68543,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.668521299932229,
+              48.68633075672981
+            ],
+            [
+              7.661913630039489,
+              48.68944578657405
+            ],
+            [
+              7.663348589090316,
+              48.70124702728858
+            ],
+            [
+              7.664495974688786,
+              48.70449081615891
+            ],
+            [
+              7.676807711161602,
+              48.70956752876578
+            ],
+            [
+              7.690528158327484,
+              48.69665713076374
+            ],
+            [
+              7.668521299932229,
+              48.68633075672981
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68542,
+      "code_cant" : "05",
+      "x_centroid" : 10437,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 7025,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.69777901076652,
+        7.673887306307226
+      ],
+      "code_comm" : "361",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.673887306307226,
+        48.69777901076652
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "3150c29d121e05e60b291ee87fe136336a9fbbb9",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 257,
+      "insee_com" : "62626",
+      "z_moyen" : 30,
+      "code_dept" : "62",
+      "nom_comm" : "NOYELLES-LES-VERMELLES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6805,
+      "y_centroid" : 70437,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.729927944995561,
+              50.48056950218408
+            ],
+            [
+              2.725458701630417,
+              50.47977872785571
+            ],
+            [
+              2.714820500428468,
+              50.48530201989162
+            ],
+            [
+              2.730532961531345,
+              50.50422300995474
+            ],
+            [
+              2.737563014124906,
+              50.50289170814683
+            ],
+            [
+              2.736632271083064,
+              50.50055596118004
+            ],
+            [
+              2.738564441313021,
+              50.49162882471047
+            ],
+            [
+              2.729927944995561,
+              50.48056950218408
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70435,
+      "code_cant" : "17",
+      "x_centroid" : 6806,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 11038,
+      "statut" : "Commune simple",
+      "population" : 2.2,
+      "geom_x_y" : [
+        50.49122625178047,
+        2.728389854867906
+      ],
+      "code_comm" : "626",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.728389854867906,
+        50.49122625178047
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

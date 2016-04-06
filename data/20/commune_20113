@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a2ee45c2ad2d5be71ab201c84dc74ed0fa1a84a7",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 619,
+      "insee_com" : "54285",
+      "z_moyen" : 245,
+      "code_dept" : "54",
+      "nom_comm" : "JUVRECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9621,
+      "y_centroid" : 68548,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.567093105923227,
+              48.72494967717576
+            ],
+            [
+              6.546300257210923,
+              48.73517624311773
+            ],
+            [
+              6.538634307054306,
+              48.75139347451027
+            ],
+            [
+              6.547832648613543,
+              48.7551177391075
+            ],
+            [
+              6.562183930839917,
+              48.75611273145304
+            ],
+            [
+              6.579742602852517,
+              48.73497868406494
+            ],
+            [
+              6.589493278981291,
+              48.73247982797021
+            ],
+            [
+              6.567093105923227,
+              48.72494967717576
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68551,
+      "code_cant" : "01",
+      "x_centroid" : 9617,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 19958,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.74077507652004,
+        6.560485291630632
+      ],
+      "code_comm" : "285",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.560485291630632,
+        48.74077507652004
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

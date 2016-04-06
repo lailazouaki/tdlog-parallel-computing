@@ -1,0 +1,71 @@
+  {
+    "recordid" : "40fa23483dc2d2dbbe0550c2ec39ac93b918263e",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 427,
+      "insee_com" : "45181",
+      "z_moyen" : 130,
+      "code_dept" : "45",
+      "nom_comm" : "LEOUVILLE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6322,
+      "y_centroid" : 67918,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.089528319010114,
+              48.21079316324973
+            ],
+            [
+              2.071041613166842,
+              48.22008860250637
+            ],
+            [
+              2.07873144539836,
+              48.23621986571867
+            ],
+            [
+              2.096505641068481,
+              48.23024723000091
+            ],
+            [
+              2.105794228382109,
+              48.2146067557559
+            ],
+            [
+              2.092198243581787,
+              48.21680666064668
+            ],
+            [
+              2.089528319010114,
+              48.21079316324973
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67918,
+      "code_cant" : "26",
+      "x_centroid" : 6321,
+      "nom_dept" : "LOIRET",
+      "id_geofla" : 15744,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.22333932490519,
+        2.087016637070796
+      ],
+      "code_comm" : "181",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.087016637070796,
+        48.22333932490519
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

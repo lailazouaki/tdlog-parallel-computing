@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9c0673a25eab17dd210ed9ac456b7bf4be395f46",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 297,
+      "insee_com" : "76079",
+      "z_moyen" : 87,
+      "code_dept" : "76",
+      "nom_comm" : "BENOUVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5015,
+      "y_centroid" : 69610,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.224833662233532,
+              49.71066982350681
+            ],
+            [
+              0.225329280529723,
+              49.7176399714922
+            ],
+            [
+              0.240763649774743,
+              49.72019349128589
+            ],
+            [
+              0.259399334436055,
+              49.72747420077861
+            ],
+            [
+              0.26487881516646,
+              49.72874818804573
+            ],
+            [
+              0.25993220773149,
+              49.72270324361331
+            ],
+            [
+              0.263002951452079,
+              49.71273883524899
+            ],
+            [
+              0.224833662233532,
+              49.71066982350681
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69610,
+      "code_cant" : "12",
+      "x_centroid" : 5013,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 21015,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.71733402142494,
+        0.2461256028710323
+      ],
+      "code_comm" : "079",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2461256028710323,
+        49.71733402142494
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

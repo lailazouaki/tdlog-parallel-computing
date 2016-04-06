@@ -1,0 +1,71 @@
+  {
+    "recordid" : "74cf89b641f021efa392957c3e5152779b99256f",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 503,
+      "insee_com" : "57054",
+      "z_moyen" : 238,
+      "code_dept" : "57",
+      "nom_comm" : "BAUDRECOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9526,
+      "y_centroid" : 68789,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.476580983215521,
+              48.95270076781134
+            ],
+            [
+              6.453425406995216,
+              48.94853683196355
+            ],
+            [
+              6.449591467511294,
+              48.95048349135944
+            ],
+            [
+              6.439032438251144,
+              48.96171415118594
+            ],
+            [
+              6.451209890571592,
+              48.97320925445085
+            ],
+            [
+              6.475166560570598,
+              48.96609039653448
+            ],
+            [
+              6.476580983215521,
+              48.95270076781134
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68792,
+      "code_cant" : "07",
+      "x_centroid" : 9531,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 22267,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.96032240350725,
+        6.458694195321272
+      ],
+      "code_comm" : "054",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.458694195321272,
+        48.96032240350725
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

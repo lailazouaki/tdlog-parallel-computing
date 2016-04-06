@@ -1,0 +1,71 @@
+  {
+    "recordid" : "1f1b110bda3a00e3a86f71e7ee850724e01a0f5c",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 405,
+      "insee_com" : "64166",
+      "z_moyen" : 228,
+      "code_dept" : "64",
+      "nom_comm" : "CARO",
+      "code_arr" : "1",
+      "x_chf_lieu" : 3568,
+      "y_centroid" : 62368,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.210616988060625,
+              43.13578761718137
+            ],
+            [
+              -1.231877708940779,
+              43.14630383016145
+            ],
+            [
+              -1.2350836423766,
+              43.14388994653268
+            ],
+            [
+              -1.238738658968737,
+              43.15011452989401
+            ],
+            [
+              -1.221274933229036,
+              43.16113176056388
+            ],
+            [
+              -1.205525323425938,
+              43.14846163912696
+            ],
+            [
+              -1.210616988060625,
+              43.13578761718137
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62367,
+      "code_cant" : "35",
+      "x_centroid" : 3565,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 22694,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.14871672364245,
+        -1.220577172245522
+      ],
+      "code_comm" : "166",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.220577172245522,
+        43.14871672364245
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

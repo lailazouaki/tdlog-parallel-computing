@@ -1,0 +1,71 @@
+  {
+    "recordid" : "33a2a83a42e257ac34d7ec6ca374c4d57152589d",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 549,
+      "insee_com" : "88127",
+      "z_moyen" : 273,
+      "code_dept" : "88",
+      "nom_comm" : "DEINVILLERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9631,
+      "y_centroid" : 68184,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.553651395281642,
+              48.40048406544251
+            ],
+            [
+              6.543335508036148,
+              48.41476969813729
+            ],
+            [
+              6.544567845114189,
+              48.42761977881039
+            ],
+            [
+              6.578736351207122,
+              48.41553433754633
+            ],
+            [
+              6.584999001289112,
+              48.40818547461112
+            ],
+            [
+              6.563415538364699,
+              48.40067716398564
+            ],
+            [
+              6.553651395281642,
+              48.40048406544251
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68183,
+      "code_cant" : "21",
+      "x_centroid" : 9634,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 21550,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.41254393473139,
+        6.560932616309658
+      ],
+      "code_comm" : "127",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.560932616309658,
+        48.41254393473139
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

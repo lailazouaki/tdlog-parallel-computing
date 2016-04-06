@@ -1,0 +1,75 @@
+  {
+    "recordid" : "9152a7ba6927ae1fa6dc275b3216df088ff00aab",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 411,
+      "insee_com" : "75107",
+      "z_moyen" : 34,
+      "code_dept" : "75",
+      "nom_comm" : "PARIS-7E-ARRONDISSEMENT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6501,
+      "y_centroid" : 68620,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.316633528047582,
+              48.84675871366723
+            ],
+            [
+              2.307341120736737,
+              48.84770356794504
+            ],
+            [
+              2.28978372807637,
+              48.85812314611537
+            ],
+            [
+              2.301556199832536,
+              48.86348063063825
+            ],
+            [
+              2.320781393695372,
+              48.86307865626878
+            ],
+            [
+              2.332852282604382,
+              48.85930633356469
+            ],
+            [
+              2.329309953608925,
+              48.85283816611751
+            ],
+            [
+              2.316633528047582,
+              48.84675871366723
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68621,
+      "code_cant" : "21",
+      "x_centroid" : 6495,
+      "nom_dept" : "PARIS",
+      "id_geofla" : 12976,
+      "statut" : "Chef-lieu canton",
+      "population" : 57.4,
+      "geom_x_y" : [
+        48.85608259819696,
+        2.312438687733859
+      ],
+      "code_comm" : "107",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.312438687733859,
+        48.85608259819696
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

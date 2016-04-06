@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d139214dda8b6d27d5975e8ac0c9692b77dfba02",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 251,
+      "insee_com" : "38316",
+      "z_moyen" : 207,
+      "code_dept" : "38",
+      "nom_comm" : "PONT-DE-CHERUY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8689,
+      "y_centroid" : 65192,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.169157604136337,
+              45.73687106793798
+            ],
+            [
+              5.167493192271357,
+              45.74954168407488
+            ],
+            [
+              5.160703274384023,
+              45.75392389055462
+            ],
+            [
+              5.167698195715506,
+              45.76132957816647
+            ],
+            [
+              5.184668338051967,
+              45.75728169774769
+            ],
+            [
+              5.183346054650708,
+              45.75052403557326
+            ],
+            [
+              5.169157604136337,
+              45.73687106793798
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65191,
+      "code_cant" : "46",
+      "x_centroid" : 8689,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 21848,
+      "statut" : "Chef-lieu canton",
+      "population" : 5,
+      "geom_x_y" : [
+        45.75168105273428,
+        5.173142036189325
+      ],
+      "code_comm" : "316",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.173142036189325,
+        45.75168105273428
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

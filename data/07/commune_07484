@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6525fbb1096f30670c3e0d2a30193b5a5e201297",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 376,
+      "insee_com" : "09242",
+      "z_moyen" : 656,
+      "code_dept" : "09",
+      "nom_comm" : "RAISSAC",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6030,
+      "y_centroid" : 62054,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.825248828683423,
+              42.93132148861038
+            ],
+            [
+              1.795986687519119,
+              42.94356221189114
+            ],
+            [
+              1.805290390161204,
+              42.95071739003672
+            ],
+            [
+              1.819035386375354,
+              42.94794621770546
+            ],
+            [
+              1.830360459793331,
+              42.94247578214036
+            ],
+            [
+              1.829444644198712,
+              42.93265340815934
+            ],
+            [
+              1.825248828683423,
+              42.93132148861038
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62054,
+      "code_cant" : "07",
+      "x_centroid" : 6032,
+      "nom_dept" : "ARIEGE",
+      "id_geofla" : 15907,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.94166818618201,
+        1.815535228218479
+      ],
+      "code_comm" : "242",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.815535228218479,
+        42.94166818618201
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

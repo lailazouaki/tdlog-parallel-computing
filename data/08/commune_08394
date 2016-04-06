@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cd5de2d5a18134414b336bf74b07202e21e6a0ca",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 530,
+      "insee_com" : "25012",
+      "z_moyen" : 1048,
+      "code_dept" : "25",
+      "nom_comm" : "LES ALLIES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9621,
+      "y_centroid" : 66556,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.444749541960627,
+              46.93340543536324
+            ],
+            [
+              6.428014954345536,
+              46.94980186368742
+            ],
+            [
+              6.426218815152308,
+              46.95613664923559
+            ],
+            [
+              6.432933039591543,
+              46.95616215226344
+            ],
+            [
+              6.468193263927625,
+              46.9588104796419
+            ],
+            [
+              6.472516956671495,
+              46.95685982315864
+            ],
+            [
+              6.444749541960627,
+              46.93340543536324
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66554,
+      "code_cant" : "15",
+      "x_centroid" : 9621,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 19999,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.94918795363479,
+        6.447570279083813
+      ],
+      "code_comm" : "012",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.447570279083813,
+        46.94918795363479
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

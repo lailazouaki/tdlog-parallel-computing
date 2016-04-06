@@ -1,0 +1,71 @@
+  {
+    "recordid" : "af7f61f50ae4e971481a6156a3d4994332cc28f8",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 309,
+      "insee_com" : "73316",
+      "z_moyen" : 436,
+      "code_dept" : "73",
+      "nom_comm" : "VILLARD-SALLET",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9450,
+      "y_centroid" : 64923,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.134428472218413,
+              45.47583026229029
+            ],
+            [
+              6.119174178895403,
+              45.48588893390014
+            ],
+            [
+              6.131600490798582,
+              45.4963208340463
+            ],
+            [
+              6.15017508205731,
+              45.48989819836254
+            ],
+            [
+              6.150409963721986,
+              45.48974741453956
+            ],
+            [
+              6.14319424690786,
+              45.48110921196736
+            ],
+            [
+              6.134428472218413,
+              45.47583026229029
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64921,
+      "code_cant" : "22",
+      "x_centroid" : 9448,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 23495,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        45.48650200966374,
+        6.134745454324388
+      ],
+      "code_comm" : "316",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.134745454324388,
+        45.48650200966374
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

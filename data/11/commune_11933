@@ -1,0 +1,67 @@
+  {
+    "recordid" : "433c24ee54de0a054c9222b0a6641bc12d719776",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 300,
+      "insee_com" : "62290",
+      "z_moyen" : 98,
+      "code_dept" : "62",
+      "nom_comm" : "ECURIE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6835,
+      "y_centroid" : 70261,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.771953286901556,
+              50.32094777676081
+            ],
+            [
+              2.759042812136555,
+              50.32578047811787
+            ],
+            [
+              2.754171346100351,
+              50.335440377682
+            ],
+            [
+              2.775327461864153,
+              50.34426127190095
+            ],
+            [
+              2.779994115739003,
+              50.33902650161587
+            ],
+            [
+              2.771953286901556,
+              50.32094777676081
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70258,
+      "code_cant" : "71",
+      "x_centroid" : 6834,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 21128,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        50.33286671781511,
+        2.767931097694428
+      ],
+      "code_comm" : "290",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.767931097694428,
+        50.33286671781511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

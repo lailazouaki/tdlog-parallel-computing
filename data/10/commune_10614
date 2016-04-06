@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dbe1f2ff509d7f79d74973fc25efac89631c9e85",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 335,
+      "insee_com" : "77214",
+      "z_moyen" : 62,
+      "code_dept" : "77",
+      "nom_comm" : "GRESSY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6760,
+      "y_centroid" : 68739,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.653194165163208,
+              48.95561918951179
+            ],
+            [
+              2.650281677509938,
+              48.96433340148263
+            ],
+            [
+              2.660825327166078,
+              48.97475885201799
+            ],
+            [
+              2.672180115173003,
+              48.97639105193105
+            ],
+            [
+              2.676856892795135,
+              48.96680892155987
+            ],
+            [
+              2.674584928304008,
+              48.95665933068263
+            ],
+            [
+              2.653194165163208,
+              48.95561918951179
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68739,
+      "code_cant" : "37",
+      "x_centroid" : 6754,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 6850,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        48.96500997292701,
+        2.664403767243342
+      ],
+      "code_comm" : "214",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.664403767243342,
+        48.96500997292701
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

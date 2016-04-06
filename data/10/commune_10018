@@ -1,0 +1,71 @@
+  {
+    "recordid" : "24116050150a0b72f052fc474d45589e30c194c3",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 441,
+      "insee_com" : "54132",
+      "z_moyen" : 267,
+      "code_dept" : "54",
+      "nom_comm" : "CLEREY-SUR-BRENON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9316,
+      "y_centroid" : 68274,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.137145750954315,
+              48.49349538824436
+            ],
+            [
+              6.124832050892161,
+              48.4989337849855
+            ],
+            [
+              6.12395380175342,
+              48.50875208417023
+            ],
+            [
+              6.135296981321145,
+              48.51808631919968
+            ],
+            [
+              6.142862261917851,
+              48.51882271536228
+            ],
+            [
+              6.153636999797611,
+              48.50464552227628
+            ],
+            [
+              6.137145750954315,
+              48.49349538824436
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68276,
+      "code_cant" : "29",
+      "x_centroid" : 9317,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 14531,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.50624326383254,
+        6.137554075784894
+      ],
+      "code_comm" : "132",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.137554075784894,
+        48.50624326383254
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

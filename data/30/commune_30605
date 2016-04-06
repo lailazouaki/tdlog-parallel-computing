@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d54c8c3b19990a25c222b2feb54fb9ea6de7656f",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 455,
+      "insee_com" : "39573",
+      "z_moyen" : 205,
+      "code_dept" : "39",
+      "nom_comm" : "VILLETTE-LES-DOLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8893,
+      "y_centroid" : 66634,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.497253947617703,
+              47.03386742250353
+            ],
+            [
+              5.47030317187005,
+              47.03686127333648
+            ],
+            [
+              5.481319437287368,
+              47.04233595006736
+            ],
+            [
+              5.493767971340933,
+              47.05508396467749
+            ],
+            [
+              5.501087300325259,
+              47.05830360438105
+            ],
+            [
+              5.511176276547746,
+              47.05105863426384
+            ],
+            [
+              5.497253947617703,
+              47.03386742250353
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66638,
+      "code_cant" : "13",
+      "x_centroid" : 8893,
+      "nom_dept" : "JURA",
+      "id_geofla" : 23427,
+      "statut" : "Commune simple",
+      "population" : 0.8,
+      "geom_x_y" : [
+        47.04471057983837,
+        5.494097395657716
+      ],
+      "code_comm" : "573",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.494097395657716,
+        47.04471057983837
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "dbf4380d11d7c9a95393eb8ed52a30d2bf517240",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 663,
+      "insee_com" : "21404",
+      "z_moyen" : 306,
+      "code_dept" : "21",
+      "nom_comm" : "MENETREUX-LE-PITOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8106,
+      "y_centroid" : 67187,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.473851208710731,
+              47.54711171405877
+            ],
+            [
+              4.459949131521554,
+              47.54638629819835
+            ],
+            [
+              4.435930578713505,
+              47.55414790665564
+            ],
+            [
+              4.436593889197034,
+              47.55606634731981
+            ],
+            [
+              4.458786921011222,
+              47.57591223809522
+            ],
+            [
+              4.47465697491518,
+              47.57053610241341
+            ],
+            [
+              4.476126599883924,
+              47.5654669055254
+            ],
+            [
+              4.473851208710731,
+              47.54711171405877
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67186,
+      "code_cant" : "36",
+      "x_centroid" : 8097,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 33885,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        47.55969056101898,
+        4.459569713017892
+      ],
+      "code_comm" : "404",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.459569713017892,
+        47.55969056101898
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

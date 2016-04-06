@@ -1,0 +1,63 @@
+  {
+    "recordid" : "bdcc771a35da7c2f2dcac007c1b9283336e34680",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 152,
+      "insee_com" : "57111",
+      "z_moyen" : 271,
+      "code_dept" : "57",
+      "nom_comm" : "BRONVAUX",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9250,
+      "y_centroid" : 69036,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.067997761723758,
+              49.18504108549487
+            ],
+            [
+              6.08577370066287,
+              49.20001700697622
+            ],
+            [
+              6.099206336519283,
+              49.19597423854612
+            ],
+            [
+              6.07809908693529,
+              49.18641176104373
+            ],
+            [
+              6.067997761723758,
+              49.18504108549487
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69040,
+      "code_cant" : "48",
+      "x_centroid" : 9247,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 24738,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        49.19277676371841,
+        6.083817866390988
+      ],
+      "code_comm" : "111",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.083817866390988,
+        49.19277676371841
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

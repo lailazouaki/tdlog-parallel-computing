@@ -1,0 +1,71 @@
+  {
+    "recordid" : "87b2470b38cc3e8074257fdc016abfa5ba90203e",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 120,
+      "insee_com" : "31306",
+      "z_moyen" : 637,
+      "code_dept" : "31",
+      "nom_comm" : "LOURDE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5090,
+      "y_centroid" : 62123,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.659375765629744,
+              42.97794093316347
+            ],
+            [
+              0.647418016781385,
+              42.98212459239854
+            ],
+            [
+              0.654081759374071,
+              42.98582412951751
+            ],
+            [
+              0.655860657651923,
+              42.99183715466697
+            ],
+            [
+              0.6645935383238289,
+              42.99107345226998
+            ],
+            [
+              0.665847940479067,
+              42.98123067527376
+            ],
+            [
+              0.659375765629744,
+              42.97794093316347
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62122,
+      "code_cant" : "05",
+      "x_centroid" : 5088,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 13696,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.98471806350907,
+        0.6586607558534828
+      ],
+      "code_comm" : "306",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.6586607558534828,
+        42.98471806350907
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

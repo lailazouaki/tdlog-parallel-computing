@@ -1,0 +1,75 @@
+  {
+    "recordid" : "97de47a42f700b7f6dddada6c6b47b9320a3d89e",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 224,
+      "insee_com" : "62828",
+      "z_moyen" : 128,
+      "code_dept" : "62",
+      "nom_comm" : "TRAMECOURT",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6396,
+      "y_centroid" : 70416,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.155614747766354,
+              50.46031676164789
+            ],
+            [
+              2.152076283120373,
+              50.45916144803603
+            ],
+            [
+              2.146182778573529,
+              50.46255911202136
+            ],
+            [
+              2.141542961918973,
+              50.46827227040079
+            ],
+            [
+              2.145750172317096,
+              50.47729623350751
+            ],
+            [
+              2.155904984517094,
+              50.47825462708114
+            ],
+            [
+              2.163659567233784,
+              50.47467167089222
+            ],
+            [
+              2.155614747766354,
+              50.46031676164789
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70410,
+      "code_cant" : "39",
+      "x_centroid" : 6397,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 22489,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.46970333996114,
+        2.152139248847946
+      ],
+      "code_comm" : "828",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.152139248847946,
+        50.46970333996114
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f575d8deea3c1e406224f1af754a2ec6f63f39ec",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 646,
+      "insee_com" : "14745",
+      "z_moyen" : 44,
+      "code_dept" : "14",
+      "nom_comm" : "VIERVILLE-SUR-MER",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4164,
+      "y_centroid" : 69256,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.892900392232252,
+              49.35120829989968
+            ],
+            [
+              -0.911045161958522,
+              49.3521340445941
+            ],
+            [
+              -0.914082873309232,
+              49.35458260348278
+            ],
+            [
+              -0.9122533896566281,
+              49.36369569820079
+            ],
+            [
+              -0.918408798835038,
+              49.37958772584687
+            ],
+            [
+              -0.912785254108603,
+              49.38485472009496
+            ],
+            [
+              -0.881651369060602,
+              49.37159453728744
+            ],
+            [
+              -0.892900392232252,
+              49.35120829989968
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69264,
+      "code_cant" : "33",
+      "x_centroid" : 4166,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 18999,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.3669899516465,
+        -0.9015435729215467
+      ],
+      "code_comm" : "745",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.9015435729215467,
+        49.3669899516465
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1f10fa88573fb9f24fb6a399671c8a379053a006",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 181,
+      "insee_com" : "33295",
+      "z_moyen" : 42,
+      "code_dept" : "33",
+      "nom_comm" : "MOUILLAC",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4359,
+      "y_centroid" : 64397,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.337895554161299,
+              45.0057006427031
+            ],
+            [
+              -0.348881464591691,
+              44.99950373338532
+            ],
+            [
+              -0.357532487489557,
+              45.00079297183574
+            ],
+            [
+              -0.354085597288267,
+              45.01280167432289
+            ],
+            [
+              -0.341555751582095,
+              45.01147548167618
+            ],
+            [
+              -0.337895554161299,
+              45.0057006427031
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64399,
+      "code_cant" : "24",
+      "x_centroid" : 4362,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 32264,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.00626222975691,
+        -0.3484909086248977
+      ],
+      "code_comm" : "295",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3484909086248977,
+        45.00626222975691
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

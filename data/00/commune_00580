@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a5136bd4b5812a5ddc53f5498c5091cb5b5bd91c",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 244,
+      "insee_com" : "90103",
+      "z_moyen" : 398,
+      "code_dept" : "90",
+      "nom_comm" : "VETRIGNE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9921,
+      "y_centroid" : 67370,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.896091109420063,
+              47.65821566218688
+            ],
+            [
+              6.883259814518321,
+              47.66774491168286
+            ],
+            [
+              6.885056847766182,
+              47.67391225882329
+            ],
+            [
+              6.88533915964089,
+              47.68034623619847
+            ],
+            [
+              6.905552996090042,
+              47.67084066019336
+            ],
+            [
+              6.909030624365987,
+              47.66495672916265
+            ],
+            [
+              6.896203966407049,
+              47.6614020901895
+            ],
+            [
+              6.896091109420063,
+              47.65821566218688
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67369,
+      "code_cant" : "15",
+      "x_centroid" : 9921,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 27821,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.66909862242223,
+        6.894538085757795
+      ],
+      "code_comm" : "103",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.894538085757795,
+        47.66909862242223
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

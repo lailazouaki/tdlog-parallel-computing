@@ -1,0 +1,75 @@
+  {
+    "recordid" : "664ae2ecc1cd08548e958b4839d82dcfd7bce465",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 302,
+      "insee_com" : "14285",
+      "z_moyen" : 135,
+      "code_dept" : "14",
+      "nom_comm" : "LE FOURNET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4893,
+      "y_centroid" : 69039,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.126052394656547,
+              49.18938820754668
+            ],
+            [
+              0.115233671844961,
+              49.1958407806452
+            ],
+            [
+              0.095105311032781,
+              49.19640053982184
+            ],
+            [
+              0.09235992110796,
+              49.20299159675505
+            ],
+            [
+              0.119300222129994,
+              49.20958538440887
+            ],
+            [
+              0.120527821759233,
+              49.20307450836324
+            ],
+            [
+              0.128169744858715,
+              49.19896576285351
+            ],
+            [
+              0.126052394656547,
+              49.18938820754668
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69042,
+      "code_cant" : "10",
+      "x_centroid" : 4895,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 25736,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.20028911874903,
+        0.1117225282160326
+      ],
+      "code_comm" : "285",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.1117225282160326,
+        49.20028911874903
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

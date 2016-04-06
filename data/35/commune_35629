@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0534d68591ff01d76c2097949f08c5a39bc88211",
+    "fields" : {
+      "nom_region" : "ILE-DE-FRANCE",
+      "superficie" : 650,
+      "insee_com" : "77204",
+      "z_moyen" : 145,
+      "code_dept" : "77",
+      "nom_comm" : "GERMIGNY-SOUS-COULOMBS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7116,
+      "y_centroid" : 68849,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.157786921345649,
+              49.04744778133746
+            ],
+            [
+              3.145599215160022,
+              49.06217336867339
+            ],
+            [
+              3.14555336209745,
+              49.07509412766112
+            ],
+            [
+              3.158681073767469,
+              49.08040939336711
+            ],
+            [
+              3.167881523404398,
+              49.07689925666153
+            ],
+            [
+              3.181708300994428,
+              49.06216914744596
+            ],
+            [
+              3.170330659396175,
+              49.05164771709187
+            ],
+            [
+              3.157786921345649,
+              49.04744778133746
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68849,
+      "code_cant" : "15",
+      "x_centroid" : 7117,
+      "nom_dept" : "SEINE-ET-MARNE",
+      "id_geofla" : 35036,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.06439549290525,
+        3.161414639163483
+      ],
+      "code_comm" : "204",
+      "code_reg" : "11"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.161414639163483,
+        49.06439549290525
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

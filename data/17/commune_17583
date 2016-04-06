@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0eb1bd4a92e0ba46dcc140a512090242fce42dc4",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 538,
+      "insee_com" : "86071",
+      "z_moyen" : 98,
+      "code_dept" : "86",
+      "nom_comm" : "CHENECHE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4923,
+      "y_centroid" : 66307,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.28653659528622,
+              46.73400553093025
+            ],
+            [
+              0.266861841592526,
+              46.73361087577814
+            ],
+            [
+              0.257418598936325,
+              46.73507944628847
+            ],
+            [
+              0.251897652285619,
+              46.74059638380623
+            ],
+            [
+              0.256349379420769,
+              46.74974836906554
+            ],
+            [
+              0.283267466898905,
+              46.76004637544635
+            ],
+            [
+              0.28653659528622,
+              46.73400553093025
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66299,
+      "code_cant" : "19",
+      "x_centroid" : 4917,
+      "nom_dept" : "VIENNE",
+      "id_geofla" : 23289,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        46.74442325375306,
+        0.2711654508490136
+      ],
+      "code_comm" : "071",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.2711654508490136,
+        46.74442325375306
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "4ea4879cf1f5c56ccd039e0b2afd6ccbe42f1b6d",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 250,
+      "insee_com" : "31531",
+      "z_moyen" : 387,
+      "code_dept" : "31",
+      "nom_comm" : "SARRECAVE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5045,
+      "y_centroid" : 62380,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.608345736375328,
+              43.21894462821727
+            ],
+            [
+              0.608544233718387,
+              43.21296456237167
+            ],
+            [
+              0.596876252388181,
+              43.20862874829118
+            ],
+            [
+              0.58881818235209,
+              43.20891696555609
+            ],
+            [
+              0.576958344352417,
+              43.21243101957512
+            ],
+            [
+              0.595234441702028,
+              43.22205503163303
+            ],
+            [
+              0.608345736375328,
+              43.21894462821727
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62380,
+      "code_cant" : "06",
+      "x_centroid" : 5044,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 21985,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.21475331657408,
+        0.5949725925065749
+      ],
+      "code_comm" : "531",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.5949725925065749,
+        43.21475331657408
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "6f5665a2db524b6e6c2a50f93ae618d665967b4d",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 223,
+      "insee_com" : "54035",
+      "z_moyen" : 303,
+      "code_dept" : "54",
+      "nom_comm" : "AVRICOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9802,
+      "y_centroid" : 68448,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.839311000037576,
+              48.63743011193409
+            ],
+            [
+              6.818664314037999,
+              48.64105696483805
+            ],
+            [
+              6.797981721887428,
+              48.63954826423694
+            ],
+            [
+              6.78262580489552,
+              48.64272069957035
+            ],
+            [
+              6.813698330116543,
+              48.64693455004728
+            ],
+            [
+              6.834289395094854,
+              48.64362564425026
+            ],
+            [
+              6.839311000037576,
+              48.63743011193409
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68450,
+      "code_cant" : "06",
+      "x_centroid" : 9808,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 19271,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.64258086569063,
+        6.813211034919121
+      ],
+      "code_comm" : "035",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.813211034919121,
+        48.64258086569063
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

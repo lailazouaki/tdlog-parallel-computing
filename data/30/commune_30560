@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3f41e501b3a6ef9130da6df5045cfb6e8a4ebd62",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 221,
+      "insee_com" : "64145",
+      "z_moyen" : 261,
+      "code_dept" : "64",
+      "nom_comm" : "BOURDETTES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4337,
+      "y_centroid" : 62382,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.273443171156875,
+              43.18483105445298
+            ],
+            [
+              -0.279529304265328,
+              43.1971148187498
+            ],
+            [
+              -0.269388668464439,
+              43.20404861827699
+            ],
+            [
+              -0.264481064206842,
+              43.1980034105806
+            ],
+            [
+              -0.260391583159301,
+              43.19030384927215
+            ],
+            [
+              -0.273443171156875,
+              43.18483105445298
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62385,
+      "code_cant" : "26",
+      "x_centroid" : 4340,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 7985,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.19412853632524,
+        -0.2702500920473021
+      ],
+      "code_comm" : "145",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2702500920473021,
+        43.19412853632524
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

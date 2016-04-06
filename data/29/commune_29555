@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f97f3028c2a2a5435a962d750fdb87174398ee7d",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 347,
+      "insee_com" : "25306",
+      "z_moyen" : 387,
+      "code_dept" : "25",
+      "nom_comm" : "L'HOPITAL-SAINT-LIEFFROY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9606,
+      "y_centroid" : 67056,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.447228617516398,
+              47.39186068660399
+            ],
+            [
+              6.44283109762877,
+              47.39198204392377
+            ],
+            [
+              6.440564511623643,
+              47.39759969329899
+            ],
+            [
+              6.450811212527338,
+              47.4085501386045
+            ],
+            [
+              6.469649600319515,
+              47.40655666949483
+            ],
+            [
+              6.470120101881022,
+              47.39619833420912
+            ],
+            [
+              6.463531220442788,
+              47.39178140847029
+            ],
+            [
+              6.447228617516398,
+              47.39186068660399
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67055,
+      "code_cant" : "08",
+      "x_centroid" : 9606,
+      "nom_dept" : "DOUBS",
+      "id_geofla" : 11507,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.3994827455565,
+        6.4562495870948
+      ],
+      "code_comm" : "306",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.4562495870948,
+        47.3994827455565
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

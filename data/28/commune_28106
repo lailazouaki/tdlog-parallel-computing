@@ -1,0 +1,67 @@
+  {
+    "recordid" : "5f8f571b8d1d82ad40378b8b92b7281db8385682",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 469,
+      "insee_com" : "33141",
+      "z_moyen" : 63,
+      "code_dept" : "33",
+      "nom_comm" : "CROIGNON",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4356,
+      "y_centroid" : 64191,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.345205486765011,
+              44.80426158113815
+            ],
+            [
+              -0.350546208422889,
+              44.81868061849008
+            ],
+            [
+              -0.361879009513207,
+              44.83372008967191
+            ],
+            [
+              -0.340777814388236,
+              44.83516874814822
+            ],
+            [
+              -0.329052154189171,
+              44.80913634619558
+            ],
+            [
+              -0.345205486765011,
+              44.80426158113815
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64189,
+      "code_cant" : "23",
+      "x_centroid" : 4357,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 34145,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        44.82105991214945,
+        -0.3440032977391683
+      ],
+      "code_comm" : "141",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3440032977391683,
+        44.82105991214945
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

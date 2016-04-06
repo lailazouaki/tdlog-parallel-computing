@@ -1,0 +1,71 @@
+  {
+    "recordid" : "db824d03869ea732f19ffffb03a3c5d3a297e74c",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 478,
+      "insee_com" : "66170",
+      "z_moyen" : 202,
+      "code_dept" : "66",
+      "nom_comm" : "SAINTE-COLOMBE-DE-LA-COMMANDERIE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6792,
+      "y_centroid" : 61684,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.730978291930052,
+              42.60634200979403
+            ],
+            [
+              2.721189315393516,
+              42.61229546553626
+            ],
+            [
+              2.729074528318136,
+              42.62318508181323
+            ],
+            [
+              2.737671960889095,
+              42.62527431541664
+            ],
+            [
+              2.746386057124668,
+              42.62307470892351
+            ],
+            [
+              2.763911553838569,
+              42.61219157522014
+            ],
+            [
+              2.730978291930052,
+              42.60634200979403
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61683,
+      "code_cant" : "17",
+      "x_centroid" : 6786,
+      "nom_dept" : "PYRENEES-ORIENTALES",
+      "id_geofla" : 21306,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.61540601371411,
+        2.739876138577773
+      ],
+      "code_comm" : "170",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.739876138577773,
+        42.61540601371411
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

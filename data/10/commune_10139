@@ -1,0 +1,63 @@
+  {
+    "recordid" : "a170992ace20a927492ecb604d967bda57fdf04d",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 245,
+      "insee_com" : "35301",
+      "z_moyen" : 87,
+      "code_dept" : "35",
+      "nom_comm" : "SAINT-M'HERVON",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3246,
+      "y_centroid" : 68040,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.051898989788089,
+              48.22428516045018
+            ],
+            [
+              -2.071726090288594,
+              48.22210027409971
+            ],
+            [
+              -2.082588240587874,
+              48.22853950308041
+            ],
+            [
+              -2.057066738978913,
+              48.2365152030972
+            ],
+            [
+              -2.051898989788089,
+              48.22428516045018
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68040,
+      "code_cant" : "22",
+      "x_centroid" : 3241,
+      "nom_dept" : "ILLE-ET-VILAINE",
+      "id_geofla" : 5472,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.22833866234614,
+        -2.065317055159761
+      ],
+      "code_comm" : "301",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.065317055159761,
+        48.22833866234614
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

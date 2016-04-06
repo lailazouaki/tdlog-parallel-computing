@@ -1,0 +1,75 @@
+  {
+    "recordid" : "fc34401e4ee2691fa0c2af28a1ea7484e5fa4e4a",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 488,
+      "insee_com" : "84100",
+      "z_moyen" : 301,
+      "code_dept" : "84",
+      "nom_comm" : "LA ROQUE-ALRIC",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8651,
+      "y_centroid" : 63405,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.07100444009061,
+              44.13224712883699
+            ],
+            [
+              5.064773566424527,
+              44.13692052921389
+            ],
+            [
+              5.055567758822337,
+              44.13784084374218
+            ],
+            [
+              5.052838292160041,
+              44.146733583329
+            ],
+            [
+              5.065625687712203,
+              44.15934175440439
+            ],
+            [
+              5.074571693161722,
+              44.15840755532523
+            ],
+            [
+              5.084891573819193,
+              44.13254209132334
+            ],
+            [
+              5.07100444009061,
+              44.13224712883699
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63403,
+      "code_cant" : "04",
+      "x_centroid" : 8654,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 32161,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.14484413926655,
+        5.068833989592576
+      ],
+      "code_comm" : "100",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.068833989592576,
+        44.14484413926655
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

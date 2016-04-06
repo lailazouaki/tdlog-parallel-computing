@@ -1,0 +1,75 @@
+  {
+    "recordid" : "ab4cee900eb2d82c960d2bef012d0c9dcf30c1a1",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 519,
+      "insee_com" : "44136",
+      "z_moyen" : 21,
+      "code_dept" : "44",
+      "nom_comm" : "PREFAILLES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 3049,
+      "y_centroid" : 66831,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.177282943247446,
+              47.1219921218357
+            ],
+            [
+              -2.21307903057289,
+              47.12472215230845
+            ],
+            [
+              -2.241587346000309,
+              47.13225651415121
+            ],
+            [
+              -2.243827065297084,
+              47.13515949848438
+            ],
+            [
+              -2.228864265691797,
+              47.14486934768619
+            ],
+            [
+              -2.201921213775877,
+              47.13032286804071
+            ],
+            [
+              -2.172894452230035,
+              47.1263931402937
+            ],
+            [
+              -2.177282943247446,
+              47.1219921218357
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66828,
+      "code_cant" : "32",
+      "x_centroid" : 3050,
+      "nom_dept" : "LOIRE-ATLANTIQUE",
+      "id_geofla" : 22861,
+      "statut" : "Commune simple",
+      "population" : 1.3,
+      "geom_x_y" : [
+        47.13146665701153,
+        -2.213915364020644
+      ],
+      "code_comm" : "136",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -2.213915364020644,
+        47.13146665701153
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

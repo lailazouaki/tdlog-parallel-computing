@@ -1,0 +1,75 @@
+  {
+    "recordid" : "7ccfbbdc1d16a225c7f617ea21bb6279fa50e188",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 806,
+      "insee_com" : "55362",
+      "z_moyen" : 246,
+      "code_dept" : "55",
+      "nom_comm" : "MOULINS-SAINT-HUBERT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8537,
+      "y_centroid" : 69441,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.11333842584601,
+              49.56209827388969
+            ],
+            [
+              5.106081090095032,
+              49.57857705060209
+            ],
+            [
+              5.111163043328075,
+              49.5885213789249
+            ],
+            [
+              5.119714546588544,
+              49.59267848638617
+            ],
+            [
+              5.145595547105499,
+              49.58919441652738
+            ],
+            [
+              5.152895066022936,
+              49.5766231804142
+            ],
+            [
+              5.142393751369116,
+              49.56914049967759
+            ],
+            [
+              5.11333842584601,
+              49.56209827388969
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69442,
+      "code_cant" : "20",
+      "x_centroid" : 8539,
+      "nom_dept" : "MEUSE",
+      "id_geofla" : 24820,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.57836368761888,
+        5.127707929579482
+      ],
+      "code_comm" : "362",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.127707929579482,
+        49.57836368761888
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

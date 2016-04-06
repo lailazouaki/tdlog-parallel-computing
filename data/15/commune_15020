@@ -1,0 +1,71 @@
+  {
+    "recordid" : "0e378b0ceddf921095518846a78bf9e224464d0f",
+    "fields" : {
+      "nom_region" : "CORSE",
+      "superficie" : 471,
+      "insee_com" : "2B111",
+      "z_moyen" : 905,
+      "code_dept" : "2B",
+      "nom_comm" : "FELCE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 12290,
+      "y_centroid" : 61600,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.412338632447584,
+              42.33537217611563
+            ],
+            [
+              9.410385093300832,
+              42.35590581677945
+            ],
+            [
+              9.413846496712178,
+              42.35764469698231
+            ],
+            [
+              9.429941771045042,
+              42.35496732417968
+            ],
+            [
+              9.439920117748198,
+              42.34908739813521
+            ],
+            [
+              9.445056579914823,
+              42.34043433445733
+            ],
+            [
+              9.412338632447584,
+              42.33537217611563
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61603,
+      "code_cant" : "37",
+      "x_centroid" : 12296,
+      "nom_dept" : "HAUTE-CORSE",
+      "id_geofla" : 4038,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.34625781015616,
+        9.424791832936444
+      ],
+      "code_comm" : "111",
+      "code_reg" : "94"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        9.424791832936444,
+        42.34625781015616
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

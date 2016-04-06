@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c02441ab57ee3bb3a9b5a9248b5fde369dadc030",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 551,
+      "insee_com" : "61481",
+      "z_moyen" : 202,
+      "code_dept" : "61",
+      "nom_comm" : "TELLIERES-LE-PLESSIS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5077,
+      "y_centroid" : 68388,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.41706264341705,
+              48.6167892453774
+            ],
+            [
+              0.398818135650351,
+              48.61026301996134
+            ],
+            [
+              0.373374842293143,
+              48.61504134194553
+            ],
+            [
+              0.378462447836107,
+              48.62755548126265
+            ],
+            [
+              0.38306834330024,
+              48.62884478630511
+            ],
+            [
+              0.39247488097343,
+              48.63570203686193
+            ],
+            [
+              0.40857317278067,
+              48.6254066382867
+            ],
+            [
+              0.41706264341705,
+              48.6167892453774
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68394,
+      "code_cant" : "09",
+      "x_centroid" : 5079,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 24953,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.62123103321561,
+        0.3939952568920111
+      ],
+      "code_comm" : "481",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3939952568920111,
+        48.62123103321561
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

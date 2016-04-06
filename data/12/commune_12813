@@ -1,0 +1,75 @@
+  {
+    "recordid" : "af8267c62bdb980eb536e0b1a8ff6d4fd07d1a8d",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 261,
+      "insee_com" : "21010",
+      "z_moyen" : 261,
+      "code_dept" : "21",
+      "nom_comm" : "ALOXE-CORTON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8411,
+      "y_centroid" : 66647,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.866669835970445,
+              47.06379404784014
+            ],
+            [
+              4.85945403222269,
+              47.05633660281749
+            ],
+            [
+              4.851120412503035,
+              47.05810047345355
+            ],
+            [
+              4.853273310807409,
+              47.06169525076509
+            ],
+            [
+              4.85002242460462,
+              47.07142844228691
+            ],
+            [
+              4.868876679236605,
+              47.07994161261291
+            ],
+            [
+              4.873541943483958,
+              47.07154481144097
+            ],
+            [
+              4.866669835970445,
+              47.06379404784014
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66644,
+      "code_cant" : "05",
+      "x_centroid" : 8412,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 26004,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        47.06823931287856,
+        4.861232050879777
+      ],
+      "code_comm" : "010",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.861232050879777,
+        47.06823931287856
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

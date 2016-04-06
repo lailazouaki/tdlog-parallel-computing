@@ -1,0 +1,71 @@
+  {
+    "recordid" : "59d742b589863a8763155b397da11153c5d387f7",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 795,
+      "insee_com" : "30337",
+      "z_moyen" : 174,
+      "code_dept" : "30",
+      "nom_comm" : "VALLABRIX",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8184,
+      "y_centroid" : 63307,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.475957653618649,
+              44.04962146152106
+            ],
+            [
+              4.464683651098714,
+              44.05432775818291
+            ],
+            [
+              4.469933491277819,
+              44.07782411486513
+            ],
+            [
+              4.492612074017245,
+              44.08028097442885
+            ],
+            [
+              4.506398490181553,
+              44.07461904741562
+            ],
+            [
+              4.494326906551648,
+              44.05332403044716
+            ],
+            [
+              4.475957653618649,
+              44.04962146152106
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63302,
+      "code_cant" : "35",
+      "x_centroid" : 8188,
+      "nom_dept" : "GARD",
+      "id_geofla" : 24823,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        44.06562318151822,
+        4.483925687417322
+      ],
+      "code_comm" : "337",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.483925687417322,
+        44.06562318151822
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

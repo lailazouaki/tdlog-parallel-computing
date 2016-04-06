@@ -1,0 +1,71 @@
+  {
+    "recordid" : "439447ff4f4f1e26b101de6844c7b1177986d887",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 648,
+      "insee_com" : "57466",
+      "z_moyen" : 243,
+      "code_dept" : "57",
+      "nom_comm" : "METZING",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9889,
+      "y_centroid" : 68960,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.971453122461555,
+              49.08385390949237
+            ],
+            [
+              6.95216163110293,
+              49.0814203349255
+            ],
+            [
+              6.950603841245585,
+              49.0875933205774
+            ],
+            [
+              6.945615443579353,
+              49.08778428223689
+            ],
+            [
+              6.957503618845274,
+              49.12104425620639
+            ],
+            [
+              6.974275415688543,
+              49.11243374515196
+            ],
+            [
+              6.971453122461555,
+              49.08385390949237
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68969,
+      "code_cant" : "47",
+      "x_centroid" : 9891,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 18986,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.0993204164585,
+        6.961373138359209
+      ],
+      "code_comm" : "466",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.961373138359209,
+        49.0993204164585
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

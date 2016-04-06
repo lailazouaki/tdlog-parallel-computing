@@ -1,0 +1,75 @@
+  {
+    "recordid" : "0f7f777c1c947ebb345a0bbda96e2b0f9056d54c",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 264,
+      "insee_com" : "65067",
+      "z_moyen" : 403,
+      "code_dept" : "65",
+      "nom_comm" : "BARRY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4576,
+      "y_centroid" : 62311,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.016289841852949,
+              43.12714018824717
+            ],
+            [
+              0.016830492820812,
+              43.12952238109676
+            ],
+            [
+              0.010728499317652,
+              43.12846219275961
+            ],
+            [
+              0.013898041703765,
+              43.1382350413253
+            ],
+            [
+              0.006858926919151,
+              43.14267528145139
+            ],
+            [
+              0.021515144796067,
+              43.1499850353398
+            ],
+            [
+              0.033538587717698,
+              43.13656322633062
+            ],
+            [
+              0.016289841852949,
+              43.12714018824717
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62319,
+      "code_cant" : "16",
+      "x_centroid" : 4574,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 29669,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.13866688181718,
+        0.02001050130533712
+      ],
+      "code_comm" : "067",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.02001050130533712,
+        43.13866688181718
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

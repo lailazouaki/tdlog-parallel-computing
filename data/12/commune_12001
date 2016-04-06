@@ -1,0 +1,71 @@
+  {
+    "recordid" : "27c7db669e8b4fe401d00cd2a09629f9b398a91a",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 831,
+      "insee_com" : "47189",
+      "z_moyen" : 96,
+      "code_dept" : "47",
+      "nom_comm" : "MONTIGNAC-TOUPINERIE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4891,
+      "y_centroid" : 63868,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.373730795946451,
+              44.54602779746239
+            ],
+            [
+              0.350395903883648,
+              44.53600334500126
+            ],
+            [
+              0.332448393681584,
+              44.53844434589168
+            ],
+            [
+              0.323422620115128,
+              44.54287367492461
+            ],
+            [
+              0.344168275619171,
+              44.55916487802034
+            ],
+            [
+              0.376784627511226,
+              44.56026894309428
+            ],
+            [
+              0.373730795946451,
+              44.54602779746239
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63868,
+      "code_cant" : "31",
+      "x_centroid" : 4897,
+      "nom_dept" : "LOT-ET-GARONNE",
+      "id_geofla" : 15942,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.54862726110008,
+        0.3520529707428702
+      ],
+      "code_comm" : "189",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3520529707428702,
+        44.54862726110008
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

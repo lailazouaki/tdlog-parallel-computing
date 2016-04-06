@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a568367926e13528514b1e021a2d2d07a1cb6daf",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1147,
+      "insee_com" : "84141",
+      "z_moyen" : 40,
+      "code_dept" : "84",
+      "nom_comm" : "VEDENE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8526,
+      "y_centroid" : 63209,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.883970868372068,
+              43.95276756425915
+            ],
+            [
+              4.884374157947975,
+              43.98194607383977
+            ],
+            [
+              4.911173821041767,
+              43.99331015632858
+            ],
+            [
+              4.928948038824064,
+              43.9676470569484
+            ],
+            [
+              4.913882003380283,
+              43.95995379709353
+            ],
+            [
+              4.918015263034522,
+              43.95389478405583
+            ],
+            [
+              4.883970868372068,
+              43.95276756425915
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63216,
+      "code_cant" : "05",
+      "x_centroid" : 8527,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 25765,
+      "statut" : "Commune simple",
+      "population" : 10.4,
+      "geom_x_y" : [
+        43.9708612884756,
+        4.903278347885113
+      ],
+      "code_comm" : "141",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.903278347885113,
+        43.9708612884756
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "17b9d22b0aeb747cd1a45806df3a152de1b6bee5",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 326,
+      "insee_com" : "88056",
+      "z_moyen" : 300,
+      "code_dept" : "88",
+      "nom_comm" : "BETTONCOURT",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9341,
+      "y_centroid" : 68092,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.174926639233311,
+              48.32546122498479
+            ],
+            [
+              6.170660239533525,
+              48.32725942418966
+            ],
+            [
+              6.167875285949683,
+              48.33348395657428
+            ],
+            [
+              6.15118255167843,
+              48.33999838198783
+            ],
+            [
+              6.162303590000123,
+              48.35290196282269
+            ],
+            [
+              6.174415518109966,
+              48.35146134475137
+            ],
+            [
+              6.174926639233311,
+              48.32546122498479
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68100,
+      "code_cant" : "05",
+      "x_centroid" : 9345,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 29217,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.3416039082086,
+        6.166226478616838
+      ],
+      "code_comm" : "056",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.166226478616838,
+        48.3416039082086
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

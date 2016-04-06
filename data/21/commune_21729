@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a94d21d6ecfccefb9ab3d4b9bdb5243b57b876f3",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 735,
+      "insee_com" : "17211",
+      "z_moyen" : 60,
+      "code_dept" : "17",
+      "nom_comm" : "LOULAY",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4284,
+      "y_centroid" : 65554,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.498628704542505,
+              46.03122885959271
+            ],
+            [
+              -0.509764601630496,
+              46.03153341412395
+            ],
+            [
+              -0.522812604788062,
+              46.03138082737298
+            ],
+            [
+              -0.529331551401696,
+              46.03555869657142
+            ],
+            [
+              -0.530532798901507,
+              46.05848873892545
+            ],
+            [
+              -0.495553005443639,
+              46.05327226479975
+            ],
+            [
+              -0.498628704542505,
+              46.03122885959271
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65557,
+      "code_cant" : "12",
+      "x_centroid" : 4283,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 24947,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.8,
+      "geom_x_y" : [
+        46.04416488619813,
+        -0.5137592923819911
+      ],
+      "code_comm" : "211",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5137592923819911,
+        46.04416488619813
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

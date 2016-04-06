@@ -1,0 +1,71 @@
+  {
+    "recordid" : "9f219c486ce2da54608b1cadc70322f198622b0f",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 467,
+      "insee_com" : "61425",
+      "z_moyen" : 223,
+      "code_dept" : "61",
+      "nom_comm" : "SAINT-MARTIN-DES-PEZERITS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5150,
+      "y_centroid" : 68392,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.509514658844134,
+              48.61871416017905
+            ],
+            [
+              0.482103947767722,
+              48.61854259270565
+            ],
+            [
+              0.472228000379485,
+              48.62095221751918
+            ],
+            [
+              0.468768526326986,
+              48.63073330991805
+            ],
+            [
+              0.493776653272001,
+              48.63896579109383
+            ],
+            [
+              0.501772345479177,
+              48.63531801509365
+            ],
+            [
+              0.509514658844134,
+              48.61871416017905
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68399,
+      "code_cant" : "25",
+      "x_centroid" : 5150,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 19552,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.62718339603693,
+        0.4893137985290475
+      ],
+      "code_comm" : "425",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4893137985290475,
+        48.62718339603693
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

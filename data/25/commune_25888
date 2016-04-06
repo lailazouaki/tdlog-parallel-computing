@@ -1,0 +1,67 @@
+  {
+    "recordid" : "1b54123a9e4d71b61badba5f80a70f0f685c60fa",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 222,
+      "insee_com" : "50371",
+      "z_moyen" : 243,
+      "code_dept" : "50",
+      "nom_comm" : "LE NEUFBOURG",
+      "code_arr" : "1",
+      "x_chf_lieu" : 4093,
+      "y_centroid" : 68475,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.947014215592988,
+              48.64952434753394
+            ],
+            [
+              -0.960340155414627,
+              48.66718409346542
+            ],
+            [
+              -0.941298751018779,
+              48.67106679978855
+            ],
+            [
+              -0.932657971128492,
+              48.665741733002
+            ],
+            [
+              -0.941291157705175,
+              48.66303377999776
+            ],
+            [
+              -0.947014215592988,
+              48.64952434753394
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68469,
+      "code_cant" : "24",
+      "x_centroid" : 4094,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 6292,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.66301937693849,
+        -0.9474356142348845
+      ],
+      "code_comm" : "371",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.9474356142348845,
+        48.66301937693849
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

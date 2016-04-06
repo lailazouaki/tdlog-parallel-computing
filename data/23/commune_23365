@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8aa478b9b33a053634d6af2cbdc943a7b0f5de03",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 738,
+      "insee_com" : "62769",
+      "z_moyen" : 21,
+      "code_dept" : "62",
+      "nom_comm" : "SAINT-TRICAT",
+      "code_arr" : "6",
+      "x_chf_lieu" : 6175,
+      "y_centroid" : 70891,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.815556057397694,
+              50.87296400865003
+            ],
+            [
+              1.796408325989623,
+              50.889064873338
+            ],
+            [
+              1.800222050222276,
+              50.89091389262524
+            ],
+            [
+              1.844679724779128,
+              50.90981472637259
+            ],
+            [
+              1.855468720889742,
+              50.90961801178201
+            ],
+            [
+              1.864085295372347,
+              50.91384146859416
+            ],
+            [
+              1.831084617750686,
+              50.88258479321917
+            ],
+            [
+              1.815556057397694,
+              50.87296400865003
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70891,
+      "code_cant" : "15",
+      "x_centroid" : 6172,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 15057,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        50.89266011544083,
+        1.826640446575727
+      ],
+      "code_comm" : "769",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.826640446575727,
+        50.89266011544083
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

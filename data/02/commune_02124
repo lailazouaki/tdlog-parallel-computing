@@ -1,0 +1,71 @@
+  {
+    "recordid" : "feb85ca20fb4882a9cd837f3f6dd18358bd97d6c",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 406,
+      "insee_com" : "76610",
+      "z_moyen" : 145,
+      "code_dept" : "76",
+      "nom_comm" : "SAINTE-MARIE-DES-CHAMPS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5394,
+      "y_centroid" : 69496,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.8002592481756901,
+              49.61451201793518
+            ],
+            [
+              0.772098920414778,
+              49.62131657904567
+            ],
+            [
+              0.749312407629815,
+              49.63415655252206
+            ],
+            [
+              0.773090355482735,
+              49.63035142904344
+            ],
+            [
+              0.784550027263813,
+              49.63643107224643
+            ],
+            [
+              0.799141661189152,
+              49.62733802288736
+            ],
+            [
+              0.8002592481756901,
+              49.61451201793518
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69494,
+      "code_cant" : "55",
+      "x_centroid" : 5396,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 14869,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        49.62593867083736,
+        0.7818142220976908
+      ],
+      "code_comm" : "610",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7818142220976908,
+        49.62593867083736
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

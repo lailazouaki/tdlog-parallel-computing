@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bcb8fb2a2dbb8dcf8509a9487a2b56979be93062",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 155,
+      "insee_com" : "65172",
+      "z_moyen" : 1067,
+      "code_dept" : "65",
+      "nom_comm" : "ESTENSAN",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4826,
+      "y_centroid" : 61944,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.350349077490344,
+              42.80340333582384
+            ],
+            [
+              0.33629916164619,
+              42.81057664047734
+            ],
+            [
+              0.340540493328956,
+              42.81536041080039
+            ],
+            [
+              0.340637932919629,
+              42.82418000296644
+            ],
+            [
+              0.35175020357077,
+              42.82950240740583
+            ],
+            [
+              0.347665048360086,
+              42.81295474551315
+            ],
+            [
+              0.350349077490344,
+              42.80340333582384
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 61946,
+      "code_cant" : "26",
+      "x_centroid" : 4826,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 20637,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        42.81641675929994,
+        0.3449022860393502
+      ],
+      "code_comm" : "172",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3449022860393502,
+        42.81641675929994
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

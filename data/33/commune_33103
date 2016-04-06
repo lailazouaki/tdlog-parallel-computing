@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8b3a9cfeee48ea0ed7375819d295586107cc84bb",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 677,
+      "insee_com" : "54345",
+      "z_moyen" : 280,
+      "code_dept" : "54",
+      "nom_comm" : "MANONCOURT-EN-VERMOIS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9407,
+      "y_centroid" : 68384,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.268024117995392,
+              48.58154742065854
+            ],
+            [
+              6.248889038949183,
+              48.59549495329406
+            ],
+            [
+              6.26031372152858,
+              48.610478257962
+            ],
+            [
+              6.27681624476829,
+              48.61818158864854
+            ],
+            [
+              6.288849645041521,
+              48.61261001633372
+            ],
+            [
+              6.288279810808405,
+              48.59986857787916
+            ],
+            [
+              6.272909637913717,
+              48.59089327296066
+            ],
+            [
+              6.268024117995392,
+              48.58154742065854
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68383,
+      "code_cant" : "25",
+      "x_centroid" : 9410,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 29183,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.60148942021134,
+        6.270241080285765
+      ],
+      "code_comm" : "345",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.270241080285765,
+        48.60148942021134
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "20a24dd6c6cc63d9a058e3b8b31dfc7c6e1d62e9",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 336,
+      "insee_com" : "27093",
+      "z_moyen" : 143,
+      "code_dept" : "27",
+      "nom_comm" : "BOSNORMAND",
+      "code_arr" : "2",
+      "x_chf_lieu" : 5477,
+      "y_centroid" : 69106,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.904131974839083,
+              49.26980351395646
+            ],
+            [
+              0.887578700041956,
+              49.27602559460665
+            ],
+            [
+              0.893636533134281,
+              49.28554687477878
+            ],
+            [
+              0.938670766536535,
+              49.27832111403914
+            ],
+            [
+              0.933839327779534,
+              49.2740299252864
+            ],
+            [
+              0.911712539766356,
+              49.27367595262488
+            ],
+            [
+              0.904131974839083,
+              49.26980351395646
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69108,
+      "code_cant" : "07",
+      "x_centroid" : 5478,
+      "nom_dept" : "EURE",
+      "id_geofla" : 26746,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.27775762029015,
+        0.9094979729224649
+      ],
+      "code_comm" : "093",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9094979729224649,
+        49.27775762029015
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

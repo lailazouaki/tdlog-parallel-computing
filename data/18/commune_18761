@@ -1,0 +1,71 @@
+  {
+    "recordid" : "2232a912dfecd6ea8cb280e8e75d02d9774d1494",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 94,
+      "insee_com" : "62447",
+      "z_moyen" : 26,
+      "code_dept" : "62",
+      "nom_comm" : "HESDIN",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6313,
+      "y_centroid" : 70310,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.030404722121438,
+              50.37443323777831
+            ],
+            [
+              2.037591750119697,
+              50.37890676444151
+            ],
+            [
+              2.045410668118865,
+              50.37527740791117
+            ],
+            [
+              2.041537382279853,
+              50.36927683673053
+            ],
+            [
+              2.036319206729742,
+              50.36907460342739
+            ],
+            [
+              2.030407997186913,
+              50.37426267614705
+            ],
+            [
+              2.030404722121438,
+              50.37443323777831
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70311,
+      "code_cant" : "26",
+      "x_centroid" : 6314,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 19310,
+      "statut" : "Chef-lieu canton",
+      "population" : 2.4,
+      "geom_x_y" : [
+        50.37375610305401,
+        2.038132374439618
+      ],
+      "code_comm" : "447",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.038132374439618,
+        50.37375610305401
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

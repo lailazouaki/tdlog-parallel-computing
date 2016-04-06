@@ -1,0 +1,71 @@
+  {
+    "recordid" : "df2cf1f43f7caa69d863302c2f067af76e1c3a9f",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 377,
+      "insee_com" : "49079",
+      "z_moyen" : 43,
+      "code_dept" : "49",
+      "nom_comm" : "CHARTRENE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4646,
+      "y_centroid" : 67144,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.132629887095068,
+              47.47896366304491
+            ],
+            [
+              -0.151476669007096,
+              47.4819594172047
+            ],
+            [
+              -0.137224508828121,
+              47.49092069388865
+            ],
+            [
+              -0.119584280431305,
+              47.50272750304935
+            ],
+            [
+              -0.112816300155145,
+              47.49265679523938
+            ],
+            [
+              -0.113077268230284,
+              47.48640682983466
+            ],
+            [
+              -0.132629887095068,
+              47.47896366304491
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67148,
+      "code_cant" : "04",
+      "x_centroid" : 4645,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 19924,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.48875609787157,
+        -0.1282751494681581
+      ],
+      "code_comm" : "079",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1282751494681581,
+        47.48875609787157
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

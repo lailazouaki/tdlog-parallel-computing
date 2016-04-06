@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f98f0ccca4937044f78607baea87e84893434c77",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 443,
+      "insee_com" : "34002",
+      "z_moyen" : 72,
+      "code_dept" : "34",
+      "nom_comm" : "ADISSAN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7346,
+      "y_centroid" : 62708,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.435421364958825,
+              43.52237134232252
+            ],
+            [
+              3.41520263931626,
+              43.5253927009238
+            ],
+            [
+              3.412733899339167,
+              43.53115139961468
+            ],
+            [
+              3.419670454405235,
+              43.54625839208303
+            ],
+            [
+              3.425802756751435,
+              43.55085919932826
+            ],
+            [
+              3.439940835416614,
+              43.54097762412491
+            ],
+            [
+              3.435643916422622,
+              43.53541657455136
+            ],
+            [
+              3.435421364958825,
+              43.52237134232252
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62707,
+      "code_cant" : "21",
+      "x_centroid" : 7344,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 34101,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        43.53547351899168,
+        3.426084759887205
+      ],
+      "code_comm" : "002",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.426084759887205,
+        43.53547351899168
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

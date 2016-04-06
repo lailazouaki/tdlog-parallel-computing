@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3322018d20355587e02052d5a635a9cbe498196e",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 211,
+      "insee_com" : "65406",
+      "z_moyen" : 253,
+      "code_dept" : "65",
+      "nom_comm" : "SARNIGUET",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4636,
+      "y_centroid" : 62510,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.102889005983209,
+              43.31711472391281
+            ],
+            [
+              0.096442669305558,
+              43.31316998351359
+            ],
+            [
+              0.073876035418903,
+              43.31743146902867
+            ],
+            [
+              0.077205298142413,
+              43.3239849573138
+            ],
+            [
+              0.093574658528018,
+              43.32408420834661
+            ],
+            [
+              0.102889005983209,
+              43.31711472391281
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62508,
+      "code_cant" : "33",
+      "x_centroid" : 4637,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 34084,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.31912025906379,
+        0.08821060649482892
+      ],
+      "code_comm" : "406",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.08821060649482892,
+        43.31912025906379
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

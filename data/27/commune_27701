@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5a1ffe90a876eef841dcdb65cac23b19d448f2db",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 791,
+      "insee_com" : "61443",
+      "z_moyen" : 239,
+      "code_dept" : "61",
+      "nom_comm" : "SAINT-PAUL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4329,
+      "y_centroid" : 68549,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.636874076398745,
+              48.71863737556253
+            ],
+            [
+              -0.654086743818613,
+              48.74468150827293
+            ],
+            [
+              -0.6443166174575991,
+              48.75176908911677
+            ],
+            [
+              -0.620723186552514,
+              48.75455810035216
+            ],
+            [
+              -0.603690881438493,
+              48.737039716305
+            ],
+            [
+              -0.620426339372067,
+              48.72908696983877
+            ],
+            [
+              -0.636874076398745,
+              48.71863737556253
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68553,
+      "code_cant" : "40",
+      "x_centroid" : 4331,
+      "nom_dept" : "ORNE",
+      "id_geofla" : 20710,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        48.73917069615101,
+        -0.6303602697199091
+      ],
+      "code_comm" : "443",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.6303602697199091,
+        48.73917069615101
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

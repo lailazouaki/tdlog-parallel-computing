@@ -1,0 +1,67 @@
+  {
+    "recordid" : "73eddedf595914974c26434cfbcc94c8ff7c1670",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 386,
+      "insee_com" : "33335",
+      "z_moyen" : 71,
+      "code_dept" : "33",
+      "nom_comm" : "LE POUT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4343,
+      "y_centroid" : 64173,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.35570454670493,
+              44.79037319336658
+            ],
+            [
+              -0.366984813003806,
+              44.79468090486546
+            ],
+            [
+              -0.367971678141694,
+              44.81093450855926
+            ],
+            [
+              -0.350546208422889,
+              44.81868061849008
+            ],
+            [
+              -0.345205486765011,
+              44.80426158113815
+            ],
+            [
+              -0.35570454670493,
+              44.79037319336658
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64171,
+      "code_cant" : "23",
+      "x_centroid" : 4346,
+      "nom_dept" : "GIRONDE",
+      "id_geofla" : 30814,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        44.8044080842957,
+        -0.3572228699005506
+      ],
+      "code_comm" : "335",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3572228699005506,
+        44.8044080842957
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

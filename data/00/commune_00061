@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3a0c63635a8856063b7da3f046f924b56c16f9d5",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 300,
+      "insee_com" : "62059",
+      "z_moyen" : 23,
+      "code_dept" : "62",
+      "nom_comm" : "AUTINGUES",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6278,
+      "y_centroid" : 70833,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.995081117741146,
+              50.83498132103624
+            ],
+            [
+              1.987311716336934,
+              50.83033360919852
+            ],
+            [
+              1.973777939012693,
+              50.8353640888242
+            ],
+            [
+              1.983289767463625,
+              50.85116125456867
+            ],
+            [
+              1.996131927006377,
+              50.85744698047841
+            ],
+            [
+              1.992275015172518,
+              50.83782979451436
+            ],
+            [
+              1.995081117741146,
+              50.83498132103624
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70828,
+      "code_cant" : "02",
+      "x_centroid" : 6284,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 26292,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.84228697073725,
+        1.986401276976396
+      ],
+      "code_comm" : "059",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.986401276976396,
+        50.84228697073725
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

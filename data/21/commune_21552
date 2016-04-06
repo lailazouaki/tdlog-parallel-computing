@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b6028d2b8a36cc8630538046995495f0e827a2b9",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 336,
+      "insee_com" : "67198",
+      "z_moyen" : 316,
+      "code_dept" : "67",
+      "nom_comm" : "HINSBOURG",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10143,
+      "y_centroid" : 68754,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.289175383629448,
+              48.89355611161269
+            ],
+            [
+              7.283144833363163,
+              48.90242704396933
+            ],
+            [
+              7.28443048586313,
+              48.9112339667512
+            ],
+            [
+              7.290161162103175,
+              48.91577485323292
+            ],
+            [
+              7.312850494351059,
+              48.89789260011133
+            ],
+            [
+              7.314836390457092,
+              48.89334484961968
+            ],
+            [
+              7.289175383629448,
+              48.89355611161269
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68759,
+      "code_cant" : "17",
+      "x_centroid" : 10148,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 2361,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.90201630203113,
+        7.296221141022089
+      ],
+      "code_comm" : "198",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.296221141022089,
+        48.90201630203113
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

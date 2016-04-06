@@ -1,0 +1,75 @@
+  {
+    "recordid" : "71e3ec69c88334f903086c3fd33ae8a746901f7d",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 367,
+      "insee_com" : "34216",
+      "z_moyen" : 399,
+      "code_dept" : "34",
+      "nom_comm" : "LE PRADAL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7084,
+      "y_centroid" : 62815,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.104023257459769,
+              43.61956693321994
+            ],
+            [
+              3.099255335949298,
+              43.61978733825619
+            ],
+            [
+              3.086526512301277,
+              43.63012768828406
+            ],
+            [
+              3.082948643548935,
+              43.64015409245477
+            ],
+            [
+              3.099042798236003,
+              43.64732995609921
+            ],
+            [
+              3.100363047557323,
+              43.64412548388867
+            ],
+            [
+              3.107613461616623,
+              43.62536700924954
+            ],
+            [
+              3.104023257459769,
+              43.61956693321994
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62809,
+      "code_cant" : "03",
+      "x_centroid" : 7077,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 11385,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        43.6331733126067,
+        3.096031250784228
+      ],
+      "code_comm" : "216",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.096031250784228,
+        43.6331733126067
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

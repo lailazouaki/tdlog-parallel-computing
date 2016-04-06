@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a2bac3aa889a69377e85045a475e6bb112e5a2ea",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 475,
+      "insee_com" : "31462",
+      "z_moyen" : 198,
+      "code_dept" : "31",
+      "nom_comm" : "ROUFFIAC-TOLOSAN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5809,
+      "y_centroid" : 62860,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.535052239494896,
+              43.65226494089562
+            ],
+            [
+              1.522545586496614,
+              43.65469659389665
+            ],
+            [
+              1.505731310334661,
+              43.66969421213598
+            ],
+            [
+              1.512226299641081,
+              43.6745350757896
+            ],
+            [
+              1.529638604579391,
+              43.67342188634813
+            ],
+            [
+              1.544716620473032,
+              43.65678647003076
+            ],
+            [
+              1.535052239494896,
+              43.65226494089562
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62861,
+      "code_cant" : "50",
+      "x_centroid" : 5810,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 15968,
+      "statut" : "Commune simple",
+      "population" : 1.7,
+      "geom_x_y" : [
+        43.66389734090409,
+        1.525419430732788
+      ],
+      "code_comm" : "462",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.525419430732788,
+        43.66389734090409
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

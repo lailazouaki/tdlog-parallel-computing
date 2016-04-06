@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a032cbcb0b4ed4882e8968323ee28b15c127db09",
+    "fields" : {
+      "nom_region" : "CENTRE",
+      "superficie" : 408,
+      "insee_com" : "28009",
+      "z_moyen" : 146,
+      "code_dept" : "28",
+      "nom_comm" : "ARDELU",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6193,
+      "y_centroid" : 68066,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.917894422316132,
+              48.34306000268717
+            ],
+            [
+              1.900607191165116,
+              48.34551917524797
+            ],
+            [
+              1.898785906709832,
+              48.35837812199919
+            ],
+            [
+              1.90575691058147,
+              48.36595581623911
+            ],
+            [
+              1.925535140325167,
+              48.36349149200879
+            ],
+            [
+              1.928072456000878,
+              48.35691915331194
+            ],
+            [
+              1.917894422316132,
+              48.34306000268717
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68064,
+      "code_cant" : "02",
+      "x_centroid" : 6194,
+      "nom_dept" : "EURE-ET-LOIR",
+      "id_geofla" : 25440,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.35489649752085,
+        1.912573951421866
+      ],
+      "code_comm" : "009",
+      "code_reg" : "24"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.912573951421866,
+        48.35489649752085
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

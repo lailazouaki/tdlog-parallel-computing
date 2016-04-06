@@ -1,0 +1,75 @@
+  {
+    "recordid" : "569636d763dbd245cfd21b81a6b7c222e27fb7a9",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 764,
+      "insee_com" : "76638",
+      "z_moyen" : 93,
+      "code_dept" : "76",
+      "nom_comm" : "SAINT-PIERRE-EN-VAL",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5885,
+      "y_centroid" : 69913,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.43084326109601,
+              49.99613834850648
+            ],
+            [
+              1.416623604240323,
+              50.00299870804771
+            ],
+            [
+              1.420236165062863,
+              50.0190813360731
+            ],
+            [
+              1.426810028201864,
+              50.02337024301597
+            ],
+            [
+              1.440376983365198,
+              50.01929442359909
+            ],
+            [
+              1.447503851054129,
+              50.02333769483744
+            ],
+            [
+              1.473321691824578,
+              50.01192953426165
+            ],
+            [
+              1.43084326109601,
+              49.99613834850648
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69925,
+      "code_cant" : "19",
+      "x_centroid" : 5880,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 36040,
+      "statut" : "Commune simple",
+      "population" : 1.1,
+      "geom_x_y" : [
+        50.01076327958013,
+        1.439783707055167
+      ],
+      "code_comm" : "638",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.439783707055167,
+        50.01076327958013
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

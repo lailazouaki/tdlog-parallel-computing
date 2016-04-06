@@ -1,0 +1,75 @@
+  {
+    "recordid" : "73cd3b7ccf1e9fb37b25647761fd5b8aa44cdaac",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 425,
+      "insee_com" : "70538",
+      "z_moyen" : 232,
+      "code_dept" : "70",
+      "nom_comm" : "VELLEMOZ",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9104,
+      "y_centroid" : 67121,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.772343545415151,
+              47.46789676523201
+            ],
+            [
+              5.777680083954529,
+              47.47346215154869
+            ],
+            [
+              5.774975308380297,
+              47.47920123038695
+            ],
+            [
+              5.786541793071319,
+              47.48521205471415
+            ],
+            [
+              5.796349856312347,
+              47.48905722837907
+            ],
+            [
+              5.810497135061131,
+              47.4752956434835
+            ],
+            [
+              5.800714373473943,
+              47.46835252157606
+            ],
+            [
+              5.772343545415151,
+              47.46789676523201
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67119,
+      "code_cant" : "10",
+      "x_centroid" : 9102,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 4494,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.47665418065898,
+        5.791522338133677
+      ],
+      "code_comm" : "538",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.791522338133677,
+        47.47665418065898
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

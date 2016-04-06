@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e8d2a26eb8581b71fbf41bd02e82971aa1bc7de9",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 235,
+      "insee_com" : "27535",
+      "z_moyen" : 138,
+      "code_dept" : "27",
+      "nom_comm" : "SAINT-ELIER",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5510,
+      "y_centroid" : 68779,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.958646391252343,
+              48.96934129136338
+            ],
+            [
+              0.955255490052222,
+              48.97600297986546
+            ],
+            [
+              0.957802189846815,
+              48.9828287557132
+            ],
+            [
+              0.9540716677965601,
+              49.00364279586566
+            ],
+            [
+              0.959900780236854,
+              49.00038690709171
+            ],
+            [
+              0.95873642063378,
+              48.99696698061273
+            ],
+            [
+              0.972012254226281,
+              48.97800559128309
+            ],
+            [
+              0.958646391252343,
+              48.96934129136338
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68781,
+      "code_cant" : "11",
+      "x_centroid" : 5507,
+      "nom_dept" : "EURE",
+      "id_geofla" : 29830,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        48.98373156882024,
+        0.9613610035670301
+      ],
+      "code_comm" : "535",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.9613610035670301,
+        48.98373156882024
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

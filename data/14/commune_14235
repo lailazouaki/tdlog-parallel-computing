@@ -1,0 +1,79 @@
+  {
+    "recordid" : "8e3ac8e763c19e3f9ab9d3f85f71f8a057927a16",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 591,
+      "insee_com" : "13101",
+      "z_moyen" : 444,
+      "code_dept" : "13",
+      "nom_comm" : "SAINT-SAVOURNIN",
+      "code_arr" : "3",
+      "x_chf_lieu" : 9047,
+      "y_centroid" : 62595,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.504459492426604,
+              43.38809186182851
+            ],
+            [
+              5.51561488311044,
+              43.40669903744319
+            ],
+            [
+              5.528551948151621,
+              43.41650583500638
+            ],
+            [
+              5.533233700599722,
+              43.41654942913014
+            ],
+            [
+              5.546355854377436,
+              43.41562957437794
+            ],
+            [
+              5.559443326560306,
+              43.40755302663
+            ],
+            [
+              5.555925171823761,
+              43.40506182219444
+            ],
+            [
+              5.537132592107612,
+              43.40275853856677
+            ],
+            [
+              5.504459492426604,
+              43.38809186182851
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62596,
+      "code_cant" : "29",
+      "x_centroid" : 9050,
+      "nom_dept" : "BOUCHES-DU-RHONE",
+      "id_geofla" : 15546,
+      "statut" : "Commune simple",
+      "population" : 3.2,
+      "geom_x_y" : [
+        43.40572481470858,
+        5.531014914314495
+      ],
+      "code_comm" : "101",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.531014914314495,
+        43.40572481470858
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

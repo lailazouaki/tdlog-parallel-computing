@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e17151f489064a3352964bf92ec45366fd14b9e7",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 945,
+      "insee_com" : "84128",
+      "z_moyen" : 692,
+      "code_dept" : "84",
+      "nom_comm" : "SIVERGUES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8932,
+      "y_centroid" : 63056,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.399488637983851,
+              43.80753977676862
+            ],
+            [
+              5.392444640907876,
+              43.82904087107014
+            ],
+            [
+              5.407253348675472,
+              43.83664675911865
+            ],
+            [
+              5.421446040209644,
+              43.83901551837621
+            ],
+            [
+              5.44528418550307,
+              43.81764098074829
+            ],
+            [
+              5.43145103229481,
+              43.81018064398767
+            ],
+            [
+              5.418860930027446,
+              43.81350380478003
+            ],
+            [
+              5.399488637983851,
+              43.80753977676862
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63061,
+      "code_cant" : "07",
+      "x_centroid" : 8943,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 23454,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.82296673061869,
+        5.41627509911536
+      ],
+      "code_comm" : "128",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.41627509911536,
+        43.82296673061869
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

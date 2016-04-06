@@ -1,0 +1,67 @@
+  {
+    "recordid" : "856402d3ae7bc49ba6811ccb76cdd7b5139856c9",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 237,
+      "insee_com" : "65328",
+      "z_moyen" : 650,
+      "code_dept" : "65",
+      "nom_comm" : "NEUILH",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4614,
+      "y_centroid" : 62239,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.07462464918014799,
+              43.06712309012907
+            ],
+            [
+              0.058880747018504,
+              43.0677381183932
+            ],
+            [
+              0.057332337689399,
+              43.06825381665389
+            ],
+            [
+              0.066696763629879,
+              43.08379180603433
+            ],
+            [
+              0.08451998905321099,
+              43.08000975442806
+            ],
+            [
+              0.07462464918014799,
+              43.06712309012907
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62241,
+      "code_cant" : "04",
+      "x_centroid" : 4612,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 9392,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.07487783556606,
+        0.07055717485744295
+      ],
+      "code_comm" : "328",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.07055717485744295,
+        43.07487783556606
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ae7f09ae976128021e75d7c9b417267707cc0515",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 298,
+      "insee_com" : "80666",
+      "z_moyen" : 120,
+      "code_dept" : "80",
+      "nom_comm" : "REMAISNIL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6460,
+      "y_centroid" : 70122,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.249952955429046,
+              50.1971974286188
+            ],
+            [
+              2.233560764354703,
+              50.19880261832953
+            ],
+            [
+              2.226923436656276,
+              50.20286501633053
+            ],
+            [
+              2.230807079919493,
+              50.210630190758
+            ],
+            [
+              2.253430612256153,
+              50.21468481490788
+            ],
+            [
+              2.25631281783047,
+              50.20900895218036
+            ],
+            [
+              2.249952955429046,
+              50.1971974286188
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70116,
+      "code_cant" : "12",
+      "x_centroid" : 6458,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 23072,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        50.20571130963685,
+        2.242441916908521
+      ],
+      "code_comm" : "666",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.242441916908521,
+        50.20571130963685
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

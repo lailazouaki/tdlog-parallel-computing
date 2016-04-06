@@ -1,0 +1,75 @@
+  {
+    "recordid" : "b4875de9c184fba3b9644d097bbfb1aa47513daa",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 545,
+      "insee_com" : "62684",
+      "z_moyen" : 36,
+      "code_dept" : "62",
+      "nom_comm" : "RACQUINGHEM",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6545,
+      "y_centroid" : 70666,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.363524646595893,
+              50.68464363788801
+            ],
+            [
+              2.35652895285629,
+              50.68712927413674
+            ],
+            [
+              2.348958981625294,
+              50.68482843713178
+            ],
+            [
+              2.332106287511233,
+              50.6870273607876
+            ],
+            [
+              2.334036912054752,
+              50.68950553146948
+            ],
+            [
+              2.366012934462337,
+              50.70905588606296
+            ],
+            [
+              2.386082481106662,
+              50.69852286663394
+            ],
+            [
+              2.363524646595893,
+              50.68464363788801
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70664,
+      "code_cant" : "01",
+      "x_centroid" : 6547,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 34389,
+      "statut" : "Commune simple",
+      "population" : 2.3,
+      "geom_x_y" : [
+        50.69515523717165,
+        2.360395545677494
+      ],
+      "code_comm" : "684",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.360395545677494,
+        50.69515523717165
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

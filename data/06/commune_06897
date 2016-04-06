@@ -1,0 +1,67 @@
+  {
+    "recordid" : "b02c6af07b6d2d6d52fba05b24485ad4f3e7b528",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 169,
+      "insee_com" : "30161",
+      "z_moyen" : 110,
+      "code_dept" : "30",
+      "nom_comm" : "MASSANES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7892,
+      "y_centroid" : 63254,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.10768951086111,
+              44.01581194424475
+            ],
+            [
+              4.101159706544601,
+              44.02063032071479
+            ],
+            [
+              4.105948186824626,
+              44.02634261004881
+            ],
+            [
+              4.11836057020888,
+              44.03014987950789
+            ],
+            [
+              4.116732008950327,
+              44.01707915834816
+            ],
+            [
+              4.10768951086111,
+              44.01581194424475
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63253,
+      "code_cant" : "14",
+      "x_centroid" : 7890,
+      "nom_dept" : "GARD",
+      "id_geofla" : 19365,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        44.02234850023334,
+        4.1108932118342
+      ],
+      "code_comm" : "161",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.1108932118342,
+        44.02234850023334
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

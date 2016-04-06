@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2d103507131c16f690a3911245c839ced3737ff6",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 227,
+      "insee_com" : "14307",
+      "z_moyen" : 109,
+      "code_dept" : "14",
+      "nom_comm" : "GOUPILLIERES",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4456,
+      "y_centroid" : 68869,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.465013091377376,
+              49.02764318913011
+            ],
+            [
+              -0.493796663313695,
+              49.02926576150981
+            ],
+            [
+              -0.495773378397697,
+              49.03544558327371
+            ],
+            [
+              -0.465944220489568,
+              49.03707573063203
+            ],
+            [
+              -0.466343526765005,
+              49.03198797704132
+            ],
+            [
+              -0.465013091377376,
+              49.02764318913011
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68869,
+      "code_cant" : "16",
+      "x_centroid" : 4456,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 2458,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.03239735905718,
+        -0.4793739985908448
+      ],
+      "code_comm" : "307",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.4793739985908448,
+        49.03239735905718
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

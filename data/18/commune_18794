@@ -1,0 +1,67 @@
+  {
+    "recordid" : "4468788dfba517c5abdbec2be0e92b400a6e7d80",
+    "fields" : {
+      "nom_region" : "BRETAGNE",
+      "superficie" : 240,
+      "insee_com" : "29072",
+      "z_moyen" : 7,
+      "code_dept" : "29",
+      "nom_comm" : "GUILVINEC",
+      "code_arr" : "4",
+      "x_chf_lieu" : 1554,
+      "y_centroid" : 67696,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -4.272278108083003,
+              47.80087289062724
+            ],
+            [
+              -4.287089026409107,
+              47.79257474378274
+            ],
+            [
+              -4.300648983988389,
+              47.80065863004521
+            ],
+            [
+              -4.296843969133005,
+              47.80615681578242
+            ],
+            [
+              -4.275387733863742,
+              47.8076028392941
+            ],
+            [
+              -4.272278108083003,
+              47.80087289062724
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67690,
+      "code_cant" : "49",
+      "x_centroid" : 1553,
+      "nom_dept" : "FINISTERE",
+      "id_geofla" : 19439,
+      "statut" : "Chef-lieu canton",
+      "population" : 2.9,
+      "geom_x_y" : [
+        47.80124484828652,
+        -4.286177856951181
+      ],
+      "code_comm" : "072",
+      "code_reg" : "53"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -4.286177856951181,
+        47.80124484828652
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

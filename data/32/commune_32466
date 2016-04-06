@@ -1,0 +1,67 @@
+  {
+    "recordid" : "2218fab7ebaa3529956a332b1d53dbfe217323b6",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 290,
+      "insee_com" : "73061",
+      "z_moyen" : 558,
+      "code_dept" : "73",
+      "nom_comm" : "CESARCHES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9654,
+      "y_centroid" : 65172,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.419490031963383,
+              45.69250748650656
+            ],
+            [
+              6.40307009599233,
+              45.6938251217062
+            ],
+            [
+              6.406571226590128,
+              45.70806833581558
+            ],
+            [
+              6.410312264486338,
+              45.7142824396698
+            ],
+            [
+              6.424671412957058,
+              45.71034062427331
+            ],
+            [
+              6.419490031963383,
+              45.69250748650656
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65170,
+      "code_cant" : "05",
+      "x_centroid" : 9655,
+      "nom_dept" : "SAVOIE",
+      "id_geofla" : 33848,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        45.70278458361865,
+        6.413796305536665
+      ],
+      "code_comm" : "061",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.413796305536665,
+        45.70278458361865
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

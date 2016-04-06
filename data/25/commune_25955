@@ -1,0 +1,63 @@
+  {
+    "recordid" : "cf40f4406106749f646334c1e059de02af42e2ab",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 318,
+      "insee_com" : "62149",
+      "z_moyen" : 145,
+      "code_dept" : "62",
+      "nom_comm" : "BOISDINGHEM",
+      "code_arr" : "5",
+      "x_chf_lieu" : 6359,
+      "y_centroid" : 70728,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.087907033118383,
+              50.74052056378502
+            ],
+            [
+              2.073713464452926,
+              50.75021465717506
+            ],
+            [
+              2.101133094650073,
+              50.75765710444923
+            ],
+            [
+              2.1145067252778,
+              50.74775677292473
+            ],
+            [
+              2.087907033118383,
+              50.74052056378502
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70728,
+      "code_cant" : "34",
+      "x_centroid" : 6359,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 23691,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        50.74906080164109,
+        2.094278174126123
+      ],
+      "code_comm" : "149",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.094278174126123,
+        50.74906080164109
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

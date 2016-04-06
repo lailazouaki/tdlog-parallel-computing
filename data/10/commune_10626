@@ -1,0 +1,75 @@
+  {
+    "recordid" : "bca4edfc3ec0b1a1b3a7f6d93fe967b606532df5",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 732,
+      "insee_com" : "11346",
+      "z_moyen" : 500,
+      "code_dept" : "11",
+      "nom_comm" : "SAINT-JEAN-DE-PARACOL",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6276,
+      "y_centroid" : 62047,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.116498257340698,
+              42.92480262820387
+            ],
+            [
+              2.10094446421314,
+              42.93267779852876
+            ],
+            [
+              2.07755853133647,
+              42.93399050592217
+            ],
+            [
+              2.082913695945074,
+              42.94287702980834
+            ],
+            [
+              2.127559732597184,
+              42.94850097305362
+            ],
+            [
+              2.131731982267962,
+              42.94703282827903
+            ],
+            [
+              2.132398356971018,
+              42.93685751921528
+            ],
+            [
+              2.116498257340698,
+              42.92480262820387
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62044,
+      "code_cant" : "11",
+      "x_centroid" : 6272,
+      "nom_dept" : "AUDE",
+      "id_geofla" : 6903,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        42.93817977420822,
+        2.109035629365212
+      ],
+      "code_comm" : "346",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.109035629365212,
+        42.93817977420822
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

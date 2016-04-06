@@ -1,0 +1,71 @@
+  {
+    "recordid" : "dcb720ef35483b48eb764ee0789c86f2ac79f0be",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 363,
+      "insee_com" : "21653",
+      "z_moyen" : 244,
+      "code_dept" : "21",
+      "nom_comm" : "VANNAIRE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8172,
+      "y_centroid" : 67583,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.589287446095641,
+              47.91343151253417
+            ],
+            [
+              4.565631211899909,
+              47.90852847186084
+            ],
+            [
+              4.550799687777289,
+              47.90952639899334
+            ],
+            [
+              4.546270578060287,
+              47.91306963654399
+            ],
+            [
+              4.566557766935135,
+              47.92132503799417
+            ],
+            [
+              4.592238732339055,
+              47.92254595310846
+            ],
+            [
+              4.589287446095641,
+              47.91343151253417
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67581,
+      "code_cant" : "08",
+      "x_centroid" : 8173,
+      "nom_dept" : "COTE-D'OR",
+      "id_geofla" : 18513,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        47.91545624736995,
+        4.570796617308708
+      ],
+      "code_comm" : "653",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.570796617308708,
+        47.91545624736995
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

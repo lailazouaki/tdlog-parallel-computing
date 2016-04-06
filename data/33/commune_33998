@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b3a877c74f40a7f55304aa010b3d8c4d9e351880",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 1005,
+      "insee_com" : "38499",
+      "z_moyen" : 1123,
+      "code_dept" : "38",
+      "nom_comm" : "SUSVILLE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9193,
+      "y_centroid" : 64290,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.774226406404841,
+              44.91011704711047
+            ],
+            [
+              5.738188785715711,
+              44.91360585332221
+            ],
+            [
+              5.746677504432093,
+              44.93989176027912
+            ],
+            [
+              5.76807964402803,
+              44.94483828605404
+            ],
+            [
+              5.781094609439632,
+              44.93638709367942
+            ],
+            [
+              5.78215558133562,
+              44.91354939023479
+            ],
+            [
+              5.774226406404841,
+              44.91011704711047
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64279,
+      "code_cant" : "20",
+      "x_centroid" : 9178,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 31188,
+      "statut" : "Commune simple",
+      "population" : 1.4,
+      "geom_x_y" : [
+        44.92614268874634,
+        5.76206988161451
+      ],
+      "code_comm" : "499",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.76206988161451,
+        44.92614268874634
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

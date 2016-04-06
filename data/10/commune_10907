@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f3db1d8815d27fb3b99cd20246f02a6f50d55c54",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 493,
+      "insee_com" : "08325",
+      "z_moyen" : 181,
+      "code_dept" : "08",
+      "nom_comm" : "NOIRVAL",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8302,
+      "y_centroid" : 69302,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.806377670846612,
+              49.44385991249393
+            ],
+            [
+              4.790279243057997,
+              49.45274761184357
+            ],
+            [
+              4.776282968030543,
+              49.45596540799153
+            ],
+            [
+              4.777106006378703,
+              49.46981599076046
+            ],
+            [
+              4.793343804870598,
+              49.4686687097183
+            ],
+            [
+              4.810349023340893,
+              49.45994707669013
+            ],
+            [
+              4.813050951547532,
+              49.45325390935838
+            ],
+            [
+              4.806377670846612,
+              49.44385991249393
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69303,
+      "code_cant" : "08",
+      "x_centroid" : 8301,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 18332,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        49.45837954034451,
+        4.794345257908263
+      ],
+      "code_comm" : "325",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.794345257908263,
+        49.45837954034451
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

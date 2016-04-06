@@ -1,0 +1,75 @@
+  {
+    "recordid" : "01f6f4a8bc66947099f3eac2879a7b446ffbc771",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 404,
+      "insee_com" : "14517",
+      "z_moyen" : 56,
+      "code_dept" : "14",
+      "nom_comm" : "POUSSY-LA-CAMPAGNE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4645,
+      "y_centroid" : 68913,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.246826193566137,
+              49.06849921289392
+            ],
+            [
+              -0.249332913703057,
+              49.07069018278745
+            ],
+            [
+              -0.254255779346484,
+              49.07427351026365
+            ],
+            [
+              -0.251393987161751,
+              49.07734766951468
+            ],
+            [
+              -0.223238973505146,
+              49.09048872114774
+            ],
+            [
+              -0.206422496703006,
+              49.07889835633459
+            ],
+            [
+              -0.230807621952156,
+              49.0725487342746
+            ],
+            [
+              -0.246826193566137,
+              49.06849921289392
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68914,
+      "code_cant" : "06",
+      "x_centroid" : 4639,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 28129,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.07889662111712,
+        -0.2311306701360162
+      ],
+      "code_comm" : "517",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2311306701360162,
+        49.07889662111712
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

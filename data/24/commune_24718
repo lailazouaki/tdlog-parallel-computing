@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fabe08fcfcb979e4ef2b79d7239e95c9f4daec82",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 460,
+      "insee_com" : "68179",
+      "z_moyen" : 444,
+      "code_dept" : "68",
+      "nom_comm" : "LAUW",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10010,
+      "y_centroid" : 67478,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.022853260556141,
+              47.74709641836954
+            ],
+            [
+              7.003794375174947,
+              47.75769055279047
+            ],
+            [
+              7.003918147667633,
+              47.76111086787536
+            ],
+            [
+              7.026351458318628,
+              47.77902304401859
+            ],
+            [
+              7.036016272849619,
+              47.76895712232698
+            ],
+            [
+              7.029839006824428,
+              47.74988405691341
+            ],
+            [
+              7.022853260556141,
+              47.74709641836954
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67471,
+      "code_cant" : "15",
+      "x_centroid" : 10011,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 30858,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        47.76207346124778,
+        7.021567765889478
+      ],
+      "code_comm" : "179",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.021567765889478,
+        47.76207346124778
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

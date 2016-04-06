@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8c35777c689e0fcd544ab40c6bd7dc6124a0e0ad",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 444,
+      "insee_com" : "27694",
+      "z_moyen" : 119,
+      "code_dept" : "27",
+      "nom_comm" : "VILLEZ-SOUS-BAILLEUL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5814,
+      "y_centroid" : 68909,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.352857078792704,
+              49.09167414454426
+            ],
+            [
+              1.35093920886371,
+              49.10073992384423
+            ],
+            [
+              1.353102278200283,
+              49.10680392468439
+            ],
+            [
+              1.349384634644334,
+              49.11257144522323
+            ],
+            [
+              1.361464987890149,
+              49.11827629503139
+            ],
+            [
+              1.390522104048557,
+              49.11303907129145
+            ],
+            [
+              1.390178360235064,
+              49.11263878271135
+            ],
+            [
+              1.352857078792704,
+              49.09167414454426
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68913,
+      "code_cant" : "36",
+      "x_centroid" : 5806,
+      "nom_dept" : "EURE",
+      "id_geofla" : 26640,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.10759316755276,
+        1.365288607343054
+      ],
+      "code_comm" : "694",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.365288607343054,
+        49.10759316755276
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

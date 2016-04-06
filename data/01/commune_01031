@@ -1,0 +1,71 @@
+  {
+    "recordid" : "cbc464110b9d2714ad021e5e6c0c5795208197b7",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 489,
+      "insee_com" : "39075",
+      "z_moyen" : 280,
+      "code_dept" : "39",
+      "nom_comm" : "BRERY",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8967,
+      "y_centroid" : 66347,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.592473688800335,
+              46.77963858684962
+            ],
+            [
+              5.58312978469671,
+              46.76930873728818
+            ],
+            [
+              5.574234722568544,
+              46.77057143735635
+            ],
+            [
+              5.565069218639884,
+              46.77416373068226
+            ],
+            [
+              5.5795596225629,
+              46.80368528835591
+            ],
+            [
+              5.591936620295167,
+              46.79474044273508
+            ],
+            [
+              5.592473688800335,
+              46.77963858684962
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66347,
+      "code_cant" : "30",
+      "x_centroid" : 8968,
+      "nom_dept" : "JURA",
+      "id_geofla" : 28050,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.78436570565347,
+        5.580586702538973
+      ],
+      "code_comm" : "075",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.580586702538973,
+        46.78436570565347
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

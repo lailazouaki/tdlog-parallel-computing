@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a897f7d9f48f2ee31b25435083e3104934c0e8be",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 419,
+      "insee_com" : "60457",
+      "z_moyen" : 140,
+      "code_dept" : "60",
+      "nom_comm" : "LA NEUVILLE-SAINT-PIERRE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6423,
+      "y_centroid" : 69372,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.18962488934177,
+              49.51993662627047
+            ],
+            [
+              2.182534782398485,
+              49.52651294853187
+            ],
+            [
+              2.185198742330142,
+              49.54311287721313
+            ],
+            [
+              2.191961179503792,
+              49.5469597788422
+            ],
+            [
+              2.200401961710246,
+              49.5353409850612
+            ],
+            [
+              2.214719599160072,
+              49.53552437740487
+            ],
+            [
+              2.210757287173043,
+              49.52646618285468
+            ],
+            [
+              2.18962488934177,
+              49.51993662627047
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69368,
+      "code_cant" : "16",
+      "x_centroid" : 6417,
+      "nom_dept" : "OISE",
+      "id_geofla" : 13129,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.53189098842455,
+        2.195572286193221
+      ],
+      "code_comm" : "457",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.195572286193221,
+        49.53189098842455
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

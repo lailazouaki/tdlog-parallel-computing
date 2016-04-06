@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bc30cb9701251dc012cbc56b617058890dd3813e",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 318,
+      "insee_com" : "59100",
+      "z_moyen" : 17,
+      "code_dept" : "59",
+      "nom_comm" : "BOUSIGNIES",
+      "code_arr" : "6",
+      "x_chf_lieu" : 7247,
+      "y_centroid" : 70370,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.351050770559104,
+              50.42063509203758
+            ],
+            [
+              3.340671161599423,
+              50.42541301201801
+            ],
+            [
+              3.343728932026855,
+              50.43489322354672
+            ],
+            [
+              3.355951830485719,
+              50.44015500787557
+            ],
+            [
+              3.362813115361521,
+              50.43648146859926
+            ],
+            [
+              3.373120218950996,
+              50.42947568771966
+            ],
+            [
+              3.351050770559104,
+              50.42063509203758
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70375,
+      "code_cant" : "56",
+      "x_centroid" : 7252,
+      "nom_dept" : "NORD",
+      "id_geofla" : 32319,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        50.43020876041273,
+        3.354888601906758
+      ],
+      "code_comm" : "100",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.354888601906758,
+        50.43020876041273
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

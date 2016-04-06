@@ -1,0 +1,75 @@
+  {
+    "recordid" : "a13c6d4236958cdd5e9732c3e28bf5e3e875d5e4",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 351,
+      "insee_com" : "62587",
+      "z_moyen" : 31,
+      "code_dept" : "62",
+      "nom_comm" : "MONTIGNY-EN-GOHELLE",
+      "code_arr" : "7",
+      "x_chf_lieu" : 6950,
+      "y_centroid" : 70367,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.924140343932129,
+              50.410239111206
+            ],
+            [
+              2.918725480951907,
+              50.4229023278444
+            ],
+            [
+              2.926038160998741,
+              50.43808686317223
+            ],
+            [
+              2.926132199529586,
+              50.44105823627429
+            ],
+            [
+              2.93065750668821,
+              50.44174309102788
+            ],
+            [
+              2.942987662425051,
+              50.43972064059716
+            ],
+            [
+              2.938649881142203,
+              50.42355119006104
+            ],
+            [
+              2.924140343932129,
+              50.410239111206
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70366,
+      "code_cant" : "74",
+      "x_centroid" : 6950,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 35168,
+      "statut" : "Chef-lieu canton",
+      "population" : 10,
+      "geom_x_y" : [
+        50.42808928593239,
+        2.930382013825627
+      ],
+      "code_comm" : "587",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.930382013825627,
+        50.42808928593239
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

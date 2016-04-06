@@ -1,0 +1,75 @@
+  {
+    "recordid" : "422f8eac45fc14b707b0aab70c96ffd404bbc544",
+    "fields" : {
+      "nom_region" : "LANGUEDOC-ROUSSILLON",
+      "superficie" : 470,
+      "insee_com" : "34211",
+      "z_moyen" : 222,
+      "code_dept" : "34",
+      "nom_comm" : "LE POUJOL-SUR-ORB",
+      "code_arr" : "1",
+      "x_chf_lieu" : 7049,
+      "y_centroid" : 62760,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.07677909595141,
+              43.5850026014334
+            ],
+            [
+              3.063511894400305,
+              43.57538382455904
+            ],
+            [
+              3.049353476735743,
+              43.57461739752038
+            ],
+            [
+              3.031237760781034,
+              43.57831309065102
+            ],
+            [
+              3.02933499372756,
+              43.58453990732291
+            ],
+            [
+              3.061622442586035,
+              43.59066272802225
+            ],
+            [
+              3.067669236758381,
+              43.59563480203585
+            ],
+            [
+              3.07677909595141,
+              43.5850026014334
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62756,
+      "code_cant" : "31",
+      "x_centroid" : 7043,
+      "nom_dept" : "HERAULT",
+      "id_geofla" : 5002,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        43.58306829653594,
+        3.054379930332981
+      ],
+      "code_comm" : "211",
+      "code_reg" : "91"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.054379930332981,
+        43.58306829653594
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

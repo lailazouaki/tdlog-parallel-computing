@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a4018027d47cb06479ba1dc2c0cd3f3e0a3281a2",
+    "fields" : {
+      "nom_region" : "AQUITAINE",
+      "superficie" : 348,
+      "insee_com" : "64456",
+      "z_moyen" : 183,
+      "code_dept" : "64",
+      "nom_comm" : "POULIACQ",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4287,
+      "y_centroid" : 62752,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.358191775706909,
+              43.51227125793472
+            ],
+            [
+              -0.375124434450359,
+              43.52416388029446
+            ],
+            [
+              -0.362540988524207,
+              43.52738243721485
+            ],
+            [
+              -0.345280275700416,
+              43.53744380457993
+            ],
+            [
+              -0.340091777617207,
+              43.53209245414798
+            ],
+            [
+              -0.355098523169133,
+              43.51248408305012
+            ],
+            [
+              -0.358191775706909,
+              43.51227125793472
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62754,
+      "code_cant" : "40",
+      "x_centroid" : 4286,
+      "nom_dept" : "PYRENEES-ATLANTIQUES",
+      "id_geofla" : 30602,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        43.52442222376851,
+        -0.3557222972408303
+      ],
+      "code_comm" : "456",
+      "code_reg" : "72"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.3557222972408303,
+        43.52442222376851
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

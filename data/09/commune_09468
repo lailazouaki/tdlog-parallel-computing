@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c4e82027a92197de33253235d54a09ee6c740c7e",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 296,
+      "insee_com" : "17169",
+      "z_moyen" : 44,
+      "code_dept" : "17",
+      "nom_comm" : "LA FREDIERE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 4231,
+      "y_centroid" : 65354,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.584943619459514,
+              45.85318588240526
+            ],
+            [
+              -0.605653037591372,
+              45.86233409647227
+            ],
+            [
+              -0.595003535436836,
+              45.86838862031119
+            ],
+            [
+              -0.58039138500442,
+              45.86612143645419
+            ],
+            [
+              -0.572134242845718,
+              45.8655355464529
+            ],
+            [
+              -0.5696968288358309,
+              45.86077201804015
+            ],
+            [
+              -0.584943619459514,
+              45.85318588240526
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65352,
+      "code_cant" : "28",
+      "x_centroid" : 4218,
+      "nom_dept" : "CHARENTE-MARITIME",
+      "id_geofla" : 19141,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.86154637696721,
+        -0.5868151360155132
+      ],
+      "code_comm" : "169",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.5868151360155132,
+        45.86154637696721
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

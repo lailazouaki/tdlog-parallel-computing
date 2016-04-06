@@ -1,0 +1,71 @@
+  {
+    "recordid" : "11188bb725b2651b5d5f3a4900e905119222f91d",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 310,
+      "insee_com" : "38417",
+      "z_moyen" : 260,
+      "code_dept" : "38",
+      "nom_comm" : "SAINTE-MARIE-D'ALLOIX",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9321,
+      "y_centroid" : 64805,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.981808440583572,
+              45.3755891748612
+            ],
+            [
+              5.960936022572271,
+              45.37954008744811
+            ],
+            [
+              5.966727255272971,
+              45.38815440395674
+            ],
+            [
+              5.970740306328493,
+              45.39577038390017
+            ],
+            [
+              5.987469790571684,
+              45.38887362733679
+            ],
+            [
+              5.987808962116513,
+              45.37995273576618
+            ],
+            [
+              5.981808440583572,
+              45.3755891748612
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64798,
+      "code_cant" : "34",
+      "x_centroid" : 9328,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 1118,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        45.38458909511963,
+        5.975777420606269
+      ],
+      "code_comm" : "417",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.975777420606269,
+        45.38458909511963
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "bef70224bdb6853889fc25f0c3eef59dfa603463",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 382,
+      "insee_com" : "31243",
+      "z_moyen" : 224,
+      "code_dept" : "31",
+      "nom_comm" : "JUZES",
+      "code_arr" : "3",
+      "x_chf_lieu" : 6020,
+      "y_centroid" : 62616,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.807733745971817,
+              43.43472391589548
+            ],
+            [
+              1.776603770097798,
+              43.44766648555172
+            ],
+            [
+              1.775328997968847,
+              43.45765761738713
+            ],
+            [
+              1.803993048479197,
+              43.45252506635022
+            ],
+            [
+              1.806724650704694,
+              43.44408834457873
+            ],
+            [
+              1.812455086182504,
+              43.43807788933889
+            ],
+            [
+              1.807733745971817,
+              43.43472391589548
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62618,
+      "code_cant" : "25",
+      "x_centroid" : 6022,
+      "nom_dept" : "HAUTE-GARONNE",
+      "id_geofla" : 25933,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.44712761114821,
+        1.793476521007225
+      ],
+      "code_comm" : "243",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.793476521007225,
+        43.44712761114821
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

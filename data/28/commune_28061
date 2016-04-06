@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d664da82e2bed534043320e8ced19ca25e782391",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 475,
+      "insee_com" : "59292",
+      "z_moyen" : 30,
+      "code_dept" : "59",
+      "nom_comm" : "HAVELUY",
+      "code_arr" : "6",
+      "x_chf_lieu" : 7287,
+      "y_centroid" : 70285,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.422840302892447,
+              50.34713503733495
+            ],
+            [
+              3.39703697300886,
+              50.34345894173329
+            ],
+            [
+              3.382163535618645,
+              50.34690859352263
+            ],
+            [
+              3.381690939103583,
+              50.35306897306939
+            ],
+            [
+              3.408998908953037,
+              50.36879156495952
+            ],
+            [
+              3.421873508250227,
+              50.35401551644535
+            ],
+            [
+              3.422840302892447,
+              50.34713503733495
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70282,
+      "code_cant" : "21",
+      "x_centroid" : 7287,
+      "nom_dept" : "NORD",
+      "id_geofla" : 20944,
+      "statut" : "Commune simple",
+      "population" : 3.1,
+      "geom_x_y" : [
+        50.35373845858153,
+        3.403103143615382
+      ],
+      "code_comm" : "292",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        3.403103143615382,
+        50.35373845858153
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

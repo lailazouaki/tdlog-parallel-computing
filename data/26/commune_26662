@@ -1,0 +1,71 @@
+  {
+    "recordid" : "53150a8847112e76de449795afe64e5991b1719e",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 188,
+      "insee_com" : "67022",
+      "z_moyen" : 376,
+      "code_dept" : "67",
+      "nom_comm" : "BASSEMBERG",
+      "code_arr" : "5",
+      "x_chf_lieu" : 10172,
+      "y_centroid" : 68125,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.268113567703461,
+              48.33080018511325
+            ],
+            [
+              7.263764259013928,
+              48.34048978329128
+            ],
+            [
+              7.284575407005018,
+              48.34096343045825
+            ],
+            [
+              7.293139507413874,
+              48.33329155853394
+            ],
+            [
+              7.289749775795804,
+              48.33066635644122
+            ],
+            [
+              7.275119123304118,
+              48.33220512193451
+            ],
+            [
+              7.268113567703461,
+              48.33080018511325
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68124,
+      "code_cant" : "32",
+      "x_centroid" : 10168,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 32232,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.33594663258843,
+        7.277965583185438
+      ],
+      "code_comm" : "022",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.277965583185438,
+        48.33594663258843
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

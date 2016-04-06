@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3624cecc6437fce0a629f2db36fd45c19d7a284b",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 394,
+      "insee_com" : "65159",
+      "z_moyen" : 565,
+      "code_dept" : "65",
+      "nom_comm" : "ESCALA",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4889,
+      "y_centroid" : 62243,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.402013794007594,
+              43.07499916826526
+            ],
+            [
+              0.403794654015333,
+              43.08181830749137
+            ],
+            [
+              0.398055943706837,
+              43.09504333416205
+            ],
+            [
+              0.419149514263563,
+              43.10198512129509
+            ],
+            [
+              0.419371221438968,
+              43.09316241077555
+            ],
+            [
+              0.423070762512174,
+              43.07764689841543
+            ],
+            [
+              0.402013794007594,
+              43.07499916826526
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62243,
+      "code_cant" : "05",
+      "x_centroid" : 4890,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 25048,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        43.08770501471225,
+        0.4112497570706755
+      ],
+      "code_comm" : "159",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4112497570706755,
+        43.08770501471225
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

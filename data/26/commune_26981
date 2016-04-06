@@ -1,0 +1,75 @@
+  {
+    "recordid" : "80b806c413f2033aebdc91401f9693f3c9299415",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 642,
+      "insee_com" : "76407",
+      "z_moyen" : 71,
+      "code_dept" : "76",
+      "nom_comm" : "MANNEVILLE-ES-PLAINS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5384,
+      "y_centroid" : 69755,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.747284815242821,
+              49.84566545810833
+            ],
+            [
+              0.730291056252475,
+              49.85276534532507
+            ],
+            [
+              0.7285915674840791,
+              49.86252998829102
+            ],
+            [
+              0.74345433161755,
+              49.86629258793077
+            ],
+            [
+              0.750404414298957,
+              49.87138173383705
+            ],
+            [
+              0.76389049606255,
+              49.87174620718888
+            ],
+            [
+              0.774436628507474,
+              49.85089081615278
+            ],
+            [
+              0.747284815242821,
+              49.84566545810833
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69752,
+      "code_cant" : "50",
+      "x_centroid" : 5382,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 26501,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.85825855448403,
+        0.7516824080729325
+      ],
+      "code_comm" : "407",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.7516824080729325,
+        49.85825855448403
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

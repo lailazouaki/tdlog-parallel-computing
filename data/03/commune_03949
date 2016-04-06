@@ -1,0 +1,71 @@
+  {
+    "recordid" : "5dd7c0ee172e2e03dd7d6314b24951d7b86d8d79",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 523,
+      "insee_com" : "60056",
+      "z_moyen" : 59,
+      "code_dept" : "60",
+      "nom_comm" : "BEAUREPAIRE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6688,
+      "y_centroid" : 69103,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.573748756700776,
+              49.27717354673771
+            ],
+            [
+              2.550022442983833,
+              49.29422162588943
+            ],
+            [
+              2.548151517255039,
+              49.30069607345371
+            ],
+            [
+              2.576761116168363,
+              49.30360445363635
+            ],
+            [
+              2.583620521081551,
+              49.29512426461396
+            ],
+            [
+              2.585305007994747,
+              49.27876902117399
+            ],
+            [
+              2.573748756700776,
+              49.27717354673771
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69105,
+      "code_cant" : "30",
+      "x_centroid" : 6686,
+      "nom_dept" : "OISE",
+      "id_geofla" : 11485,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.29168864692751,
+        2.56951230842862
+      ],
+      "code_comm" : "056",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.56951230842862,
+        49.29168864692751
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

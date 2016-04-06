@@ -1,0 +1,75 @@
+  {
+    "recordid" : "828d332bbd9218f9ae6cd90f2a7839e5b7eb3e4c",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 384,
+      "insee_com" : "71534",
+      "z_moyen" : 198,
+      "code_dept" : "71",
+      "nom_comm" : "LE TARTRE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8803,
+      "y_centroid" : 66296,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.361726496761546,
+              46.73311378544474
+            ],
+            [
+              5.34157555850187,
+              46.7346075009964
+            ],
+            [
+              5.338472489074777,
+              46.73739116477518
+            ],
+            [
+              5.339296102301463,
+              46.74585992560669
+            ],
+            [
+              5.345021323665765,
+              46.74976973611804
+            ],
+            [
+              5.352907075280757,
+              46.75270720730852
+            ],
+            [
+              5.366759753706656,
+              46.75239555259151
+            ],
+            [
+              5.361726496761546,
+              46.73311378544474
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66294,
+      "code_cant" : "42",
+      "x_centroid" : 8795,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 19737,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.74294665049726,
+        5.352712450311379
+      ],
+      "code_comm" : "534",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.352712450311379,
+        46.74294665049726
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

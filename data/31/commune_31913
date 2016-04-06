@@ -1,0 +1,63 @@
+  {
+    "recordid" : "64ce6dc0ce720bd7bbd2a5d6726f24100dc9e60d",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 185,
+      "insee_com" : "88392",
+      "z_moyen" : 374,
+      "code_dept" : "88",
+      "nom_comm" : "ROCOURT",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9038,
+      "y_centroid" : 67821,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.742922179279648,
+              48.09790921489701
+            ],
+            [
+              5.729890840528937,
+              48.10715270618768
+            ],
+            [
+              5.755673310428251,
+              48.11715930052806
+            ],
+            [
+              5.757622334766332,
+              48.1107029201168
+            ],
+            [
+              5.742922179279648,
+              48.09790921489701
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67817,
+      "code_cant" : "15",
+      "x_centroid" : 9042,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 31595,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.10769736349637,
+        5.74509629223515
+      ],
+      "code_comm" : "392",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.74509629223515,
+        48.10769736349637
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

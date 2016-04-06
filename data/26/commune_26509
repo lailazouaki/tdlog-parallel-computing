@@ -1,0 +1,71 @@
+  {
+    "recordid" : "edff68105c6d4dd0150faeae690b4cdffbc37994",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 487,
+      "insee_com" : "90063",
+      "z_moyen" : 444,
+      "code_dept" : "90",
+      "nom_comm" : "LEBETAIN",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9993,
+      "y_centroid" : 67170,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.988495836645842,
+              47.47303737611222
+            ],
+            [
+              6.952446414801375,
+              47.48493878392025
+            ],
+            [
+              6.963940778440634,
+              47.49632786127017
+            ],
+            [
+              6.974025515602596,
+              47.49781367916174
+            ],
+            [
+              6.982897326997515,
+              47.49425677067684
+            ],
+            [
+              6.988581011196005,
+              47.48558981784628
+            ],
+            [
+              6.988495836645842,
+              47.47303737611222
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67171,
+      "code_cant" : "02",
+      "x_centroid" : 9990,
+      "nom_dept" : "TERRITOIRE DE BELFORT",
+      "id_geofla" : 19621,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        47.48640772011326,
+        6.973534582943619
+      ],
+      "code_comm" : "063",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.973534582943619,
+        47.48640772011326
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

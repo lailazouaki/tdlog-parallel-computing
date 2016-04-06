@@ -1,0 +1,75 @@
+  {
+    "recordid" : "85cbb59bd8abc3ab14137c7d1cca0f1c8908466d",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 269,
+      "insee_com" : "57510",
+      "z_moyen" : 228,
+      "code_dept" : "57",
+      "nom_comm" : "NOISSEVILLE",
+      "code_arr" : "4",
+      "x_chf_lieu" : 9388,
+      "y_centroid" : 68976,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.261307018521712,
+              49.12387283783725
+            ],
+            [
+              6.251989037908099,
+              49.13094609640728
+            ],
+            [
+              6.26193282804806,
+              49.13250349924432
+            ],
+            [
+              6.272094511347801,
+              49.13966926264875
+            ],
+            [
+              6.28533098314887,
+              49.14487856575477
+            ],
+            [
+              6.287870490027541,
+              49.13518968059334
+            ],
+            [
+              6.276123938973109,
+              49.12922019654118
+            ],
+            [
+              6.261307018521712,
+              49.12387283783725
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68976,
+      "code_cant" : "35",
+      "x_centroid" : 9387,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 30667,
+      "statut" : "Commune simple",
+      "population" : 1,
+      "geom_x_y" : [
+        49.13370735355185,
+        6.272407062248575
+      ],
+      "code_comm" : "510",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.272407062248575,
+        49.13370735355185
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

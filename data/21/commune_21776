@@ -1,0 +1,67 @@
+  {
+    "recordid" : "3af720670fef3ca4d0e396aefb20b4b94f0cfcb8",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 474,
+      "insee_com" : "14532",
+      "z_moyen" : 128,
+      "code_dept" : "14",
+      "nom_comm" : "LE RECULEY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 4181,
+      "y_centroid" : 68744,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.824015261007612,
+              48.89944792427991
+            ],
+            [
+              -0.849375584278203,
+              48.89816668735526
+            ],
+            [
+              -0.860930446775094,
+              48.91714308324152
+            ],
+            [
+              -0.832677456334444,
+              48.91748371614883
+            ],
+            [
+              -0.824499699621577,
+              48.90380809611267
+            ],
+            [
+              -0.824015261007612,
+              48.89944792427991
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68744,
+      "code_cant" : "04",
+      "x_centroid" : 4185,
+      "nom_dept" : "CALVADOS",
+      "id_geofla" : 23664,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.9081555319256,
+        -0.8415289466071497
+      ],
+      "code_comm" : "532",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.8415289466071497,
+        48.9081555319256
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

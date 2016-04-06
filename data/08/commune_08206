@@ -1,0 +1,67 @@
+  {
+    "recordid" : "a9b73580aec9ff12af4e6940a537c7e633f4b8d7",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 544,
+      "insee_com" : "67479",
+      "z_moyen" : 201,
+      "code_dept" : "67",
+      "nom_comm" : "STEINSELTZ",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10605,
+      "y_centroid" : 68895,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.919404598860297,
+              48.98813462656743
+            ],
+            [
+              7.906177142483287,
+              48.99360512099489
+            ],
+            [
+              7.930628889940919,
+              49.02270235480828
+            ],
+            [
+              7.949605170894124,
+              49.01225328208433
+            ],
+            [
+              7.949511770408983,
+              49.00897763605168
+            ],
+            [
+              7.919404598860297,
+              48.98813462656743
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68902,
+      "code_cant" : "34",
+      "x_centroid" : 10603,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 8446,
+      "statut" : "Commune simple",
+      "population" : 0.6,
+      "geom_x_y" : [
+        49.00505648234874,
+        7.928244158147955
+      ],
+      "code_comm" : "479",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.928244158147955,
+        49.00505648234874
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

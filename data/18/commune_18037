@@ -1,0 +1,79 @@
+  {
+    "recordid" : "dc6f3dc5ee54484aa78fe3fababe7dc22efd9c9a",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 790,
+      "insee_com" : "76294",
+      "z_moyen" : 66,
+      "code_dept" : "76",
+      "nom_comm" : "LA GAILLARDE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5459,
+      "y_centroid" : 69731,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.906923890711587,
+              49.82956217520807
+            ],
+            [
+              0.890372479640503,
+              49.82967261724014
+            ],
+            [
+              0.826350824790932,
+              49.83425606713991
+            ],
+            [
+              0.829021814516741,
+              49.84463895736005
+            ],
+            [
+              0.859188973597957,
+              49.84938665588493
+            ],
+            [
+              0.881621687688833,
+              49.84034155901558
+            ],
+            [
+              0.911702317627759,
+              49.83501831235437
+            ],
+            [
+              0.910985018152409,
+              49.83353215861949
+            ],
+            [
+              0.906923890711587,
+              49.82956217520807
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69728,
+      "code_cant" : "22",
+      "x_centroid" : 5462,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 22024,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.83801480506784,
+        0.864208798219475
+      ],
+      "code_comm" : "294",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.864208798219475,
+        49.83801480506784
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

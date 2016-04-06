@@ -1,0 +1,75 @@
+  {
+    "recordid" : "de34e78634d686359c763b60ae82a9fafd9da109",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 460,
+      "insee_com" : "38279",
+      "z_moyen" : 494,
+      "code_dept" : "38",
+      "nom_comm" : "NOTRE-DAME-DE-MESAGE",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9168,
+      "y_centroid" : 64450,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.736505710407562,
+              45.04931546259394
+            ],
+            [
+              5.742736386871377,
+              45.0623427898656
+            ],
+            [
+              5.74356507628684,
+              45.08338626173447
+            ],
+            [
+              5.754587030361633,
+              45.08460085440601
+            ],
+            [
+              5.765555802355609,
+              45.07881533191863
+            ],
+            [
+              5.762214132758428,
+              45.06239296396237
+            ],
+            [
+              5.745355048310961,
+              45.05716096688754
+            ],
+            [
+              5.736505710407562,
+              45.04931546259394
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64450,
+      "code_cant" : "44",
+      "x_centroid" : 9165,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 27185,
+      "statut" : "Commune simple",
+      "population" : 1.2,
+      "geom_x_y" : [
+        45.07064236593612,
+        5.752206466669087
+      ],
+      "code_comm" : "279",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.752206466669087,
+        45.07064236593612
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "857064b1bd16023aaab78fb8060e9df23cedc2bc",
+    "fields" : {
+      "nom_region" : "BASSE-NORMANDIE",
+      "superficie" : 837,
+      "insee_com" : "50517",
+      "z_moyen" : 12,
+      "code_dept" : "50",
+      "nom_comm" : "SAINT-MARTIN-DE-VARREVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 3926,
+      "y_centroid" : 69337,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.260307834114285,
+              49.41096191452779
+            ],
+            [
+              -1.275084404534077,
+              49.41945074077233
+            ],
+            [
+              -1.212361398181841,
+              49.44727736452427
+            ],
+            [
+              -1.196795309771601,
+              49.43533432962244
+            ],
+            [
+              -1.212769551706317,
+              49.42596717263037
+            ],
+            [
+              -1.238451885524518,
+              49.42096531424988
+            ],
+            [
+              -1.260307834114285,
+              49.41096191452779
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69334,
+      "code_cant" : "37",
+      "x_centroid" : 3929,
+      "nom_dept" : "MANCHE",
+      "id_geofla" : 35579,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.42899391040993,
+        -1.233710208006224
+      ],
+      "code_comm" : "517",
+      "code_reg" : "25"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -1.233710208006224,
+        49.42899391040993
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

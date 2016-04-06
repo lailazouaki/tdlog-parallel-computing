@@ -1,0 +1,71 @@
+  {
+    "recordid" : "06dc98408827ca59db939a2945e5f60045fa4b51",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 181,
+      "insee_com" : "67102",
+      "z_moyen" : 182,
+      "code_dept" : "67",
+      "nom_comm" : "DOSSENHEIM-KOCHERSBERG",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10367,
+      "y_centroid" : 68476,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.586298328982161,
+              48.63468132344523
+            ],
+            [
+              7.567297035883622,
+              48.63549320257676
+            ],
+            [
+              7.566025100648854,
+              48.63665024029879
+            ],
+            [
+              7.574856105780522,
+              48.64761863209134
+            ],
+            [
+              7.589055661098058,
+              48.64874790396194
+            ],
+            [
+              7.585254732131338,
+              48.64355142723841
+            ],
+            [
+              7.586298328982161,
+              48.63468132344523
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68473,
+      "code_cant" : "31",
+      "x_centroid" : 10371,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 26162,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.64109306568655,
+        7.578166911989014
+      ],
+      "code_comm" : "102",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.578166911989014,
+        48.64109306568655
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

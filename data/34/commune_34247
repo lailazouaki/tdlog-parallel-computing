@@ -1,0 +1,71 @@
+  {
+    "recordid" : "a3675cef4a1611f586d4c51b29dd9737b712062c",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 427,
+      "insee_com" : "81270",
+      "z_moyen" : 212,
+      "code_dept" : "81",
+      "nom_comm" : "SAINT-SERNIN-LES-LAVAUR",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6170,
+      "y_centroid" : 62721,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.96463156941269,
+              43.5295976332983
+            ],
+            [
+              1.960016492489688,
+              43.54406731288617
+            ],
+            [
+              1.964418341288597,
+              43.55308949161133
+            ],
+            [
+              1.978275670699121,
+              43.55443553597196
+            ],
+            [
+              1.986856697099249,
+              43.54631871366654
+            ],
+            [
+              1.980975532926307,
+              43.53685173348928
+            ],
+            [
+              1.96463156941269,
+              43.5295976332983
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62726,
+      "code_cant" : "24",
+      "x_centroid" : 6169,
+      "nom_dept" : "TARN",
+      "id_geofla" : 35944,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.54339550303026,
+        1.97224589322748
+      ],
+      "code_comm" : "270",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.97224589322748,
+        43.54339550303026
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ddb8686e11efcbda65fc0a90528c9889e96d3d19",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 488,
+      "insee_com" : "57377",
+      "z_moyen" : 305,
+      "code_dept" : "57",
+      "nom_comm" : "LANDANGE",
+      "code_arr" : "5",
+      "x_chf_lieu" : 9913,
+      "y_centroid" : 68482,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.979224835679126,
+              48.66127708876213
+            ],
+            [
+              6.975166866467019,
+              48.65922410788299
+            ],
+            [
+              6.950520141689665,
+              48.660485524541
+            ],
+            [
+              6.937307739787363,
+              48.6706133998437
+            ],
+            [
+              6.956909253575885,
+              48.68077101234869
+            ],
+            [
+              6.979206866775865,
+              48.67211206229076
+            ],
+            [
+              6.979224835679126,
+              48.66127708876213
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68484,
+      "code_cant" : "16",
+      "x_centroid" : 9915,
+      "nom_dept" : "MOSELLE",
+      "id_geofla" : 36114,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        48.66881265638798,
+        6.960560230068776
+      ],
+      "code_comm" : "377",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.960560230068776,
+        48.66881265638798
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

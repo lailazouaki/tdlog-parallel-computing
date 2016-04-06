@@ -1,0 +1,67 @@
+  {
+    "recordid" : "e7c4f9f95a6cf2490ab8e0eb59a94756f710e5c7",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 287,
+      "insee_com" : "71066",
+      "z_moyen" : 304,
+      "code_dept" : "71",
+      "nom_comm" : "BURGY",
+      "code_arr" : "5",
+      "x_chf_lieu" : 8405,
+      "y_centroid" : 65976,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.82675970305341,
+              46.45299790095014
+            ],
+            [
+              4.817420882886362,
+              46.45666858619381
+            ],
+            [
+              4.826435409955942,
+              46.47134126476688
+            ],
+            [
+              4.843474471483334,
+              46.47521986295451
+            ],
+            [
+              4.839523657716733,
+              46.46167396871291
+            ],
+            [
+              4.82675970305341,
+              46.45299790095014
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 65976,
+      "code_cant" : "25",
+      "x_centroid" : 8404,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 25617,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.46411239420276,
+        4.830821540669229
+      ],
+      "code_comm" : "066",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.830821540669229,
+        46.46411239420276
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

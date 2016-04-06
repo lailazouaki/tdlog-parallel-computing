@@ -1,0 +1,71 @@
+  {
+    "recordid" : "3860bf36ed389569e4b1bfebe493aab22fa241e4",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 487,
+      "insee_com" : "62727",
+      "z_moyen" : 66,
+      "code_dept" : "62",
+      "nom_comm" : "RUITZ",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6708,
+      "y_centroid" : 70410,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.59072134780723,
+              50.45353599931396
+            ],
+            [
+              2.574977475190546,
+              50.45976658576691
+            ],
+            [
+              2.560843231332331,
+              50.4599775354277
+            ],
+            [
+              2.56183264050327,
+              50.46101335968471
+            ],
+            [
+              2.605200592723372,
+              50.48083585696229
+            ],
+            [
+              2.610738789721599,
+              50.46868134156026
+            ],
+            [
+              2.59072134780723,
+              50.45353599931396
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70412,
+      "code_cant" : "64",
+      "x_centroid" : 6708,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 20438,
+      "statut" : "Commune simple",
+      "population" : 1.5,
+      "geom_x_y" : [
+        50.46614924250122,
+        2.590731353445537
+      ],
+      "code_comm" : "727",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.590731353445537,
+        50.46614924250122
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

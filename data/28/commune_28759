@@ -1,0 +1,75 @@
+  {
+    "recordid" : "f29c335fcb7ba41ec5acb7c12bcfa47bc0d38d87",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 333,
+      "insee_com" : "71188",
+      "z_moyen" : 420,
+      "code_dept" : "71",
+      "nom_comm" : "EPERTULLY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8222,
+      "y_centroid" : 66506,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.607123087513651,
+              46.93550758203057
+            ],
+            [
+              4.585557902792197,
+              46.94345181329827
+            ],
+            [
+              4.586871540609987,
+              46.95281732041315
+            ],
+            [
+              4.59580833298251,
+              46.95216266170934
+            ],
+            [
+              4.613127751738665,
+              46.94904892387632
+            ],
+            [
+              4.617511450822808,
+              46.94392645232945
+            ],
+            [
+              4.614327828680511,
+              46.94167469170385
+            ],
+            [
+              4.607123087513651,
+              46.93550758203057
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66504,
+      "code_cant" : "18",
+      "x_centroid" : 8217,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 20016,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        46.94499370239426,
+        4.600745427883188
+      ],
+      "code_comm" : "188",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.600745427883188,
+        46.94499370239426
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

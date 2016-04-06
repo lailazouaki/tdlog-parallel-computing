@@ -1,0 +1,75 @@
+  {
+    "recordid" : "4bca8fc3fac6b436b6e6215c58b10b26e140c9b9",
+    "fields" : {
+      "nom_region" : "CHAMPAGNE-ARDENNE",
+      "superficie" : 392,
+      "insee_com" : "08411",
+      "z_moyen" : 123,
+      "code_dept" : "08",
+      "nom_comm" : "SEMUY",
+      "code_arr" : "4",
+      "x_chf_lieu" : 8201,
+      "y_centroid" : 69341,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.654455610539118,
+              49.48299682684546
+            ],
+            [
+              4.655579354303379,
+              49.48575924615155
+            ],
+            [
+              4.645797425337142,
+              49.49140303248948
+            ],
+            [
+              4.658475661054474,
+              49.50155006889226
+            ],
+            [
+              4.660203214691437,
+              49.51145064062027
+            ],
+            [
+              4.670735369621998,
+              49.50758439214022
+            ],
+            [
+              4.676469897464362,
+              49.4887082905091
+            ],
+            [
+              4.654455610539118,
+              49.48299682684546
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69332,
+      "code_cant" : "02",
+      "x_centroid" : 8205,
+      "nom_dept" : "ARDENNES",
+      "id_geofla" : 30650,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        49.49568814851978,
+        4.662949102113109
+      ],
+      "code_comm" : "411",
+      "code_reg" : "21"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.662949102113109,
+        49.49568814851978
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

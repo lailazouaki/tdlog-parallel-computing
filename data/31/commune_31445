@@ -1,0 +1,75 @@
+  {
+    "recordid" : "c9019dae2497b71f66726892e7c60d27a730d1f2",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 766,
+      "insee_com" : "62463",
+      "z_moyen" : 140,
+      "code_dept" : "62",
+      "nom_comm" : "HUCQUELIERS",
+      "code_arr" : "4",
+      "x_chf_lieu" : 6223,
+      "y_centroid" : 70528,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.896849531794781,
+              50.55237458881717
+            ],
+            [
+              1.897885092468009,
+              50.57198756581428
+            ],
+            [
+              1.918451628840452,
+              50.59087424032198
+            ],
+            [
+              1.923134098647326,
+              50.58949682503655
+            ],
+            [
+              1.930569270497596,
+              50.57734515600271
+            ],
+            [
+              1.935383262958466,
+              50.55969500160862
+            ],
+            [
+              1.922741267665858,
+              50.55322170730137
+            ],
+            [
+              1.896849531794781,
+              50.55237458881717
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70529,
+      "code_cant" : "29",
+      "x_centroid" : 6230,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 32760,
+      "statut" : "Chef-lieu canton",
+      "population" : 0.5,
+      "geom_x_y" : [
+        50.56846942359511,
+        1.915649497949917
+      ],
+      "code_comm" : "463",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.915649497949917,
+        50.56846942359511
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

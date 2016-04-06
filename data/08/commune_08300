@@ -1,0 +1,71 @@
+  {
+    "recordid" : "d6b0c73de3f3295e2cf47e364e67c71bf1703038",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 234,
+      "insee_com" : "67245",
+      "z_moyen" : 226,
+      "code_dept" : "67",
+      "nom_comm" : "KNOERSHEIM",
+      "code_arr" : "4",
+      "x_chf_lieu" : 10282,
+      "y_centroid" : 68514,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.434068691178384,
+              48.67491867680435
+            ],
+            [
+              7.433417708682721,
+              48.6763843218335
+            ],
+            [
+              7.463835048830834,
+              48.68609504144504
+            ],
+            [
+              7.478083969183568,
+              48.68470441205971
+            ],
+            [
+              7.477157257214036,
+              48.68309959904373
+            ],
+            [
+              7.467581099918235,
+              48.67517083533532
+            ],
+            [
+              7.434068691178384,
+              48.67491867680435
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68515,
+      "code_cant" : "13",
+      "x_centroid" : 10280,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 21965,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.67964678650391,
+        7.458251357761896
+      ],
+      "code_comm" : "245",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.458251357761896,
+        48.67964678650391
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

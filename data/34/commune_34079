@@ -1,0 +1,71 @@
+  {
+    "recordid" : "985c9d8d3dbdf4c87b8ce9c555d366b974dd9046",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 292,
+      "insee_com" : "54447",
+      "z_moyen" : 273,
+      "code_dept" : "54",
+      "nom_comm" : "RECLONVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9750,
+      "y_centroid" : 68328,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.715061824508127,
+              48.52716724040694
+            ],
+            [
+              6.718171732736629,
+              48.54042533165764
+            ],
+            [
+              6.732326306403293,
+              48.54551104572407
+            ],
+            [
+              6.741408778476257,
+              48.54506333407106
+            ],
+            [
+              6.7482486337614,
+              48.54057005218726
+            ],
+            [
+              6.724132929025934,
+              48.52870236359591
+            ],
+            [
+              6.715061824508127,
+              48.52716724040694
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68332,
+      "code_cant" : "06",
+      "x_centroid" : 9752,
+      "nom_dept" : "MEURTHE-ET-MOSELLE",
+      "id_geofla" : 34654,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        48.53747746495267,
+        6.7294697865117
+      ],
+      "code_comm" : "447",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.7294697865117,
+        48.53747746495267
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

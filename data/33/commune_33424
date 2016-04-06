@@ -1,0 +1,67 @@
+  {
+    "recordid" : "d7ec144882132e8d78cc5f7ad4138a855f06af72",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 632,
+      "insee_com" : "82193",
+      "z_moyen" : 162,
+      "code_dept" : "82",
+      "nom_comm" : "VIGUERON",
+      "code_arr" : "1",
+      "x_chf_lieu" : 5437,
+      "y_centroid" : 63124,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.0685878529543,
+              43.87958904551677
+            ],
+            [
+              1.055845365357756,
+              43.88246850281208
+            ],
+            [
+              1.029932755738499,
+              43.89473286851553
+            ],
+            [
+              1.052388278394209,
+              43.90938615211005
+            ],
+            [
+              1.079906294499343,
+              43.892004414013
+            ],
+            [
+              1.0685878529543,
+              43.87958904551677
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63113,
+      "code_cant" : "02",
+      "x_centroid" : 5438,
+      "nom_dept" : "TARN-ET-GARONNE",
+      "id_geofla" : 30681,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.89376859509407,
+        1.056239536458598
+      ],
+      "code_comm" : "193",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.056239536458598,
+        43.89376859509407
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

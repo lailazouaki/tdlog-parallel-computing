@@ -1,0 +1,75 @@
+  {
+    "recordid" : "1d8eb530eeeb6f9279327ca231fd4ee3d48ebc49",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 467,
+      "insee_com" : "76440",
+      "z_moyen" : 132,
+      "code_dept" : "76",
+      "nom_comm" : "MOLAGNIES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6074,
+      "y_centroid" : 69366,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.719919665253869,
+              49.5089044127086
+            ],
+            [
+              1.711378310445666,
+              49.51153745423886
+            ],
+            [
+              1.704967914661289,
+              49.52325300775433
+            ],
+            [
+              1.721527895093105,
+              49.5308260773992
+            ],
+            [
+              1.731550185180432,
+              49.53040098346722
+            ],
+            [
+              1.745518525385972,
+              49.53915693006883
+            ],
+            [
+              1.738792477596108,
+              49.5205803818481
+            ],
+            [
+              1.719919665253869,
+              49.5089044127086
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 69364,
+      "code_cant" : "25",
+      "x_centroid" : 6076,
+      "nom_dept" : "SEINE-MARITIME",
+      "id_geofla" : 22568,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        49.5223521350196,
+        1.724592133472632
+      ],
+      "code_comm" : "440",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.724592133472632,
+        49.5223521350196
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

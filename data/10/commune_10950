@@ -1,0 +1,67 @@
+  {
+    "recordid" : "938b29278be00e2034423c695374c0ae36132672",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 180,
+      "insee_com" : "67139",
+      "z_moyen" : 244,
+      "code_dept" : "67",
+      "nom_comm" : "FLEXBOURG",
+      "code_arr" : "3",
+      "x_chf_lieu" : 10267,
+      "y_centroid" : 68389,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.430297364757712,
+              48.56002905603737
+            ],
+            [
+              7.406542459920415,
+              48.56822799347268
+            ],
+            [
+              7.430792622741377,
+              48.57614679813929
+            ],
+            [
+              7.434858474540431,
+              48.57397703047048
+            ],
+            [
+              7.431755305088108,
+              48.56041616614025
+            ],
+            [
+              7.430297364757712,
+              48.56002905603737
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68393,
+      "code_cant" : "33",
+      "x_centroid" : 10262,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 17613,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.56827411009793,
+        7.424259657001554
+      ],
+      "code_comm" : "139",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.424259657001554,
+        48.56827411009793
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

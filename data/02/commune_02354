@@ -1,0 +1,67 @@
+  {
+    "recordid" : "95eb73451fd3c819a203ce4fcf703094687f017b",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 281,
+      "insee_com" : "46232",
+      "z_moyen" : 144,
+      "code_dept" : "46",
+      "nom_comm" : "LES QUATRE-ROUTES-DU-LOT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5932,
+      "y_centroid" : 64339,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.632575762948956,
+              44.98949146806396
+            ],
+            [
+              1.627467044239403,
+              44.99445340249775
+            ],
+            [
+              1.627058331787526,
+              45.00647017988193
+            ],
+            [
+              1.653311024834281,
+              44.99583177677069
+            ],
+            [
+              1.648619703183843,
+              44.98985858663277
+            ],
+            [
+              1.632575762948956,
+              44.98949146806396
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64340,
+      "code_cant" : "29",
+      "x_centroid" : 5926,
+      "nom_dept" : "LOT",
+      "id_geofla" : 13144,
+      "statut" : "Commune simple",
+      "population" : 0.7,
+      "geom_x_y" : [
+        44.9962499087657,
+        1.637953643426623
+      ],
+      "code_comm" : "232",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.637953643426623,
+        44.9962499087657
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

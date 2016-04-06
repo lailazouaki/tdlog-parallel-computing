@@ -1,0 +1,71 @@
+  {
+    "recordid" : "966c88dda298acd48e324f59c8305b7ab52c0d82",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 331,
+      "insee_com" : "67484",
+      "z_moyen" : 149,
+      "code_dept" : "67",
+      "nom_comm" : "STUNDWILLER",
+      "code_arr" : "7",
+      "x_chf_lieu" : 10654,
+      "y_centroid" : 68809,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.980558455883846,
+              48.91280454440356
+            ],
+            [
+              7.990030092925453,
+              48.93100787674965
+            ],
+            [
+              7.99843075554001,
+              48.93630699034569
+            ],
+            [
+              8.012756295094823,
+              48.93310380534331
+            ],
+            [
+              8.012401769816659,
+              48.92971259202191
+            ],
+            [
+              7.993755413731908,
+              48.9124256371321
+            ],
+            [
+              7.980558455883846,
+              48.91280454440356
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68810,
+      "code_cant" : "26",
+      "x_centroid" : 10658,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 22330,
+      "statut" : "Commune simple",
+      "population" : 0.5,
+      "geom_x_y" : [
+        48.92448597753953,
+        7.996411941024215
+      ],
+      "code_comm" : "484",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.996411941024215,
+        48.92448597753953
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

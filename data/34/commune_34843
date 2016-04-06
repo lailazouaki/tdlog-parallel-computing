@@ -1,0 +1,71 @@
+  {
+    "recordid" : "94d7694f9a2c22376be644b154a49ac35e23af43",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 340,
+      "insee_com" : "68187",
+      "z_moyen" : 457,
+      "code_dept" : "68",
+      "nom_comm" : "LINSDORF",
+      "code_arr" : "1",
+      "x_chf_lieu" : 10308,
+      "y_centroid" : 67219,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.401811459128803,
+              47.50040727704696
+            ],
+            [
+              7.38838332608382,
+              47.50472785398249
+            ],
+            [
+              7.407369539686225,
+              47.52602659801067
+            ],
+            [
+              7.422956294107794,
+              47.52683308754507
+            ],
+            [
+              7.425573613922566,
+              47.52356014858553
+            ],
+            [
+              7.406451401836693,
+              47.50892276993131
+            ],
+            [
+              7.401811459128803,
+              47.50040727704696
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67208,
+      "code_cant" : "07",
+      "x_centroid" : 10314,
+      "nom_dept" : "HAUT-RHIN",
+      "id_geofla" : 3811,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.51505094589153,
+        7.406426983380602
+      ],
+      "code_comm" : "187",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.406426983380602,
+        47.51505094589153
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

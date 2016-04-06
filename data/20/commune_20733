@@ -1,0 +1,71 @@
+  {
+    "recordid" : "f3af82273b721fcc2502ee28c9f769c2bce35796",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 364,
+      "insee_com" : "65245",
+      "z_moyen" : 569,
+      "code_dept" : "65",
+      "nom_comm" : "LAGRANGE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4838,
+      "y_centroid" : 62291,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.359686197660067,
+              43.11324203729568
+            ],
+            [
+              0.34075528894126,
+              43.12236085726599
+            ],
+            [
+              0.337750474090888,
+              43.12811834878458
+            ],
+            [
+              0.338871348330713,
+              43.14087144351481
+            ],
+            [
+              0.359315718934724,
+              43.13749543942647
+            ],
+            [
+              0.35601762995832,
+              43.11986561160566
+            ],
+            [
+              0.359686197660067,
+              43.11324203729568
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62288,
+      "code_cant" : "11",
+      "x_centroid" : 4841,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 25478,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.12916343553157,
+        0.3486037519115042
+      ],
+      "code_comm" : "245",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.3486037519115042,
+        43.12916343553157
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

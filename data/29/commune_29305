@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fa61354217406445625a0b464a00e72b79e81209",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 227,
+      "insee_com" : "67166",
+      "z_moyen" : 249,
+      "code_dept" : "67",
+      "nom_comm" : "GRASSENDORF",
+      "code_arr" : "6",
+      "x_chf_lieu" : 10386,
+      "y_centroid" : 68670,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.614354879687392,
+              48.80344710296249
+            ],
+            [
+              7.605887885212399,
+              48.80640462757236
+            ],
+            [
+              7.599003501538107,
+              48.82019223272017
+            ],
+            [
+              7.619320957742307,
+              48.82515586441777
+            ],
+            [
+              7.615033541268429,
+              48.80879924470173
+            ],
+            [
+              7.618478353678528,
+              48.80626966497037
+            ],
+            [
+              7.614354879687392,
+              48.80344710296249
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68675,
+      "code_cant" : "10",
+      "x_centroid" : 10383,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 23308,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        48.8148050235954,
+        7.610139280286289
+      ],
+      "code_comm" : "166",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.610139280286289,
+        48.8148050235954
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

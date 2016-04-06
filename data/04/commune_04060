@@ -1,0 +1,75 @@
+  {
+    "recordid" : "e8eaf67c578c4885f35ff0d3645bf3f49a2fa4c8",
+    "fields" : {
+      "nom_region" : "PROVENCE-ALPES-COTE D'AZUR",
+      "superficie" : 1686,
+      "insee_com" : "84120",
+      "z_moyen" : 841,
+      "code_dept" : "84",
+      "nom_comm" : "SAINT-TRINIT",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8973,
+      "y_centroid" : 63361,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.502637180858649,
+              44.06344820436497
+            ],
+            [
+              5.475295772531152,
+              44.0699318852172
+            ],
+            [
+              5.473291215268087,
+              44.07984634309735
+            ],
+            [
+              5.446356781047579,
+              44.10999583396666
+            ],
+            [
+              5.454716459743089,
+              44.11922790466286
+            ],
+            [
+              5.498787806458753,
+              44.11571934778835
+            ],
+            [
+              5.498165293517721,
+              44.07309539208162
+            ],
+            [
+              5.502637180858649,
+              44.06344820436497
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63367,
+      "code_cant" : "20",
+      "x_centroid" : 8984,
+      "nom_dept" : "VAUCLUSE",
+      "id_geofla" : 32196,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        44.0960361919139,
+        5.478858788803834
+      ],
+      "code_comm" : "120",
+      "code_reg" : "93"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.478858788803834,
+        44.0960361919139
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

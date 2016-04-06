@@ -1,0 +1,67 @@
+  {
+    "recordid" : "bb1b116c3bc173421ef91ba0e1d03ed2b4396b90",
+    "fields" : {
+      "nom_region" : "BOURGOGNE",
+      "superficie" : 267,
+      "insee_com" : "71496",
+      "z_moyen" : 283,
+      "code_dept" : "71",
+      "nom_comm" : "SAMPIGNY-LES-MARANGES",
+      "code_arr" : "1",
+      "x_chf_lieu" : 8258,
+      "y_centroid" : 66459,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.645928579120694,
+              46.89558756475503
+            ],
+            [
+              4.636767371905017,
+              46.90109446602935
+            ],
+            [
+              4.646654248305407,
+              46.90734754083829
+            ],
+            [
+              4.667054925804501,
+              46.90883725206865
+            ],
+            [
+              4.660548423256248,
+              46.89593606251697
+            ],
+            [
+              4.645928579120694,
+              46.89558756475503
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66463,
+      "code_cant" : "13",
+      "x_centroid" : 8258,
+      "nom_dept" : "SAONE-ET-LOIRE",
+      "id_geofla" : 18049,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        46.90206681987472,
+        4.652719042671489
+      ],
+      "code_comm" : "496",
+      "code_reg" : "26"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        4.652719042671489,
+        46.90206681987472
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

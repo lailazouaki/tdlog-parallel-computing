@@ -1,0 +1,71 @@
+  {
+    "recordid" : "13b38e1d7d019db17684c42cf336be93f1ba83f7",
+    "fields" : {
+      "nom_region" : "ALSACE",
+      "superficie" : 363,
+      "insee_com" : "67540",
+      "z_moyen" : 188,
+      "code_dept" : "67",
+      "nom_comm" : "WINTERSHOUSE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 10451,
+      "y_centroid" : 68654,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.688548578702726,
+              48.78586198157337
+            ],
+            [
+              7.695406842904066,
+              48.80160249896726
+            ],
+            [
+              7.718141662071639,
+              48.80656252406953
+            ],
+            [
+              7.718374348502286,
+              48.80551721434678
+            ],
+            [
+              7.723654053588778,
+              48.79635274195071
+            ],
+            [
+              7.717035640788787,
+              48.79133470988867
+            ],
+            [
+              7.688548578702726,
+              48.78586198157337
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68650,
+      "code_cant" : "09",
+      "x_centroid" : 10455,
+      "nom_dept" : "BAS-RHIN",
+      "id_geofla" : 20607,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        48.79626235696726,
+        7.70641296219048
+      ],
+      "code_comm" : "540",
+      "code_reg" : "42"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        7.70641296219048,
+        48.79626235696726
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

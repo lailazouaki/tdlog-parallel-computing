@@ -1,0 +1,71 @@
+  {
+    "recordid" : "34ee96bcb1a4c41039267401005e7f0669238f97",
+    "fields" : {
+      "nom_region" : "PAYS DE LA LOIRE",
+      "superficie" : 481,
+      "insee_com" : "49053",
+      "z_moyen" : 75,
+      "code_dept" : "49",
+      "nom_comm" : "BROSSAY",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4567,
+      "y_centroid" : 66791,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.197254061500379,
+              47.15919118248738
+            ],
+            [
+              -0.224948296721875,
+              47.15818830850116
+            ],
+            [
+              -0.233326601719242,
+              47.16154063081636
+            ],
+            [
+              -0.224215972801141,
+              47.18213124812377
+            ],
+            [
+              -0.200908505216159,
+              47.17355163005956
+            ],
+            [
+              -0.203361203967593,
+              47.16747391822493
+            ],
+            [
+              -0.197254061500379,
+              47.15919118248738
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 66787,
+      "code_cant" : "20",
+      "x_centroid" : 4564,
+      "nom_dept" : "MAINE-ET-LOIRE",
+      "id_geofla" : 25099,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        47.16803239363468,
+        -0.2162558211877106
+      ],
+      "code_comm" : "053",
+      "code_reg" : "52"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.2162558211877106,
+        47.16803239363468
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

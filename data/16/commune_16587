@@ -1,0 +1,71 @@
+  {
+    "recordid" : "ccc93b07c10c7d1d499e32dda0d8b10aff2bfacf",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 915,
+      "insee_com" : "38369",
+      "z_moyen" : 428,
+      "code_dept" : "38",
+      "nom_comm" : "SAINTE-BLANDINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 8904,
+      "y_centroid" : 64968,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.417158793224875,
+              45.53244750162681
+            ],
+            [
+              5.414368024366444,
+              45.53400300788103
+            ],
+            [
+              5.409647130130338,
+              45.55398705915756
+            ],
+            [
+              5.434221308569919,
+              45.55672762192434
+            ],
+            [
+              5.454735246659694,
+              45.55575881085475
+            ],
+            [
+              5.462985408074426,
+              45.53737987823722
+            ],
+            [
+              5.417158793224875,
+              45.53244750162681
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64970,
+      "code_cant" : "33",
+      "x_centroid" : 8899,
+      "nom_dept" : "ISERE",
+      "id_geofla" : 24211,
+      "statut" : "Commune simple",
+      "population" : 0.9,
+      "geom_x_y" : [
+        45.54509745077947,
+        5.434947216005071
+      ],
+      "code_comm" : "369",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.434947216005071,
+        45.54509745077947
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

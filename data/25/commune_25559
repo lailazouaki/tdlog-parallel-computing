@@ -1,0 +1,75 @@
+  {
+    "recordid" : "6596cc1b01bc7e8244d9cbc07e03c81ca9af0d63",
+    "fields" : {
+      "nom_region" : "RHONE-ALPES",
+      "superficie" : 1327,
+      "insee_com" : "26382",
+      "z_moyen" : 529,
+      "code_dept" : "26",
+      "nom_comm" : "SAINT-VINCENT-LA-COMMANDERIE",
+      "code_arr" : "3",
+      "x_chf_lieu" : 8670,
+      "y_centroid" : 64281,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.148678502343264,
+              44.90920544819916
+            ],
+            [
+              5.107830527088596,
+              44.92410155733719
+            ],
+            [
+              5.103502562270096,
+              44.94019759786117
+            ],
+            [
+              5.108881927761007,
+              44.95307449256893
+            ],
+            [
+              5.125815817660047,
+              44.95441826142989
+            ],
+            [
+              5.137588545385914,
+              44.94846413331394
+            ],
+            [
+              5.160136744304483,
+              44.91843146085072
+            ],
+            [
+              5.148678502343264,
+              44.90920544819916
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64288,
+      "code_cant" : "02",
+      "x_centroid" : 8679,
+      "nom_dept" : "DROME",
+      "id_geofla" : 21420,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        44.93236473430213,
+        5.129478879149453
+      ],
+      "code_comm" : "382",
+      "code_reg" : "82"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.129478879149453,
+        44.93236473430213
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,67 @@
+  {
+    "recordid" : "6c9cafe4c1b5675d256f5977703bb6f31d57f9c5",
+    "fields" : {
+      "nom_region" : "NORD-PAS-DE-CALAIS",
+      "superficie" : 189,
+      "insee_com" : "62606",
+      "z_moyen" : 19,
+      "code_dept" : "62",
+      "nom_comm" : "NEUVE-CHAPELLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6844,
+      "y_centroid" : 70542,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.775533991086744,
+              50.57565927836633
+            ],
+            [
+              2.769311828990063,
+              50.58323175161856
+            ],
+            [
+              2.77687275770171,
+              50.5947603728403
+            ],
+            [
+              2.792064989193569,
+              50.58628756791877
+            ],
+            [
+              2.789075799540686,
+              50.58306051488736
+            ],
+            [
+              2.775533991086744,
+              50.57565927836633
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70540,
+      "code_cant" : "30",
+      "x_centroid" : 6843,
+      "nom_dept" : "PAS-DE-CALAIS",
+      "id_geofla" : 27659,
+      "statut" : "Commune simple",
+      "population" : 1.4,
+      "geom_x_y" : [
+        50.58509232698643,
+        2.779520801733539
+      ],
+      "code_comm" : "606",
+      "code_reg" : "31"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.779520801733539,
+        50.58509232698643
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,71 @@
+  {
+    "recordid" : "fb3b318c5946c7841351524353609354caeb355d",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 478,
+      "insee_com" : "60090",
+      "z_moyen" : 108,
+      "code_dept" : "60",
+      "nom_comm" : "BOUCONVILLERS",
+      "code_arr" : "1",
+      "x_chf_lieu" : 6200,
+      "y_centroid" : 68976,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.882568411920377,
+              49.16249621911461
+            ],
+            [
+              1.87676504652676,
+              49.17530898292974
+            ],
+            [
+              1.894980377201178,
+              49.1841631152718
+            ],
+            [
+              1.912534505540251,
+              49.17842459687417
+            ],
+            [
+              1.932171870270376,
+              49.1765413026385
+            ],
+            [
+              1.934331405289274,
+              49.17356632671982
+            ],
+            [
+              1.882568411920377,
+              49.16249621911461
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68978,
+      "code_cant" : "07",
+      "x_centroid" : 6198,
+      "nom_dept" : "OISE",
+      "id_geofla" : 25722,
+      "statut" : "Commune simple",
+      "population" : 0.4,
+      "geom_x_y" : [
+        49.17349005570703,
+        1.90034078825927
+      ],
+      "code_comm" : "090",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.90034078825927,
+        49.17349005570703
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

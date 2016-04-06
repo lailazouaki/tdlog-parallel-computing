@@ -1,0 +1,71 @@
+  {
+    "recordid" : "c08b6edf1d8e3b576090d8fe88961817d1e7bfe9",
+    "fields" : {
+      "nom_region" : "POITOU-CHARENTES",
+      "superficie" : 289,
+      "insee_com" : "16417",
+      "z_moyen" : 58,
+      "code_dept" : "16",
+      "nom_comm" : "VIVILLE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4564,
+      "y_centroid" : 64965,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.141003149529395,
+              45.51846139952165
+            ],
+            [
+              -0.122644811783991,
+              45.53893456337776
+            ],
+            [
+              -0.118531110795903,
+              45.53031649711134
+            ],
+            [
+              -0.110175456869857,
+              45.52467262161106
+            ],
+            [
+              -0.106157350384162,
+              45.52228762279436
+            ],
+            [
+              -0.109213930361616,
+              45.51986899194662
+            ],
+            [
+              -0.141003149529395,
+              45.51846139952165
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 64961,
+      "code_cant" : "12",
+      "x_centroid" : 4562,
+      "nom_dept" : "CHARENTE",
+      "id_geofla" : 20771,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        45.52538825417337,
+        -0.1236726581128681
+      ],
+      "code_comm" : "417",
+      "code_reg" : "54"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        -0.1236726581128681,
+        45.52538825417337
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

@@ -1,0 +1,75 @@
+  {
+    "recordid" : "795282e95cfe041d4f66fd8acbba7e22c1a973f8",
+    "fields" : {
+      "nom_region" : "PICARDIE",
+      "superficie" : 202,
+      "insee_com" : "80217",
+      "z_moyen" : 145,
+      "code_dept" : "80",
+      "nom_comm" : "COURCELLES-AU-BOIS",
+      "code_arr" : "2",
+      "x_chf_lieu" : 6701,
+      "y_centroid" : 70008,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.579696545572135,
+              50.0961011180049
+            ],
+            [
+              2.572186207864817,
+              50.10428385120557
+            ],
+            [
+              2.575671345606347,
+              50.11333077833488
+            ],
+            [
+              2.588951659989191,
+              50.11178633397384
+            ],
+            [
+              2.592903995098939,
+              50.10655463708482
+            ],
+            [
+              2.592098870005908,
+              50.10074125983358
+            ],
+            [
+              2.583408956865928,
+              50.09796387587841
+            ],
+            [
+              2.579696545572135,
+              50.0961011180049
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 70007,
+      "code_cant" : "03",
+      "x_centroid" : 6701,
+      "nom_dept" : "SOMME",
+      "id_geofla" : 18725,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        50.10535512982,
+        2.582533927035362
+      ],
+      "code_comm" : "217",
+      "code_reg" : "22"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        2.582533927035362,
+        50.10535512982
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

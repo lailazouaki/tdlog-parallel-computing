@@ -1,0 +1,75 @@
+  {
+    "recordid" : "8817d38a866c64821d2b58d8d3b4ae183ec7d010",
+    "fields" : {
+      "nom_region" : "HAUTE-NORMANDIE",
+      "superficie" : 502,
+      "insee_com" : "27312",
+      "z_moyen" : 56,
+      "code_dept" : "27",
+      "nom_comm" : "HARDENCOURT-COCHEREL",
+      "code_arr" : "3",
+      "x_chf_lieu" : 5771,
+      "y_centroid" : 68837,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.29235605491314,
+              49.02895394138338
+            ],
+            [
+              1.283532992210116,
+              49.03188604693921
+            ],
+            [
+              1.301539270937963,
+              49.03922921651477
+            ],
+            [
+              1.331477340010676,
+              49.05903012625331
+            ],
+            [
+              1.338520493587855,
+              49.05233762369495
+            ],
+            [
+              1.339280548720354,
+              49.04825605728958
+            ],
+            [
+              1.315751803943833,
+              49.0320904839065
+            ],
+            [
+              1.29235605491314,
+              49.02895394138338
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68838,
+      "code_cant" : "26",
+      "x_centroid" : 5768,
+      "nom_dept" : "EURE",
+      "id_geofla" : 29810,
+      "statut" : "Commune simple",
+      "population" : 0.3,
+      "geom_x_y" : [
+        49.04187375692434,
+        1.316010006169658
+      ],
+      "code_comm" : "312",
+      "code_reg" : "23"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        1.316010006169658,
+        49.04187375692434
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

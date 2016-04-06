@@ -1,0 +1,71 @@
+  {
+    "recordid" : "65f16b67c08bef3e8469cc8f7f760105eb651da5",
+    "fields" : {
+      "nom_region" : "LORRAINE",
+      "superficie" : 259,
+      "insee_com" : "88493",
+      "z_moyen" : 318,
+      "code_dept" : "88",
+      "nom_comm" : "VARMONZEY",
+      "code_arr" : "1",
+      "x_chf_lieu" : 9435,
+      "y_centroid" : 68075,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.28637800247615,
+              48.3150885029336
+            ],
+            [
+              6.270317845107544,
+              48.31691125984118
+            ],
+            [
+              6.262173532452946,
+              48.32143139368563
+            ],
+            [
+              6.285930794828046,
+              48.33322781735026
+            ],
+            [
+              6.291012233368656,
+              48.3328525041089
+            ],
+            [
+              6.291788246840259,
+              48.32021502076504
+            ],
+            [
+              6.28637800247615,
+              48.3150885029336
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 68076,
+      "code_cant" : "05",
+      "x_centroid" : 9430,
+      "nom_dept" : "VOSGES",
+      "id_geofla" : 19869,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        48.32324588979227,
+        6.280318777605086
+      ],
+      "code_comm" : "493",
+      "code_reg" : "41"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        6.280318777605086,
+        48.32324588979227
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

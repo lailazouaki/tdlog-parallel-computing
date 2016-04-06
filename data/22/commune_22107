@@ -1,0 +1,71 @@
+  {
+    "recordid" : "b0e58f03c181beec9379c8eb38dc6a19abcc7da4",
+    "fields" : {
+      "nom_region" : "FRANCHE-COMTE",
+      "superficie" : 372,
+      "insee_com" : "70070",
+      "z_moyen" : 291,
+      "code_dept" : "70",
+      "nom_comm" : "BETONCOURT-SUR-MANCE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 9060,
+      "y_centroid" : 67522,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.74605625734971,
+              47.82359612703334
+            ],
+            [
+              5.748488323801477,
+              47.82977092734843
+            ],
+            [
+              5.744204434055417,
+              47.84885472490232
+            ],
+            [
+              5.753406354288024,
+              47.85164681688011
+            ],
+            [
+              5.760813063222507,
+              47.84768138540212
+            ],
+            [
+              5.768375535477519,
+              47.82978021699245
+            ],
+            [
+              5.74605625734971,
+              47.82359612703334
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 67514,
+      "code_cant" : "28",
+      "x_centroid" : 9060,
+      "nom_dept" : "HAUTE-SAONE",
+      "id_geofla" : 24252,
+      "statut" : "Commune simple",
+      "population" : 0,
+      "geom_x_y" : [
+        47.83784096068619,
+        5.755116846534247
+      ],
+      "code_comm" : "070",
+      "code_reg" : "43"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        5.755116846534247,
+        47.83784096068619
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

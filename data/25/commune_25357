@@ -1,0 +1,71 @@
+  {
+    "recordid" : "adc44857bac196860ff76d18a8e057dcc2992a27",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 375,
+      "insee_com" : "32350",
+      "z_moyen" : 180,
+      "code_dept" : "32",
+      "nom_comm" : "ROQUEPINE",
+      "code_arr" : "2",
+      "x_chf_lieu" : 4966,
+      "y_centroid" : 63154,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.485471877280713,
+              43.90549084094689
+            ],
+            [
+              0.480676849295047,
+              43.90013998351096
+            ],
+            [
+              0.454443789651144,
+              43.90227766858754
+            ],
+            [
+              0.452619337788678,
+              43.91162639105389
+            ],
+            [
+              0.457848595483086,
+              43.91670053319128
+            ],
+            [
+              0.475731695899907,
+              43.91622398859765
+            ],
+            [
+              0.485471877280713,
+              43.90549084094689
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 63157,
+      "code_cant" : "28",
+      "x_centroid" : 4966,
+      "nom_dept" : "GERS",
+      "id_geofla" : 7064,
+      "statut" : "Commune simple",
+      "population" : 0.1,
+      "geom_x_y" : [
+        43.90834632787882,
+        0.4681294324089482
+      ],
+      "code_comm" : "350",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.4681294324089482,
+        43.90834632787882
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }

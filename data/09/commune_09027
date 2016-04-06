@@ -1,0 +1,75 @@
+  {
+    "recordid" : "507594e2eaf8211f80acd20903a4bbabdc3b0da0",
+    "fields" : {
+      "nom_region" : "MIDI-PYRENEES",
+      "superficie" : 744,
+      "insee_com" : "65224",
+      "z_moyen" : 524,
+      "code_dept" : "65",
+      "nom_comm" : "HOUEYDETS",
+      "code_arr" : "3",
+      "x_chf_lieu" : 4845,
+      "y_centroid" : 62320,
+      "geom" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.359315718934724,
+              43.13749543942647
+            ],
+            [
+              0.338871348330713,
+              43.14087144351481
+            ],
+            [
+              0.339759206312054,
+              43.14187431944556
+            ],
+            [
+              0.337029435236614,
+              43.15817737692779
+            ],
+            [
+              0.340368076084544,
+              43.16763756263583
+            ],
+            [
+              0.354860364494341,
+              43.16906499351398
+            ],
+            [
+              0.373939555832947,
+              43.16616540347575
+            ],
+            [
+              0.359315718934724,
+              43.13749543942647
+            ]
+          ]
+        ]
+      },
+      "y_chf_lieu" : 62326,
+      "code_cant" : "10",
+      "x_centroid" : 4846,
+      "nom_dept" : "HAUTES-PYRENEES",
+      "id_geofla" : 14225,
+      "statut" : "Commune simple",
+      "population" : 0.2,
+      "geom_x_y" : [
+        43.15477376066713,
+        0.353267560435307
+      ],
+      "code_comm" : "224",
+      "code_reg" : "73"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [
+        0.353267560435307,
+        43.15477376066713
+      ]
+    },
+    "datasetid" : "geoflar-communes",
+    "record_timestamp" : "2015-04-23T00:07:12+02:00"
+  }
